@@ -2,8 +2,8 @@ from os import listdir
 from os.path import isfile, join
 import json
 
-# path = './json/korean/json/'
-path = './json/english/json/'
+# path = '../json/korean/'
+path = '../json/english/'
 
 file_list = [f for f in listdir(path) if isfile(join(path, f))]
 
