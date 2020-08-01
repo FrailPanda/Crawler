@@ -25,6 +25,7 @@
 부득이하게 연락 못드린 점 죄송하다는 말씀 드립니다.<br>
 금일 2시에는 꼭 사무실 방문하겠습니다.
 
+<br><br>
 
 # 문제점
 ### 크롤링
@@ -39,6 +40,7 @@
 4. '강의시간'이랑 '강의실'이 없는 경우도 있네요. 수정하겠습니다
     - 파이썬에서 return None으로 null값 처리했습니다.
 
+<br><br>
 
 # /python/~~.py 설명
 1. korean_crawler.py, english_crawler.py -> split_into_groups.py -> csv2json.py 순으로 컴파일만 해도 데이터는 얻어집니다. <br>
