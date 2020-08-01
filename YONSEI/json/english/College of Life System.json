@@ -1,0 +1,1503 @@
+﻿[
+    {
+        "id": "53724444-062d-5e99-b94f-b43208914237",
+        "department": "College of Life System",
+        "major": "Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "LSB3101-01-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY (1) ",
+        "instructor": "Jaewhan Song/Ha Sang-Jun",
+        "times_str": "Tue5,6,Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "21a84ba6-2a11-5b26-b8cf-6fcae939eba0",
+        "department": "College of Life System",
+        "major": "Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "LSB3101-02-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY (1) ",
+        "instructor": "Kwon Ho Jeong",
+        "times_str": "Wed6,7/Thu6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/EngHB001"
+    },
+    {
+        "id": "e5f3efbd-9fc8-5021-851a-f1dc632f7df6",
+        "department": "College of Life System",
+        "major": "Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "LSB3102-01-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY (2) ",
+        "instructor": "Kim Dae-Won/KO HYUK WAN",
+        "times_str": "Mon7,8,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "da1a6c47-32bb-5fa5-9b37-0477eb74a5d5",
+        "department": "College of Life System",
+        "major": "Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "LSB3102-02-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY (2) ",
+        "instructor": "ROE JAE-SEOK/Jaewhan Song",
+        "times_str": "Mon2/Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SRC321"
+    },
+    {
+        "id": "5807b157-5a36-5e8d-8900-fbc743def9d6",
+        "department": "College of Life System",
+        "major": "Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "LSB3202-01-00",
+        "credits": 3.0,
+        "title": "CELL BIOLOGY (1) ",
+        "instructor": "Park Hyun Woo/LEE SEUNG-TAEK",
+        "times_str": "Mon3,Thu2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "908458b2-26d7-5685-a77f-dd93a13ef3c0",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "BIO3712-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR BIOLOGY ",
+        "instructor": "Yang Seong Wook/Park Boyoun",
+        "times_str": "Wed2,3,Fri1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c5d402c1-4dc5-5233-b39a-27e8922406f8",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "BIO3715-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR BIOCHEMISTRY ",
+        "instructor": "Cho Hyun-Soo/Chung, Kwang Chul",
+        "times_str": "Tue3,4/Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SciHB133"
+    },
+    {
+        "id": "12ea1e3d-93e8-5703-b0bd-d84b0af7077a",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIO2503-01-00",
+        "credits": 2.0,
+        "title": "FACULTY SEMINARS OF MODERN BIOLOGICAL SCIENCE AND RESEARCH ",
+        "instructor": "Jihyun F. Kim",
+        "times_str": "Fri2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "39b2e7fd-ac85-5b75-93b5-4ae550380808",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIO3502-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN SYSTEMS BIOLOGY(1) ",
+        "instructor": "Cho Hyun-Soo/Jihyun F. Kim",
+        "times_str": "Tue11,12,13,Thu11,12,13",
+        "times": {
+            "1": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRCB202"
+    },
+    {
+        "id": "868bb03e-4c26-57fb-afc4-5f7dd9f02ff3",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIO3503-01-00",
+        "credits": 3.0,
+        "title": "CELL BIOLOGY(2) ",
+        "instructor": "Chung, Kwang Chul/CHUNG, In Kwon",
+        "times_str": "Mon2/Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SRC118B/Realtime online lecture"
+    },
+    {
+        "id": "88c519e2-03bc-56a8-84d5-52c2caa80d5f",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIO3718-01-00",
+        "credits": 3.0,
+        "title": "HISTOLOGY ",
+        "instructor": "Oh Young Jun",
+        "times_str": "Thu8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "814dfe4a-ae9f-53e6-8976-21f8aaf05fe1",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CHE3110-YY-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9ecdfcff-285a-5587-a2eb-f1ed455372d9",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BIO3101-01-00",
+        "credits": 3.0,
+        "title": "DEVELOPMENTAL BIOLOGY ",
+        "instructor": "CHOE, KWANG-MIN",
+        "times_str": "Mon5,6,Wed1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5c7b0fa9-8666-554a-bde3-2e4ffed0cba9",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BIO3112-01-00",
+        "credits": 3.0,
+        "title": "ANIMAL PHYSIOLOGY ",
+        "instructor": "Oh Young Jun/LEE Tae Ho",
+        "times_str": "Fri6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "aa340797-718a-5792-bce4-ba8535e34d20",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BIO3106-01-00",
+        "credits": 3.0,
+        "title": "PLANT DEVELOPMENT & DIFFERENTIATION ",
+        "instructor": "Lee, Myeong Min/Pai Hyunsook",
+        "times_str": "Tue2,3,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5ca47561-faee-5fb6-bfd2-d57b745c98ac",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BIO3113-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN SYSTEMS BIOLOGY(3) ",
+        "instructor": "Kim, Woo Taek/Pai Hyunsook",
+        "times_str": "Mon11,12,13,Wed11,12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRCB203"
+    },
+    {
+        "id": "a6f86851-7d53-5d6e-bf65-b6e4f2abf685",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BIO3714-01-00",
+        "credits": 3.0,
+        "title": "ANALYSIS IN ECOTOXICOLOGY ",
+        "instructor": "Brooks III Samuel Carroll",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c141ece1-a2eb-5ac7-bcf4-531d272857ab",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BIO3716-01-00",
+        "credits": 3.0,
+        "title": "DEFENSE MECHANISMS OF LIVING SYSTEMS ",
+        "instructor": "Park Boyoun/Jihyun F. Kim",
+        "times_str": "Mon8,Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8f8b5f68-0968-5c61-9411-c4ca17e45dcd",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIO4104-01-00",
+        "credits": 3.0,
+        "title": "BACTERIOLOGY ",
+        "instructor": "Jihyun F. Kim",
+        "times_str": "Tue5,6,Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SRC118B"
+    },
+    {
+        "id": "ac3417c1-120a-5450-af50-d8d5c42f01bd",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIO4108-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR CANCER BIOLOGY ",
+        "instructor": "CHUNG, In Kwon",
+        "times_str": "Tue2,3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f74371f1-4a09-52dc-9c4a-c4003c61bcef",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIO4913-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN SYSTEMS BIOLOGY(4) ",
+        "instructor": "CHUNG, In Kwon/Park Boyoun/Cho Hyun-Soo",
+        "times_str": "Sat1,2,3,4,5,6",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SRCB215"
+    },
+    {
+        "id": "6027ba21-d7d1-50a5-8136-1c0dab378013",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIO4915-01-00",
+        "credits": 3.0,
+        "title": "EVOLUTION BIOLOGY ",
+        "instructor": "LEE Tae Ho/CHOE, KWANG-MIN",
+        "times_str": "Mon2,3,Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b06e2359-5c6d-5aa9-baaa-1a6545159b5b",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIO4917-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO EPIGENETICS ",
+        "instructor": "CHO, Myeon Haeng",
+        "times_str": "Mon6,7/Mon6,7,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SRC118B/Realtime online lecture"
+    },
+    {
+        "id": "bbc3d5f3-4233-5ff2-98f2-704b64472696",
+        "department": "College of Life System",
+        "major": "Biology",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3813-01-00",
+        "credits": 3.0,
+        "title": "RESEARCH & TEACH. METHOD TO SCIENCE ",
+        "instructor": "Park Tae Yoon",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SRC118B"
+    },
+    {
+        "id": "67dc7488-9780-5ded-a583-2587a9d26179",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BCH2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Jaewhan Song",
+        "times_str": "Mon5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c9d9c3ee-a5f9-5ab0-8e89-a44abf53baa8",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BCH3107-01-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY & LABORATORY II ",
+        "instructor": "Park Hyun Woo",
+        "times_str": "Mon8,9,10,11,12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "9d0acffa-5134-5ea0-aff8-2fd169103658",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BCH3107-02-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY & LABORATORY II ",
+        "instructor": "ROE JAE-SEOK/Kim Young-Joon",
+        "times_str": "Tue8,9,10,11,12,13",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "1f16a70f-ab5c-53ad-8157-35daae40c04b",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BCH3107-03-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY & LABORATORY II ",
+        "instructor": "KO HYUK WAN/Ha Sang-Jun",
+        "times_str": "Wed8,9,10,11,12,13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "189d2531-0590-5355-829d-5980f30935ca",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BCH3107-04-00",
+        "credits": 3.0,
+        "title": "BIOCHEMISTRY & LABORATORY II ",
+        "instructor": "Kim Dae-Won",
+        "times_str": "Thu8,9,10,11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "814dfe4a-ae9f-53e6-8976-21f8aaf05fe1",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CHE3110-YY-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e70a95bd-e0f0-5274-b4b1-d9d0008a3d8d",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BCH3103-01-00",
+        "credits": 3.0,
+        "title": "BIOPHYSICAL CHEMISTRY ",
+        "instructor": "LEE WEON TAE",
+        "times_str": "Tue7,8/Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SRC321"
+    },
+    {
+        "id": "3ad3150f-12b5-530e-9309-9894d975162d",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BCH4101-01-00",
+        "credits": 3.0,
+        "title": "INDEPENDENT RESEARCH PROJECT(1) ",
+        "instructor": "LEE WEON TAE",
+        "times_str": "Sat1,2,3,4,5,6",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "3b6d1c46-5249-5cc3-9e52-62da37a792a3",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BCH4102-01-00",
+        "credits": 3.0,
+        "title": "INDENPENDENT RESEARCH PROJECT II ",
+        "instructor": "LEE SEUNG-TAEK",
+        "times_str": "Sat7,8,9,10,11,12",
+        "times": {
+            "5": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "SRC437"
+    },
+    {
+        "id": "dd0fdf1a-f842-5d78-93c4-487219798518",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BCH3104-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR PHYSIOLOGY ",
+        "instructor": "LEE HAN WOONG",
+        "times_str": "Mon6,7/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SRC321/Pre-recorded lecture"
+    },
+    {
+        "id": "6d1167ea-5b51-5dca-927e-60d61cb38218",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BCH3123-01-00",
+        "credits": 3.0,
+        "title": "NEUROSCIENCE ",
+        "instructor": "KO HYUK WAN",
+        "times_str": "Tue2,3/Thu2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SRC321"
+    },
+    {
+        "id": "739b5ec4-dfa5-5775-8c61-6d93a018937c",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BCH3113-01-00",
+        "credits": 3.0,
+        "title": "DEVELOPMENTAL BIOCHEMISTRY ",
+        "instructor": "Song, Kiwon/Kim Dae-Won",
+        "times_str": "Mon2,Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b6310c02-8d54-5b60-9767-7eeab2aaf9ac",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BCH3122-01-00",
+        "credits": 3.0,
+        "title": "PATHOBIOCHEMISTRY ",
+        "instructor": "Ha Sang-Jun",
+        "times_str": "Tue9,Thu7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e7873392-2132-5d49-ac76-bd6e5c3fd56b",
+        "department": "College of Life System",
+        "major": "Biochemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BCH4113-01-00",
+        "credits": 3.0,
+        "title": "CANCER GENOMICS ",
+        "instructor": "Kim Young-Joon/ROE JAE-SEOK",
+        "times_str": "Mon8,9,Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ca008ab8-2a8a-5682-a20d-910623cf5271",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BTE2703-01-01",
+        "credits": 3.0,
+        "title": "BIOTECHNOLOGY INFORMATION PROCESSING ",
+        "instructor": "Choi Sang-Min",
+        "times_str": "Tue2,3(Wed4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(EngHA577)"
+    },
+    {
+        "id": "4b97c709-a433-508c-94c2-13e11dd90776",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BTE2703-01-02",
+        "credits": 3.0,
+        "title": "BIOTECHNOLOGY INFORMATION PROCESSING ",
+        "instructor": "Choi Sang-Min",
+        "times_str": "Tue2,3(Fri4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(EngHA577)"
+    },
+    {
+        "id": "79c9b726-10da-5cfc-9f1c-5241b1972a79",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "BTE2201-01-00",
+        "credits": 3.0,
+        "title": "BIOLOGICAL ORGANIC CHEMISTRY ",
+        "instructor": "Han Gyoonhee",
+        "times_str": "Mon6,7/Thu8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHA428"
+    },
+    {
+        "id": "126c194a-2fb4-51c5-97e6-e53d74c1287c",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2402-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MICROBIOLOGY ",
+        "instructor": "Bahn Yong-Sun",
+        "times_str": "Tue7,Wed1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "EngHB040"
+    },
+    {
+        "id": "0765e580-dd91-52c4-8367-ad672f5eefbb",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2601-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENT IN MOLECULAR BIOTECHNOLOGY ",
+        "instructor": "Bahn Yong-Sun/LEE KYUNG-TAE",
+        "times_str": "Mon9,10,11,12,13,14",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "EngHB607"
+    },
+    {
+        "id": "25a65064-f93f-5183-97b3-dccd5c4aad00",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2601-02-00",
+        "credits": 3.0,
+        "title": "EXPERIMENT IN MOLECULAR BIOTECHNOLOGY ",
+        "instructor": "Byun Sanguine",
+        "times_str": "Tue9,10,11,12,13,14",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "EngHB607"
+    },
+    {
+        "id": "5bf6d951-bb1c-54c0-a577-0cde0709c670",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2601-03-00",
+        "credits": 3.0,
+        "title": "EXPERIMENT IN MOLECULAR BIOTECHNOLOGY ",
+        "instructor": "Jung, Hyungil",
+        "times_str": "Wed9,10,11,12,13,14",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "EngHB607"
+    },
+    {
+        "id": "fcf32a6c-f666-5c1e-9a7d-0fb53ef42112",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2601-04-00",
+        "credits": 3.0,
+        "title": "EXPERIMENT IN MOLECULAR BIOTECHNOLOGY ",
+        "instructor": "Choi, Kang-Yell",
+        "times_str": "Thu9,10,11,12,13,14",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "EngHB607"
+    },
+    {
+        "id": "28f816fb-b2f6-560a-99cc-8e865cf5deac",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2601-05-00",
+        "credits": 3.0,
+        "title": "EXPERIMENT IN MOLECULAR BIOTECHNOLOGY ",
+        "instructor": "Han Gyoonhee",
+        "times_str": "Fri9,10,11,12,13,14",
+        "times": {
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "EngHB607"
+    },
+    {
+        "id": "35916b6c-a9b1-58c3-86a7-7d5ec6f8df89",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BTE2702-01-00",
+        "credits": 3.0,
+        "title": "GENETIC ANALYSIS ",
+        "instructor": "Soderholm Jon",
+        "times_str": "Mon1,2,Thu1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "99738051-1d33-5f31-9a3e-035a12c21205",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BTE3102-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR BIOLOGY ",
+        "instructor": "Choi, Kang-Yell",
+        "times_str": "Wed1,2/Thu5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHB001"
+    },
+    {
+        "id": "fd2d29f4-dbd0-5b84-9821-1405aace6a4e",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BTE3202-01-00",
+        "credits": 3.0,
+        "title": "BIOPROCESS ENGINEERING ",
+        "instructor": "shin jong shik",
+        "times_str": "Wed3,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "24b5e667-ced5-5293-9d68-c12d24c30ab3",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BTE3403-01-00",
+        "credits": 3.0,
+        "title": "IMMUNOLOGY ",
+        "instructor": "Lee Sang Kyou",
+        "times_str": "Tue5,6,Wed5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "EngHB001"
+    },
+    {
+        "id": "b9d9be86-9630-58f9-82af-a0f872e7e3b6",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BTE3602-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN ADVANCED BIOTECHNOLOGY(1) ",
+        "instructor": "Lee In suk",
+        "times_str": "Sat4,5,6,7,8,9",
+        "times": {
+            "5": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "EngHA577"
+    },
+    {
+        "id": "5be50930-3bd3-5fe7-a308-345933acbefa",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BTE3609-01-00",
+        "credits": 3.0,
+        "title": "NANO MEDICAL BIOTECHNOLOGY ",
+        "instructor": "Jung, Hyungil",
+        "times_str": "Tue3/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHB001"
+    },
+    {
+        "id": "21baa309-7180-5f1e-823e-91555067dced",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4404-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR DESIGN & LABORATORY ",
+        "instructor": "No Kyoung Tai",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "68956f69-aed1-53d3-b839-5ace9f46ab8e",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4408-01-00",
+        "credits": 3.0,
+        "title": "INDUSTRIAL FOOD BIOTECHNOLOGY ",
+        "instructor": "Hwang, Jae-Kwan",
+        "times_str": "Mon9/Wed8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHB001"
+    },
+    {
+        "id": "cd813af6-efb0-59b3-a616-17d17af77a93",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4602-01-00",
+        "credits": 3.0,
+        "title": "CREATIVE DESIGN IN BIOTECHNOLOGY(2) ",
+        "instructor": "No Kyoung Tai",
+        "times_str": "Sat1,2,3",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "EngHA577"
+    },
+    {
+        "id": "73eec53d-8fea-5074-b8b4-338ea4f2e026",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4603-01-00",
+        "credits": 3.0,
+        "title": "FUNCTIONAL GENOMICS ",
+        "instructor": "Lee In suk",
+        "times_str": "Tue1,2/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "EngHB001/Realtime online lecture"
+    },
+    {
+        "id": "13842058-e4c2-58ce-b1ac-01108721e816",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4609-01-00",
+        "credits": 3.0,
+        "title": "CELL AND TISSUE ENGINEERING ",
+        "instructor": "Cho Seung-Woo",
+        "times_str": "Mon2,3/Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "EngHB001/Realtime online lecture"
+    },
+    {
+        "id": "e158f80d-d2bc-535b-967c-3757fec0dc67",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4611-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO BIOPOLYMERS ",
+        "instructor": "Roh Young Hoon",
+        "times_str": "Mon7/Thu8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "EngHB001/Pre-recorded lecture"
+    },
+    {
+        "id": "5a5257a8-124a-527b-b81a-5f1859469d47",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4612-01-00",
+        "credits": 3.0,
+        "title": "FOOD AND FERMENTATION TECHNOLOGY ",
+        "instructor": "LEE DONG WOO",
+        "times_str": "Tue7/Thu6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHA577"
+    },
+    {
+        "id": "762e0b0b-9e48-5672-a9b1-eb7e51f6abb7",
+        "department": "College of Life System",
+        "major": "Biotechnology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BTE4613-01-00",
+        "credits": 3.0,
+        "title": "FUNCTIONAL FOODS ",
+        "instructor": "Byun Sanguine",
+        "times_str": "Mon8,Tue5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHA577"
+    }
+]

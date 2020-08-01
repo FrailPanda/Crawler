@@ -1,0 +1,2483 @@
+﻿[
+    {
+        "id": "0fe00792-0966-5a77-bdc1-27ecb0d9fb65",
+        "department": "College of Science",
+        "major": "Science College Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "SCI2001-01-00",
+        "credits": 2.0,
+        "title": "COMPUTER I ",
+        "instructor": "KWON YOUNGIL",
+        "times_str": "Tue6,7(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH323(SciH232)"
+    },
+    {
+        "id": "5abca569-7416-5734-9d15-f7ee29159521",
+        "department": "College of Science",
+        "major": "Science College Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "SCI2002-01-00",
+        "credits": 2.0,
+        "title": "COMPUTER II ",
+        "instructor": "SHIN UJU",
+        "times_str": "Mon7,8(Wed8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciHB131(Realtime online lecture)"
+    },
+    {
+        "id": "59140d0c-4cb2-59ca-aee6-d571ad22b2ad",
+        "department": "College of Science",
+        "major": "Science College Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "MAT2002-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED CALCULUS II ",
+        "instructor": "Chang Tongkeun",
+        "times_str": "Mon1,2,Wed2(Wed1)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "06e11e8d-b4f9-5e5c-92b9-41a2748fc486",
+        "department": "College of Science",
+        "major": "Science College Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "MAT2002-02-00",
+        "credits": 3.0,
+        "title": "ADVANCED CALCULUS II ",
+        "instructor": "Chang Tongkeun",
+        "times_str": "Mon5,Wed5,6(Mon6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "57564cd0-6132-5928-aa65-47cd4746cd30",
+        "department": "College of Science",
+        "major": "Science College Common",
+        "year": "4",
+        "classification": "Electives",
+        "code": "SCI3005-01-00",
+        "credits": 2.0,
+        "title": "LOGIC AND ENUNCIATION IN SCIENCE EDUCATION ",
+        "instructor": "Sung Jung Hee",
+        "times_str": "Tue2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "189992e7-ba64-514f-9bf3-87a711643f25",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "MAT3104-01-00",
+        "credits": 3.0,
+        "title": "ANALYSIS (1) ",
+        "instructor": "Kim Seick",
+        "times_str": "Mon9,10,Wed10(Wed9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH227(SciH227)"
+    },
+    {
+        "id": "8b8700f5-7452-5f3d-8273-6816e2fe4851",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "MAT3104-02-00",
+        "credits": 3.0,
+        "title": "ANALYSIS (1) ",
+        "instructor": "Kim Seick",
+        "times_str": "Tue2,3,Thu2(Thu3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciHB130(SciHB130)"
+    },
+    {
+        "id": "5ba5932b-0d99-5815-a9ed-444afa2eb6c3",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "MAT2103-01-00",
+        "credits": 3.0,
+        "title": "STATISTICS ",
+        "instructor": "Lee Sung chul",
+        "times_str": "Mon5,6,Wed6(Wed5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH225(SciH225)"
+    },
+    {
+        "id": "1fd3d8b6-c672-5966-8a03-cf83a2e42d77",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "MAT3120-01-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA(2) ",
+        "instructor": "LEE, JEEHYUN",
+        "times_str": "Tue4,5,Thu5(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciH227(SciH227)"
+    },
+    {
+        "id": "c4cd77eb-696a-53f3-9711-20b10c583a99",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "MAT3120-02-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA(2) ",
+        "instructor": "KO Hyoung June",
+        "times_str": "Tue7,Thu8,9(Tue6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciH227(SciH227)"
+    },
+    {
+        "id": "9cbdd744-f16b-5521-bda8-13e26d5d9326",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "MAT3123-01-00",
+        "credits": 3.0,
+        "title": "MACHINE LEARNING AND ITS APPLICATIONS ",
+        "instructor": "Lee Sung chul",
+        "times_str": "Tue4,5,Thu5(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciH262(SciH262)"
+    },
+    {
+        "id": "d0f38ad4-4c26-5d53-b889-cd3c3272f07f",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "MAT3105-01-00",
+        "credits": 3.0,
+        "title": "ANALYSIS (2) ",
+        "instructor": "KIM, JOON IL",
+        "times_str": "Mon9,10/Wed10(Wed9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SciH262(SciH262)"
+    },
+    {
+        "id": "7fd05999-86fc-51d8-a53a-467a78aaf4ff",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "MAT2105-01-00",
+        "credits": 3.0,
+        "title": "SCINETIFIC COMPUTING ",
+        "instructor": "LEE, JEEHYUN",
+        "times_str": "Tue2,Thu2,3(Tue3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH227(SciH227)"
+    },
+    {
+        "id": "8be2ca63-2e20-599b-b3fd-545297fd694b",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "MAT3101-01-00",
+        "credits": 3.0,
+        "title": "TOPOLOGY (2) ",
+        "instructor": "Hong Hansol",
+        "times_str": "Mon7,8,Wed8(Wed7)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH262(SciH262)"
+    },
+    {
+        "id": "f2c69590-3b9c-55bb-8134-1e85aa9ab4d0",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "MAT3102-01-00",
+        "credits": 3.0,
+        "title": "DIFFERENTIAL GEOMETRY (2) ",
+        "instructor": "KIM, Ho Beom",
+        "times_str": "Tue6,7,Thu9(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciHB130(SciHB130)"
+    },
+    {
+        "id": "4f729e6d-c7c9-5c31-9da1-7e9c9455eec2",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "MAT3110-01-00",
+        "credits": 3.0,
+        "title": "MODERN ALGEBRA (2) ",
+        "instructor": "Seo Soogil",
+        "times_str": "Mon5,6/Wed5(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciH227(SciH227)"
+    },
+    {
+        "id": "8c544621-7d37-5737-a751-742b02faedc6",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "MAT3110-02-00",
+        "credits": 3.0,
+        "title": "MODERN ALGEBRA (2) ",
+        "instructor": "KO Hyoung June",
+        "times_str": "Tue8,9,Thu7(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SciH227(SciH227)"
+    },
+    {
+        "id": "1e1e537a-675d-51ed-9a01-9a7e326c831e",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "MAT3985-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF MATHEMATICS ",
+        "instructor": "Park, Seung Kyung",
+        "times_str": "Tue2,3,Thu2(Thu3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH225(SciH225)"
+    },
+    {
+        "id": "e72e98f8-a26a-524d-9b77-8d23b264386f",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT3112-01-00",
+        "credits": 3.0,
+        "title": "COMPLEX ANALYSIS ",
+        "instructor": "YANG MINSUK",
+        "times_str": "Mon7,8,Wed8(Wed7)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture()"
+    },
+    {
+        "id": "d84339a1-6395-56dc-8fde-3307b608c5dc",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT3113-01-00",
+        "credits": 3.0,
+        "title": "PROBABILITY AND RANDOM PROCESSES ",
+        "instructor": "KIM JEONG-HOON",
+        "times_str": "Tue7/Thu8,9(Tue6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciHB131/(SciHB131)"
+    },
+    {
+        "id": "0195132f-9140-56a2-87e0-6453835f92ef",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT3117-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL LOGIC ",
+        "instructor": "KIM BYUNGHAN",
+        "times_str": "Tue2,3,Thu2(Thu3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "9469940e-5840-5f7a-a6b4-d398a7ba79f3",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT3118-01-00",
+        "credits": 3.0,
+        "title": "PARTIAL DIFFERENTIAL EQUATIONS ",
+        "instructor": "Kang Kyungkeun",
+        "times_str": "Mon5,6/Wed6(Wed5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH262/()"
+    },
+    {
+        "id": "6b81b7fd-9ebd-5f9c-a5f7-f2ef7b60a027",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT3119-01-00",
+        "credits": 3.0,
+        "title": "COMBINATORICS ",
+        "instructor": "Park, Seung Kyung",
+        "times_str": "Tue5,Thu4,5(Tue4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciH225(SciH225)"
+    },
+    {
+        "id": "65b2fe88-245c-52d6-bf0d-c4c3d5a2bfaf",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT4106-01-00",
+        "credits": 3.0,
+        "title": "TOPICS IN MATHEMATICS(2) ",
+        "instructor": "Kang Kyungkeun",
+        "times_str": "Mon3/Wed3,4(Mon4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciH262()"
+    },
+    {
+        "id": "ee395d1b-0c06-5363-91d5-78b76fd7aeee",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT4108-01-00",
+        "credits": 3.0,
+        "title": "APPLIED ALGEBRA ",
+        "instructor": "Seo Soogil",
+        "times_str": "Wed8/Fri7,8(Wed7)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH225/(SciH225)"
+    },
+    {
+        "id": "0f9acd26-fd60-50cd-8db0-bf86543cade5",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MAT4120-01-00",
+        "credits": 3.0,
+        "title": "COMPLEX GEOMETRY ",
+        "instructor": "Choi Sung Rak",
+        "times_str": "Mon3,4,Wed4(Wed3)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH225(SciH225)"
+    },
+    {
+        "id": "7c424ffb-b95e-5dfe-a2e0-0c27e661fef2",
+        "department": "College of Science",
+        "major": "Mathematics",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP4009-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF MATHEMATICAL EDUCATION ",
+        "instructor": "Lim Woong",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "74d2298e-8b3d-5809-ad66-e90139191ca4",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PHY3111-01-00",
+        "credits": 3.0,
+        "title": "MECHANICS II ",
+        "instructor": "Yoo Hwidong",
+        "times_str": "Tue4,5,Thu4(Thu5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciHB131(SciHB131)"
+    },
+    {
+        "id": "4f3e99ef-0c12-5a6a-b382-13ab69e75d25",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PHY2104-01-00",
+        "credits": 3.0,
+        "title": "MODERN PHYSICS(2) ",
+        "instructor": "Kim Keun Su",
+        "times_str": "Mon3,4,Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH111(SciH111)"
+    },
+    {
+        "id": "4edf6267-dcb3-503c-919d-5d2864bcc7c7",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PHY2106-01-00",
+        "credits": 3.0,
+        "title": "PHYSICS LAB(A-2) ",
+        "instructor": "CHO DOO HEE",
+        "times_str": "Wed2(Fri2,3,4,5)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciH325(SciH326)"
+    },
+    {
+        "id": "9c09edab-f1da-5247-ab6e-674cf5d505c7",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "PHY3113-01-00",
+        "credits": 3.0,
+        "title": "CURRENT FRONTIERS IN PHYSICS II ",
+        "instructor": "CHO DOO HEE",
+        "times_str": "Mon9/Wed8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH325/SciHB102"
+    },
+    {
+        "id": "a967995a-c604-527b-a252-153156afec17",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHY3102-01-00",
+        "credits": 3.0,
+        "title": "QUANTUM MECHANICS II ",
+        "instructor": "Park Seong Chan",
+        "times_str": "Mon3,4,Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH325(SciH325)"
+    },
+    {
+        "id": "a001602e-2022-5566-a325-2f4e7f305f9e",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHY3104-01-00",
+        "credits": 3.0,
+        "title": "ELECTRICITY & MAGNETISM II ",
+        "instructor": "Yi Yeonjin",
+        "times_str": "Mon5,6,Wed6(Wed5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH111(SciH111)"
+    },
+    {
+        "id": "10aa4785-0a8e-55a4-ae56-ea64f67424de",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHY3106-01-00",
+        "credits": 3.0,
+        "title": "STATISTICAL PHYSICS ",
+        "instructor": "Choi Hyoung Joon",
+        "times_str": "Tue8,9,Thu6(Thu7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SciH325(SciH325)"
+    },
+    {
+        "id": "1b5f8ddf-bd95-57f2-96ad-08e9292ce7e0",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PHY3108-01-00",
+        "credits": 3.0,
+        "title": "PHYSICS LAB(B-2) ",
+        "instructor": "Choi Young Jai",
+        "times_str": "Thu8(Fri2,3,4,5)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH118)"
+    },
+    {
+        "id": "a471af72-422b-570d-9c43-dfaa1a94b849",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY3114-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED COMPUTATIONAL PHYSICS ",
+        "instructor": "Kim Dug Young",
+        "times_str": "Tue6,Thu8,9(Tue7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciH325(SciH325)"
+    },
+    {
+        "id": "76a86d20-3206-5a10-91dc-cb68cf47b304",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4102-01-00",
+        "credits": 3.0,
+        "title": "SOLID STATE PHYSICS(2) ",
+        "instructor": "KIM KWANPYO",
+        "times_str": "Tue2,3,Thu2(Thu3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH325(SciH325)"
+    },
+    {
+        "id": "e6202a38-53ae-5372-a2b8-5db8ada41eb8",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4108-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO APPLIED PHYSICS ",
+        "instructor": "KIM KWANPYO",
+        "times_str": "Tue8,9,Thu6(Thu7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SciHB131(SciHB131)"
+    },
+    {
+        "id": "1d60ad55-c203-57cf-907b-2de152673c73",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4109-01-00",
+        "credits": 3.0,
+        "title": "ELEMENTARY PARTICLE PHYSICS ",
+        "instructor": "KWON YOUNGIL",
+        "times_str": "Tue4,5,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH325"
+    },
+    {
+        "id": "10480057-bcb8-554a-85ca-09eb48b45aab",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4116-01-00",
+        "credits": 3.0,
+        "title": "OPTICS(2) ",
+        "instructor": "PARK Seung Han",
+        "times_str": "Mon7,8/Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciH325"
+    },
+    {
+        "id": "b4c60d82-8790-5f7d-aa6e-fdb02b5b870a",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4117-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED QUANTUM MECHANICS ",
+        "instructor": "LEE, SU HOUNG",
+        "times_str": "Mon5,6/Wed5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciH325"
+    },
+    {
+        "id": "416581db-09a6-56e0-a8c3-4d40c7cdd47c",
+        "department": "College of Science",
+        "major": "Physics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHY4206-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL PHYSICS 2 ",
+        "instructor": "Park Aaron",
+        "times_str": "Mon3,4,Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciHB131"
+    },
+    {
+        "id": "affc1f4f-ea04-5909-a173-0d6f7846393d",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3115-01-00",
+        "credits": 2.0,
+        "title": "ORGANIC CHEMISTRY EXPERIMENT ",
+        "instructor": "JANG WOO DONG",
+        "times_str": "Mon5,6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH401A"
+    },
+    {
+        "id": "c2a96ba3-a760-5718-b733-56298b9536fe",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3115-02-00",
+        "credits": 2.0,
+        "title": "ORGANIC CHEMISTRY EXPERIMENT ",
+        "instructor": "CHOI SOO HYUK",
+        "times_str": "Wed5,6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH401A"
+    },
+    {
+        "id": "d0673972-9560-5f2f-bcc3-f7092ee46284",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3115-03-00",
+        "credits": 2.0,
+        "title": "ORGANIC CHEMISTRY EXPERIMENT ",
+        "instructor": "Bang, Duhee",
+        "times_str": "Thu5,6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH401A"
+    },
+    {
+        "id": "5ab6cfff-2411-5a0f-a2a8-494aa004bd91",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE2103-01-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY(1) ",
+        "instructor": "JEONG Kyu-Sung/Bang, Duhee",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SciH323/Realtime online lecture"
+    },
+    {
+        "id": "83f9d153-d0ca-563c-be7e-35477c6b45d4",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3110-01-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": "JEONG Kyu-Sung",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciHB131/Realtime online lecture"
+    },
+    {
+        "id": "b8951a3a-17f5-5115-9f38-80fae59b1110",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3110-02-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": "JANG WOO DONG",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciHB104/Pre-recorded lecture"
+    },
+    {
+        "id": "2f718db5-3609-5d66-8e61-225e3c823bdc",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3110-03-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": "Shin Injae",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH323"
+    },
+    {
+        "id": "4bea4b91-1f9c-5ec1-8677-5f60e16e2718",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CHE3110-04-00",
+        "credits": 3.0,
+        "title": "ORGANIC CHEMISTRY (2) ",
+        "instructor": "CHOI SOO HYUK",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH323"
+    },
+    {
+        "id": "7020e2e9-1e72-524d-a291-f7625c7a1d89",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CHE3102-01-00",
+        "credits": 3.0,
+        "title": "ANALAYTICAL CHEMISTY(2) ",
+        "instructor": "LEE, DONGIL",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciH111"
+    },
+    {
+        "id": "59b70bb9-db9c-5a64-b272-9ce81f89b196",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CHE3117-01-00",
+        "credits": 2.0,
+        "title": "PHYSICAL CHEMISTRY EXPERIMENT ",
+        "instructor": "Sim, Eun Ji",
+        "times_str": "Mon7,8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH425"
+    },
+    {
+        "id": "406b0e8c-c67b-5aaf-8a38-699b80ff8a17",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CHE3117-02-00",
+        "credits": 2.0,
+        "title": "PHYSICAL CHEMISTRY EXPERIMENT ",
+        "instructor": "Kim Tae Kyu",
+        "times_str": "Fri7,8,9,10",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH425"
+    },
+    {
+        "id": "f0661766-81e0-50bc-8504-80ff21860b1c",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CHE3117-03-00",
+        "credits": 2.0,
+        "title": "PHYSICAL CHEMISTRY EXPERIMENT ",
+        "instructor": "Kim Tae Kyu",
+        "times_str": "Tue7,8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH425"
+    },
+    {
+        "id": "8021bae4-9e0e-5772-aedd-cd85b77a4d94",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CHE3112-01-00",
+        "credits": 3.0,
+        "title": "PHYSICAL CHEMISTRY (2) ",
+        "instructor": "Kim Tae Kyu",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH323/Realtime online lecture"
+    },
+    {
+        "id": "e2b4a632-b81e-5e58-bda9-4663e05d4c55",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CHE3103-01-00",
+        "credits": 3.0,
+        "title": "INORGANIC CHEMISTRY(2) ",
+        "instructor": "Oh Moonhyun",
+        "times_str": "Tue2,3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciHB131"
+    },
+    {
+        "id": "8c999094-b32d-54a6-ad21-e71478213001",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CHE3106-01-00",
+        "credits": 3.0,
+        "title": "ORGANIC ADVANCED MATERIALS CHEMISTRY ",
+        "instructor": "KIM BYEONG-SU/PARK MINJU",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SciHB131/Realtime online lecture"
+    },
+    {
+        "id": "c691c753-0374-5d14-9cdc-23e73e5e7092",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "CHE4107-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED CHEMISTRY & EXPT ",
+        "instructor": "Tae, Jinsung",
+        "times_str": "Wed5(Sat1,2,3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH425)"
+    },
+    {
+        "id": "a218c489-bc04-512b-af1a-e8030cb6e13f",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CHE4103-01-00",
+        "credits": 3.0,
+        "title": "PHYSICAL ORGANIC CHEMISTRY ",
+        "instructor": "Shin Injae",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH323"
+    },
+    {
+        "id": "c7110868-5a63-5d2d-9c85-e135a9b4ffeb",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CHE4105-01-00",
+        "credits": 3.0,
+        "title": "ORGANOMETALLIC CHEMISTRY ",
+        "instructor": "Choi, Moon-Gun",
+        "times_str": "Tue8,9/Thu9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciH323/Realtime online lecture"
+    },
+    {
+        "id": "38ec7979-cca7-52dc-be02-d9c20e8af218",
+        "department": "College of Science",
+        "major": "Chemistry",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CHE4110-01-00",
+        "credits": 3.0,
+        "title": "QUANTUM CHEMISTRY ",
+        "instructor": "Sim, Eun Ji/Nam Seungsoo",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH323"
+    },
+    {
+        "id": "e6a7ae64-ef32-55e9-b6b6-a9d71cab6990",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ESS1105-01-00",
+        "credits": 3.0,
+        "title": "ENVIRONMENTAL EARTH SCIENCE AND LABS ",
+        "instructor": "Han Weon Shik",
+        "times_str": "Tue3,4(Thu3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "7e2a61b2-49f2-5f14-b7f6-c6bbb31b8bcb",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ESS2110-01-00",
+        "credits": 3.0,
+        "title": "IGNEOUS PETROLOGY AND LABORATORY ",
+        "instructor": "KWON Sung Tack",
+        "times_str": "Tue3,4(Thu3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SRC222(SRC222)"
+    },
+    {
+        "id": "9e1bbe7a-86d4-54d8-b401-234014344195",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ESS2102-01-00",
+        "credits": 3.0,
+        "title": "FIELD GEOLOGY & LABORATORY ",
+        "instructor": "Kwon Sanghoon",
+        "times_str": "Mon7,8(Wed7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SRC222(SRC222)"
+    },
+    {
+        "id": "ef01eb99-aa26-58d1-a0ec-4cbb3dc5e57d",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ESS2112-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO GEOCHEMISTRY ",
+        "instructor": "Lee, Giehyeon",
+        "times_str": "Tue5,6,Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SRC222"
+    },
+    {
+        "id": "9c500fd9-5437-5374-b819-371dd739eae6",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ESS3105-01-00",
+        "credits": 3.0,
+        "title": "GEOPHYSICAL EXPLORATION & LAB ",
+        "instructor": "Hong Tae-Kyung",
+        "times_str": "Tue1,2(Thu1,2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SRC222(SRC222)"
+    },
+    {
+        "id": "ef4757d8-4cc6-533f-8830-e4b63770c676",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ESS3115-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF STRATIGRAPHY ",
+        "instructor": "Kim Wonsuck",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SRC222"
+    },
+    {
+        "id": "3dce50d5-804e-52bc-8ffb-8c559f47accb",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ESS3122-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN EARTH SYSTEM SCIENCES ",
+        "instructor": "SONG, YUN GOO",
+        "times_str": "Tue7,8(Thu7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SRC222()"
+    },
+    {
+        "id": "196d5451-8e20-5245-a33b-986fad603732",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ESS3127-01-00",
+        "credits": 3.0,
+        "title": "BASIC MECHANICS IN GEOLOGICAL SCIENCES ",
+        "instructor": "Lee Changyeol",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SRC222"
+    },
+    {
+        "id": "fd7cc3fd-352d-5776-921d-88bb28841c29",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "ESS4126-01-00",
+        "credits": 2.0,
+        "title": "SENIOR THESIS(2) ",
+        "instructor": "Han Weon Shik",
+        "times_str": "Sat1,2",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SRC222"
+    },
+    {
+        "id": "6df0230d-5447-54b8-aaa4-664bdc9caf72",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ESS4116-01-00",
+        "credits": 3.0,
+        "title": "METAMORPHIC PETROLOGY AND LABORATORY ",
+        "instructor": "kwon yongwan",
+        "times_str": "Mon3,4(Fri5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SRC222(SRC222)"
+    },
+    {
+        "id": "63b56900-a0b8-5bee-9574-84f5488d0a16",
+        "department": "College of Science",
+        "major": "Earth System Sciences",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ESS4128-01-00",
+        "credits": 3.0,
+        "title": "FIELD CAMP ",
+        "instructor": "Kim Nam Soo",
+        "times_str": "Tue9(Fri10,11,12,13)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "SRC222(SRC222)"
+    },
+    {
+        "id": "8c614237-5e11-5534-b740-772d844e77c2",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "AST1003-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ASTRONOMY(2) ",
+        "instructor": "Chandeok Park/Kim, Sug-Whan",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "612516ce-8584-54ec-9baf-86a8ab573bd6",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "AST2105-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ASTROPHYSICS (2) ",
+        "instructor": "YOON Seok-Jin",
+        "times_str": "Wed7,8(Fri7,8)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "77ed48f5-4de2-5cb8-9bf0-f8c93422d7cd",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "AST2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "AN SUNGHO",
+        "times_str": "Thu3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH618"
+    },
+    {
+        "id": "ff80586a-1b34-596e-8a3b-a7f5d040893f",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "AST2106-01-00",
+        "credits": 3.0,
+        "title": "SPACE ASTRONOMY ",
+        "instructor": "Kim, Sug-Whan",
+        "times_str": "Mon5,6(Wed5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "1c76767b-2781-5f86-9a39-24b107898165",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "AST3105-01-00",
+        "credits": 3.0,
+        "title": "ASTRODYNAMICS(2) ",
+        "instructor": "PARK, SANG-YOUNG",
+        "times_str": "Tue6,7(Thu8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "db0b1b03-16c9-5858-8d74-dcf14026696b",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "AST3106-01-00",
+        "credits": 3.0,
+        "title": "GALAXIES AND THE UNIVERSE(1) ",
+        "instructor": "Lee Young-Wook",
+        "times_str": "Mon3,4(Wed3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "4f7f322f-7b7b-527d-bbcb-c92f57237ab6",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "AST3107-01-00",
+        "credits": 3.0,
+        "title": "SCIENTIFIC IMAGE DATA PROCESSING ",
+        "instructor": "Byun Yong-Ik",
+        "times_str": "Tue8,9(Thu6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SciH633(SciH633)"
+    },
+    {
+        "id": "38363642-641f-54a1-a890-a0af78ae8c25",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "AST3108-01-00",
+        "credits": 3.0,
+        "title": "ASTRONOMICAL OPTICS ",
+        "instructor": "Kim, Sug-Whan",
+        "times_str": "Mon1,2(Wed1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "28e73a3c-d87e-51b4-b5b8-0919976734e4",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "AST4109-01-00",
+        "credits": 2.0,
+        "title": "SENIOR THESIS(2) ",
+        "instructor": "Lee Young-Wook/Byun Yong-Ik/Kim Yong Cheol/Kim, Sug-Whan/PARK, SANG-YOUNG/SOHN, YOUNG-JONG/Yi Sukyoung/YOON Seok-Jin/Aeree Chung/Chandeok Park/Jee Myung Kook/KIMM, TAYSUN",
+        "times_str": "Mon9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciH615B"
+    },
+    {
+        "id": "00cf4189-4b09-5ec5-b5ce-f787dcd28f65",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "AST4104-01-00",
+        "credits": 3.0,
+        "title": "SPACECRAFT SYSTEMS ",
+        "instructor": "Chandeok Park",
+        "times_str": "Mon5,6(Wed5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH618(SciH618)"
+    },
+    {
+        "id": "eb4ce4aa-93d6-5856-ae9a-7727a0fd7291",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "AST4105-01-00",
+        "credits": 3.0,
+        "title": "ASTROPHYSICS II ",
+        "instructor": "Aeree Chung",
+        "times_str": "Tue3,4(Thu3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH615B(SciH615B)"
+    },
+    {
+        "id": "385acd6b-a7db-59c5-8a5b-7fbcdb02d296",
+        "department": "College of Science",
+        "major": "Astronomy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "AST4106-01-00",
+        "credits": 3.0,
+        "title": "COSMOLOGY ",
+        "instructor": "Yi Sukyoung",
+        "times_str": "Mon3,4(Wed3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH618(SciH618)"
+    },
+    {
+        "id": "4a492665-130a-5de9-b1a3-c203beff9fbd",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ATM2109-01-00",
+        "credits": 3.0,
+        "title": "ATMOSPHERIC THERMODYNAMICS ",
+        "instructor": "Koo Ja-Ho",
+        "times_str": "Mon5,6(Wed5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciH523)"
+    },
+    {
+        "id": "1e1545f6-7474-575e-a56e-cacab34c33ba",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ATM2102-01-00",
+        "credits": 3.0,
+        "title": "ATMOSPHERIC ENVIRONMENT ",
+        "instructor": "Kim, Jhoon",
+        "times_str": "Tue2,3(Thu2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH523)"
+    },
+    {
+        "id": "73083113-e36e-55cc-b792-c8305d27ba06",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ATM2104-01-00",
+        "credits": 3.0,
+        "title": "EXPLORING THE ATMOSPHERE ",
+        "instructor": "Shin Dong-Bin",
+        "times_str": "Mon7,8(Wed7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciHB103)"
+    },
+    {
+        "id": "49eb555b-44bf-50a9-a71c-ddf24be90f34",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "ATM3108-01-00",
+        "credits": 3.0,
+        "title": "ATMOSPHERIC PHYSICS(2) ",
+        "instructor": "Kim, Jhoon",
+        "times_str": "Tue6,7(Thu8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciHB103)"
+    },
+    {
+        "id": "785395a7-3da6-5411-8b22-0cb15041c480",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ATM4101-01-00",
+        "credits": 3.0,
+        "title": "ATMOSPHERIC DYNAMICS(2) ",
+        "instructor": "CHUN, HYE-YEONG",
+        "times_str": "Tue2,3(Thu2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH553)"
+    },
+    {
+        "id": "3f878cfc-dd77-56a0-8881-e529df1234cb",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ATM4102-01-00",
+        "credits": 3.0,
+        "title": "FLUID DYNAMICS ",
+        "instructor": "NOH Yign",
+        "times_str": "Mon7,8(Wed7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciH523)"
+    },
+    {
+        "id": "66ef2098-6b54-599f-ad89-68afc8f616c4",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "3,4",
+        "classification": "Major Basic",
+        "code": "ATM4110-01-00",
+        "credits": 3.0,
+        "title": "METEOROLOGICAL PROGRAMING ",
+        "instructor": "Park Sang Hun",
+        "times_str": "Mon3,4(Wed3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH523)"
+    },
+    {
+        "id": "af56b4bc-26b8-58e2-9574-cce26b245881",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ATM4111-01-00",
+        "credits": 3.0,
+        "title": "MICROMETEOROLOGY ",
+        "instructor": "Hong Jinkyu",
+        "times_str": "Tue4,5(Thu4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciH523)"
+    },
+    {
+        "id": "5e7593e8-8568-5bca-bd1d-83ef781b2b82",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ATM3111-01-00",
+        "credits": 3.0,
+        "title": "PHYSICAL OCEANOGRAPHY ",
+        "instructor": "SONG HAJOON",
+        "times_str": "Tue8,9(Thu6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciH523)"
+    },
+    {
+        "id": "d53b832a-339c-5742-b2a1-9dbc90d64341",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ATM3113-01-00",
+        "credits": 3.0,
+        "title": "STATISTICAL ANALYSIS IN METEOROLOGY ",
+        "instructor": "Yum, Seong Soo",
+        "times_str": "Tue6,7(Thu8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH523)"
+    },
+    {
+        "id": "0c446427-336d-5afb-a09e-f9ff5d8bad4f",
+        "department": "College of Science",
+        "major": "Atmospheric Sciences",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ATM4105-01-00",
+        "credits": 3.0,
+        "title": "CLIMATE DYNAMICS ",
+        "instructor": "An Soon-Il",
+        "times_str": "Mon1,2(Wed1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SciH523)"
+    }
+]

@@ -1,0 +1,3096 @@
+﻿[
+    {
+        "id": "03876ac2-fee8-5bbf-9b2b-4a39d1bf3541",
+        "department": "사회과학대학",
+        "major": "사회과학대학공통",
+        "year": "0",
+        "classification": "일반",
+        "code": "SOS2001-01-00",
+        "credits": 3.0,
+        "title": "사회과학도를위한법의이해 ",
+        "instructor": "김현희",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연402"
+    },
+    {
+        "id": "0e611db7-ba2b-59ff-8dba-86db55955ab6",
+        "department": "사회과학대학",
+        "major": "사회과학대학공통",
+        "year": "0",
+        "classification": "일반",
+        "code": "SOS2002-01-00",
+        "credits": 3.0,
+        "title": "데이터기반사회분석 ",
+        "instructor": "강정한,송준모",
+        "times_str": "월8/수9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "연025/동영상콘텐츠"
+    },
+    {
+        "id": "dd139220-10a6-5739-b184-623536a89811",
+        "department": "사회과학대학",
+        "major": "사회과학대학공통",
+        "year": "0",
+        "classification": "일반",
+        "code": "SOS3001-01-00",
+        "credits": 3.0,
+        "title": "디지털인류학연습 ",
+        "instructor": "장호진",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연025"
+    },
+    {
+        "id": "67dfbeaf-adc6-5ee8-825b-5e4e64a7fac0",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "POL2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(연정공동체정치론) ",
+        "instructor": "최연식",
+        "times_str": "토5",
+        "times": {
+            "5": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연112"
+    },
+    {
+        "id": "72cab041-b62c-59b7-9a32-c1c9f646f500",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "POL1004-01-00",
+        "credits": 3.0,
+        "title": "정치학개론 ",
+        "instructor": "진영재",
+        "times_str": "화2,3,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "10478a6a-292d-5aab-b1df-afe75475b3ea",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "POL2106-01-00",
+        "credits": 3.0,
+        "title": "비교정치론 ",
+        "instructor": "진영재",
+        "times_str": "화6,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a94b429f-9b5c-515b-bfaf-c13acb69a615",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3113-01-00",
+        "credits": 3.0,
+        "title": "외교안보와미디어 ",
+        "instructor": "김용호",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연218/실시간온라인"
+    },
+    {
+        "id": "7dcce8da-78fa-50bc-98c5-e9de09e576a1",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3120-01-00",
+        "credits": 3.0,
+        "title": "한국외교정책 ",
+        "instructor": "배종윤",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ac178133-ac02-506f-8557-4a3be6fee0ca",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3124-01-00",
+        "credits": 3.0,
+        "title": "한국국제정치사 ",
+        "instructor": "김명섭",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연218/실시간온라인"
+    },
+    {
+        "id": "0b658139-8e06-5940-aedb-7f0efb2cb5e5",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3153-01-00",
+        "credits": 3.0,
+        "title": "중국정치의이해 ",
+        "instructor": "백우열",
+        "times_str": "월3/수2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연112/실시간온라인"
+    },
+    {
+        "id": "55d2b920-9ae2-5714-9969-f145887b777b",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3154-01-00",
+        "credits": 3.0,
+        "title": "국제개발협력과EU ",
+        "instructor": "이연호",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연112/실시간온라인"
+    },
+    {
+        "id": "49edea25-c84b-5ca7-9c03-88b8e804d733",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3163-01-00",
+        "credits": 3.0,
+        "title": "국가와헌법 ",
+        "instructor": "김정환",
+        "times_str": "수9,금8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연112"
+    },
+    {
+        "id": "faee6088-df8f-529b-b598-def75e291e1b",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3825-01-00",
+        "credits": 3.0,
+        "title": "POLITICS OF COLLABORATION AND INTEGRATION IN EUROPE ",
+        "instructor": "샤틀한스",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6da6401f-522b-5985-8820-ea6c1684e09a",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3829-01-00",
+        "credits": 3.0,
+        "title": "정당론 ",
+        "instructor": "진영재",
+        "times_str": "화4,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "efd6d887-6d6c-5d78-b85b-4ff09beeb64d",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL3834-01-00",
+        "credits": 3.0,
+        "title": "동아시아국제정치경제론 ",
+        "instructor": "김민정",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c9d8e5d7-b470-5e30-8e8f-6a5102871ad9",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "POL4108-01-00",
+        "credits": 3.0,
+        "title": "동아시아국제관계 ",
+        "instructor": "김우상",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a26b5c68-3d74-5ae7-8efe-790ee04983ed",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "POL3201-01-00",
+        "credits": 3.0,
+        "title": "법의철학적기초 ",
+        "instructor": "김정오",
+        "times_str": "월5/수4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연112/동영상콘텐츠"
+    },
+    {
+        "id": "a577b162-905a-5f6d-ba80-60e23362d4ff",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "POL3847-01-00",
+        "credits": 3.0,
+        "title": "POLITICS, MEDIA AND GLOBALIZATION ",
+        "instructor": "샤틀한스",
+        "times_str": "월3,수3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "edb72c73-17ee-5175-be89-3cd21a419bd6",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "POL4133-01-00",
+        "credits": 3.0,
+        "title": "사물정치론 ",
+        "instructor": "백우열",
+        "times_str": "월6,수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "연112"
+    },
+    {
+        "id": "65cb106a-6824-5a58-8e62-9d83e3ded913",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL3130-01-00",
+        "credits": 3.0,
+        "title": "한국정치사상 ",
+        "instructor": "최연식",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "연112"
+    },
+    {
+        "id": "e98e8340-1240-56e2-b01f-06ade4cfd919",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL3131-01-00",
+        "credits": 3.0,
+        "title": "탈근대정치사상 ",
+        "instructor": "이상원",
+        "times_str": "화2,3/목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연112"
+    },
+    {
+        "id": "d6b52f4e-a524-5887-8a1d-8d8b9a2ca456",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL3164-01-00",
+        "credits": 3.0,
+        "title": "AMERICAN POLITICS AND GOVERNMENT ",
+        "instructor": "샤틀한스",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "bcab86e2-5e6a-5bdf-a365-a85060e61fe9",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL4101-01-00",
+        "credits": 3.0,
+        "title": "ECONOMIC STATECRAFT: ECONOMIC SANCTIONS AND AID ",
+        "instructor": "황태희",
+        "times_str": "월8,9/수9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연218"
+    },
+    {
+        "id": "f2bf5d04-dff2-5cff-8d81-7d48952cf7c4",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL4823-01-00",
+        "credits": 3.0,
+        "title": "정의론 ",
+        "instructor": "장동진",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "58df2f6b-dca9-5ba8-91e4-60b46e02a45a",
+        "department": "사회과학대학",
+        "major": "정치외교학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "POL4839-01-00",
+        "credits": 3.0,
+        "title": "게임이론과정치 ",
+        "instructor": "우병원",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연112/실시간온라인"
+    },
+    {
+        "id": "015f0aef-bbd4-5413-9f1e-efef6777f5ac",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "1",
+        "classification": "전탐",
+        "code": "PUB1101-01-00",
+        "credits": 3.0,
+        "title": "행정학개론 ",
+        "instructor": "유나리",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연108/동영상콘텐츠"
+    },
+    {
+        "id": "49401471-c0ea-5862-a853-afc934c24044",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "PUB2107-01-00",
+        "credits": 3.0,
+        "title": "정책학개론 ",
+        "instructor": "홍순만",
+        "times_str": "목5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "0f8bb499-e4b4-5c22-8cc6-1c44a3adda80",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "PUB2107-02-00",
+        "credits": 3.0,
+        "title": "정책학개론 ",
+        "instructor": "유상엽",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연404"
+    },
+    {
+        "id": "25b215ff-71f7-5354-9193-669af040ff46",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PUB2105-01-00",
+        "credits": 3.0,
+        "title": "재정학 ",
+        "instructor": "최근호",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "163a7622-c905-5b66-92aa-1119e9ceba77",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PUB2108-01-00",
+        "credits": 3.0,
+        "title": "조직론 ",
+        "instructor": "조유선",
+        "times_str": "수6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d0c9fea9-a406-5b92-bbda-63b659d67ea6",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PUB2121-01-00",
+        "credits": 3.0,
+        "title": "헌법과민주행정 ",
+        "instructor": "이승현",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "15b5e383-83ce-56e5-af2a-ae371fb8864a",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB2102-01-00",
+        "credits": 3.0,
+        "title": "관료제와민주주의 ",
+        "instructor": "김향미",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "c2cc00e4-53ac-5352-b55a-51eadaf8b347",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3103-01-00",
+        "credits": 3.0,
+        "title": "복지정책론 ",
+        "instructor": "양재진",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b8666d7d-5f3f-534f-8451-e85963e5029c",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3105-01-00",
+        "credits": 3.0,
+        "title": "재무행정론 ",
+        "instructor": "신가희",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "006eeb03-9043-5ef4-a74a-d6f9ad271d6f",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3106-01-00",
+        "credits": 3.0,
+        "title": "정부와기업 ",
+        "instructor": "김선형",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6e000758-01bc-5b3b-b72c-28e97600bc47",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3109-01-00",
+        "credits": 3.0,
+        "title": "조직행태론 ",
+        "instructor": "조윤직",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "연108"
+    },
+    {
+        "id": "673a2169-33df-5904-bc28-63326a317ea1",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3114-01-00",
+        "credits": 3.0,
+        "title": "행정법(2) ",
+        "instructor": "김남철",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "9fe4d017-b2a2-596a-8793-5ae86a931f23",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3115-01-00",
+        "credits": 3.0,
+        "title": "행정학사례분석연습 ",
+        "instructor": "김태형",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fefdfbf2-1bfd-5f4a-b6fb-b60eed2691b8",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3120-01-00",
+        "credits": 3.0,
+        "title": "문화정책론 ",
+        "instructor": "정철현",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연108"
+    },
+    {
+        "id": "fc080928-ba4f-584f-b460-334b52ef363d",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3125-01-00",
+        "credits": 3.0,
+        "title": "행정수단론 ",
+        "instructor": "이명진",
+        "times_str": "금6,7,8/금6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연108/실시간온라인"
+    },
+    {
+        "id": "422473b9-c9a6-5782-9a90-04d628f27bd8",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PUB3130-01-00",
+        "credits": 3.0,
+        "title": "산업정책론 ",
+        "instructor": "정헌주",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fbb88f1f-21cc-5d4c-8737-bfb7bb1cbca6",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB3107-01-00",
+        "credits": 3.0,
+        "title": "정책집행론 ",
+        "instructor": "최선미",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ba74c611-e166-5869-9bde-c1238de4680e",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4102-01-00",
+        "credits": 3.0,
+        "title": "정부간관계론 ",
+        "instructor": "이윤경",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "28c1539c-0012-539f-ab18-2390f8623ea3",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4112-01-00",
+        "credits": 3.0,
+        "title": "리더십과거버넌스 ",
+        "instructor": "김공록",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연404"
+    },
+    {
+        "id": "ba662a3d-0ee9-5ffd-9355-264318893e93",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4113-01-00",
+        "credits": 3.0,
+        "title": "정부회계학(1) ",
+        "instructor": "이재혁",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f85d7ba8-3119-519f-8777-cfdfea899bde",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4201-01-00",
+        "credits": 3.0,
+        "title": "혁신,창업과정책 ",
+        "instructor": "조현정",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/연404"
+    },
+    {
+        "id": "5a3a6227-6528-5cfd-bedd-51233fcf1bb1",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4204-01-00",
+        "credits": 3.0,
+        "title": "사회과학연구설계세미나 ",
+        "instructor": "이은국",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연404/실시간온라인"
+    },
+    {
+        "id": "6484b007-072a-578a-9a49-0f59c5076634",
+        "department": "사회과학대학",
+        "major": "행정학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PUB4205-01-00",
+        "credits": 3.0,
+        "title": "정책계량분석론 ",
+        "instructor": "배현회",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연404/실시간온라인"
+    },
+    {
+        "id": "48f6db2d-3baa-5b43-a072-098928657063",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "SOW2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(기독교적가치로청년의삶만들기) ",
+        "instructor": "김재엽",
+        "times_str": "화9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "2072ccc0-9ce9-5c2e-ae4c-891ceeab8ca7",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(장애가정의신사회적위기) ",
+        "instructor": "박선원",
+        "times_str": "목5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2c457797-058b-554e-a22a-c1a0105760fe",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(사회복지전공분야) ",
+        "instructor": "양승민",
+        "times_str": "수9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2b415538-e043-519e-839a-301ca3f94abe",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-03-00",
+        "credits": 1.0,
+        "title": "UT세미나(정신건강사회복지의주요이슈및실천) ",
+        "instructor": "유정원,이은정",
+        "times_str": "수5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연027"
+    },
+    {
+        "id": "e494cd58-90b1-5bda-8ea2-5edfa31f6bb8",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-04-00",
+        "credits": 1.0,
+        "title": "UT세미나(문헌검색 놀면서하기) ",
+        "instructor": "유지은",
+        "times_str": "월2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "bd331095-b9cc-54d8-a74b-f7880e00d78a",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-05-00",
+        "credits": 1.0,
+        "title": "UT세미나(노인복지자료해석과연구주제의발견) ",
+        "instructor": "채주석",
+        "times_str": "월3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연027"
+    },
+    {
+        "id": "6c0ffc3e-f1ca-5473-b970-be438979f606",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-06-00",
+        "credits": 1.0,
+        "title": "UT세미나(우리사회의노인인식과노인문제) ",
+        "instructor": "최유나",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "03e8a3d0-ee38-5338-b7f2-b64647f76d08",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2002-07-00",
+        "credits": 1.0,
+        "title": "UT세미나(마음으로나누는가족상담과대화연습) ",
+        "instructor": "황현주",
+        "times_str": "목8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "591df9d0-1228-50bf-9f62-b3cafbd82820",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2102-01-00",
+        "credits": 3.0,
+        "title": "사회복지발달사 ",
+        "instructor": "윤태영",
+        "times_str": "수6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연027"
+    },
+    {
+        "id": "76ea3951-cea8-5392-b4ae-d88beb03923b",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW2103-01-00",
+        "credits": 3.0,
+        "title": "사회복지실천론 ",
+        "instructor": "최수찬,최선아",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "764acbc2-0e80-5426-b364-44e0e9f73704",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOW3126-01-00",
+        "credits": 3.0,
+        "title": "한국복지론 ",
+        "instructor": "김미희",
+        "times_str": "월2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a0f434fe-062d-5122-882a-49798f84462e",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3114-01-00",
+        "credits": 3.0,
+        "title": "사회복지행정론 ",
+        "instructor": "최재성",
+        "times_str": "화5,6/화7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "연308/동영상콘텐츠"
+    },
+    {
+        "id": "7b85a00c-cc56-568f-8c37-01155fdb8ac5",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3115-01-00",
+        "credits": 3.0,
+        "title": "사회복지현장실습 ",
+        "instructor": "성신명",
+        "times_str": "수10,11,12",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "연027"
+    },
+    {
+        "id": "1f335c06-545a-5a13-bcf5-7ed76d2cff19",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3117-01-00",
+        "credits": 3.0,
+        "title": "아동복지론 ",
+        "instructor": "남보영",
+        "times_str": "목4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "f1877ef1-0739-5179-8450-65ad1df7332d",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3121-01-00",
+        "credits": 3.0,
+        "title": "장애인복지론 ",
+        "instructor": "박수경,이성민",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "eb35c85b-71dd-502c-a309-4e9656ce8dcf",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3122-01-00",
+        "credits": 3.0,
+        "title": "정신보건사회복지론 ",
+        "instructor": "송인한",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "5e58273d-c903-5918-b3a7-92623c768d47",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOW3123-01-00",
+        "credits": 3.0,
+        "title": "지역사회복지론 ",
+        "instructor": "강철희",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ca240238-9101-50c1-9bcf-9c99d8dc07e9",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "SOW3103-01-00",
+        "credits": 3.0,
+        "title": "노인복지론 ",
+        "instructor": "남석인,최유나",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "640aad9a-f9ae-5a6d-ac71-52d3eaad97fa",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "SOW3113-01-00",
+        "credits": 3.0,
+        "title": "사회복지특강 ",
+        "instructor": "서정열",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "446adf34-c961-58cd-963b-50ec1278a9b3",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "SOW4106-01-00",
+        "credits": 3.0,
+        "title": "사회보장론 ",
+        "instructor": "김진수",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "e1c4b99b-a5e6-5006-950e-5a86604b2af9",
+        "department": "사회과학대학",
+        "major": "사회복지학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "SOW4111-01-00",
+        "credits": 3.0,
+        "title": "가족복지론 ",
+        "instructor": "김재엽,최선아",
+        "times_str": "화6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연211"
+    },
+    {
+        "id": "cc3b8aba-c97d-5885-9335-6a9dc1514127",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "SOC1002-01-00",
+        "credits": 3.0,
+        "title": "사회학의이해 ",
+        "instructor": "김종우",
+        "times_str": "월2,3,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ad4ab8c7-9085-5c85-a1ec-e29eb2c1afcf",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "SOC1002-02-00",
+        "credits": 3.0,
+        "title": "사회학의이해 ",
+        "instructor": "조선미",
+        "times_str": "월5,6,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "1ab9c878-ac67-524d-a7cc-2e3419374e43",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "SOC1004-01-00",
+        "credits": 3.0,
+        "title": "근대사회사상의흐름 ",
+        "instructor": "백광열",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d5a74b45-da69-5973-b749-5f6a39a9fce5",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "SOC2103-01-00",
+        "credits": 3.0,
+        "title": "사회통계학 ",
+        "instructor": "강정한",
+        "times_str": "월2/수2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/빌103"
+    },
+    {
+        "id": "b2187fba-6b81-5d98-9392-44226b014bbc",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOC2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(STATA를활용한자료매니지먼트의실제) ",
+        "instructor": "임정재",
+        "times_str": "화5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "37c24066-fdbd-5d5e-a9c6-2c6bf9159195",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "SOC2002-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(코로나19시대의사회학) ",
+        "instructor": "이가람",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연027"
+    },
+    {
+        "id": "e631d680-f86b-52d0-88d8-3ac84c8a7c34",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "SOC3707-01-00",
+        "credits": 3.0,
+        "title": "발전사회학 ",
+        "instructor": "장상철",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "빌103"
+    },
+    {
+        "id": "450a1b9c-5ef8-5a48-a4d9-31e3100fa52f",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "SOC4121-01-00",
+        "credits": 3.0,
+        "title": "사회조사분석 ",
+        "instructor": "박광형",
+        "times_str": "화2,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "3644a9eb-14a0-5797-b258-be3be7baf18b",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3304-01-00",
+        "credits": 3.0,
+        "title": "도시공간과사회 ",
+        "instructor": "김왕배",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "8d533567-ef6d-54b9-bc16-1a3abda65739",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3601-01-00",
+        "credits": 3.0,
+        "title": "사회심리학 ",
+        "instructor": "이가람",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "92d749d5-a961-59b4-8135-f9bd76a97585",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3603-01-00",
+        "credits": 3.0,
+        "title": "가족사회학 ",
+        "instructor": "왕혜숙",
+        "times_str": "월4,5/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "빌103/실시간온라인"
+    },
+    {
+        "id": "27b68792-c795-5334-b7c0-87b619329892",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3604-01-00",
+        "credits": 3.0,
+        "title": "지식.정보사회 ",
+        "instructor": "최규연",
+        "times_str": "금2,3/금4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "빌103/동영상콘텐츠"
+    },
+    {
+        "id": "6a6865da-c61b-57b2-8745-de1064b69097",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3610-01-00",
+        "credits": 3.0,
+        "title": "대중문화연구 ",
+        "instructor": "안미향",
+        "times_str": "화3,4,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "1495693b-0647-5d59-ab96-b6b3576d7bf6",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC3611-01-00",
+        "credits": 3.0,
+        "title": "성과사회 ",
+        "instructor": "김영미",
+        "times_str": "수7/목3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/빌103"
+    },
+    {
+        "id": "5aececab-84eb-5d2c-9e6c-67d8f1b770ed",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4117-01-00",
+        "credits": 3.0,
+        "title": "현대사회론 ",
+        "instructor": "김호기",
+        "times_str": "수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "c3be6a16-b92a-595e-9906-453e1ca80eb8",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4118-01-00",
+        "credits": 3.0,
+        "title": "사회계층과불평등 ",
+        "instructor": "최성수",
+        "times_str": "화8,9,목9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "빌103"
+    },
+    {
+        "id": "b36980eb-6877-5b7a-b029-971d962dfea0",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4119-01-00",
+        "credits": 3.0,
+        "title": "법과사회 ",
+        "instructor": "이철우",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "연313/동영상콘텐츠"
+    },
+    {
+        "id": "b278bc6b-ec8b-5a68-989e-05e8f31eab36",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4305-01-00",
+        "credits": 3.0,
+        "title": "동아시아의대안적근대성 ",
+        "instructor": "원재연",
+        "times_str": "월7,8,수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "7d82f4e8-9487-518d-8ade-d6cb29dbaefd",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4503-01-00",
+        "credits": 3.0,
+        "title": "일탈과범죄 ",
+        "instructor": "임재성",
+        "times_str": "금5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "연313"
+    },
+    {
+        "id": "6b52a1cb-3054-55bf-ac8e-b0a4f2491b7f",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "SOC4703-01-00",
+        "credits": 3.0,
+        "title": "연결망이론과분석 ",
+        "instructor": "염유식",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "빌103"
+    },
+    {
+        "id": "e2165bee-e641-5f22-b955-ed308bcbccfe",
+        "department": "사회과학대학",
+        "major": "사회학전공",
+        "year": "3,4",
+        "classification": "교직",
+        "code": "SOC3830-01-00",
+        "credits": 3.0,
+        "title": "일반사회교육론 ",
+        "instructor": "이성호",
+        "times_str": "월8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "빌103"
+    },
+    {
+        "id": "922a9700-bb0e-5b2b-b24f-781b0f7a8c22",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ANT1001-01-00",
+        "credits": 3.0,
+        "title": "문화인류학 ",
+        "instructor": "구기연",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "빌110"
+    },
+    {
+        "id": "d69cdc7b-672e-5f1b-a37e-805cdf8d4fcf",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ANT2105-01-00",
+        "credits": 3.0,
+        "title": "지구촌시대의문화인류학 ",
+        "instructor": "김지윤",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "연402/실시간온라인"
+    },
+    {
+        "id": "8b2c5c5b-2b89-5c14-ba06-97f27dc95de0",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ANT2103-01-00",
+        "credits": 3.0,
+        "title": "가족과문화 ",
+        "instructor": "권수현",
+        "times_str": "월3/수3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "빌110/실시간온라인"
+    },
+    {
+        "id": "1f9f80ac-daa8-5a5d-a757-cc14239e7d8e",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "ANT3102-01-00",
+        "credits": 3.0,
+        "title": "현지조사방법론 ",
+        "instructor": "서보경",
+        "times_str": "금10,11,12",
+        "times": {
+            "4": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "빌110"
+    },
+    {
+        "id": "6ced9433-c313-5247-8abe-e0878b087ca7",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ANT3105-01-00",
+        "credits": 3.0,
+        "title": "몸의인류학 ",
+        "instructor": "서보경",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "연025"
+    },
+    {
+        "id": "0239d766-8b9b-54a6-acf6-8e39f473045e",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ANT3112-01-00",
+        "credits": 3.0,
+        "title": "대중문화와문화산업 ",
+        "instructor": "채석진",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "빌110"
+    },
+    {
+        "id": "ab17edac-2f4d-5d01-9654-0d7411b70ec6",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ANT3113-01-00",
+        "credits": 3.0,
+        "title": "영상인류학(1) ",
+        "instructor": "장호진",
+        "times_str": "월9,10/수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "빌110/실시간온라인"
+    },
+    {
+        "id": "4fd1a9c8-c6df-5df4-b145-f27dcf397fdf",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ANT3114-01-00",
+        "credits": 3.0,
+        "title": "네트워크사회의문화기획 ",
+        "instructor": "이길호",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연025/실시간온라인"
+    },
+    {
+        "id": "e670ad22-93fc-5eb3-8213-fa7f437d0898",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ANT3206-01-00",
+        "credits": 3.0,
+        "title": "빈곤의인류학 ",
+        "instructor": "조문영",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3352f682-4aa3-584f-9e35-683a75af8312",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ANT3211-01-00",
+        "credits": 3.0,
+        "title": "표상문화론 ",
+        "instructor": "김항",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "빌110"
+    },
+    {
+        "id": "83ec8e00-1a87-55b2-ac68-b283d6ab1557",
+        "department": "사회과학대학",
+        "major": "문화인류학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ANT4202-01-00",
+        "credits": 3.0,
+        "title": "현대문화인류학이론 ",
+        "instructor": "이지은",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "빌110/실시간온라인"
+    },
+    {
+        "id": "d76e6bc6-bb02-5676-82a5-ad7b325c8eb4",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "0",
+        "classification": "전선",
+        "code": "COM3001-01-00",
+        "credits": 4.0,
+        "title": "산학협동현장실습(CNN) ",
+        "instructor": "이상엽,김성희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f9165b25-a690-5a61-a2ef-462b4a87042b",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "1",
+        "classification": "전기",
+        "code": "COM1101-01-00",
+        "credits": 3.0,
+        "title": "언론학개론 ",
+        "instructor": "김윤경",
+        "times_str": "화3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "54582de4-c1f2-52da-8dd9-5c293e1ad677",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전기",
+        "code": "COM2101-01-00",
+        "credits": 3.0,
+        "title": "언론학연구방법론 ",
+        "instructor": "백영민",
+        "times_str": "목4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c603cd3f-2931-5998-9d76-f86f943d921e",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전선",
+        "code": "COM2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(이미지와설득) ",
+        "instructor": "김희정",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "1b3d3971-ac3c-547b-a459-c4f93e5eceb8",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전선",
+        "code": "COM2105-01-00",
+        "credits": 3.0,
+        "title": "광고의이해 ",
+        "instructor": "김희진",
+        "times_str": "화8,9/목9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연308"
+    },
+    {
+        "id": "29662d0b-142d-5cd5-ad5f-dde5c706d73d",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전선",
+        "code": "COM2109-01-00",
+        "credits": 3.0,
+        "title": "방송의이해 ",
+        "instructor": "최양수",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5835d050-0056-5062-949c-845cf1f91b40",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전선",
+        "code": "COM2110-01-00",
+        "credits": 3.0,
+        "title": "영상제작실습 ",
+        "instructor": "강원준",
+        "times_str": "수5,6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "성307"
+    },
+    {
+        "id": "3b230318-73de-5ed1-bc8a-e23b18fc4e47",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2",
+        "classification": "전선",
+        "code": "COM2117-01-00",
+        "credits": 3.0,
+        "title": "미디어와사회 ",
+        "instructor": "김희정",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "빌210"
+    },
+    {
+        "id": "1988e487-1f0c-5bda-a1aa-f74b8791ec31",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2,3,4",
+        "classification": "전선",
+        "code": "COM3168-01-00",
+        "credits": 3.0,
+        "title": "미디어제작현장워크숍 ",
+        "instructor": "김욱영",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6d976644-9be7-5bc5-a65e-6266eb88a6d8",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2,3,4",
+        "classification": "전선",
+        "code": "COM4205-01-00",
+        "credits": 3.0,
+        "title": "인공지능프로그래밍입문 ",
+        "instructor": "이상엽",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "연402/동영상콘텐츠"
+    },
+    {
+        "id": "8c9c128d-0323-5d0a-87ee-a7c0856ea16b",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "2,3,4",
+        "classification": "전선",
+        "code": "COM4218-01-00",
+        "credits": 3.0,
+        "title": "텍스트,마음,사회 ",
+        "instructor": "백영민",
+        "times_str": "수2/금2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "연308/실시간온라인"
+    },
+    {
+        "id": "fc7a2eb9-d33b-52da-9679-54b470b3a880",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3101-01-00",
+        "credits": 3.0,
+        "title": "고급영상제작 ",
+        "instructor": "강원준",
+        "times_str": "수1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "성307"
+    },
+    {
+        "id": "ca3c666f-4f8d-5b4f-91bb-8ae262e1ae11",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3106-01-00",
+        "credits": 3.0,
+        "title": "대인관계와커뮤니케이션 ",
+        "instructor": "김수희",
+        "times_str": "월4/화2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "c6298164-ed9c-5ee7-8d50-8ef6c8fec43a",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3110-01-00",
+        "credits": 3.0,
+        "title": "미디어법제론 ",
+        "instructor": "김정호",
+        "times_str": "화6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "빌210"
+    },
+    {
+        "id": "ef81a856-a3da-5d72-ae18-a80f191f3534",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3112-01-00",
+        "credits": 3.0,
+        "title": "미디어와사회변동 ",
+        "instructor": "신의경",
+        "times_str": "목4,5/목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/빌210"
+    },
+    {
+        "id": "9ea965be-4d0e-5010-95c8-a94b0d5968ab",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3120-01-00",
+        "credits": 3.0,
+        "title": "저널리즘의이해 ",
+        "instructor": "유용민",
+        "times_str": "월7,8,목3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "빌210"
+    },
+    {
+        "id": "09a6f8d9-6f30-59ab-acac-4c22cedd4533",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3131-01-00",
+        "credits": 3.0,
+        "title": "저널리즘실습 ",
+        "instructor": "김성희",
+        "times_str": "금7,8/금9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "4044d06a-01d4-5786-b557-b15c2a32cb36",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3137-01-00",
+        "credits": 3.0,
+        "title": "영화예술의이해 ",
+        "instructor": "임철희",
+        "times_str": "월1,2/수1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인/연308"
+    },
+    {
+        "id": "6c9970d3-260e-5af7-a63a-32875d0c4b5b",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3144-01-00",
+        "credits": 3.0,
+        "title": "고급PR론 ",
+        "instructor": "김자림",
+        "times_str": "월8,9,수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3ac1d1d0-c5cd-579b-a47c-23b4dcb1f15a",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3145-01-00",
+        "credits": 3.0,
+        "title": "P.R사례분석 ",
+        "instructor": "강두선",
+        "times_str": "월3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연308"
+    },
+    {
+        "id": "2f85a273-3bf5-5504-8c24-19b58b6ad392",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3146-01-00",
+        "credits": 3.0,
+        "title": "디지털마케팅 ",
+        "instructor": "조창환",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/빌210"
+    },
+    {
+        "id": "7bb64060-39d0-5d43-a2c9-e59160d3ee8e",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3156-01-00",
+        "credits": 3.0,
+        "title": "인터페이스디자인 ",
+        "instructor": "권희정",
+        "times_str": "수3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연308"
+    },
+    {
+        "id": "04e7bfd2-86f5-5ea0-9505-8ba19dd77eab",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3",
+        "classification": "전선",
+        "code": "COM3161-01-00",
+        "credits": 3.0,
+        "title": "THE MUSIC INDUSTRY IN THE VISUAL AGE ",
+        "instructor": "이지훈",
+        "times_str": "수3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "74f892a9-4c7e-53b8-ac24-edacbb2c382e",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "COM3154-01-00",
+        "credits": 3.0,
+        "title": "헬스커뮤니케이션 ",
+        "instructor": "소지연",
+        "times_str": "월6,7,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "758be513-cd6a-5474-982a-b026c039ebaf",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "COM4109-01-00",
+        "credits": 3.0,
+        "title": "사이버커뮤니케이션 ",
+        "instructor": "윤영철",
+        "times_str": "화7,목7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "연308"
+    },
+    {
+        "id": "b78211ed-5256-5945-b939-c8f8f5b01b62",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "COM4217-01-00",
+        "credits": 3.0,
+        "title": "인공지능과커뮤니케이션 ",
+        "instructor": "김윤경",
+        "times_str": "목3,4,5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "연308"
+    },
+    {
+        "id": "24ca20e2-0f96-502c-9778-7981381338bd",
+        "department": "사회과학대학",
+        "major": "언론홍보영상학부",
+        "year": "4",
+        "classification": "전선",
+        "code": "COM4200-01-00",
+        "credits": 3.0,
+        "title": "커뮤니케이션능력개발 ",
+        "instructor": "김주환",
+        "times_str": "월9,수7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

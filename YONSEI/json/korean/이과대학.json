@@ -1,0 +1,2483 @@
+﻿[
+    {
+        "id": "0fe00792-0966-5a77-bdc1-27ecb0d9fb65",
+        "department": "이과대학",
+        "major": "이과대학 공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "SCI2001-01-00",
+        "credits": 2.0,
+        "title": "전자계산(1) ",
+        "instructor": "권영일",
+        "times_str": "화6,7(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과323(과232)"
+    },
+    {
+        "id": "5abca569-7416-5734-9d15-f7ee29159521",
+        "department": "이과대학",
+        "major": "이과대학 공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "SCI2002-01-00",
+        "credits": 2.0,
+        "title": "전자계산(2) ",
+        "instructor": "신우주",
+        "times_str": "월7,8(수8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과B131(실시간온라인)"
+    },
+    {
+        "id": "59140d0c-4cb2-59ca-aee6-d571ad22b2ad",
+        "department": "이과대학",
+        "major": "이과대학 공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "MAT2002-01-00",
+        "credits": 3.0,
+        "title": "고등미적분학(2) ",
+        "instructor": "장통근",
+        "times_str": "월1,2,수2(수1)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "06e11e8d-b4f9-5e5c-92b9-41a2748fc486",
+        "department": "이과대학",
+        "major": "이과대학 공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "MAT2002-02-00",
+        "credits": 3.0,
+        "title": "고등미적분학(2) ",
+        "instructor": "장통근",
+        "times_str": "월5,수5,6(월6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "57564cd0-6132-5928-aa65-47cd4746cd30",
+        "department": "이과대학",
+        "major": "이과대학 공통",
+        "year": "4",
+        "classification": "일반",
+        "code": "SCI3005-01-00",
+        "credits": 2.0,
+        "title": "과학논리및논술 ",
+        "instructor": "성정희",
+        "times_str": "화2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "189992e7-ba64-514f-9bf3-87a711643f25",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "MAT3104-01-00",
+        "credits": 3.0,
+        "title": "해석학(1) ",
+        "instructor": "김세익",
+        "times_str": "월9,10,수10(수9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과227(과227)"
+    },
+    {
+        "id": "8b8700f5-7452-5f3d-8273-6816e2fe4851",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "MAT3104-02-00",
+        "credits": 3.0,
+        "title": "해석학(1) ",
+        "instructor": "김세익",
+        "times_str": "화2,3,목2(목3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과B130(과B130)"
+    },
+    {
+        "id": "5ba5932b-0d99-5815-a9ed-444afa2eb6c3",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "MAT2103-01-00",
+        "credits": 3.0,
+        "title": "통계학 ",
+        "instructor": "이승철",
+        "times_str": "월5,6,수6(수5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과225(과225)"
+    },
+    {
+        "id": "1fd3d8b6-c672-5966-8a03-cf83a2e42d77",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "MAT3120-01-00",
+        "credits": 3.0,
+        "title": "선형대수(2) ",
+        "instructor": "이지현",
+        "times_str": "화4,5,목5(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과227(과227)"
+    },
+    {
+        "id": "c4cd77eb-696a-53f3-9711-20b10c583a99",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "MAT3120-02-00",
+        "credits": 3.0,
+        "title": "선형대수(2) ",
+        "instructor": "고형준",
+        "times_str": "화7,목8,9(화6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과227(과227)"
+    },
+    {
+        "id": "9cbdd744-f16b-5521-bda8-13e26d5d9326",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "MAT3123-01-00",
+        "credits": 3.0,
+        "title": "기계학습과응용 ",
+        "instructor": "이승철",
+        "times_str": "화4,5,목5(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과262(과262)"
+    },
+    {
+        "id": "d0f38ad4-4c26-5d53-b889-cd3c3272f07f",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "MAT3105-01-00",
+        "credits": 3.0,
+        "title": "해석학(2) ",
+        "instructor": "김준일",
+        "times_str": "월9,10/수10(수9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/과262(과262)"
+    },
+    {
+        "id": "7fd05999-86fc-51d8-a53a-467a78aaf4ff",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "MAT2105-01-00",
+        "credits": 3.0,
+        "title": "과학계산 ",
+        "instructor": "이지현",
+        "times_str": "화2,목2,3(화3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과227(과227)"
+    },
+    {
+        "id": "8be2ca63-2e20-599b-b3fd-545297fd694b",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "MAT3101-01-00",
+        "credits": 3.0,
+        "title": "대수적위상수학 ",
+        "instructor": "홍한솔",
+        "times_str": "월7,8,수8(수7)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과262(과262)"
+    },
+    {
+        "id": "f2c69590-3b9c-55bb-8134-1e85aa9ab4d0",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "MAT3102-01-00",
+        "credits": 3.0,
+        "title": "미분기하(2) ",
+        "instructor": "김호범",
+        "times_str": "화6,7,목9(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과B130(과B130)"
+    },
+    {
+        "id": "4f729e6d-c7c9-5c31-9da1-7e9c9455eec2",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "MAT3110-01-00",
+        "credits": 3.0,
+        "title": "현대대수(2) ",
+        "instructor": "서수길",
+        "times_str": "월5,6/수5(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과227(과227)"
+    },
+    {
+        "id": "8c544621-7d37-5737-a751-742b02faedc6",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "MAT3110-02-00",
+        "credits": 3.0,
+        "title": "현대대수(2) ",
+        "instructor": "고형준",
+        "times_str": "화8,9,목7(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "과227(과227)"
+    },
+    {
+        "id": "1e1e537a-675d-51ed-9a01-9a7e326c831e",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "MAT3985-01-00",
+        "credits": 3.0,
+        "title": "수학사 ",
+        "instructor": "박승경",
+        "times_str": "화2,3,목2(목3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과225(과225)"
+    },
+    {
+        "id": "e72e98f8-a26a-524d-9b77-8d23b264386f",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT3112-01-00",
+        "credits": 3.0,
+        "title": "복소해석학 ",
+        "instructor": "양민석",
+        "times_str": "월7,8,수8(수7)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(동영상콘텐츠)"
+    },
+    {
+        "id": "d84339a1-6395-56dc-8fde-3307b608c5dc",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT3113-01-00",
+        "credits": 3.0,
+        "title": "확률과정론 ",
+        "instructor": "김정훈",
+        "times_str": "화7/목8,9(화6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과B131/실시간온라인(과B131)"
+    },
+    {
+        "id": "0195132f-9140-56a2-87e0-6453835f92ef",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT3117-01-00",
+        "credits": 3.0,
+        "title": "수리논리 ",
+        "instructor": "김병한",
+        "times_str": "화2,3,목2(목3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "9469940e-5840-5f7a-a6b4-d398a7ba79f3",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT3118-01-00",
+        "credits": 3.0,
+        "title": "편미분방정식 ",
+        "instructor": "강경근",
+        "times_str": "월5,6/수6(수5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과262/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "6b81b7fd-9ebd-5f9c-a5f7-f2ef7b60a027",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT3119-01-00",
+        "credits": 3.0,
+        "title": "조합론 ",
+        "instructor": "박승경",
+        "times_str": "화5,목4,5(화4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과225(과225)"
+    },
+    {
+        "id": "65b2fe88-245c-52d6-bf0d-c4c3d5a2bfaf",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT4106-01-00",
+        "credits": 3.0,
+        "title": "수학특강(2) ",
+        "instructor": "강경근",
+        "times_str": "월3/수3,4(월4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과262(실시간온라인)"
+    },
+    {
+        "id": "ee395d1b-0c06-5363-91d5-78b76fd7aeee",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT4108-01-00",
+        "credits": 3.0,
+        "title": "호몰로지대수 ",
+        "instructor": "서수길",
+        "times_str": "수8/금7,8(수7)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과225/실시간온라인(과225)"
+    },
+    {
+        "id": "0f9acd26-fd60-50cd-8db0-bf86543cade5",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "MAT4120-01-00",
+        "credits": 3.0,
+        "title": "복소기하 ",
+        "instructor": "최성락",
+        "times_str": "월3,4,수4(수3)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과225(과225)"
+    },
+    {
+        "id": "7c424ffb-b95e-5dfe-a2e0-0c27e661fef2",
+        "department": "이과대학",
+        "major": "수학전공",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP4009-01-00",
+        "credits": 3.0,
+        "title": "수학교육론 ",
+        "instructor": "임웅",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "74d2298e-8b3d-5809-ad66-e90139191ca4",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PHY3111-01-00",
+        "credits": 3.0,
+        "title": "일반역학(2) ",
+        "instructor": "유휘동",
+        "times_str": "화4,5,목4(목5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과B131(과B131)"
+    },
+    {
+        "id": "4f3e99ef-0c12-5a6a-b382-13ab69e75d25",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PHY2104-01-00",
+        "credits": 3.0,
+        "title": "현대물리학(2) ",
+        "instructor": "김근수",
+        "times_str": "월3,4,수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과111(과111)"
+    },
+    {
+        "id": "4edf6267-dcb3-503c-919d-5d2864bcc7c7",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PHY2106-01-00",
+        "credits": 3.0,
+        "title": "물리학실험(A-2) ",
+        "instructor": "조두희",
+        "times_str": "수2(금2,3,4,5)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과325(과326)"
+    },
+    {
+        "id": "9c09edab-f1da-5247-ab6e-674cf5d505c7",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "2,3,4",
+        "classification": "전선",
+        "code": "PHY3113-01-00",
+        "credits": 3.0,
+        "title": "첨단물리학의세계(2) ",
+        "instructor": "조두희",
+        "times_str": "월9/수8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과325/과B102"
+    },
+    {
+        "id": "a967995a-c604-527b-a252-153156afec17",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHY3102-01-00",
+        "credits": 3.0,
+        "title": "양자역학(2) ",
+        "instructor": "박성찬",
+        "times_str": "월3,4,수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과325(과325)"
+    },
+    {
+        "id": "a001602e-2022-5566-a325-2f4e7f305f9e",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHY3104-01-00",
+        "credits": 3.0,
+        "title": "전자기학(2) ",
+        "instructor": "이연진",
+        "times_str": "월5,6,수6(수5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과111(과111)"
+    },
+    {
+        "id": "10aa4785-0a8e-55a4-ae56-ea64f67424de",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHY3106-01-00",
+        "credits": 3.0,
+        "title": "통계물리학 ",
+        "instructor": "최형준",
+        "times_str": "화8,9,목6(목7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "과325(과325)"
+    },
+    {
+        "id": "1b5f8ddf-bd95-57f2-96ad-08e9292ce7e0",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PHY3108-01-00",
+        "credits": 3.0,
+        "title": "물리학실험(B-2) ",
+        "instructor": "최영재",
+        "times_str": "목8(금2,3,4,5)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과118)"
+    },
+    {
+        "id": "a471af72-422b-570d-9c43-dfaa1a94b849",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY3114-01-00",
+        "credits": 3.0,
+        "title": "고급전산물리학 ",
+        "instructor": "김덕영",
+        "times_str": "화6,목8,9(화7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과325(과325)"
+    },
+    {
+        "id": "76a86d20-3206-5a10-91dc-cb68cf47b304",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4102-01-00",
+        "credits": 3.0,
+        "title": "고체물리학(2) ",
+        "instructor": "김관표",
+        "times_str": "화2,3,목2(목3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과325(과325)"
+    },
+    {
+        "id": "e6202a38-53ae-5372-a2b8-5db8ada41eb8",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4108-01-00",
+        "credits": 3.0,
+        "title": "응용물리입문 ",
+        "instructor": "김관표",
+        "times_str": "화8,9,목6(목7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "과B131(과B131)"
+    },
+    {
+        "id": "1d60ad55-c203-57cf-907b-2de152673c73",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4109-01-00",
+        "credits": 3.0,
+        "title": "입자물리학 ",
+        "instructor": "권영일",
+        "times_str": "화4,5,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과325"
+    },
+    {
+        "id": "10480057-bcb8-554a-85ca-09eb48b45aab",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4116-01-00",
+        "credits": 3.0,
+        "title": "광학(2) ",
+        "instructor": "박승한",
+        "times_str": "월7,8/수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과325"
+    },
+    {
+        "id": "b4c60d82-8790-5f7d-aa6e-fdb02b5b870a",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4117-01-00",
+        "credits": 3.0,
+        "title": "고급양자역학 ",
+        "instructor": "이수형",
+        "times_str": "월5,6/수5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과325"
+    },
+    {
+        "id": "416581db-09a6-56e0-a8c3-4d40c7cdd47c",
+        "department": "이과대학",
+        "major": "물리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHY4206-01-00",
+        "credits": 3.0,
+        "title": "수리물리학(2) ",
+        "instructor": "박아론",
+        "times_str": "월3,4,수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과B131"
+    },
+    {
+        "id": "affc1f4f-ea04-5909-a173-0d6f7846393d",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3115-01-00",
+        "credits": 2.0,
+        "title": "유기화학실험 ",
+        "instructor": "장우동",
+        "times_str": "월5,6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과401A"
+    },
+    {
+        "id": "c2a96ba3-a760-5718-b733-56298b9536fe",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3115-02-00",
+        "credits": 2.0,
+        "title": "유기화학실험 ",
+        "instructor": "최수혁",
+        "times_str": "수5,6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과401A"
+    },
+    {
+        "id": "d0673972-9560-5f2f-bcc3-f7092ee46284",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3115-03-00",
+        "credits": 2.0,
+        "title": "유기화학실험 ",
+        "instructor": "방두희",
+        "times_str": "목5,6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과401A"
+    },
+    {
+        "id": "5ab6cfff-2411-5a0f-a2a8-494aa004bd91",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE2103-01-00",
+        "credits": 3.0,
+        "title": "유기화학(1) ",
+        "instructor": "정규성,방두희",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과323/실시간온라인"
+    },
+    {
+        "id": "83f9d153-d0ca-563c-be7e-35477c6b45d4",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3110-01-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": "정규성",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과B131/실시간온라인"
+    },
+    {
+        "id": "b8951a3a-17f5-5115-9f38-80fae59b1110",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3110-02-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": "장우동",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과B104/동영상콘텐츠"
+    },
+    {
+        "id": "2f718db5-3609-5d66-8e61-225e3c823bdc",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3110-03-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": "신인재",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과323"
+    },
+    {
+        "id": "4bea4b91-1f9c-5ec1-8677-5f60e16e2718",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CHE3110-04-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": "최수혁",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과323"
+    },
+    {
+        "id": "7020e2e9-1e72-524d-a291-f7625c7a1d89",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CHE3102-01-00",
+        "credits": 3.0,
+        "title": "분석화학(2) ",
+        "instructor": "이동일",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과111"
+    },
+    {
+        "id": "59b70bb9-db9c-5a64-b272-9ce81f89b196",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CHE3117-01-00",
+        "credits": 2.0,
+        "title": "물리화학실험 ",
+        "instructor": "심은지",
+        "times_str": "월7,8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과425"
+    },
+    {
+        "id": "406b0e8c-c67b-5aaf-8a38-699b80ff8a17",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CHE3117-02-00",
+        "credits": 2.0,
+        "title": "물리화학실험 ",
+        "instructor": "김태규",
+        "times_str": "금7,8,9,10",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과425"
+    },
+    {
+        "id": "f0661766-81e0-50bc-8504-80ff21860b1c",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CHE3117-03-00",
+        "credits": 2.0,
+        "title": "물리화학실험 ",
+        "instructor": "김태규",
+        "times_str": "화7,8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과425"
+    },
+    {
+        "id": "8021bae4-9e0e-5772-aedd-cd85b77a4d94",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CHE3112-01-00",
+        "credits": 3.0,
+        "title": "물리화학(2) ",
+        "instructor": "김태규",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과323/실시간온라인"
+    },
+    {
+        "id": "e2b4a632-b81e-5e58-bda9-4663e05d4c55",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CHE3103-01-00",
+        "credits": 3.0,
+        "title": "무기화학(2) ",
+        "instructor": "오문현",
+        "times_str": "화2,3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과B131"
+    },
+    {
+        "id": "8c999094-b32d-54a6-ad21-e71478213001",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CHE3106-01-00",
+        "credits": 3.0,
+        "title": "유기신소재화학 ",
+        "instructor": "김병수,박민주",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과B131/실시간온라인"
+    },
+    {
+        "id": "c691c753-0374-5d14-9cdc-23e73e5e7092",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "CHE4107-01-00",
+        "credits": 3.0,
+        "title": "연구실험 ",
+        "instructor": "태진성",
+        "times_str": "수5(토1,2,3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과425)"
+    },
+    {
+        "id": "a218c489-bc04-512b-af1a-e8030cb6e13f",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CHE4103-01-00",
+        "credits": 3.0,
+        "title": "물리유기화학 ",
+        "instructor": "신인재",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과323"
+    },
+    {
+        "id": "c7110868-5a63-5d2d-9c85-e135a9b4ffeb",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CHE4105-01-00",
+        "credits": 3.0,
+        "title": "유기금속화학 ",
+        "instructor": "최문근",
+        "times_str": "화8,9/목9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과323/실시간온라인"
+    },
+    {
+        "id": "38ec7979-cca7-52dc-be02-d9c20e8af218",
+        "department": "이과대학",
+        "major": "화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CHE4110-01-00",
+        "credits": 3.0,
+        "title": "양자화학 ",
+        "instructor": "심은지,남승수",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과323"
+    },
+    {
+        "id": "e6a7ae64-ef32-55e9-b6b6-a9d71cab6990",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ESS1105-01-00",
+        "credits": 3.0,
+        "title": "환경지구과학개론및실습 ",
+        "instructor": "한원식",
+        "times_str": "화3,4(목3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "7e2a61b2-49f2-5f14-b7f6-c6bbb31b8bcb",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ESS2110-01-00",
+        "credits": 3.0,
+        "title": "화성암석학및실험 ",
+        "instructor": "권성택",
+        "times_str": "화3,4(목3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과S222(과S222)"
+    },
+    {
+        "id": "9e1bbe7a-86d4-54d8-b401-234014344195",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ESS2102-01-00",
+        "credits": 3.0,
+        "title": "야외지질학및실습 ",
+        "instructor": "권상훈",
+        "times_str": "월7,8(수7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과S222(과S222)"
+    },
+    {
+        "id": "ef01eb99-aa26-58d1-a0ec-4cbb3dc5e57d",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ESS2112-01-00",
+        "credits": 3.0,
+        "title": "지구화학개론 ",
+        "instructor": "이기현",
+        "times_str": "화5,6,목5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "과S222"
+    },
+    {
+        "id": "9c500fd9-5437-5374-b819-371dd739eae6",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ESS3105-01-00",
+        "credits": 3.0,
+        "title": "물리탐사및실습 ",
+        "instructor": "홍태경",
+        "times_str": "화1,2(목1,2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과S222(과S222)"
+    },
+    {
+        "id": "ef4757d8-4cc6-533f-8830-e4b63770c676",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ESS3115-01-00",
+        "credits": 3.0,
+        "title": "층서학의이해 ",
+        "instructor": "김원석",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과S222"
+    },
+    {
+        "id": "3dce50d5-804e-52bc-8ffb-8c559f47accb",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ESS3122-01-00",
+        "credits": 3.0,
+        "title": "지구시스템과학실험 ",
+        "instructor": "송윤구",
+        "times_str": "화7,8(목7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과S222(과641)"
+    },
+    {
+        "id": "196d5451-8e20-5245-a33b-986fad603732",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ESS3127-01-00",
+        "credits": 3.0,
+        "title": "지질기초역학 ",
+        "instructor": "이창열",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과S222"
+    },
+    {
+        "id": "fd7cc3fd-352d-5776-921d-88bb28841c29",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "ESS4126-01-00",
+        "credits": 2.0,
+        "title": "졸업논문연구(2) ",
+        "instructor": "한원식",
+        "times_str": "토1,2",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과S222"
+    },
+    {
+        "id": "6df0230d-5447-54b8-aaa4-664bdc9caf72",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ESS4116-01-00",
+        "credits": 3.0,
+        "title": "변성암석학및실험 ",
+        "instructor": "권용완",
+        "times_str": "월3,4(금5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과S222(과S222)"
+    },
+    {
+        "id": "63b56900-a0b8-5bee-9574-84f5488d0a16",
+        "department": "이과대학",
+        "major": "지구시스템과학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ESS4128-01-00",
+        "credits": 3.0,
+        "title": "필드스쿨 ",
+        "instructor": "김남수",
+        "times_str": "화9(금10,11,12,13)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과S222(과S222)"
+    },
+    {
+        "id": "8c614237-5e11-5534-b740-772d844e77c2",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "AST1003-01-00",
+        "credits": 3.0,
+        "title": "천문우주학개론(2) ",
+        "instructor": "박찬덕,김석환",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "612516ce-8584-54ec-9baf-86a8ab573bd6",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "AST2105-01-00",
+        "credits": 3.0,
+        "title": "기초천체물리학 (2) ",
+        "instructor": "윤석진",
+        "times_str": "수7,8(금7,8)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "77ed48f5-4de2-5cb8-9bf0-f8c93422d7cd",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "AST2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(순수천문진로설계) ",
+        "instructor": "안성호",
+        "times_str": "목3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "과618"
+    },
+    {
+        "id": "ff80586a-1b34-596e-8a3b-a7f5d040893f",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "AST2106-01-00",
+        "credits": 3.0,
+        "title": "위성천문학 ",
+        "instructor": "김석환",
+        "times_str": "월5,6(수5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "1c76767b-2781-5f86-9a39-24b107898165",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "AST3105-01-00",
+        "credits": 3.0,
+        "title": "우주동력학(2) ",
+        "instructor": "박상영",
+        "times_str": "화6,7(목8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "db0b1b03-16c9-5858-8d74-dcf14026696b",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "AST3106-01-00",
+        "credits": 3.0,
+        "title": "은하와우주(1) ",
+        "instructor": "이영욱",
+        "times_str": "월3,4(수3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "4f7f322f-7b7b-527d-bbcb-c92f57237ab6",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "AST3107-01-00",
+        "credits": 3.0,
+        "title": "과학영상처리론및실습 ",
+        "instructor": "변용익",
+        "times_str": "화8,9(목6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "과633(과633)"
+    },
+    {
+        "id": "38363642-641f-54a1-a890-a0af78ae8c25",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "AST3108-01-00",
+        "credits": 3.0,
+        "title": "천문관측기기와응용 ",
+        "instructor": "김석환",
+        "times_str": "월1,2(수1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "28e73a3c-d87e-51b4-b5b8-0919976734e4",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "AST4109-01-00",
+        "credits": 2.0,
+        "title": "졸업논문연구(2) ",
+        "instructor": "이영욱,변용익,김용철,김석환,박상영,손영종,이석영,윤석진,정애리,박찬덕,지명국,김태선",
+        "times_str": "월9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과615B"
+    },
+    {
+        "id": "00cf4189-4b09-5ec5-b5ce-f787dcd28f65",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "AST4104-01-00",
+        "credits": 3.0,
+        "title": "인공위성시스템 ",
+        "instructor": "박찬덕",
+        "times_str": "월5,6(수5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과618(과618)"
+    },
+    {
+        "id": "eb4ce4aa-93d6-5856-ae9a-7727a0fd7291",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "AST4105-01-00",
+        "credits": 3.0,
+        "title": "천체물리학(2) ",
+        "instructor": "정애리",
+        "times_str": "화3,4(목3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과615B(과615B)"
+    },
+    {
+        "id": "385acd6b-a7db-59c5-8a5b-7fbcdb02d296",
+        "department": "이과대학",
+        "major": "천문우주학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "AST4106-01-00",
+        "credits": 3.0,
+        "title": "우주론 ",
+        "instructor": "이석영",
+        "times_str": "월3,4(수3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과618(과618)"
+    },
+    {
+        "id": "4a492665-130a-5de9-b1a3-c203beff9fbd",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ATM2109-01-00",
+        "credits": 3.0,
+        "title": "대기열역학 ",
+        "instructor": "구자호",
+        "times_str": "월5,6(수5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(과523)"
+    },
+    {
+        "id": "1e1545f6-7474-575e-a56e-cacab34c33ba",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ATM2102-01-00",
+        "credits": 3.0,
+        "title": "대기환경 ",
+        "instructor": "김준",
+        "times_str": "화2,3(목2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과523)"
+    },
+    {
+        "id": "73083113-e36e-55cc-b792-c8305d27ba06",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ATM2104-01-00",
+        "credits": 3.0,
+        "title": "대기탐사 ",
+        "instructor": "신동빈",
+        "times_str": "월7/월8(수7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인(과B103)"
+    },
+    {
+        "id": "49eb555b-44bf-50a9-a71c-ddf24be90f34",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "ATM3108-01-00",
+        "credits": 3.0,
+        "title": "대기물리(2) ",
+        "instructor": "김준",
+        "times_str": "화6,7(목8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과B103)"
+    },
+    {
+        "id": "785395a7-3da6-5411-8b22-0cb15041c480",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ATM4101-01-00",
+        "credits": 3.0,
+        "title": "대기역학(2) ",
+        "instructor": "전혜영",
+        "times_str": "화2,3(목2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과553)"
+    },
+    {
+        "id": "3f878cfc-dd77-56a0-8881-e529df1234cb",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ATM4102-01-00",
+        "credits": 3.0,
+        "title": "유체역학 ",
+        "instructor": "노의근",
+        "times_str": "월7,8(수7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(과523)"
+    },
+    {
+        "id": "66ef2098-6b54-599f-ad89-68afc8f616c4",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "3,4",
+        "classification": "전기",
+        "code": "ATM4110-01-00",
+        "credits": 3.0,
+        "title": "기상프로그래밍 ",
+        "instructor": "박상훈",
+        "times_str": "월3,4(수3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과523)"
+    },
+    {
+        "id": "af56b4bc-26b8-58e2-9574-cce26b245881",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ATM4111-01-00",
+        "credits": 3.0,
+        "title": "미기상학 ",
+        "instructor": "홍진규",
+        "times_str": "화4/화5(목4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인(과523)"
+    },
+    {
+        "id": "5e7593e8-8568-5bca-bd1d-83ef781b2b82",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ATM3111-01-00",
+        "credits": 3.0,
+        "title": "해양물리 ",
+        "instructor": "송하준",
+        "times_str": "화8/화9(목6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인(과523)"
+    },
+    {
+        "id": "d53b832a-339c-5742-b2a1-9dbc90d64341",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ATM3113-01-00",
+        "credits": 3.0,
+        "title": "기상통계분석 ",
+        "instructor": "염성수",
+        "times_str": "화6,7(목8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과523)"
+    },
+    {
+        "id": "0c446427-336d-5afb-a09e-f9ff5d8bad4f",
+        "department": "이과대학",
+        "major": "대기과학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ATM4105-01-00",
+        "credits": 3.0,
+        "title": "기후역학 ",
+        "instructor": "안순일",
+        "times_str": "월1,2(수1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(과523)"
+    }
+]

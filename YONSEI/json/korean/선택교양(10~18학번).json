@@ -1,0 +1,2657 @@
+﻿[
+    {
+        "id": "b2fd2527-5f84-5b78-a538-652b2b40adac",
+        "department": "선택교양(10~18학번)",
+        "major": "역사·철학영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCG1105-01-00",
+        "credits": 3.0,
+        "title": "동아시아와인류문명 ",
+        "instructor": "박경석,유현정",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교403/실시간온라인"
+    },
+    {
+        "id": "bf54a949-ef87-5acf-bf6c-f4a3feffde80",
+        "department": "선택교양(10~18학번)",
+        "major": "역사·철학영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCG1111-01-00",
+        "credits": 3.0,
+        "title": "철학과방법 ",
+        "instructor": "남기호",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교303"
+    },
+    {
+        "id": "26491776-8be9-5af4-be25-f03af07edf32",
+        "department": "선택교양(10~18학번)",
+        "major": "역사·철학영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCG1125-01-00",
+        "credits": 3.0,
+        "title": "화면위에쓴역사 ",
+        "instructor": "전수연",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교403"
+    },
+    {
+        "id": "992803d0-64f4-5d01-b930-cd0f5a183ad3",
+        "department": "선택교양(10~18학번)",
+        "major": "역사·철학영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCG1130-01-00",
+        "credits": 3.0,
+        "title": "동아시아신화기행 ",
+        "instructor": "김선자",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ed590cf8-f3a1-544e-9037-b862e5ebcb52",
+        "department": "선택교양(10~18학번)",
+        "major": "과학·기술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCH1102-01-00",
+        "credits": 3.0,
+        "title": "지구와우주 ",
+        "instructor": "김태선",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fcd52db3-b714-5474-aa20-5770bfc5b24f",
+        "department": "선택교양(10~18학번)",
+        "major": "과학·기술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCH1105-01-00",
+        "credits": 3.0,
+        "title": "지구와환경 ",
+        "instructor": "이명석",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "06a5fe3f-b7a7-5320-aef9-4694d22f586b",
+        "department": "선택교양(10~18학번)",
+        "major": "과학·기술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCH1108-01-00",
+        "credits": 3.0,
+        "title": "환경과대기 ",
+        "instructor": "김현미",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S108"
+    },
+    {
+        "id": "e934226f-b6ac-5574-9ff3-7ad1904894ec",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1175-01-00",
+        "credits": 1.0,
+        "title": "연세정신과인권 ",
+        "instructor": "박경자",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8fe065c6-9e49-5ca6-8e24-27541a9b77ce",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-01-00",
+        "credits": 1.0,
+        "title": "사회봉사(자유선택 자원봉사활동) ",
+        "instructor": "박준홍",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "357d4c3e-b2ed-5d1a-b5ff-3c6ddc2a4d45",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-02-00",
+        "credits": 1.0,
+        "title": "사회봉사(희망원정대-선 봉사후 학점인정) ",
+        "instructor": "전흥재",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "534e6dfa-600f-5670-9133-daecb0c6affe",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-03-00",
+        "credits": 1.0,
+        "title": "사회봉사(동행프로젝트) ",
+        "instructor": "홍원표",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d23658c5-edcf-52d3-9468-5f1a04b85b46",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-06-00",
+        "credits": 1.0,
+        "title": "사회봉사(함께나누는 세상) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cacebf5a-3e59-5e47-9dc0-ebcee293b57f",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-07-00",
+        "credits": 1.0,
+        "title": "사회봉사(시각장애인 희망나눔교실) ",
+        "instructor": "나정은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc65d3e4-178b-5c2d-93a6-7fa008db4dbf",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-09-00",
+        "credits": 1.0,
+        "title": "사회봉사(드림 스터디 멘토링 가람1004 봉사단) ",
+        "instructor": "정종훈",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e7b4957-742e-5b02-8f38-90ecbb043195",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI2001-13-00",
+        "credits": 1.0,
+        "title": "사회봉사(와세다-연세평화캠프 선봉사 후 학점인정) ",
+        "instructor": "김동환",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7a635d59-a16d-5541-b0a3-5ae7057cdf11",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCR1016-01-00",
+        "credits": 1.0,
+        "title": "라이프아카데미-삶과미래 ",
+        "instructor": "남석인",
+        "times_str": "화10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "아108"
+    },
+    {
+        "id": "5ac8ed6f-2cd5-51e0-8740-4650a2cc53fb",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1166-01-00",
+        "credits": 3.0,
+        "title": "연고대합동특강시리즈(진리·정의·자유를향한인문학적성찰) ",
+        "instructor": "조대호",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ab0a6168-9fcc-539e-a809-04e88c0a552f",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1167-01-00",
+        "credits": 3.0,
+        "title": "사회혁신과기업CSR ",
+        "instructor": "김도영",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "백S208/실시간온라인"
+    },
+    {
+        "id": "4c6a6969-0d50-548d-a074-e22f5c9f66a3",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1176-01-00",
+        "credits": 3.0,
+        "title": "사회과학적이슈에대한융합적접근 ",
+        "instructor": "백윤수",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "845d046e-2866-5767-a79b-8711b23f3a74",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1177-01-00",
+        "credits": 3.0,
+        "title": "반기문과함께하는지속가능발전의이해 ",
+        "instructor": "김소윤,박준홍,박태인",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "873779a7-1ff6-5af5-a440-780620c57aeb",
+        "department": "선택교양(10~18학번)",
+        "major": "사회·윤리영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCI1183-01-00",
+        "credits": 3.0,
+        "title": "사회문제해결을위한융합팀워크 ",
+        "instructor": "송인한",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "교403"
+    },
+    {
+        "id": "3c3d171f-472b-5057-927f-02b49797ee3c",
+        "department": "선택교양(10~18학번)",
+        "major": "인문·예술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCJ1135-01-00",
+        "credits": 1.0,
+        "title": "연세대학합창(랩콰이어) ",
+        "instructor": "지현정",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음117"
+    },
+    {
+        "id": "a410599c-fbf1-5173-a259-bbffbb5905a0",
+        "department": "선택교양(10~18학번)",
+        "major": "인문·예술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCJ1135-02-00",
+        "credits": 1.0,
+        "title": "연세대학합창(랩콰이어) ",
+        "instructor": "김대광",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음103"
+    },
+    {
+        "id": "49e035c2-3fda-509f-ae36-bb2acee21ae5",
+        "department": "선택교양(10~18학번)",
+        "major": "인문·예술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCJ1112-01-00",
+        "credits": 3.0,
+        "title": "시각예술의이해 ",
+        "instructor": "이현수",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "39a1fa51-ae6f-51f9-b5c8-aef18ef86a94",
+        "department": "선택교양(10~18학번)",
+        "major": "인문·예술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCJ1124-01-00",
+        "credits": 3.0,
+        "title": "문화콘텐츠와창조적상상력 ",
+        "instructor": "유광수",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "db705dae-361d-538c-9214-a19699f7bf82",
+        "department": "선택교양(10~18학번)",
+        "major": "인문·예술영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCJ1131-01-00",
+        "credits": 3.0,
+        "title": "고급실용문쓰기 ",
+        "instructor": "전은주",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    },
+    {
+        "id": "98960031-8c0d-5359-bd05-4dbf2ee97e9c",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1111-01-00",
+        "credits": 3.0,
+        "title": "BUILDING FLUENCY IN SPEAKING(ADV) ",
+        "instructor": "황짐",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "백S602/실시간온라인"
+    },
+    {
+        "id": "03538dbf-9810-5412-9b42-a27270cfb92e",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1111-02-00",
+        "credits": 3.0,
+        "title": "BUILDING FLUENCY IN SPEAKING(ADV) ",
+        "instructor": "유그레이스은혜",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "백S106/실시간온라인"
+    },
+    {
+        "id": "e853e82a-2063-5c0e-af64-5afff3809815",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1143-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(ADV) ",
+        "instructor": "맥클러스키켈리",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S404"
+    },
+    {
+        "id": "5d1f7468-0627-5b3a-9850-bae4f406c24b",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1143-02-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(ADV) ",
+        "instructor": "해닝드웨인",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "백S608/실시간온라인"
+    },
+    {
+        "id": "d334bb19-652e-5278-80f4-1cc0af723bdb",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1150-01-00",
+        "credits": 3.0,
+        "title": "WORLD ISSUES: ENGLISH THROUGH THE MEDIA(ADV) ",
+        "instructor": "버나드조나단",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "백S602/실시간온라인"
+    },
+    {
+        "id": "5be65d5b-d790-5d8f-add4-a2adf2fa57e7",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1158-01-00",
+        "credits": 3.0,
+        "title": "WORLD ISSUES: ENGLISH THROUGH THE MEDIA(HONORS) ",
+        "instructor": "버나드조나단",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백S602/실시간온라인"
+    },
+    {
+        "id": "a797f9ac-1f53-5c2f-8773-6f6be7b92190",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1159-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(HONORS) ",
+        "instructor": "해닝드웨인",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "백S106/실시간온라인"
+    },
+    {
+        "id": "66e2a132-8135-5eb2-b545-5e8cb305d818",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCK1159-02-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(HONORS) ",
+        "instructor": "맥클러스키켈리",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백S106/실시간온라인"
+    },
+    {
+        "id": "98779ba4-b8e2-5611-b270-9223f0b0b1f0",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "YCI1702-01-00",
+        "credits": 3.0,
+        "title": "독일문화와예술 ",
+        "instructor": "김성현",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "9e3839a7-3094-5dc7-9a55-7551afe2edf8",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "YCI1703-01-00",
+        "credits": 3.0,
+        "title": "프랑스문화와예술 ",
+        "instructor": "유예진",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "03654e5b-0163-5a14-b0fe-328874d636fa",
+        "department": "선택교양(10~18학번)",
+        "major": "세계문화·언어영역",
+        "year": null,
+        "classification": "선교",
+        "code": "YCI1705-01-00",
+        "credits": 3.0,
+        "title": "스페인의문화와예술 ",
+        "instructor": "최해성",
+        "times_str": "목2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fc04cb14-0e8e-5d85-aa13-19c605894f61",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1101-01-00",
+        "credits": 1.0,
+        "title": "테니스 ",
+        "instructor": "서상훈",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "테니스장(하드코트)"
+    },
+    {
+        "id": "aae8257f-2081-53b9-a174-4e3f8099a3db",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1101-02-00",
+        "credits": 1.0,
+        "title": "테니스 ",
+        "instructor": "이태형",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "테니스장(클레이코트)"
+    },
+    {
+        "id": "ff225c37-eed5-5176-980d-3af3a2c59e89",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1101-03-00",
+        "credits": 1.0,
+        "title": "테니스 ",
+        "instructor": "김재형",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "테니스장(클레이코트)"
+    },
+    {
+        "id": "2fbce83a-ae17-55f3-9fa9-b739bcec52e3",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1102-01-00",
+        "credits": 1.0,
+        "title": "축구 ",
+        "instructor": "김병훈",
+        "times_str": "금1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "운동장(신촌)"
+    },
+    {
+        "id": "c5681fdf-fd54-5d17-8e36-20fe6aad5b9d",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-01-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "이하영",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "44379c28-ec2e-51d6-ae61-2efae8fa38bc",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-02-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "강태규",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "c1653cad-9961-5bc0-b360-d2e82ab188a1",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-03-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "황재욱",
+        "times_str": "수1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "3b6c85ca-24a7-56a5-ae05-1d20320973e2",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-04-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "황재욱",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "c8d3fc10-df14-5124-bac5-377453ede440",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-05-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "하성희",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "3307817d-1391-5a41-b2fc-af523d5c1d2e",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-06-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "강민홍",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "5be2efdb-60b9-5d83-bacd-e06060268c87",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-07-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "이미경",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "86f7e722-3dea-5f3c-88f0-452605a0d873",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1103-08-00",
+        "credits": 1.0,
+        "title": "수영 ",
+        "instructor": "이미경",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "14858d3d-2749-5649-8fd5-ff457dab8ca4",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1104-01-00",
+        "credits": 1.0,
+        "title": "농구 ",
+        "instructor": "정희성",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "4fa4debb-63d6-5fe3-ba20-7ca1181842f5",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1104-02-00",
+        "credits": 1.0,
+        "title": "농구 ",
+        "instructor": "정희성",
+        "times_str": "금1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "8476736b-d2ff-5592-9952-0879b19876c4",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1104-03-00",
+        "credits": 1.0,
+        "title": "농구 ",
+        "instructor": "김태중",
+        "times_str": "금7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "99b0bd7c-4ac3-5afe-89c9-a97afa1c5756",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-01-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "류재훈",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "a7332bd5-dcff-50b3-8fd1-31881b90a633",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-02-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "김지수",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "2de45596-28ae-5fa5-a1ba-099f6617958c",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-03-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "윤두상",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "37d6cfa6-e22f-5f51-8d47-1e7aeffa120d",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-04-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "(강사채용예정)",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "bffed4b6-7898-5530-9d9e-f4ba2b07419c",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-05-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "박현미",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "9ded6b44-6ec6-5ff8-bd97-aace968b1405",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-06-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "정선희",
+        "times_str": "수1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "ee63e666-e5a8-5e91-8526-186138df5220",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-07-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "김재형",
+        "times_str": "목1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "4e64a4aa-779a-5994-a29a-40c1362002cf",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-08-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "김재형",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "f4a6cb70-65bf-51ff-b190-f1761b94b49e",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-09-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "한지훈",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "c9ff444a-c515-5149-91e0-0521a52f37ba",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-10-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "한지훈",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "db8987a5-6c4a-5bc6-8369-379126a4f52b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1105-11-00",
+        "credits": 1.0,
+        "title": "골프 ",
+        "instructor": "이혜란",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "46726c64-5cd4-5c19-aca3-a3579b15d859",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1106-01-00",
+        "credits": 1.0,
+        "title": "펜싱 ",
+        "instructor": "이한주",
+        "times_str": "화1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "체육관"
+    },
+    {
+        "id": "1ce7bc13-30f6-54e7-af22-08dea184f741",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1106-02-00",
+        "credits": 1.0,
+        "title": "펜싱 ",
+        "instructor": "이한주",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "체육관"
+    },
+    {
+        "id": "ca8b59c5-0414-53c1-b331-f1c95aa8197d",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1108-01-00",
+        "credits": 1.0,
+        "title": "호신술 ",
+        "instructor": "고재면",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)"
+    },
+    {
+        "id": "17674353-dde2-51f4-8790-5149ea01e3f8",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-01-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "이병구",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "fc4cf889-407d-54a4-95c7-1807d0a8fa79",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-02-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "김유식",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "a7ab1c98-8bd5-5c73-8c69-79356d487835",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-03-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "김유식",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "40ccff59-3b90-55be-ae51-a06fe76bbb89",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-04-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "김재호",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "fc6e9068-3c55-5e57-9bbb-e2a30bf9126c",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-05-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "김재호",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "53635187-d11a-5ef5-9e8d-85667338e93d",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-06-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "김재호",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "ccc9b749-b8e6-5004-9034-d022dfd9b323",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-07-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "강희엽",
+        "times_str": "수1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "9563f597-241d-5baa-91e2-b8866850a274",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-08-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "한지훈",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "89d36272-6d1c-5169-abad-87bc4f7613ef",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1109-09-00",
+        "credits": 1.0,
+        "title": "체력육성 ",
+        "instructor": "박지혜",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "eb55fb1c-42ce-5933-87fa-d1bfab0eebd8",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1110-01-00",
+        "credits": 1.0,
+        "title": "포크댄스 ",
+        "instructor": "곽정운",
+        "times_str": "금1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "무용실(체401)"
+    },
+    {
+        "id": "040f691a-0f67-52b9-9dc1-2becf71e30f0",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1110-02-00",
+        "credits": 1.0,
+        "title": "포크댄스 ",
+        "instructor": "곽정운",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "무용실(체401)"
+    },
+    {
+        "id": "a140e58c-c11c-5cc1-aedc-8c2e273dedf9",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1110-03-00",
+        "credits": 1.0,
+        "title": "포크댄스 ",
+        "instructor": "정문미",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "eab6226f-e30c-5348-a69d-9136789b956b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1111-01-00",
+        "credits": 1.0,
+        "title": "배드민턴 ",
+        "instructor": "정근영",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "4b0f1345-5593-552b-b8e3-7b4d1316d096",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1111-02-00",
+        "credits": 1.0,
+        "title": "배드민턴 ",
+        "instructor": "최지상",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "a6655b8e-cc97-5a8c-afb8-c0b4a7e3139a",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1111-03-00",
+        "credits": 1.0,
+        "title": "배드민턴 ",
+        "instructor": "최성배",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "04fd86d5-655f-50ea-af65-962d7aa46d5d",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1112-01-00",
+        "credits": 1.0,
+        "title": "탁구 ",
+        "instructor": "최성배",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "37e28b18-a9c8-59ab-b7ef-f8b7df2311c9",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1112-02-00",
+        "credits": 1.0,
+        "title": "탁구 ",
+        "instructor": "강태규",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "47fd4845-9d63-51b2-88e5-d94aa8e79f5c",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1112-03-00",
+        "credits": 1.0,
+        "title": "탁구 ",
+        "instructor": "최현욱",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "3c2d1391-ddfb-5451-8f65-1fa3df1b7e66",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1112-04-00",
+        "credits": 1.0,
+        "title": "탁구 ",
+        "instructor": "최현욱",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "449ae9a6-68cd-52d6-bcc9-afd0db1eb0f0",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1112-05-00",
+        "credits": 1.0,
+        "title": "탁구 ",
+        "instructor": "은종원",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "체조장(체308)"
+    },
+    {
+        "id": "bd2322c6-f359-58cf-bc37-c79378fcc026",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1115-01-00",
+        "credits": 1.0,
+        "title": "댄스스포츠 ",
+        "instructor": "박인실",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실3)"
+    },
+    {
+        "id": "e4f83525-a498-5c33-88a2-1e88ab3fd123",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1118-01-00",
+        "credits": 1.0,
+        "title": "택견 ",
+        "instructor": "도기현",
+        "times_str": "목5,6(목5,6)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)(스포츠(태권도장))"
+    },
+    {
+        "id": "c045d046-b49a-5f0f-b899-dc5ef465bb76",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1119-01-00",
+        "credits": 1.0,
+        "title": "태권도 ",
+        "instructor": "문대선",
+        "times_str": "화3,4(화3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)(스포츠(태권도장))"
+    },
+    {
+        "id": "f80a8904-0374-5550-87f0-c3d56e5e0e98",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1119-02-00",
+        "credits": 1.0,
+        "title": "태권도 ",
+        "instructor": "문대선",
+        "times_str": "화6,7(화6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)(스포츠(태권도장))"
+    },
+    {
+        "id": "d8ff7308-7a98-5f25-88ac-1a9ddf104d31",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1119-03-00",
+        "credits": 1.0,
+        "title": "태권도 ",
+        "instructor": "문대선",
+        "times_str": "화8,9(화8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)(스포츠(태권도장))"
+    },
+    {
+        "id": "a1a8a623-1208-5b16-9a9b-e8b7884377b4",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1119-04-00",
+        "credits": 1.0,
+        "title": "태권도 ",
+        "instructor": "윤성원",
+        "times_str": "월1,2(월1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(유도장)(스포츠(태권도장))"
+    },
+    {
+        "id": "afa805e3-c4b5-5d76-80e7-490ed34f9a60",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1121-01-00",
+        "credits": 1.0,
+        "title": "요가 ",
+        "instructor": "김리나",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "무용실(체401)"
+    },
+    {
+        "id": "7e480d8c-45e8-551e-a22a-c4d3a452209b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1121-02-00",
+        "credits": 1.0,
+        "title": "요가 ",
+        "instructor": "곽주현",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실3)"
+    },
+    {
+        "id": "5c33d249-80d1-502b-966e-45744eb56f0b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1121-03-00",
+        "credits": 1.0,
+        "title": "요가 ",
+        "instructor": "김민선",
+        "times_str": "목1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "ef8a2cde-bf83-59de-b8fb-2f311294d946",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1123-01-00",
+        "credits": 1.0,
+        "title": "농구(중급) ",
+        "instructor": "최지상",
+        "times_str": "금1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "체육관"
+    },
+    {
+        "id": "6ea7b5f3-358d-5799-a821-cad054444dba",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1124-01-00",
+        "credits": 1.0,
+        "title": "골프(중급) ",
+        "instructor": "이광호",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "골프장"
+    },
+    {
+        "id": "1d75dad3-401d-5fbf-96f8-419d62e46763",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1127-01-00",
+        "credits": 1.0,
+        "title": "수영(중급) ",
+        "instructor": "황재욱",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "9def9725-8548-53e6-937c-0fb29dc0d857",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1127-02-00",
+        "credits": 1.0,
+        "title": "수영(중급) ",
+        "instructor": "강민홍",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "4f139dd2-a878-5f1d-94dc-3216c0194057",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1127-03-00",
+        "credits": 1.0,
+        "title": "수영(중급) ",
+        "instructor": "강민홍",
+        "times_str": "화1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "수영장(신촌)"
+    },
+    {
+        "id": "320c39fa-4235-5c4a-aab2-d5bb3d776967",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1207-01-00",
+        "credits": 1.0,
+        "title": "검도 ",
+        "instructor": "마윤성",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "62f46340-d967-5c0c-8f54-7eeb2bba4794",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1209-01-00",
+        "credits": 1.0,
+        "title": "힙합댄스 ",
+        "instructor": "정유미",
+        "times_str": "금2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "1b5e870d-6f13-5d1c-aebb-d4f038324fc9",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1215-01-00",
+        "credits": 1.0,
+        "title": "필라테스 ",
+        "instructor": "김리나",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "무용실(체401)"
+    },
+    {
+        "id": "f78357ed-8941-5617-92b5-7b4c5a46fd06",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1215-02-00",
+        "credits": 1.0,
+        "title": "필라테스 ",
+        "instructor": "김리나",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "무용실(체401)"
+    },
+    {
+        "id": "9fa3427c-0ada-500c-b200-1bd9d4b31f15",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1215-03-00",
+        "credits": 1.0,
+        "title": "필라테스 ",
+        "instructor": "정선희",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실3)"
+    },
+    {
+        "id": "7bb5cd04-7491-5785-b834-0f3b2dc832ed",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1215-04-00",
+        "credits": 1.0,
+        "title": "필라테스 ",
+        "instructor": "정선희",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실3)"
+    },
+    {
+        "id": "3fd1f70f-bb06-5e8e-8f2f-30e0c492f7e0",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1215-05-00",
+        "credits": 1.0,
+        "title": "필라테스 ",
+        "instructor": "양혜주",
+        "times_str": "수1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "506d11db-0e44-522d-8126-8b8fddc4ab37",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1217-01-00",
+        "credits": 1.0,
+        "title": "볼링 ",
+        "instructor": "이해명",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외부"
+    },
+    {
+        "id": "4e1cd99a-4b4b-5e77-95d5-04271e096a62",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1217-02-00",
+        "credits": 1.0,
+        "title": "볼링 ",
+        "instructor": "이해명",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "외부"
+    },
+    {
+        "id": "4181a713-adc4-58f9-9eb5-e1151c24ee28",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1217-03-00",
+        "credits": 1.0,
+        "title": "볼링 ",
+        "instructor": "이해명",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외부"
+    },
+    {
+        "id": "64313d0f-f561-51f9-874d-374f63fc8d8b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1217-04-00",
+        "credits": 1.0,
+        "title": "볼링 ",
+        "instructor": "최현욱",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외부"
+    },
+    {
+        "id": "9d9b73f7-7274-5bfc-99fb-18009d7901b2",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1219-01-00",
+        "credits": 1.0,
+        "title": "파워다이어트 ",
+        "instructor": "박지혜",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "b41fc6a2-3bbf-5e39-85ba-4e5d626d550b",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1219-02-00",
+        "credits": 1.0,
+        "title": "파워다이어트 ",
+        "instructor": "박지혜",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(휘트니스센터)"
+    },
+    {
+        "id": "a7b5bb43-b4ff-57bc-aff4-839f0a110062",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1220-01-00",
+        "credits": 1.0,
+        "title": "K양생체조 ",
+        "instructor": "이록빛",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "1d84d5f4-afdd-5118-b498-7d70fd70559e",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1220-02-00",
+        "credits": 1.0,
+        "title": "K양생체조 ",
+        "instructor": "이록빛",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "5b335d40-6e6e-5138-ab03-d1973a3a1dd7",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1222-01-00",
+        "credits": 1.0,
+        "title": "라인댄스 ",
+        "instructor": "윤미정",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실3)"
+    },
+    {
+        "id": "85a7f872-faec-5287-a997-f597b485fb18",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1222-02-00",
+        "credits": 1.0,
+        "title": "라인댄스 ",
+        "instructor": "박휴경",
+        "times_str": "월9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "40eb4ded-56a0-5d27-b654-0086a98a06b5",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1223-01-00",
+        "credits": 1.0,
+        "title": "리듬체조 ",
+        "instructor": "곽주현",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "23049b56-3a15-5747-9892-c4c3792e8a2c",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1223-02-00",
+        "credits": 1.0,
+        "title": "리듬체조 ",
+        "instructor": "곽주현",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실1)"
+    },
+    {
+        "id": "05995e58-b441-54cc-aa91-d2b6a41a0046",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1224-01-00",
+        "credits": 1.0,
+        "title": "피클볼 ",
+        "instructor": "이록빛",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "ef7b207d-53d2-575d-8a1e-3b2010d4a5f8",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1224-02-00",
+        "credits": 1.0,
+        "title": "피클볼 ",
+        "instructor": "이윤구",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(구기장)"
+    },
+    {
+        "id": "be441c56-0ee1-569c-a19d-35f5f84ff6ad",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1229-01-00",
+        "credits": 1.0,
+        "title": "비만관리를위한식이조절과운동 ",
+        "instructor": "조수연",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "스포츠(다목적실2)"
+    },
+    {
+        "id": "dacb78ec-f977-55df-91cb-0033e983a48e",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "UCL1205-01-00",
+        "credits": 3.0,
+        "title": "현대사회와정신건강 ",
+        "instructor": "박수현,장지흠",
+        "times_str": "수6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "46b77c94-540a-5c13-818e-315d0f46f15f",
+        "department": "선택교양(10~18학번)",
+        "major": "생활·건강영역",
+        "year": null,
+        "classification": "선교",
+        "code": "YCL1402-01-00",
+        "credits": 3.0,
+        "title": "건강과운동 ",
+        "instructor": "백일영,서상훈",
+        "times_str": "목8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

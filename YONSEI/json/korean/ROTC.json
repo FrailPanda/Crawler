@@ -1,0 +1,58 @@
+﻿[
+    {
+        "id": "3a558a9b-262e-50f0-bba2-917c4b643d7c",
+        "department": "ROTC",
+        "major": "군사학",
+        "year": null,
+        "classification": "일반",
+        "code": "MIL3002-01-00",
+        "credits": 2.0,
+        "title": "안전및조직관리사례연구 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3bfbd3b5-f8a7-55db-8f12-30bf1a052441",
+        "department": "ROTC",
+        "major": "군사학",
+        "year": null,
+        "classification": "일반",
+        "code": "MIL3002-02-00",
+        "credits": 2.0,
+        "title": "안전및조직관리사례연구 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "60576753-9ed0-5736-8f08-bac239ccd772",
+        "department": "ROTC",
+        "major": "군사학",
+        "year": null,
+        "classification": "일반",
+        "code": "MIL4002-01-00",
+        "credits": 2.0,
+        "title": "조직리더십사례연구 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "44a28497-10a7-5c2a-942b-19af43914ed1",
+        "department": "ROTC",
+        "major": "군사학",
+        "year": null,
+        "classification": "일반",
+        "code": "MIL4002-02-00",
+        "credits": 2.0,
+        "title": "조직리더십사례연구 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    }
+]

@@ -1,0 +1,4166 @@
+﻿[
+    {
+        "id": "86ac6e88-1110-5570-938d-92b30cbafdc5",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1202-01-00",
+        "credits": 2.0,
+        "title": "시창.청음(2) ",
+        "instructor": "이해미",
+        "times_str": "월7/월8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "10e92ab9-92d2-577d-8493-f84dfd48579b",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1202-02-00",
+        "credits": 2.0,
+        "title": "시창.청음(2) ",
+        "instructor": "변현주",
+        "times_str": "목5/목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "f0df268a-f9bc-5b9e-b669-c7705fd76d5b",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1202-03-00",
+        "credits": 2.0,
+        "title": "시창.청음(2) ",
+        "instructor": "오예승",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "01b72af5-0ff5-550e-8102-6af6d7a27a5a",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1202-04-00",
+        "credits": 2.0,
+        "title": "시창.청음(2) ",
+        "instructor": "안혜승",
+        "times_str": "금3,4/금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음102"
+    },
+    {
+        "id": "c55aa24a-edcf-5bcb-bc4b-516e0b877c12",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1204-01-00",
+        "credits": 2.0,
+        "title": "화성학(2) ",
+        "instructor": "장보미",
+        "times_str": "목3/목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b05d8e11-2f45-584d-a8f1-5f989f14acf2",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1204-02-00",
+        "credits": 2.0,
+        "title": "화성학(2) ",
+        "instructor": "송무경",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "971bb061-112c-5c2d-8ad0-c548679803eb",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1204-03-00",
+        "credits": 2.0,
+        "title": "화성학(2) ",
+        "instructor": "윤규일",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "58013bb8-9c08-5c1d-acd8-3cf59fe44a9a",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "1",
+        "classification": "전기",
+        "code": "CMP1204-04-00",
+        "credits": 2.0,
+        "title": "화성학(2) ",
+        "instructor": "송무경",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "72d8c282-019b-52ab-9bc4-cc3b2e037c1c",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2202-01-00",
+        "credits": 2.0,
+        "title": "시창.청음(4) ",
+        "instructor": "이해미",
+        "times_str": "월5/월6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "394cec91-ed58-5a7c-9f4e-7ce6b8f1b738",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2202-02-00",
+        "credits": 2.0,
+        "title": "시창.청음(4) ",
+        "instructor": "변현주",
+        "times_str": "목3,4/목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/음426"
+    },
+    {
+        "id": "290b7363-79bf-59d0-9e59-8a18bc1bb468",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2202-03-00",
+        "credits": 2.0,
+        "title": "시창.청음(4) ",
+        "instructor": "오예승",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "20471d63-e9b8-5f03-83e1-719ccb5f4db8",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2202-04-00",
+        "credits": 2.0,
+        "title": "시창.청음(4) ",
+        "instructor": "안혜승",
+        "times_str": "금5,6/금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음413"
+    },
+    {
+        "id": "f071dfb6-9552-5148-9bc5-dd97d04aedb6",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2204-01-00",
+        "credits": 2.0,
+        "title": "화성학(4) ",
+        "instructor": "장보미",
+        "times_str": "목5/목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b9c1920d-a078-5b50-9ce6-bfd12afc7bd0",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2204-02-00",
+        "credits": 2.0,
+        "title": "화성학(4) ",
+        "instructor": "송무경",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "b64f477d-d1e5-5ee2-ac18-268a4b7c5613",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2204-03-00",
+        "credits": 2.0,
+        "title": "화성학(4) ",
+        "instructor": "홍승희",
+        "times_str": "목5/목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음103/동영상콘텐츠"
+    },
+    {
+        "id": "fb2fa947-484c-5023-b175-e7ee4ec3c191",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전기",
+        "code": "CMP2204-04-00",
+        "credits": 2.0,
+        "title": "화성학(4) ",
+        "instructor": "이홍석",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5160467f-2d78-58e3-b1c9-119db3a11822",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "CMP2206-01-00",
+        "credits": 2.0,
+        "title": "음악사(2) ",
+        "instructor": "강용식",
+        "times_str": "화1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "96555eea-acc2-5278-ab9a-cbe126e4a417",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "CMP2206-02-00",
+        "credits": 2.0,
+        "title": "음악사(2) ",
+        "instructor": "김현주",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f8108150-3723-506c-b862-ca7825ae0a1e",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "CMP2206-03-00",
+        "credits": 2.0,
+        "title": "음악사(2) ",
+        "instructor": "김현주",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6def5cca-ea51-5b58-ab31-98d562a3a2cf",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3202-01-00",
+        "credits": 2.0,
+        "title": "음악사(4) ",
+        "instructor": "연상춘",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8c7e9e3c-7bc5-5f92-9ea8-a22676c33dc2",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3202-02-00",
+        "credits": 2.0,
+        "title": "음악사(4) ",
+        "instructor": "오윤록",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5b870cdc-2aad-505a-adf8-2d5dadd89155",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3202-03-00",
+        "credits": 2.0,
+        "title": "음악사(4) ",
+        "instructor": "연상춘",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4e2256d4-d70a-543d-89e4-a3ff1ce5a52c",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3204-01-00",
+        "credits": 3.0,
+        "title": "형식과분석 ",
+        "instructor": "설수경",
+        "times_str": "수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "27b2f916-aaed-5c97-9f1c-b6b8e266fd96",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3204-02-00",
+        "credits": 3.0,
+        "title": "형식과분석 ",
+        "instructor": "이은재",
+        "times_str": "화2/화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "26ab3170-fcb9-5b1e-a3f7-e3aabbbd6697",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3204-03-00",
+        "credits": 3.0,
+        "title": "형식과분석 ",
+        "instructor": "송무경",
+        "times_str": "수6,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "dc3799ed-20a4-5761-8e95-7bea780a56cc",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "4",
+        "classification": "전선",
+        "code": "CMP3213-01-00",
+        "credits": 2.0,
+        "title": "기초관현악법 ",
+        "instructor": "정성엽",
+        "times_str": "금7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "49d990c5-8ea3-5eac-963e-8827e1987cb5",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "4",
+        "classification": "전선",
+        "code": "MSC3001-01-00",
+        "credits": 2.0,
+        "title": "마스터클래스 ",
+        "instructor": "유영욱",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d54202c6-1451-5753-8032-7fb36f601e98",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP3816-01-00",
+        "credits": 2.0,
+        "title": "음악교재연구및지도법 ",
+        "instructor": "김선미",
+        "times_str": "수9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "abc654f6-0f5e-5453-9219-57104403aa3a",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP3823-01-00",
+        "credits": 3.0,
+        "title": "음악교육과정 ",
+        "instructor": "김선미",
+        "times_str": "월10,11,수11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "e52e7b68-69d0-5e04-b6ce-252eaa447a6a",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "9",
+        "classification": "전필",
+        "code": "CHM1207-01-00",
+        "credits": 3.0,
+        "title": "합창(심포니콰이어) ",
+        "instructor": "지현정",
+        "times_str": "월7,8/수3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음103/음211"
+    },
+    {
+        "id": "cb3961f7-888a-540f-a92a-6d8465f2eec7",
+        "department": "음악대학",
+        "major": "음악대학공통",
+        "year": "9",
+        "classification": "전필",
+        "code": "CHM1208-01-00",
+        "credits": 3.0,
+        "title": "합창(콘서트콰이어) ",
+        "instructor": "김보미",
+        "times_str": "수7,8,금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "5bab313f-5040-5954-b2f3-ad06cde7caf2",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-01-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "김보미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "94c54df3-5027-5532-958a-7770c07c9fe8",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-02-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "신동일",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ec93997c-6a8d-5148-b424-12d11b2dbbe4",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-03-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "강한미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d69b2671-57df-571b-8d0b-788faaa253e0",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-04-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "구민아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eee46988-e3f0-5bb6-82ff-0e353270aaa0",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-05-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "구상길",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9d7cb0c-55cd-5cbb-855f-3ed5dc425f63",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-06-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "남에셀",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "52746e56-be15-53c7-8126-59f94f1d1564",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-07-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "박옥주",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b19f1d56-54a6-5bbd-a7a3-82e3067f7f26",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-08-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "오세은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7ce9171d-58c8-5fbc-88c2-2ec7187a74e1",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-09-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "이은우",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3b4c2a51-63f9-5af8-88c2-075cd336ab89",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-10-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "이주희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e9bc893-1811-513e-9e80-2585b692bd75",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-11-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "유진아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9a49441-788f-5c05-a66c-78569ea81ed8",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-12-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "박혜원",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "30707637-53d5-5b9a-b2a6-3e14f3ade8cb",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-13-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "김현정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7ab08207-155c-5d70-ae6f-855d2c44da26",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-14-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4762a480-77ad-5ef6-8ae6-ad810f69cfad",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-15-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "김대광",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "79c0d3f9-dda8-5be4-af58-7990b1fcdfb5",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-16-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "장민혜",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9633d786-9ff1-5d05-8d43-2c80c6296ede",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-17-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "조현진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4230e471-f304-5790-abc7-0cfe93f29846",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-18-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "지현정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ed066597-3fe1-5aeb-ae7e-c79d4c5550a7",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-19-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "송형빈",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d11c398-3b6e-522e-b8df-b26833d5a515",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-20-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "오진현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0fe9ae07-d2ed-5554-8cb5-c310dfd07ac4",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-21-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "정준식",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "13b5ce48-7913-5325-ab60-354bc9837c63",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-22-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최혜경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1bdfed2d-d7ec-54f1-a5b7-33564a6d0d9f",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CHM1101-23-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "099153d4-e1bf-59e1-a413-a580c05ababe",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "CHM1209-01-00",
+        "credits": 2.0,
+        "title": "교회음악개론(2) ",
+        "instructor": "유진아",
+        "times_str": "수1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "bac6517f-3354-5962-a04f-e68ad93b6314",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CHM2202-01-00",
+        "credits": 2.0,
+        "title": "오르간즉흥연주법(2) ",
+        "instructor": "박수원",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음333"
+    },
+    {
+        "id": "6918807f-1a23-5048-8103-26ec2c93dc34",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CHM2203-01-00",
+        "credits": 2.0,
+        "title": "오르간제작 ",
+        "instructor": "김혜림",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음415"
+    },
+    {
+        "id": "57302c11-bd52-5cf1-89aa-edd4dcca8f56",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BSP3210-01-00",
+        "credits": 2.0,
+        "title": "가창(2) ",
+        "instructor": "이현섭",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음426"
+    },
+    {
+        "id": "b3efa062-cef7-5c2a-af4a-8d07cc2cc476",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CHM2207-01-00",
+        "credits": 2.0,
+        "title": "오르간즉흥연주법(4) ",
+        "instructor": "박수원",
+        "times_str": "수7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음333"
+    },
+    {
+        "id": "8e1e1d08-2888-5e77-a472-4c651b82b4e1",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CHM3219-01-00",
+        "credits": 2.0,
+        "title": "총보리딩(2) ",
+        "instructor": "장민혜",
+        "times_str": "수9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8d85ee6b-58b9-5ff0-bae2-6b8dd2864e87",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "CHM3204-01-00",
+        "credits": 2.0,
+        "title": "오르간문헌(2) ",
+        "instructor": "최지연",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음140"
+    },
+    {
+        "id": "db768952-f08b-5552-808c-fa13b20d8b8b",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "CHM4202-01-00",
+        "credits": 3.0,
+        "title": "예배와음악 ",
+        "instructor": "백정진",
+        "times_str": "월5,6,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "64623e5f-2d7b-5511-8697-34e493f4e22e",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CHM4223-01-00",
+        "credits": 2.0,
+        "title": "합창음악의역사(2) ",
+        "instructor": "최낙기",
+        "times_str": "금5,6/금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음102"
+    },
+    {
+        "id": "9e20bf10-7141-571f-9b59-9393abef582b",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM2653-01-00",
+        "credits": 1.0,
+        "title": "교회음악합창 ",
+        "instructor": "조현진",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "e513f308-c622-5876-a48d-12b4a8855724",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM2654-01-00",
+        "credits": 2.0,
+        "title": "합창음악분석 ",
+        "instructor": "정인수",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음413"
+    },
+    {
+        "id": "c162d277-05b5-5071-8225-5ca3ea178452",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM2655-01-00",
+        "credits": 2.0,
+        "title": "합창지휘클래스 ",
+        "instructor": "장민혜",
+        "times_str": "화10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "e9ceed20-9bea-548b-a413-fcf58120e987",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM4217-01-00",
+        "credits": 2.0,
+        "title": "합창지휘법 ",
+        "instructor": "김대광",
+        "times_str": "금7/금8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/음102"
+    },
+    {
+        "id": "71ca2d50-2943-55e0-8a09-2174ba91a893",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM4219-01-00",
+        "credits": 2.0,
+        "title": "오르간부전공(2) ",
+        "instructor": "김현정",
+        "times_str": "월3/월4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음333"
+    },
+    {
+        "id": "42ff46be-984d-577a-955d-6349ecbc6079",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "CHM4221-01-00",
+        "credits": 2.0,
+        "title": "오르간부전공(4) ",
+        "instructor": "박혜원",
+        "times_str": "월3/월4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음333"
+    },
+    {
+        "id": "e26f3278-1c9a-5ee4-8bc1-66cd31932c59",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3233-01-00",
+        "credits": 3.0,
+        "title": "하프시코드클래스(2) ",
+        "instructor": "조성연",
+        "times_str": "수9,10/금6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음322"
+    },
+    {
+        "id": "1ab39d0d-a776-5783-9539-f2cd3a5db860",
+        "department": "음악대학",
+        "major": "교회음악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP4205-01-00",
+        "credits": 3.0,
+        "title": "바로크음악연주법(2) ",
+        "instructor": "조성연",
+        "times_str": "화10/수5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음322"
+    },
+    {
+        "id": "ebe1a77d-951b-5705-a9c7-0b9efe3fdeea",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-01-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "나경혜",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a40a62b7-9b49-53eb-964d-c323f718a95d",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-02-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "강무림",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c0b4595a-db65-5aa4-9b54-39f70f1d4138",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-03-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "장현주",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3549f88e-2e4e-5f5e-b3e0-395d6375c0c8",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-04-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "문혜원",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e8cea87-83dd-5b6b-a2ec-ef06b7e4f217",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-05-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "양준모",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c37a711e-f7c9-5fd0-a7e1-c8bbc79acf2e",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-06-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "김관동",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "690aba28-36c3-50a0-8990-22c011247210",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-07-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "김종홍",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17f912aa-00e9-5304-b856-43ba949dc603",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-08-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "오진현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "79470638-e147-5785-bf47-9d04a26763c8",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-09-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "박명숙",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7b3b661d-ff6b-5baf-a7bc-dd1f01d4753c",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-10-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "박상희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e969fc3c-f9ae-5354-a7e5-c28581d911aa",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-11-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "박은용",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1630c7a5-572e-5da5-9406-82b85bfff6ac",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-12-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "성윤주",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "46de27af-515c-56a1-8ff5-d71ed6af64d5",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-13-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "정준식",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "712ca416-15a2-5c89-859a-4a8d20447a2d",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-14-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "정제윤",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c06ca373-1356-52e1-bc75-26abe9842ba3",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-15-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "조창후",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9b6b76ba-734d-574a-84a8-b784f7e67e9b",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-16-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최공석",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a221e6cc-6d37-56bb-858f-88986a200b21",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-17-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최세정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "aa898665-ab8b-59b3-9f4c-d911de6264e4",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-18-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최병혁",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e01a157e-3fab-5030-a3c1-2767d424a443",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "VOM1101-19-00",
+        "credits": 3.0,
+        "title": "전공실기 ",
+        "instructor": "최혜경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "db4a4887-7da7-564d-9e09-95c8bacbb445",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "VOM4222-01-00",
+        "credits": 3.0,
+        "title": "오페라액팅클래스(2) ",
+        "instructor": "장재호,나예미",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "642ed50e-55a6-595f-9777-b0efb076316a",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "VOM2213-01-00",
+        "credits": 1.0,
+        "title": "IPA(2) ",
+        "instructor": "김문희",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "37c70596-6be8-5da5-87a2-44960e474d06",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "VOM1204-01-00",
+        "credits": 1.0,
+        "title": "독일어딕션(2) ",
+        "instructor": "조창후",
+        "times_str": "금7/금8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음141/동영상콘텐츠"
+    },
+    {
+        "id": "fc50da11-b5f6-5114-941e-0241b9c90219",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "VOM1206-01-00",
+        "credits": 1.0,
+        "title": "이태리어딕션(2) ",
+        "instructor": "성윤주",
+        "times_str": "목5/목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/음404"
+    },
+    {
+        "id": "691c91de-45a2-54a3-b62e-c081a8839c12",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "VOM2210-01-00",
+        "credits": 2.0,
+        "title": "이태리가곡클래스(2) ",
+        "instructor": "장현주",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "32c6978c-62f2-5246-b6ed-ff13d8dea38d",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "VOM2206-01-00",
+        "credits": 1.0,
+        "title": "불어딕션(2) ",
+        "instructor": "김연정",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음117"
+    },
+    {
+        "id": "d9a3833b-2c63-5f16-8686-eedf67eefa8c",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "VOM2208-01-00",
+        "credits": 1.0,
+        "title": "영어딕션(2) ",
+        "instructor": "김문희",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음141"
+    },
+    {
+        "id": "ed0e0cff-1df1-5ed5-8d90-6ab009d1982c",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "VOM3211-01-00",
+        "credits": 1.0,
+        "title": "음성학 ",
+        "instructor": "김연아",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b2d3c6d4-0553-590a-a0f5-b9e059d970df",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "VOM3202-01-00",
+        "credits": 2.0,
+        "title": "독일가곡클래스(2) ",
+        "instructor": "양준모",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "76892091-04a1-510d-bb81-3950235291eb",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "VOM3204-01-00",
+        "credits": 2.0,
+        "title": "불어가곡클래스(2) ",
+        "instructor": "김연정",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음117"
+    },
+    {
+        "id": "480a0168-3f95-5112-8e38-fb8824e6816b",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "VOM3213-01-00",
+        "credits": 2.0,
+        "title": "영어가곡클래스(2) ",
+        "instructor": "문혜원",
+        "times_str": "금7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "음426"
+    },
+    {
+        "id": "c376c1fc-7893-5ba9-a65b-db963cce1651",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "VOM4223-01-00",
+        "credits": 3.0,
+        "title": "오페라앙상블클래스(2) ",
+        "instructor": "나경혜,조장훈,나예미",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음103"
+    },
+    {
+        "id": "cec07306-b601-594b-a881-641b8d28e39c",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "VOM3210-01-00",
+        "credits": 2.0,
+        "title": "성악문헌(2) ",
+        "instructor": "박경희",
+        "times_str": "화5/화6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음426/동영상콘텐츠"
+    },
+    {
+        "id": "299175ee-e8b8-5e10-9a59-b9cb9a8bc3e0",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "VOM4225-01-00",
+        "credits": 2.0,
+        "title": "한국가곡클래스(2) ",
+        "instructor": "강무림,김소강",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "99ad1745-67ae-5c44-98a0-f2c1ccf145d3",
+        "department": "음악대학",
+        "major": "성악전공",
+        "year": "9",
+        "classification": "전필",
+        "code": "VOM1102-01-00",
+        "credits": 2.0,
+        "title": "합창(베리타스콰이어) ",
+        "instructor": "민인기",
+        "times_str": "월7,8,금5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음211"
+    },
+    {
+        "id": "4d98fdb0-d33e-5e87-b104-1196de979f90",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2119-01-00",
+        "credits": 2.0,
+        "title": "실내악(피아노) ",
+        "instructor": "안정아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "16214b5c-96a7-510e-a4d4-cb646c60e684",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2119-02-00",
+        "credits": 2.0,
+        "title": "실내악(피아노) ",
+        "instructor": "이진영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4fc6d0f0-ae91-524b-8dee-18b4470eaa34",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-01-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "유영욱",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fb108aac-0b46-57f7-b3f0-4606cd43bb86",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-02-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "김영호",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6418bf0a-e9de-560a-87d6-8ce55faf19b9",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-03-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "김금봉",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cbb40295-2144-5e46-9135-5c0b035ab7d1",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-04-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "한영란",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "74e0abc5-b32a-513c-9302-060368926814",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-05-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "박종훈",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8299df89-a507-5a6c-a705-ae25af637422",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-06-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "페테르오브차로프",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8e909edf-abbb-5146-af46-bad92418d1f7",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-07-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "한유경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0913375a-d475-5d06-a39e-2c17ee4b0d9c",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-08-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "박진아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6de18b07-0344-5510-a3bb-d059e4466a0c",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-09-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "최리라",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "20120137-a741-5d28-a89a-4ddd8c611f26",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-10-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "이정은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "496d135d-7836-587b-9da0-b67605f344de",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-11-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "성보경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5ee47cac-48bd-553a-a96d-03c301c368d0",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-12-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "조희연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "aaeed8de-483c-5b1a-af61-34ebe8925b30",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-13-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "임호열",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "06917a7b-928c-5a3a-8353-99c2fe45fdfe",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-14-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "장지이",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "84b091f7-017c-5da4-a14c-5214646e6f6a",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-15-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "안종도",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d1d582e1-6948-5024-8809-7b7e0d0c81eb",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-16-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "황보영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3d8cbb91-be3c-5049-aa02-59f692aeee69",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-17-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "강혜령",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8d3dca4b-435b-50c2-9187-33f7836d0de7",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-18-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "장주연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "51942ad9-df4a-535d-9b69-0f628ad1957e",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-19-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "위은영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "554de49d-b8f0-5bba-a49d-a6ec73f6d98c",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-20-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "오윤아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e2fa503f-1891-5ed7-a94e-8198cbe3c46f",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-21-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "신명진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6906cf25-e19e-583b-bcc3-9662a1e20e3e",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-22-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "조윤수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17b869aa-9e7b-51f1-bda2-7a4eb592cc5f",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-23-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": "김다혜",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ccda03c4-f702-5162-9046-9005d70dc2f1",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-24-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2c49d663-a003-56e5-a648-38c557d00260",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-25-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8a69677b-577a-592b-a0f9-d30a1c6c2668",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1101-26-00",
+        "credits": 3.0,
+        "title": "전공실기(피아노) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d5839c1-1a58-5814-9500-721def20ddaa",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP2207-01-00",
+        "credits": 2.0,
+        "title": "피아노부전공 ",
+        "instructor": "맹은지",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음309"
+    },
+    {
+        "id": "005a0e2d-5c3e-55a6-a524-b846af86c200",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP2207-02-00",
+        "credits": 2.0,
+        "title": "피아노부전공 ",
+        "instructor": "강우희",
+        "times_str": "목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음141"
+    },
+    {
+        "id": "3456fb97-c71b-5483-8be6-a463d07ff9aa",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "BSP2202-01-00",
+        "credits": 3.0,
+        "title": "건반화성(2) ",
+        "instructor": "한경은",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음103"
+    },
+    {
+        "id": "f766a4f9-db22-5e29-a8ce-541a79d04092",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BSP2204-01-00",
+        "credits": 3.0,
+        "title": "건반화성(4) ",
+        "instructor": "황윤하",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6d8e6e34-a03f-506b-bb3d-2d163fc9b4b0",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BSP3202-01-00",
+        "credits": 3.0,
+        "title": "피아노문헌(2) ",
+        "instructor": "송민주",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음413"
+    },
+    {
+        "id": "6d0f1d07-72b1-5507-b41f-54a740b6366b",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BSP4201-01-00",
+        "credits": 3.0,
+        "title": "피아노문헌(4) ",
+        "instructor": "유희정",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음413"
+    },
+    {
+        "id": "3ab4be48-68a6-569c-bcb8-3bdc9e19d4e6",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BSP3206-01-00",
+        "credits": 3.0,
+        "title": "피아노교수법(2) ",
+        "instructor": "정호진",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음102"
+    },
+    {
+        "id": "71fbc852-d270-56d3-811f-01cc75143fbe",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BSP3204-01-00",
+        "credits": 3.0,
+        "title": "피아노반주법(2) ",
+        "instructor": "김지은",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음140"
+    },
+    {
+        "id": "846babf6-aeaf-5ce2-baa3-634d560a095b",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP1123-01-00",
+        "credits": 2.0,
+        "title": "근현대피아노음악(2) ",
+        "instructor": "임수연",
+        "times_str": "금6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "음404"
+    },
+    {
+        "id": "a8c7123d-3ea8-5d67-a705-bbc9e3bbd653",
+        "department": "음악대학",
+        "major": "피아노전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3225-01-00",
+        "credits": 2.0,
+        "title": "피아노연주법세미나(2) ",
+        "instructor": "한유경",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음201"
+    },
+    {
+        "id": "b512583c-abc2-537f-83aa-0f403371b541",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-01-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "김두영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d52a04e6-1c1f-5cab-ae4e-58018052d114",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-02-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "김용식",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4793460e-bf23-5dab-9eb0-f3f00e5790d6",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-03-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "김현지",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b7f72e9e-a892-552a-9252-da7734aad540",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-04-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "장우리",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8c9ecf69-bfc9-5c60-a1ba-954bc688ce66",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-05-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "조명희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ce080231-09b1-5dc7-8852-9b2b8b7e4bd4",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2209-06-00",
+        "credits": 2.0,
+        "title": "실내악(현악) ",
+        "instructor": "차민정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "097d3102-99c4-56e3-b749-ffbf82fe2c08",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2210-01-00",
+        "credits": 2.0,
+        "title": "실내악(관악) ",
+        "instructor": "정성윤",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c97ac0da-97a1-5a9c-a314-75fc1a57a9a4",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2210-02-00",
+        "credits": 2.0,
+        "title": "실내악(관악) ",
+        "instructor": "변규리",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8641b854-de3d-5bd4-a5ac-a85ccb877cb7",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2210-03-00",
+        "credits": 2.0,
+        "title": "실내악(관악) ",
+        "instructor": "김상일",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6241b7f8-fc98-5cd8-9d7c-33ecb1fab0c8",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2210-04-00",
+        "credits": 2.0,
+        "title": "실내악(관악) ",
+        "instructor": "이희석",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bfe17c13-f257-5987-87d4-e71e82fe7d91",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP2210-05-00",
+        "credits": 2.0,
+        "title": "실내악(관악) ",
+        "instructor": "이철웅",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7beeed0f-612e-5410-ab2b-7dd8a501b1ca",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-01-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김현아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "77971495-7e0e-535e-bff2-d2437278aaa2",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-02-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "조영미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "00d91b58-5336-548d-8c8a-c8b52c910162",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-03-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김유리",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fb1583ac-7095-5b5e-b7fe-4afc74668709",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-04-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김정연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eb221df7-699d-5063-8c52-8c8f76d5f136",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-05-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김현남",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "032846d2-f6df-5bc9-9cef-56497d94f9a4",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-06-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "윤동환",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9f054ff-0876-5763-be6f-3e6836c36a60",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-07-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이민경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f158bf59-7402-5e6a-8e0c-53b9af11b33b",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-08-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이윤의",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "47e9dd76-9aea-5f9f-9859-2f852930bb55",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-09-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "조은주",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "86a6933f-a069-5f48-93df-7e00b9cb4013",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-10-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "한윤지",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "85973c6f-f6ab-53c4-b49b-8caf496b5c3e",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-11-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김상진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "caa12cd1-a6d9-50ec-8a28-e9040d122db3",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-12-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이은숙",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d9b4f53e-a690-5eb4-97ca-c168fb609b3d",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-13-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이한나",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e3c86c76-a3c6-560d-a84a-1fbe8ed42c37",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-14-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "조영창",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "91953bd9-f5ee-5d02-8c2e-4493e014c8a0",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-15-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "양성원",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "19ac9d04-f7f0-5aba-9ef9-53f1ce1fb889",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-16-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "신지숙",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "baead8c1-6a39-5af7-a8a4-d766b9b6051b",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-17-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "원진경",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8a9cf03b-92b8-53c0-8d6e-8b91f460c890",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-18-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이정란",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5cb1c850-fd41-502f-92ba-74a302eaa399",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-19-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이현지",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "612bfb8a-e9a4-5ff1-8b05-f258067e2f69",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-20-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "최정은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2b8b029e-4095-543b-8b68-30862b0ec17e",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-21-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "서민수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "329cc261-1a09-5576-b8fb-bfa0356fc2ef",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-22-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이석원",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8565c1e9-1abd-5595-9b8f-9645de872809",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-23-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이영수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8cfb5330-481e-55aa-98bb-b1d317f2df4f",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-24-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이창형",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8f5574e2-c7d0-5e4f-8198-a0dedb32d5da",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-25-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "길정은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "90d9e757-39d1-5009-9d61-b889dbaa3b19",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-26-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "조민정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7c7a4abc-cb8c-5aad-ac36-03cfe9749991",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-27-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이철웅",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3c41beee-9576-5d05-9466-0340f66150a7",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-28-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "조성현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "89fc926d-20af-5d60-9f9e-c7f84e458ed0",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-29-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "박현정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fc5f7d4a-a36e-53dc-a2dd-3fee54b0a8bf",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-30-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이윤영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a6efb369-53ce-5a79-b1f3-84e1a11f1138",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-31-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이주희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "667201ed-894e-5d5a-b1ce-1804bd12039e",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-32-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "윤지용",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a3a004ef-0120-57a8-87b5-5d2aa0de8438",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-33-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "윤지원",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ed2eef30-d8ff-59b0-a3a4-d65c694c7dff",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-34-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김민조",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b3bdc229-8823-5961-af2b-9c63df2f4388",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-35-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이용근",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1483165f-6079-5da8-a455-2fecbec4b453",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-36-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이충헌",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4d08d333-f7da-54b6-bb11-6a76a5eb39eb",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-37-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "임명진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ce06823d-0bba-5f66-9b40-1ccc5299dae1",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-38-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이민호",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "254fef89-939c-5ed8-a0e3-b51961540a70",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-39-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이승동",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1d8cecf9-9687-5e27-b7f7-f69f5b86e4aa",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-40-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김기범",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "57e497ac-cb9d-56f7-b194-522a5189d2f8",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-41-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김병호",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a1df6466-3cd7-5e1a-8bc4-0cb18148e074",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-42-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김완선",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c20c2e55-ca8c-5f5f-a166-cb54c0d5ea08",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-43-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "이응우",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f5c1f729-394a-59c4-bf1b-5b4de0d2a7a5",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-44-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "최홍현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d897b73-cfce-54a7-98ed-52452818283a",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-45-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김삼중",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a8ad8ebf-1185-5c9d-ab8d-ccd0fa58b79e",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-46-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "김경수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f8baa8c9-e3d4-53a6-a764-731f00bd4d76",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-47-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "인유진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cb633609-ebb4-59e4-84e5-bfd253e3d78f",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-48-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "고관수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d830a9ad-911c-5d25-bce6-1013dd145b4a",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "BSP1121-49-00",
+        "credits": 3.0,
+        "title": "전공실기(관현악) ",
+        "instructor": "박준태",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5ad0d926-962e-59e4-b3cc-681a6f8fe163",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP1117-01-00",
+        "credits": 1.0,
+        "title": "관악기를위한오케스트라워크샵 ",
+        "instructor": "김경아",
+        "times_str": "화10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7892148d-671b-5b52-8cdf-b9a2d37c5c7a",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3223-01-00",
+        "credits": 1.0,
+        "title": "창작곡연주(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5222156e-b003-5642-8f00-0da6290ddb58",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-01-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "이철호",
+        "times_str": "토3,4",
+        "times": {
+            "5": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음103"
+    },
+    {
+        "id": "62dcf8ed-1415-559a-992f-adf1e9b9ea54",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-02-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "장현진",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "86b21099-f3e6-54b9-9d31-25632d765aa8",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-03-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "황수은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1e9d8fbd-1d8e-59b0-aee8-56e4bcbb4ca4",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-04-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "김민아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "33ade623-20e3-5a63-bcfc-0673777e9683",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-05-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "정성윤",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b27c94dd-afb3-59d7-9a73-0789e643eecf",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-06-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "주장현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8857547b-0a4f-52c1-8531-f1e4d691449e",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-07-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "경홍수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b5fa4b03-5241-5a56-8634-2cbd9574ca48",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-08-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": "최홍현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "48f9d337-c32f-5913-933a-7f3f9f47daee",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-09-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9e128d5a-d160-5018-87fb-c93edd419a9c",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "BSP3224-10-00",
+        "credits": 1.0,
+        "title": "특수악기연주세미나 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c97bab30-3899-5526-9405-1eb53569240c",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "BSP2211-01-00",
+        "credits": 3.0,
+        "title": "연세심포니오케스트라 ",
+        "instructor": "황미나",
+        "times_str": "화7,8,9,금7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음201"
+    },
+    {
+        "id": "64c06330-8194-547f-8b36-37c4ae83f49d",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BSP4208-01-00",
+        "credits": 1.0,
+        "title": "오케스트라레파토리세미나(관악)(2) ",
+        "instructor": "김윤희,안혜준,한승화,정성윤,김연화,박찬유,김영민,경홍수,홍태경",
+        "times_str": "금1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "음141"
+    },
+    {
+        "id": "99e5ebfa-3611-5d32-aaa5-8056567b32aa",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BSP4209-01-00",
+        "credits": 3.0,
+        "title": "연세필하모닉오케스트라 ",
+        "instructor": "최수열",
+        "times_str": "월7,8,9,목7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음201"
+    },
+    {
+        "id": "463575a3-5421-54db-a8ab-308d99650037",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP1118-01-00",
+        "credits": 1.0,
+        "title": "관합주 ",
+        "instructor": "이철웅",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음201"
+    },
+    {
+        "id": "3688b631-9077-5445-a4e1-f2c247931d8f",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP1119-01-00",
+        "credits": 1.0,
+        "title": "현합주 ",
+        "instructor": "김상진",
+        "times_str": "수8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음201"
+    },
+    {
+        "id": "e4d7867c-576c-597b-b99f-0051900cc92a",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP1125-01-00",
+        "credits": 1.0,
+        "title": "가창(2)(관현악전공) ",
+        "instructor": "송윤진",
+        "times_str": "수3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음140"
+    },
+    {
+        "id": "fb383afe-4a33-55db-9698-6c71a048d4a3",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3212-01-00",
+        "credits": 2.0,
+        "title": "관현악지휘법(2) ",
+        "instructor": "조장훈",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음117"
+    },
+    {
+        "id": "4a23dc0c-b16a-5376-8862-0b698249d4f2",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3216-01-00",
+        "credits": 3.0,
+        "title": "현대음악앙상블(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eecf76a3-e511-51b5-be6e-b5164b5f74bf",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3226-01-00",
+        "credits": 3.0,
+        "title": "관악문헌 ",
+        "instructor": "김윤희",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "음413"
+    },
+    {
+        "id": "7e08b339-30ed-5c54-a3c2-bd56352deae8",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP3235-01-00",
+        "credits": 3.0,
+        "title": "현악문헌(2) ",
+        "instructor": "장혜리",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "음102"
+    },
+    {
+        "id": "1ab39d0d-a776-5783-9539-f2cd3a5db860",
+        "department": "음악대학",
+        "major": "관현악전공",
+        "year": "9",
+        "classification": "전선",
+        "code": "BSP4205-01-00",
+        "credits": 3.0,
+        "title": "바로크음악연주법(2) ",
+        "instructor": "조성연",
+        "times_str": "화10/수5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음322"
+    },
+    {
+        "id": "b21d5e4b-ef4c-5291-91c0-0352a3d590bd",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-01-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "유범석",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "40d1ba6a-b135-5df2-a7ae-22504b98ae8a",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-02-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "정종열",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ae6ccd3e-5e9c-5bf0-901d-abc246105504",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-03-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "윤성현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e232f660-a273-57b7-8a49-29e3868baa62",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-04-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "임지선",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7a0d17ca-853e-5219-a509-88af6f4b3c1f",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-05-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "이홍석",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4096a175-285c-533c-88f7-9aa4417d1582",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-06-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "강종희",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "282d3223-0c24-501d-8f9f-76f2980bc703",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-07-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "안상미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "40440b60-2d3e-59ba-b835-ce90db1aa982",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-08-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "이은지",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "00e7bd99-f880-5e2d-8ddb-558b0c49228e",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-09-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "정세훈",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f3ac49c1-a4f7-5bbb-b525-8fcd474631b4",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-10-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "전예은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b4fb7797-8b19-582d-9eb1-fdb8a4ee56a0",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "0",
+        "classification": "전필",
+        "code": "CMP1101-11-00",
+        "credits": 3.0,
+        "title": "전공실기(작곡) ",
+        "instructor": "박지수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bc4c881a-944f-5df9-8309-7a0d4fb67935",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "CMP1206-01-00",
+        "credits": 2.0,
+        "title": "악기론(2) ",
+        "instructor": "정성엽",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "4422bd9b-df2d-5691-b6dd-8747528b1031",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CMP2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(현대음악듣기) ",
+        "instructor": "정종열",
+        "times_str": "수5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "음140"
+    },
+    {
+        "id": "df5c917b-e7af-504b-8d15-611bd629a8dc",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP3211-01-00",
+        "credits": 3.0,
+        "title": "국악개론 ",
+        "instructor": "이정희",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "f77a2e25-17e0-580e-a036-ead578c7ebc4",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "CMP4205-01-00",
+        "credits": 3.0,
+        "title": "현대음악문헌 ",
+        "instructor": "유범석",
+        "times_str": "화2/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "음404/실시간온라인"
+    },
+    {
+        "id": "311f7af2-fa49-58f8-a68e-0ef792d6fb09",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CMP3210-01-00",
+        "credits": 2.0,
+        "title": "전자음악(2) ",
+        "instructor": "김효주",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "dd59a1d8-89a1-5081-be42-df2d6e595e44",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CMP3214-01-00",
+        "credits": 3.0,
+        "title": "고급대위법 ",
+        "instructor": "이상인",
+        "times_str": "화3/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/음309"
+    },
+    {
+        "id": "f627696d-8136-5425-b0b2-f16cfe88657d",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "CMP4208-01-00",
+        "credits": 3.0,
+        "title": "작곡세미나 ",
+        "instructor": "정종열",
+        "times_str": "화3,4/수2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/음413"
+    },
+    {
+        "id": "3fad735d-8da3-5d76-9cc1-ddc1fea07481",
+        "department": "음악대학",
+        "major": "작곡전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CMP4209-01-00",
+        "credits": 3.0,
+        "title": "고급관현악법 ",
+        "instructor": "이상인",
+        "times_str": "화7,8/목2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/음103"
+    }
+]

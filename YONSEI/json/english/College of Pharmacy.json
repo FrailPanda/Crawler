@@ -1,0 +1,640 @@
+﻿[
+    {
+        "id": "e6c56dfe-e5d3-5df3-a746-203c915aea9f",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3102-01-00",
+        "credits": 0.0,
+        "title": "DEVELOPING PHARMACY CAREER(2) ",
+        "instructor": "Han Jung Min",
+        "times_str": "Thu9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "IVHD114"
+    },
+    {
+        "id": "c347ad17-7568-5106-9066-c75be376cec8",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3006-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR BIOLOGY ",
+        "instructor": "Kwon So Hee",
+        "times_str": "Tue5,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "06a71e0e-00ac-5c32-8b76-64ef8009163d",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3007-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL AND PUBLIC HEALTH PHARMACY ",
+        "instructor": "Kang Hye-Young",
+        "times_str": "Mon6,Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "76e12cc0-130a-57de-81fa-3725b4acf692",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3008-01-00",
+        "credits": 3.0,
+        "title": "ORGANIC DRUG SYNTHESIS ",
+        "instructor": "Kim Ikyon",
+        "times_str": "Mon2,3,Thu2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "b6aeea0c-0cfe-52f2-9777-444ccb45e628",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3009-01-00",
+        "credits": 3.0,
+        "title": "PHARMACOGNOSY ",
+        "instructor": "KIM SEUNG HYUN",
+        "times_str": "Tue2,3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "23becd9e-4483-5e49-bcef-f9e826830937",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3010-01-00",
+        "credits": 3.0,
+        "title": "MEDICINAL INSTRUMENTAL ANALYSIS ",
+        "instructor": "Jeong Jin-Hyun",
+        "times_str": "Mon7,Thu7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "dc758285-5ebf-5e4c-b796-e2585bdccab8",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3011-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN PHARMACY(2) ",
+        "instructor": "KIM SEUNG HYUN/Kim Jeong-Dong",
+        "times_str": "Tue6,7,8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "IVHD401"
+    },
+    {
+        "id": "6987bf87-0b25-58b1-be86-7d520a79bd6e",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHM3015-01-00",
+        "credits": 3.0,
+        "title": "MICROBIOLOGY ",
+        "instructor": "Han Jung Min",
+        "times_str": "Tue1,Wed8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "4fc97fe1-c262-526b-892d-d4e820bc6260",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3104-01-00",
+        "credits": 0.0,
+        "title": "DEVELOPING PHARMACY CAREER(4) ",
+        "instructor": "Han Jung Min",
+        "times_str": "Thu9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "IVHD114"
+    },
+    {
+        "id": "1fad123e-72b4-5320-b7c1-42d113903dfc",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3023-01-00",
+        "credits": 3.0,
+        "title": "PHARMACOLOGY(2) ",
+        "instructor": "Jinu LEE",
+        "times_str": "Thu8,Fri2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "IVHD117"
+    },
+    {
+        "id": "a0825e96-dce3-5898-b268-94344289ae42",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3024-01-00",
+        "credits": 3.0,
+        "title": "PHARMACEUTICS ",
+        "instructor": "Seok Su Hyun",
+        "times_str": "Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "IVHD117"
+    },
+    {
+        "id": "8ec6e9f6-a313-58f6-a25b-eaaf0d630c5c",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3025-01-00",
+        "credits": 3.0,
+        "title": "TOXICOLOGY ",
+        "instructor": "Min Do Sik",
+        "times_str": "Mon9,Tue8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "IVHD117"
+    },
+    {
+        "id": "9f128036-64d3-5fc1-933d-8aa6b371ad02",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3027-01-00",
+        "credits": 3.0,
+        "title": "PHARMACY ADMINISTRATION ",
+        "instructor": "Han Euna",
+        "times_str": "Mon7,8/Thu7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "IVHD117/Realtime online lecture"
+    },
+    {
+        "id": "dc6ddb6a-f50b-502b-9f03-958fa2cadbe5",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3028-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO CLINICAL PHARMACY ",
+        "instructor": "YU YUN MI/KIM SEUNGYEON",
+        "times_str": "Mon5,6/Tue10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "IVHD117/Pre-recorded lecture"
+    },
+    {
+        "id": "578dcf8c-1498-5289-8bf8-291ba96f0210",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "PHM3029-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTS IN PHARMACY(4) ",
+        "instructor": "Min Do Sik",
+        "times_str": "Wed6,7,8,9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "IVHD201"
+    },
+    {
+        "id": "a9115b41-6955-5d57-b6d7-89b2efdb431a",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHM3026-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING DISEASES ",
+        "instructor": "Choi Junjeong",
+        "times_str": "Tue5,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f68d2c79-bcd1-5e1b-9909-dc4b95f598b7",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PHM3054-01-00",
+        "credits": 3.0,
+        "title": "DRUG DISCOVERY AND SCREENING METHODS ",
+        "instructor": "Namkung Wan",
+        "times_str": "Tue2,3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "IVHD117"
+    },
+    {
+        "id": "770f0019-915a-547f-bee7-5fc235382818",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4130-01-00",
+        "credits": 3.0,
+        "title": "PHARMACEUTICAL INDUSTRY AND PHARMACY ADMINISTRATION EXTERNSHIP ",
+        "instructor": "Kang Hye-Young/Kim YoungSoo/Han Euna",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "168d1e37-1bcb-51e1-be32-1a90751d2f5f",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4100-01-00",
+        "credits": 4.0,
+        "title": "HOSPITAL PHARMACY EXTERNSHIP ",
+        "instructor": "YU YUN MI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e28142e2-062b-53a0-91e5-ed4cdc8cc80a",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4100-02-00",
+        "credits": 4.0,
+        "title": "HOSPITAL PHARMACY EXTERNSHIP ",
+        "instructor": "Chang Min Jung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "646c2a0f-7d64-5620-a655-3cc1186be195",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4110-01-00",
+        "credits": 4.0,
+        "title": "CLINICAL PHARMACY EXTERNSHIP ",
+        "instructor": "YU YUN MI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eb7ba29a-0d01-5f4f-b491-394dc3b6b9d3",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4110-02-00",
+        "credits": 4.0,
+        "title": "CLINICAL PHARMACY EXTERNSHIP ",
+        "instructor": "Chang Min Jung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ca5552b7-9282-529c-bf37-77d79f7afbeb",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "5",
+        "classification": "Major Requisite",
+        "code": "PHM4120-01-00",
+        "credits": 4.0,
+        "title": "COMMUNITY PHARMACY EXTERNSHIP ",
+        "instructor": "YU YUN MI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2df5453d-f419-5974-911a-5164808bdb90",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Requisite",
+        "code": "PHM4320-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED PHARMACY PRACTICE(2) ",
+        "instructor": "Kim YoungSoo/Min Do Sik",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "48172023-1a78-5328-8cd8-fa4ae5c7d8ab",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Elective",
+        "code": "PHM3032-01-00",
+        "credits": 2.0,
+        "title": "PREPARATION OF HERBAL MEDICINE ",
+        "instructor": "KIM SEUNG HYUN",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "IVHD116"
+    },
+    {
+        "id": "c1d2765f-200d-5f23-bbae-dab2e27c8f22",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Elective",
+        "code": "PHM3058-01-00",
+        "credits": 2.0,
+        "title": "PHARMACY RELATED LAWS AND REGULATIONS ",
+        "instructor": "Han Euna",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "IVHD116"
+    },
+    {
+        "id": "1356f22b-5436-5071-8201-f697052e1bae",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Elective",
+        "code": "PHM3105-01-00",
+        "credits": 2.0,
+        "title": "COSMETOLOGY ",
+        "instructor": "Sung Jong Hyuk",
+        "times_str": "Tue6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "IVHD115"
+    },
+    {
+        "id": "4d47ec0b-0e64-5eff-ae55-5fe3e2ea3557",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Elective",
+        "code": "PHM3049-01-00",
+        "credits": 3.0,
+        "title": "PHARMACOTHERAPY(4) ",
+        "instructor": "Chang Min Jung",
+        "times_str": "Tue5,Wed6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "IVHD116"
+    },
+    {
+        "id": "af127660-9a74-5c05-a84e-af744cfc61e6",
+        "department": "College of Pharmacy",
+        "major": "Department of Pharmacy",
+        "year": "6",
+        "classification": "Major Elective",
+        "code": "PHM3050-01-00",
+        "credits": 3.0,
+        "title": "DRUG DESIGN AND DISCOVERY ",
+        "instructor": "Han Gyoonhee",
+        "times_str": "Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

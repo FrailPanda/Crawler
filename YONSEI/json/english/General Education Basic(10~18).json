@@ -1,0 +1,641 @@
+﻿[
+    {
+        "id": "d088e780-ec2a-5fb0-9fed-41d08c2872e5",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1004-01-00",
+        "credits": 0.0,
+        "title": "CHAPEL(4) ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "46bbb475-6de6-5155-afaa-23004c36447a",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1004-02-00",
+        "credits": 0.0,
+        "title": "CHAPEL(4) ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1accf388-7e30-5b5d-b0b5-270b0bea728b",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1012-01-00",
+        "credits": 0.0,
+        "title": "CHAPEL(2) ",
+        "instructor": "Chung Meehyun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f09af25e-3131-59f2-abc8-cbed912b72fe",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1008-01-00",
+        "credits": 0.5,
+        "title": "CHAPEL(D) ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7cf1f9aa-a898-589e-b769-a97e1fff17dc",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1008-02-00",
+        "credits": 0.5,
+        "title": "CHAPEL(D) ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "259ba9b2-b5c5-5d6f-9f48-4c75bb250f54",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1010-01-00",
+        "credits": 0.5,
+        "title": "CHAPEL(B) ",
+        "instructor": "Chung Meehyun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8c1785ea-c00e-52b3-8efb-653b31a3aedd",
+        "department": "General Education Basic(10~18)",
+        "major": "Understanding Christianity",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1101-11-00",
+        "credits": 3.0,
+        "title": "CHRISTIANITY & WORLD CULTURE ",
+        "instructor": "CHO JAI KOOK",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S208"
+    },
+    {
+        "id": "61359aaf-428f-541d-8d3b-973c923280dc",
+        "department": "General Education Basic(10~18)",
+        "major": "Understanding Christianity",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1102-12-00",
+        "credits": 3.0,
+        "title": "MODERN WORLD AND CHRISTIANITY ",
+        "instructor": "HAN, IN CHUL",
+        "times_str": "Tue7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "036ef38a-63e1-5ad4-bb3c-cdb80a9dc1dd",
+        "department": "General Education Basic(10~18)",
+        "major": "Understanding Christianity",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCA1103-07-00",
+        "credits": 3.0,
+        "title": "BIBLE AND CHRISTIANITY ",
+        "instructor": "KIM JU HWAN",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S208/Realtime online lecture"
+    },
+    {
+        "id": "3f2f0950-91a3-5163-a0e5-7b4817fcc8de",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1001-01-00",
+        "credits": 2.0,
+        "title": "BASIC COLLEGE ENGLISH Ⅰ ",
+        "instructor": "Yu Je Wang",
+        "times_str": "Tue5,Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0a631a35-a19a-589d-887a-3acb1cd73c57",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1002-01-00",
+        "credits": 2.0,
+        "title": "BASIC COLLEGE ENGLISH Ⅱ ",
+        "instructor": "Beckett Jeremy Robert Wilson",
+        "times_str": "Mon4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "174dca44-fa63-5881-a448-ceb9aee4809a",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1101-01-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅰ ",
+        "instructor": "Yu Je Wang",
+        "times_str": "Tue6,Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d37d3812-4e1b-5fd5-b483-f635cc243f90",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1101-02-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅰ ",
+        "instructor": "Beckett Jeremy Robert Wilson",
+        "times_str": "Mon2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b33dc82c-6a56-57e5-b487-352f62eed209",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1101-03-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅰ ",
+        "instructor": "Beckett Jeremy Robert Wilson",
+        "times_str": "Mon7,Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "70578360-f053-58e7-93ea-d1d0544a6911",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1102-01-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅱ ",
+        "instructor": "Oh Jin Sook",
+        "times_str": "Tue2,Thu2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0331936b-aeeb-5e6d-9b5e-eb5d3ce2b7bf",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1102-02-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅱ ",
+        "instructor": "Oh Jin Sook",
+        "times_str": "Tue3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8b038b1f-31b3-567c-87f0-cf3f1c4536bb",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1102-03-00",
+        "credits": 2.0,
+        "title": "COLLEGE ENGLISH Ⅱ ",
+        "instructor": "Beckett Jeremy Robert Wilson",
+        "times_str": "Mon8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3ae2fc63-c4cc-526b-a2bc-5090f6a3d292",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1201-01-00",
+        "credits": 2.0,
+        "title": "ADVANCED COLLEGE ENGLISH Ⅰ ",
+        "instructor": "Yu Je Wang",
+        "times_str": "Tue4,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "793cd85f-a651-5e6e-85bf-7a1c809ed55e",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCC1202-01-00",
+        "credits": 2.0,
+        "title": "ADVANCED COLLEGE ENGLISH Ⅱ ",
+        "instructor": "Beckett Jeremy Robert Wilson",
+        "times_str": "Mon3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "30d70397-1e22-5c46-bf85-a93938c8c0bd",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-51-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "Yu Gwang-Su",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S108"
+    },
+    {
+        "id": "a935e9ba-4a48-5af5-b04c-6ff3ff2f5d17",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-52-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "Yu Gwang-Su",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S408"
+    },
+    {
+        "id": "6b343e4e-35ba-5d78-ab4f-915041b8c973",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-53-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "Yu Gwang-Su",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S408"
+    },
+    {
+        "id": "17228671-3082-5d12-ac9e-b3078949179f",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-54-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "KIM SUNHYE",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S408"
+    },
+    {
+        "id": "f16466f4-825c-5b0f-b01e-d38b23c38373",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-55-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "QUAN YINZHU",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    },
+    {
+        "id": "01545c6e-d638-5724-87fc-0a1ba22b558b",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-56-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "PARK KYUNG WOO",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    },
+    {
+        "id": "95b2488a-3596-55c2-b2ed-475f482c97e3",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-57-00",
+        "credits": 3.0,
+        "title": "WRITING ",
+        "instructor": "PARK KYUNG WOO",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    },
+    {
+        "id": "e4f400aa-8c1d-552b-8dda-9c02f0ebc399",
+        "department": "General Education Basic(10~18)",
+        "major": "UC Basic",
+        "year": null,
+        "classification": "Common Basic",
+        "code": "YCB1101-58-00",
+        "credits": 3.0,
+        "title": "WRITING(BASIC KOREAN) ",
+        "instructor": "QUAN YINZHU",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    }
+]

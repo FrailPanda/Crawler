@@ -1,0 +1,1876 @@
+﻿[
+    {
+        "id": "b3ad1784-291b-5a22-b0c9-693355270671",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CNT1101-01-00",
+        "credits": 3.0,
+        "title": "APPAREL INDUSTRY AND FASHION ",
+        "instructor": "SIM JEONGEUN/LEE MYUNGEUN",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3aea6653-a5d7-5bec-b2f5-a5fa815a0eaa",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CNT2109-01-00",
+        "credits": 3.0,
+        "title": "FASHION MARKETING ",
+        "instructor": "Ko, Eunju",
+        "times_str": "Wed2,3,4/Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH308/Realtime online lecture"
+    },
+    {
+        "id": "ac756ff8-6e58-5fb9-8ba8-fa60da3e0691",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CNT2120-01-00",
+        "credits": 3.0,
+        "title": "APPAREL DESIGN ",
+        "instructor": "CHO HYUNSEUNG",
+        "times_str": "Thu6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "2a1f10c8-631f-5367-ac87-b38081e01fce",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CNT2120-02-00",
+        "credits": 3.0,
+        "title": "APPAREL DESIGN ",
+        "instructor": "CHO HYUNSEUNG",
+        "times_str": "Fri6,7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "73df194a-acf0-546f-9710-31f3caecce28",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CNT2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "AHN SUHYOUNG",
+        "times_str": "Fri3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "91183bd6-caa2-51b0-9f4b-dc1c4f5de349",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CNT2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE Eugene",
+        "times_str": "Mon6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "09bc2118-3745-58ea-86b9-f2ad284c2af0",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CNT2002-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE JEONG SUN",
+        "times_str": "Mon3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "380cb01f-f8ae-5c9b-a303-d82d40da88a9",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CNT2111-01-00",
+        "credits": 3.0,
+        "title": "TEXTILE FINISHING & ADVANCED MATERIALS ",
+        "instructor": "LEE Eugene",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f7ac1079-63c9-5a12-89b2-167bafce6e2a",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3105-01-00",
+        "credits": 3.0,
+        "title": "PATTERN DRAPING ",
+        "instructor": "Oh Seol Young",
+        "times_str": "Mon2,3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SSH312"
+    },
+    {
+        "id": "35d5b447-32f8-5cf6-824b-f6c74a58a401",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3114-01-00",
+        "credits": 3.0,
+        "title": "BRAND MANAGEMENT OF CULTURE AND FASHION ",
+        "instructor": "Ko, Eunju/AUSPRUNG ULF",
+        "times_str": "Wed6,7,8,9/Wed6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH308/Realtime online lecture"
+    },
+    {
+        "id": "ba7dbfc4-8088-50bc-adfd-517612193ba5",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3121-01-00",
+        "credits": 3.0,
+        "title": "TEXTILE CONSTRUCTION AND DESIGN ",
+        "instructor": "Lee Seungsin/SONG YOUJEONG",
+        "times_str": "Tue4/Tue4/Thu6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SSH308/SSHB124/Realtime online lecture"
+    },
+    {
+        "id": "8a269474-f04e-57fa-b36e-7016c67e515f",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3124-01-00",
+        "credits": 3.0,
+        "title": "APPARAL PATTERN DESIGN ",
+        "instructor": "JONGSUK CHUN",
+        "times_str": "Tue6,7/Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH312/Pre-recorded lecture"
+    },
+    {
+        "id": "3e362d76-fa10-547c-b531-cdbf3c641ca5",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3128-01-00",
+        "credits": 3.0,
+        "title": "CARE AND MAINTENANCE OF CLOTHING ",
+        "instructor": "HAN EUN GYEONG",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "84391eae-bb8e-59ac-9d57-f60d9ba0d150",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3133-01-00",
+        "credits": 3.0,
+        "title": "FASHION COLOR AND PLANNING ",
+        "instructor": "Lee Joo Hyeon",
+        "times_str": "Tue2,3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SSH312"
+    },
+    {
+        "id": "17427916-d4f4-5c2f-8ba0-305011341b58",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3136-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF FASHION AND APPAREL INDUSTRY ",
+        "instructor": "KIM SUYEON",
+        "times_str": "Thu2/Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH308"
+    },
+    {
+        "id": "def7fcac-e21a-5d18-90a7-658daa6f5366",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CNT3139-01-00",
+        "credits": 3.0,
+        "title": "FASHION PRODUCTS & INTERNATIONAL TRADE ",
+        "instructor": "Woo Hongjoo",
+        "times_str": "Mon6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a84abe29-2ed1-5883-a2e2-583fb321c3d2",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "3",
+        "classification": "Teacher Training Program",
+        "code": "TTP3828-01-00",
+        "credits": 2.0,
+        "title": "LOGIC AND ACADEMIC ESSAY FOR FASHION EDUCATION ",
+        "instructor": "SIN EUNJUNG",
+        "times_str": "Wed4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5d8ce004-a92e-5be9-9045-5bc9236ada71",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CNT4110-01-00",
+        "credits": 3.0,
+        "title": "THE PRACTICE OF FASHION PLANNING ",
+        "instructor": "LIM SOYON",
+        "times_str": "Wed6,7,8,9/Wed6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH312/Realtime online lecture"
+    },
+    {
+        "id": "3317c53f-7038-555a-b73d-a0dd1b1f5681",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CNT4121-01-00",
+        "credits": 3.0,
+        "title": "TEXTILE INDUSTRY AND INTELLECTUAL PROPERTY RIGHTS ",
+        "instructor": "KIM CHUNJEONG/Lee Sei-Jin/LEE MYUNGEUN",
+        "times_str": "Fri3,4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "c920d6ea-3d4d-52f1-8b98-da6a0a40be1a",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CNT4126-01-00",
+        "credits": 3.0,
+        "title": "FASHION CONSUMER CULTURE AND CUSTOMERISM ",
+        "instructor": "Koh Ae Ran/SIN EUNJUNG",
+        "times_str": "Tue3/Thu8,9/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSHB124/SSH308"
+    },
+    {
+        "id": "0e905b59-178b-52df-92a6-a764c67bb4cd",
+        "department": "College of Human Ecology",
+        "major": "Clothing and Textiles",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CNT4127-01-00",
+        "credits": 3.0,
+        "title": "TEXTILE DYEING ",
+        "instructor": "JANG EUNJI",
+        "times_str": "Tue6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2e0b2d50-adc1-5a4d-a721-229b0b26ee60",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "1",
+        "classification": "Major Exploratory",
+        "code": "FNS1101-01-00",
+        "credits": 3.0,
+        "title": "FOOD & NUTRITION FOR PHYSICAL FITNESS ",
+        "instructor": "CHUNG HYE KYUNG",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ca97f82c-ae94-5ff5-8b6d-1feac033e412",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "FNS2101-01-00",
+        "credits": 3.0,
+        "title": "FOODSERVICE MANAGEMENT ",
+        "instructor": "Ham Seonok",
+        "times_str": "Tue7,Thu6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4324f599-7180-5dc2-ad10-5a6bf208bdd6",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "FNS4117-01-00",
+        "credits": 3.0,
+        "title": "FOOD SCIENCE ",
+        "instructor": "CHOI HYEJUNG",
+        "times_str": "Mon2,Thu8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c73ea70d-9f96-56b8-aedf-9c3c5e802b0e",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS3119-01-00",
+        "credits": 2.0,
+        "title": "FIELD STUDY ",
+        "instructor": "Kim Minsik",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f058a214-f3cf-5ecc-8e28-4772215bdabe",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS2103-01-00",
+        "credits": 3.0,
+        "title": "FOOD MICROBIOLOGY ",
+        "instructor": "Kim Minsik",
+        "times_str": "Tue5,6/Tue5,6/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SSH609/SSH508/Pre-recorded lecture"
+    },
+    {
+        "id": "dc412e6d-d4c8-5e4b-91ba-16ea7ac353f4",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS3102-01-00",
+        "credits": 3.0,
+        "title": "NUTRITION & HUMAN GROWTH ",
+        "instructor": "KIM SOO YEON",
+        "times_str": "Thu4/Fri6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SSH508/Pre-recorded lecture"
+    },
+    {
+        "id": "e1507290-339c-5e69-8926-849deb0aa2ea",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS3108-01-00",
+        "credits": 3.0,
+        "title": "CLINICAL NUTRITION ",
+        "instructor": "LEE Jong Ho",
+        "times_str": "Tue2,3,Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "46f03425-fee8-550d-b8a7-dd0c21e6104a",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS3116-01-00",
+        "credits": 3.0,
+        "title": "NUTRIENT METABOLISM & EXPERIMENT ",
+        "instructor": "LIM JOOWEON",
+        "times_str": "Wed6,7(Mon8,9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(SSH508)"
+    },
+    {
+        "id": "2f280066-bdd5-584d-a752-b4a49ed80a12",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "FNS3124-01-00",
+        "credits": 3.0,
+        "title": "NUTRITION PHYSIOLOGY ",
+        "instructor": "Lee Seung-Min",
+        "times_str": "Mon3,Wed3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6700b592-b773-5bc2-8131-5072acf06aa7",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "FNS4106-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTAL FOOD & PRODUCT DEVELOP ",
+        "instructor": "Chae Seonhee",
+        "times_str": "Tue10/Tue8,9/Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH508/SSH612"
+    },
+    {
+        "id": "1530bab9-004b-562c-af57-8d951555a27f",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "FNS4111-01-00",
+        "credits": 3.0,
+        "title": "NUTRITION EDUCATION AND COUNSELING ",
+        "instructor": "LEE MIN-JUNE",
+        "times_str": "Mon5/Wed8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH508"
+    },
+    {
+        "id": "74039337-c154-5676-b453-b6072c2bbf99",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "FNS4116-01-00",
+        "credits": 3.0,
+        "title": "FOOD PROCESSING & TECHNOLOGY & EXPERIMENT ",
+        "instructor": "WOO JANGBIN",
+        "times_str": "Wed5/Fri4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH508"
+    },
+    {
+        "id": "22cb745a-5cc3-59da-8f4e-399b4628cdb1",
+        "department": "College of Human Ecology",
+        "major": "Food and Nutrition",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "FNS4120-01-00",
+        "credits": 3.0,
+        "title": "FUNCTIONAL FOODS ",
+        "instructor": "Park, Taesun",
+        "times_str": "Mon6,7,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5673a0c9-415e-5e90-a3e2-9968c58345a0",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "HID1104-01-00",
+        "credits": 3.0,
+        "title": "ARCHITECTURE DRAWING & GRAPHICS ",
+        "instructor": "Kim Suk Kyung",
+        "times_str": "Thu2/Thu3,4,5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "IVHC401/Pre-recorded lecture"
+    },
+    {
+        "id": "3165f53c-5e4b-59b5-ac02-9b739cdbea06",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "HID1104-02-00",
+        "credits": 3.0,
+        "title": "ARCHITECTURE DRAWING & GRAPHICS ",
+        "instructor": "LEE JIN KOOK",
+        "times_str": "Thu6/Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "5172c9d0-5a32-55f5-9c44-4a335d098f89",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "HID1103-01-00",
+        "credits": 3.0,
+        "title": "PRACTICE FOR SPACE DESIGN ",
+        "instructor": "LIM Ho-kyun",
+        "times_str": "Mon6,7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "IVHC401"
+    },
+    {
+        "id": "61370a00-5fe6-5d4f-9ac7-bfa4c9958df8",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HID1105-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL DESIGN MEDIA ",
+        "instructor": "LEE JIN KOOK",
+        "times_str": "Mon5,6/Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SSH513/Pre-recorded lecture"
+    },
+    {
+        "id": "3ad7ac1b-ef9b-5bad-9fdf-2d553bb40aa4",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HID2111-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL FABRICATION ",
+        "instructor": "CHO HAEYEON",
+        "times_str": "Fri6,7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH412"
+    },
+    {
+        "id": "fe77ce2d-b690-526b-a234-ef962b2b830c",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HID2114-01-00",
+        "credits": 3.0,
+        "title": "INTERIOR ARCHITECTURE STUDIO(2) ",
+        "instructor": "LEE Hyun Soo/CHO HAEYEON",
+        "times_str": "Tue6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH513"
+    },
+    {
+        "id": "37551eb1-b045-50bf-bfdf-749a4fe5f96c",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HID2114-02-00",
+        "credits": 3.0,
+        "title": "INTERIOR ARCHITECTURE STUDIO(2) ",
+        "instructor": "SOHN SUNKI",
+        "times_str": "Tue6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH518"
+    },
+    {
+        "id": "42c08cd2-7166-5ba6-82ba-12c9a6a36c2e",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HID3119-01-00",
+        "credits": 3.0,
+        "title": "ERGONOMIC AND DESIGN ",
+        "instructor": "Choi Yoo Rim",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSHB111"
+    },
+    {
+        "id": "32bb6f79-f2f2-5c3a-b806-988279003196",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "HID3122-01-00",
+        "credits": 3.0,
+        "title": "SUTAINABLE INTERIOR ARCHITECTURE ",
+        "instructor": "Chun, Chungyoon",
+        "times_str": "Mon3,Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SSH412"
+    },
+    {
+        "id": "13e1075a-bc37-5a1c-9450-4f20422a2ef5",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "HID3124-01-00",
+        "credits": 3.0,
+        "title": "KOREAN TRADITIONAL ARCHITECTURE AND DESIGN ",
+        "instructor": "LIM Ho-kyun",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b220638f-7dee-5bab-82a8-8faca526e7a3",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "HID3125-01-00",
+        "credits": 3.0,
+        "title": "GIS-BASED SPATIAL ANALYSIS ",
+        "instructor": "SONG JIHYUN",
+        "times_str": "Fri2,3/Fri4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH412/Pre-recorded lecture"
+    },
+    {
+        "id": "615f3af5-cf88-5e07-affc-3dc2d0ce3be4",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "HID3127-01-00",
+        "credits": 3.0,
+        "title": "INTERIOR ARCHITECTURE STUDIO(4) ",
+        "instructor": "Lee Jeongeun",
+        "times_str": "Fri1,2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH518"
+    },
+    {
+        "id": "44a96664-5333-51fc-9e97-e9c50f367f29",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "HID3130-01-00",
+        "credits": 3.0,
+        "title": "BUILDING ACOUSTICS ",
+        "instructor": "Kim Sooyoung",
+        "times_str": "Mon7,8,9/Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH412/Realtime online lecture"
+    },
+    {
+        "id": "e42ac069-d7b0-51fb-9bc8-1f85cf785a21",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "HID4101-01-00",
+        "credits": 3.0,
+        "title": "INTEGRATED GRADUATION PROJECT ",
+        "instructor": "Ha Mikyoung",
+        "times_str": "Thu6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH516"
+    },
+    {
+        "id": "3f3dedf2-5e54-50d1-819b-66f03e3a75ee",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "HID4101-02-00",
+        "credits": 3.0,
+        "title": "INTEGRATED GRADUATION PROJECT ",
+        "instructor": "BYUN GIDONG",
+        "times_str": "Thu6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH513"
+    },
+    {
+        "id": "8433f9a1-0a55-5b25-8809-c4850e52e231",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "HID4110-01-00",
+        "credits": 3.0,
+        "title": "MODERN ARCHITECTURE AND INTERIOR ARCHITECTURE ",
+        "instructor": "Ha Mikyoung",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH412"
+    },
+    {
+        "id": "f4f8a218-7028-5cf4-a5fd-c598a65c921c",
+        "department": "College of Human Ecology",
+        "major": "Interior Architecture and Built Environment",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "HID4119-01-00",
+        "credits": 3.0,
+        "title": "INTERIOR DISPLAY & COORDINATION ",
+        "instructor": "Kim Suk Kyung",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH412"
+    },
+    {
+        "id": "d95b2675-3c9e-5f6b-a03a-51061159526c",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "CFS2106-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO FAMILY ",
+        "instructor": "KIM SEONGHEE",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "f1e78fb6-e49c-55c4-8a1c-0a896ce104f5",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "CFS2103-01-00",
+        "credits": 3.0,
+        "title": "INFANT DEVELOPMENT ",
+        "instructor": "Chung Youngsun",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "1e4618c3-faad-56e7-b820-9b2fdad63bc4",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CFS2104-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF EARLY CHILDHOOD EDUCATION ",
+        "instructor": "PARK CHAN HWA",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "db252682-470e-54af-bd29-d2d15e0830bb",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CFS4110-01-00",
+        "credits": 3.0,
+        "title": "THEORIES OF CHILD WELFARE ",
+        "instructor": "Kim Eun Young",
+        "times_str": "Thu1,2/Thu3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH206"
+    },
+    {
+        "id": "2aaf46a2-d6e4-5d1a-b629-67e114181c07",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3102-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL AND EMOTIONAL DVELOPMENT IN YOUNG CHILDREN ",
+        "instructor": "PARK Kyung Ja",
+        "times_str": "Mon6,7/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH206"
+    },
+    {
+        "id": "c205a7df-5a66-5bd1-a957-70bb17fa7eef",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3104-01-00",
+        "credits": 3.0,
+        "title": "MANAGING CHILDREN'S CHALLENGING BEHAVIOR ",
+        "instructor": "Park Ju Hee",
+        "times_str": "Tue6,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f49de965-ad05-5a60-83fd-3840bcd38b76",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3108-01-00",
+        "credits": 3.0,
+        "title": "ARITHMETIC FOR YOUNG CHILDREN ",
+        "instructor": "LEE HAE KYUONG",
+        "times_str": "Wed2,3,4/Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SSH206"
+    },
+    {
+        "id": "87f0d839-b013-550d-a49c-f59867cfff73",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3126-01-00",
+        "credits": 3.0,
+        "title": "ADOLESCENT DEVELOPMENT ",
+        "instructor": "Kang Min Ju",
+        "times_str": "Mon8,9,Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "07c9afa1-2c50-53ea-9d10-1697ee5b665c",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3137-01-00",
+        "credits": 3.0,
+        "title": "STATISTICS IN CHILD AND FAMILY STUDIES ",
+        "instructor": "Joo SUSANNA",
+        "times_str": "Tue2,3/Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH206"
+    },
+    {
+        "id": "7eb37be6-6a27-5560-8d0d-75eaae6bbac7",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CFS3139-01-00",
+        "credits": 3.0,
+        "title": "SAFETY GUIDANCE FOR CHILDREN ",
+        "instructor": "SHIN YOONSEUNG",
+        "times_str": "Fri6/Fri7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SSH206/Pre-recorded lecture"
+    },
+    {
+        "id": "d40b3a09-8952-5597-a57f-f58e9bd86482",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CFS4102-01-00",
+        "credits": 3.0,
+        "title": "TEACHER EDUCATION ",
+        "instructor": "KIM JI YEON",
+        "times_str": "Mon2,3/Mon2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH206"
+    },
+    {
+        "id": "66e87568-d6eb-5f41-a211-87deaddd4252",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CFS4107-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN HUMAN ECOLOGY ",
+        "instructor": "KIM HE SOOK NANCY",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2e95fd16-8089-52c9-9bc8-863abe3163f3",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CFS4112-01-00",
+        "credits": 3.0,
+        "title": "CHILD CARE PRACTICUM ",
+        "instructor": "Kim, Myoung soon",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5aef2d74-4bb8-534f-962d-41f1c3aea628",
+        "department": "College of Human Ecology",
+        "major": "Child and Family Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CFS4115-01-00",
+        "credits": 3.0,
+        "title": "FAMILY POLICY ",
+        "instructor": "KWON YOUNG IN",
+        "times_str": "Fri2,3/Fri4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SSH206"
+    },
+    {
+        "id": "d956d598-32b0-5003-a98b-95f041516e57",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "DSN2110-01-00",
+        "credits": 3.0,
+        "title": "FASHION ILLUSTRATION ",
+        "instructor": "KIM JEEEUN",
+        "times_str": "Wed6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "69e65321-55f5-5ac9-bddf-b808d9fa4fc9",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "DSN2120-01-00",
+        "credits": 3.0,
+        "title": "DESIGN MATERIALS ",
+        "instructor": "Kim So Yeon",
+        "times_str": "Tue6,7,8,9/Tue6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "IVH314/Realtime online lecture"
+    },
+    {
+        "id": "c0cee16e-1e50-5633-992b-49413bd342d7",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "DSN3111-01-00",
+        "credits": 3.0,
+        "title": "PRODUCT DESIGN ",
+        "instructor": "Oh Sehwan",
+        "times_str": "Thu5,6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fb9df9f5-1726-54e2-911b-e1d5c9812fc8",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "DSN3128-01-00",
+        "credits": 3.0,
+        "title": "BASIC VISUAL DESIGN ",
+        "instructor": "kim hyunjung",
+        "times_str": "Mon6,7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6a50d1e0-d474-5283-91cf-020b9de864f2",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE EUNJI",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SSH706"
+    },
+    {
+        "id": "b5b5b807-1c91-5399-850b-0e814d7737ea",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN3113-01-00",
+        "credits": 3.0,
+        "title": "FASHION DESIGN AND MAKING ",
+        "instructor": "KIM HEE-YEON",
+        "times_str": "Fri6,7/Fri8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH710/Pre-recorded lecture"
+    },
+    {
+        "id": "d7c431af-20e1-571c-a807-229ad36bd87d",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN3119-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF MODERN DESIGN ",
+        "instructor": "choi kyung won",
+        "times_str": "Fri2,3,4/Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSHB110/Realtime online lecture"
+    },
+    {
+        "id": "d7ee8e35-12e7-5282-ad35-75a2e8832af1",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN3121-01-00",
+        "credits": 3.0,
+        "title": "DESIGN RESEARCH ",
+        "instructor": "OH SANG-EUN",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "a155445d-8623-534b-872d-9eb6413f6934",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN3122-01-00",
+        "credits": 3.0,
+        "title": "INTERACTION DESIGN ",
+        "instructor": "Lee Sangwon",
+        "times_str": "Wed1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "db9f4c7e-25e0-543e-af8a-d14cc31bc3da",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN3123-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED PRODUCT DESIGN ",
+        "instructor": "Lee JooHyun",
+        "times_str": "Wed6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ba751c29-f7fa-58b1-bd84-82f3947822a7",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "DSN4106-01-00",
+        "credits": 3.0,
+        "title": "BRAND DESIGN ",
+        "instructor": "CHU HYE YOUNG",
+        "times_str": "Mon1,2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c3da4b21-cb5d-513a-8f21-1601d48bfbed",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "DSN4102-01-00",
+        "credits": 4.0,
+        "title": "INTEGRATED DESIGN STUDIO FOR DEGREE SHOW1(CAPSTONE DESIGN) ",
+        "instructor": "Kim So Yeon/HAHN SOWON/BAEK JOON SANG/KIM YOUNG EUN",
+        "times_str": "Mon6,7,8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SSH704"
+    },
+    {
+        "id": "5f3a63ce-76f1-50ad-a16b-7fe4925277da",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "DSN3106-01-00",
+        "credits": 3.0,
+        "title": "DESIGN AESTHETICS ",
+        "instructor": "RHO YOUNG DUCK",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "23ac7e1b-4672-5811-8bbf-ff1d39631ee0",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "DSN3112-01-00",
+        "credits": 3.0,
+        "title": "FURNITURE/CONSUMER PRODUCT DESIGN ",
+        "instructor": "Oh Sehwan",
+        "times_str": "Wed1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "67e08b34-79d1-5817-8ffe-c1cf0e984514",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "DSN3134-01-00",
+        "credits": 3.0,
+        "title": "USER EXPERIENCE AND INTERFACE DESIGN ",
+        "instructor": "HONG SOO YOUN",
+        "times_str": "Thu6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ae8bac3a-c903-54a5-9568-ac021e26e274",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "DSN4109-01-00",
+        "credits": 3.0,
+        "title": "FASHION DESIGN ",
+        "instructor": "Lee Jee Hyun",
+        "times_str": "Tue6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SSH710"
+    },
+    {
+        "id": "bc317344-1ff2-5374-83d6-98de2be91085",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "DSN4116-01-00",
+        "credits": 3.0,
+        "title": "PRODUCT-SERVICE SYSTEM DESIGN ",
+        "instructor": "BAEK JOON SANG",
+        "times_str": "Fri1,2,3,4/Fri1,2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SSH710/SSH704"
+    },
+    {
+        "id": "98c87d89-0441-5b9d-82de-cf8e78a93218",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "DSN4119-01-00",
+        "credits": 3.0,
+        "title": "VISUAL MERCHANDIZING ",
+        "instructor": "HAN EUNJOO",
+        "times_str": "Thu1,2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b8a2decf-caac-5432-818e-5b689308cc88",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "DSN4120-01-00",
+        "credits": 3.0,
+        "title": "DESIGN BUSINESS ",
+        "instructor": "Han Koogin",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "7dd944cb-b54c-5f7a-9d7e-0fad8a8f0031",
+        "department": "College of Human Ecology",
+        "major": "Human Environment and Design",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "DSN4121-01-00",
+        "credits": 3.0,
+        "title": "VISUAL DESIGN ",
+        "instructor": "Lee Hyunju/PARK GAMI",
+        "times_str": "Wed6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

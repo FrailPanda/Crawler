@@ -1,0 +1,2251 @@
+﻿[
+    {
+        "id": "f31d5116-118e-5be7-b9f0-a07e3f1a1b78",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "SEO BO YOON",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "885a25d1-663c-5c3a-89a6-55ac0e491be2",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-02-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "SEO BO YOON",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "90bcb110-f463-5259-8280-f1efa982a98c",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-03-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "HAN WON YONG",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0a354209-6876-5ab6-b049-14a0b909a1bc",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-04-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "KIM SUK HO",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6e7343a0-8111-5cce-9976-bca521454570",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-05-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "YOON JIN HEE",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "88d8fda4-d52f-545d-b803-10e71d9a8cf6",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ECO1101-06-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS I ",
+        "instructor": "YOON JIN HEE",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6e1290eb-39ee-5128-bd49-e3d8caea5083",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "LEE JI YOUNG",
+        "times_str": "Thu1",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "c99be727-899d-5a3a-9b19-5210cf6948e8",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-02-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "KIM YONG SUN",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHMB109"
+    },
+    {
+        "id": "9bd13fb8-73cc-5036-8ded-ed2115dd3d9a",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-03-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "CHOI MI HO",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "683b1064-c6e3-595d-adf4-010acd81e038",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-04-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "KIM SUK HO",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "62f8907f-f4be-5225-8030-d0c051c2ebb5",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-05-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "LEE TAE BONG",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM115"
+    },
+    {
+        "id": "11d15f1a-16a8-55bd-bb6f-a52a8d62d7d2",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-06-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "BANG BYUNG KOOK",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6fd62b50-8a23-552c-9c7f-4588dccd33cf",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1103-07-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MICROECONOMICS ",
+        "instructor": "LEE TAE BONG",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "IVHA302/Pre-recorded lecture"
+    },
+    {
+        "id": "278580ac-8e57-546b-8057-369ab31befa4",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "Kim Yong Jin/LEE JONG HWA",
+        "times_str": "Wed7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fa0f8158-150c-5f77-a578-210527a95333",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-02-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "OH HYUN JIN",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "ed58933c-dc01-5ef4-8ecd-0199d26c0aee",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-03-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "KIM HAK-RYUL",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "2b2316fc-9f71-5146-931e-95740bc0e53b",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-04-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "YOO BYEONG HA",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f262709d-3ecd-5010-882c-c4b1239fb446",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-05-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "HAN WON YONG",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d700eb0e-f27c-5ad1-bbfa-6267c8e0c070",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-06-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "Kim Yong Jin/LEE JONG HWA",
+        "times_str": "Thu7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "121a5973-c8c4-575d-ab39-eff2dfc5633b",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "ECO1104-07-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MACROECONOMICS ",
+        "instructor": "RO EUL AH",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "bedc600d-bcdc-58ab-b78b-cb7a37151cec",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-01-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "Yoo Byung Sam",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHMB109/Realtime online lecture"
+    },
+    {
+        "id": "f56f9a91-4be0-5828-9d51-35894c68bd21",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-02-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "JO HA-HYUN",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "a23cfcee-f1a4-5ee8-ab63-1cd8e2675d85",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-03-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "CHO SEONGHOON",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "075fbe8d-7eeb-5bd2-87eb-0be828acb819",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-04-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "Kim Sun-Bin",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d6dd088c-674d-52f9-9a5b-c3da836d0837",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-05-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "Kim Jiseob",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "f1db2080-97d5-59ab-aa59-925e68f6832e",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-06-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "CHOI, SANGYUP",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "c991f4b5-1e52-5603-a3cd-d19944d52b52",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-07-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "Shim Myungkyu",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM115"
+    },
+    {
+        "id": "b5460559-15b3-505c-85df-1e7660c6f706",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-08-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9dbc1e31-4539-559b-9da5-030630866ccd",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2101-09-00",
+        "credits": 3.0,
+        "title": "MACROECONOMICS ",
+        "instructor": "Kim Yong Jin/LEE JONG HWA",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "22810624-4e1f-57bf-b8ed-0382bfc97078",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-01-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "SHIN Dong Cheon",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "89eac55d-53be-5902-a780-f4ae309d5c90",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-02-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "Kim Semin",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "70239e1b-7dda-5533-924b-06631077afe7",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-03-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "KIM YONG SUN",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHMB109"
+    },
+    {
+        "id": "b2b70e77-358d-59f9-9239-9408869cea0c",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-04-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "CHOI MI HO",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4a8bccbf-defa-5ceb-82fd-af61ad453cfc",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-05-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "HAN WON YONG",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8e806f44-7084-5974-985b-eecf91ab9649",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-06-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "KIM SUK HO",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1da9ee75-91d3-5119-8e5a-f9949f35f345",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ECO2102-07-00",
+        "credits": 3.0,
+        "title": "MICROECONOMICS ",
+        "instructor": "Kim Sang-Hyun",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "e36ed97f-b09f-5dd2-844e-9e5046a72a14",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ECO2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "CHUNG HYE YOON",
+        "times_str": "Wed2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "bf2cab1f-9fc7-5769-9b4d-4da822583cc4",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ECO2114-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS FOR ECONOMICS II ",
+        "instructor": "SEO BO YOON",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "65c36825-2767-52e7-9a7c-17811291be9e",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ECO3132-01-00",
+        "credits": 3.0,
+        "title": "MODERN ECONOMIC HISTORY ",
+        "instructor": "HONG, SUNG-CHAN",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "8f5b8c9e-1c83-523c-b68c-2189a5d48270",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3101-01-00",
+        "credits": 3.0,
+        "title": "GAME THEORY AND APPLICATIONS ",
+        "instructor": "Kim, Youngse",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d26b9749-d29f-525d-bba8-2bf03a6c8629",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3101-02-00",
+        "credits": 3.0,
+        "title": "GAMES THEORY AND APPLICATIONS ",
+        "instructor": "Hahn, Sunku",
+        "times_str": "Sat4",
+        "times": {
+            "5": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3942f792-36d6-53cf-8cac-e39dc82ec6e6",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3101-03-00",
+        "credits": 3.0,
+        "title": "GAMES THEORY AND APPLICATIONS ",
+        "instructor": "Kim Jin Yeub",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fc064a74-9502-53f8-a7af-6f19b67b05ff",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3103-01-00",
+        "credits": 3.0,
+        "title": "DEVELOPMENT AND GROWTH ",
+        "instructor": "Lee, Doowon",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "15393746-f5fd-51d5-8a0b-f331084e2725",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3104-01-00",
+        "credits": 3.0,
+        "title": "ECONOMETRICS I ",
+        "instructor": "Jeong, Jinook",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "DWHM115/Realtime online lecture"
+    },
+    {
+        "id": "12f5fa76-9e86-52bd-9ef5-ca87f1792418",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3104-02-00",
+        "credits": 3.0,
+        "title": "ECONOMETRICS ",
+        "instructor": "LEE JIN HYUN",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "00e64dd4-f1b6-5f30-bc3b-2bb25055d71a",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3108-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL ECONOMICS ",
+        "instructor": "Park Jaeok",
+        "times_str": "Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "f6f62406-9240-515d-b44d-fa803c1b06c5",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3110-01-00",
+        "credits": 3.0,
+        "title": "PUBLIC FINANCE ",
+        "instructor": "YUN, KUN-YOUNG",
+        "times_str": "Tue8/Tue8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "DWHM115/Pre-recorded lecture"
+    },
+    {
+        "id": "0b20e501-ba64-5f9f-9fbd-03cc738b9591",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3110-02-00",
+        "credits": 3.0,
+        "title": "PUBLIC FINANCE ",
+        "instructor": "Lee Kyung-woo",
+        "times_str": "Mon9,10/Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "671c639a-35d8-5106-815a-3a9f6c84df31",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3114-01-00",
+        "credits": 3.0,
+        "title": "WELFARE ECONOMICS ",
+        "instructor": "Kim Semin",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "DWHM101/Pre-recorded lecture"
+    },
+    {
+        "id": "a0c814a6-8408-5025-b3a7-efd35ada7653",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3116-01-00",
+        "credits": 3.0,
+        "title": "ECONOMIC POLICY ",
+        "instructor": "YUN, KUN-YOUNG",
+        "times_str": "Tue7/Tue7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHM115/Pre-recorded lecture"
+    },
+    {
+        "id": "e91a4687-7b4f-5161-96f3-433be4ca17f6",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3119-01-00",
+        "credits": 3.0,
+        "title": "INTRO. TO FINANCIAL ENGINEERING I ",
+        "instructor": "Kim Joocheol",
+        "times_str": "Sat6,7,8",
+        "times": {
+            "5": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "831997a9-7acf-56bd-b223-2f54ec69bf91",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3123-01-00",
+        "credits": 3.0,
+        "title": "CONTRACT & ORGANIZATION THEORY ",
+        "instructor": "Kim Sang-Hyun",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "445230ab-5278-5221-bc19-7165424b9cf2",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3128-01-00",
+        "credits": 3.0,
+        "title": "FINANCIAL ECONOMETRICS ",
+        "instructor": "Yoo Byung Sam",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/DWHMB109"
+    },
+    {
+        "id": "de84078e-9b69-512f-95a5-d1537da6db04",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3130-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL FINANCE ",
+        "instructor": "Kim Jung Sik",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "c2e65924-cb5f-54a6-9337-cac47f342721",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3130-02-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MONEY AND FINANCE ",
+        "instructor": "Sung Taeyoon/OH HYUN JIN",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "345be731-d45d-5d57-b21d-de2312cdd903",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3131-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL TRADE THEORY ",
+        "instructor": "SHIN Dong Cheon",
+        "times_str": "Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "a7219019-d77c-5ad4-a432-eb9de369c7f5",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3133-01-00",
+        "credits": 3.0,
+        "title": "INDUSTRIAL ORGANIZATION ",
+        "instructor": "Hahn Jong-Hee/Choi Yun Jeong",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fd549844-15a5-5654-af60-37684736fbd9",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3133-02-00",
+        "credits": 3.0,
+        "title": "INDUSTRIAL ORGANIZATION ",
+        "instructor": "Hahn Jong-Hee/Choi Yun Jeong",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d7e5e67c-62aa-5b47-bb3c-7fab6ca136b0",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3134-01-00",
+        "credits": 3.0,
+        "title": "MONEY AND BANKING ",
+        "instructor": "Kim Jung Sik",
+        "times_str": "Thu1",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "e18d2925-d9da-57cc-874b-10f9d99b864e",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3134-02-00",
+        "credits": 3.0,
+        "title": "MONEY AND BANKING ",
+        "instructor": "Kim Kwang Hwan",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "DWHM115"
+    },
+    {
+        "id": "4782a523-59fd-5119-962a-150f62fd0746",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3137-01-00",
+        "credits": 3.0,
+        "title": "ECONOMICS OF ENERGY AND SCIENCE ",
+        "instructor": "JO HA-HYUN/LIM HYUNGWOO",
+        "times_str": "Fri7/Fri8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "0bc7abe3-fb18-5e5b-8bee-864fe18b7f33",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3140-01-00",
+        "credits": 3.0,
+        "title": "HEALTH CARE ECONOMICS ",
+        "instructor": "Hahn Youjin",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "8bec5f38-8d04-55ba-b0fd-73723e24d3b2",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO3164-01-00",
+        "credits": 3.0,
+        "title": "ECONOMIC DATA ANALYSIS ",
+        "instructor": "JO HA-HYUN/KIM JAEHYEOK",
+        "times_str": "Fri4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "aff260cc-bec9-54fb-ac8c-e8ef99242190",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4104-01-00",
+        "credits": 3.0,
+        "title": "ECONOMETRICS II ",
+        "instructor": "Kim Tae-Hwan",
+        "times_str": "Fri3/Fri3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHM102/Pre-recorded lecture"
+    },
+    {
+        "id": "cfe8f92b-c0b2-50f3-9342-4a372c4d664f",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4110-01-00",
+        "credits": 3.0,
+        "title": "PUBLIC AND POLITICAL ECONOMICS ",
+        "instructor": "Kim, Youngse",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "c05b8afd-f71e-5202-b113-a72d0a43b629",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4115-01-00",
+        "credits": 3.0,
+        "title": "CORPORATE FINANCE AND ECONOMICS ",
+        "instructor": "Sung Taeyoon/OH HYUN JIN",
+        "times_str": "Wed8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "00e0100b-237a-59e9-b839-857b78148440",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4116-01-00",
+        "credits": 3.0,
+        "title": "ECONOMICS OF INDUSTRIAL STRATEGY ",
+        "instructor": "Hahn Jong-Hee",
+        "times_str": "Wed2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "f8e79c7a-51a3-530e-b23e-f92b06df56b6",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4118-01-00",
+        "credits": 3.0,
+        "title": "DYNAMIC ANALYSIS OF MACROECONOMY ",
+        "instructor": "Kim Sun-Bin",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7845c155-ab87-5060-be58-d886cd17687d",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4122-01-00",
+        "credits": 3.0,
+        "title": "CURRENT ISSUES IN DEVELOPMENT ECONOMICS ",
+        "instructor": "Yang Hee-Seung",
+        "times_str": "Tue1/Tue1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lectureDWHM101/"
+    },
+    {
+        "id": "8dd91f56-4403-5761-8141-701ee415df6c",
+        "department": "College of Commerce and Economics",
+        "major": "Economics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ECO4862-01-00",
+        "credits": 3.0,
+        "title": "ANALYSIS OF INTERNATIONAL FINANCIAL MARKET ",
+        "instructor": "CHOI, SANGYUP",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHM101"
+    },
+    {
+        "id": "aeb7bc90-c21a-5f0a-900c-51ed27c00ef2",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "STA1002-01-00",
+        "credits": 3.0,
+        "title": "CALCULUS ",
+        "instructor": "Park YoungJa",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB112"
+    },
+    {
+        "id": "6b0231bd-2a26-5dfb-a705-875c01d55821",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "STA1002-02-00",
+        "credits": 3.0,
+        "title": "CALCULUS ",
+        "instructor": "Park YoungJa",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "DWHMB112"
+    },
+    {
+        "id": "ddb663ea-170c-5151-b02f-7c3779c04185",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2102-01-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA ",
+        "instructor": "Kang Sungbong",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "0cbcb981-90da-52dd-9f53-8f75857c7a6a",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2102-02-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA ",
+        "instructor": "KIM SUGKYUNG",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHMB120"
+    },
+    {
+        "id": "9b190968-d0de-52f3-9b30-5f4749e8d167",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2102-03-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA ",
+        "instructor": "LEE MYOUNGSOOK",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "1e823ce2-e9ac-514f-92e7-f4577ddb1889",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2102-04-00",
+        "credits": 3.0,
+        "title": "LINEAR ALGEBRA ",
+        "instructor": "LEE MYOUNGSOOK",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5193428c-3108-56de-9a55-cb27a2175cff",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2104-01-00",
+        "credits": 3.0,
+        "title": "R AND PYTHON PROGRAMMING ",
+        "instructor": "PARK HYE JUN",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "eb50dfbf-5130-50e3-80e2-2f17a741d672",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2104-02-00",
+        "credits": 3.0,
+        "title": "R AND PYTHON PROGRAMMING ",
+        "instructor": "PARK HYE JUN",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d968a23b-83d7-5550-8c00-320e93aa7e5c",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2105-01-00",
+        "credits": 3.0,
+        "title": "STATISTICAL METHOD ",
+        "instructor": "Chung Jong Hee",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6a20bc88-63ba-50b8-9e28-72b342ad7d44",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2105-02-00",
+        "credits": 3.0,
+        "title": "STATISTICAL METHOD ",
+        "instructor": "Chung Jong Hee",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "459ccb25-826b-5a0a-b372-d0a6ba99e96f",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2105-03-00",
+        "credits": 3.0,
+        "title": "STATISTICAL METHOD ",
+        "instructor": "KIM Chul Eung",
+        "times_str": "Tue2/Tue2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB121/Pre-recorded lecture"
+    },
+    {
+        "id": "0c4e985e-2fc3-5035-86b8-35c0077ea43c",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "STA2105-04-00",
+        "credits": 3.0,
+        "title": "STATISTICAL METHOD ",
+        "instructor": "Lee Juyounglee",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "78b47ce9-7b6b-5f4a-8d6c-8a993ef24d70",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "STA2005-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM KYU HYUN",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHMB103"
+    },
+    {
+        "id": "2527bf2a-6284-5081-b484-3fc87b56fbad",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "STA2005-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Lee Juyounglee",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "DWHMB103"
+    },
+    {
+        "id": "5b5bae16-4c50-56da-a98b-907198db2a8a",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "STA3109-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL STATISTICS II ",
+        "instructor": "KANG, SEUNG HO",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ac8f38b4-0b96-5804-934b-473d70a3f400",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "STA3126-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL STATISTICS(1) ",
+        "instructor": "Taeyoung Park",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "c14b6a9e-e6f1-599f-b39c-c2b93b45b124",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "STA3107-01-00",
+        "credits": 3.0,
+        "title": "Nonparametric Statistics ",
+        "instructor": "PARK SANGUN",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "93ad7560-ddfa-574b-8c46-0ba6e72f3740",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "STA3111-01-00",
+        "credits": 3.0,
+        "title": "EXPERIMENTAL DESIGN ",
+        "instructor": "Kim Hyunjoong",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fc70223c-f54f-5b3b-a7ba-6470d5e8e539",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "STA3125-01-00",
+        "credits": 3.0,
+        "title": "REGRESSION ANALYSIS ",
+        "instructor": "Jeon Yongho",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3749ee1e-95b1-5bb6-8a88-e3e3b4315744",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "STA3140-01-00",
+        "credits": 3.0,
+        "title": "DEEP LEARNING ",
+        "instructor": "Park Jaewoo",
+        "times_str": "Fri4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "a46857cb-c7ee-5e5e-8978-81bd75eff5c5",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "STA4116-01-00",
+        "credits": 3.0,
+        "title": "DATA SCIENCE I: DATA INTEGRATION AND DATA PRIVACY ",
+        "instructor": "IM JONGHO",
+        "times_str": "Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "39915510-f125-5405-944d-1d4fa121ad06",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "STA3102-01-00",
+        "credits": 3.0,
+        "title": "MULTIVARIATE ANALYSIS ",
+        "instructor": "Lee, Hakbae",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "47c4d2a5-5b34-5614-8c3a-bf406c7b264a",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "STA3105-01-00",
+        "credits": 3.0,
+        "title": "BAYESIAN STATISTICS ",
+        "instructor": "KIM Chul Eung",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB121/Pre-recorded lecture"
+    },
+    {
+        "id": "be9e5bfa-85e7-518d-9edb-aa0b67cd7e8b",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "STA3108-01-00",
+        "credits": 3.0,
+        "title": "SURVIVAL DATA ANALYSIS ",
+        "instructor": "Kang Sangwook",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "bec2beb7-e76c-56ca-8cae-cef6ca99b31a",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "STA3110-01-00",
+        "credits": 3.0,
+        "title": "TIME SERIES ANALYSIS ",
+        "instructor": "MOON JI EUN",
+        "times_str": "Mon9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "99ab6d71-567e-513b-9dc2-537e7b6374df",
+        "department": "College of Commerce and Economics",
+        "major": "Applied Statistics",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "STA4111-01-00",
+        "credits": 3.0,
+        "title": "STATISTICS FOR INSURANCE ",
+        "instructor": "Kim Joseph H.T.",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    }
+]

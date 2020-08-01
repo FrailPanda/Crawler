@@ -1,0 +1,1876 @@
+﻿[
+    {
+        "id": "b3ad1784-291b-5a22-b0c9-693355270671",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "CNT1101-01-00",
+        "credits": 3.0,
+        "title": "의류산업과패션 ",
+        "instructor": "심정은,이명은",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3aea6653-a5d7-5bec-b2f5-a5fa815a0eaa",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CNT2109-01-00",
+        "credits": 3.0,
+        "title": "패션마케팅 ",
+        "instructor": "고은주,정다운",
+        "times_str": "수2,3,4/수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼308/실시간온라인"
+    },
+    {
+        "id": "ac756ff8-6e58-5fb9-8ba8-fa60da3e0691",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CNT2120-01-00",
+        "credits": 3.0,
+        "title": "의류디자인 ",
+        "instructor": "조현승",
+        "times_str": "목6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "2a1f10c8-631f-5367-ac87-b38081e01fce",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CNT2120-02-00",
+        "credits": 3.0,
+        "title": "의류디자인 ",
+        "instructor": "조현승",
+        "times_str": "금6,7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "73df194a-acf0-546f-9710-31f3caecce28",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CNT2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(밀레니얼패션소비자연구) ",
+        "instructor": "안서영",
+        "times_str": "금3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "91183bd6-caa2-51b0-9f4b-dc1c4f5de349",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CNT2002-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(초연결사회와스마트텍스타일) ",
+        "instructor": "이유진",
+        "times_str": "월6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "09bc2118-3745-58ea-86b9-f2ad284c2af0",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CNT2002-03-00",
+        "credits": 1.0,
+        "title": "UT세미나(패션시장과소비자욕구) ",
+        "instructor": "이정순",
+        "times_str": "월3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "380cb01f-f8ae-5c9b-a303-d82d40da88a9",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CNT2111-01-00",
+        "credits": 3.0,
+        "title": "섬유가공과신소재 ",
+        "instructor": "이유진",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f7ac1079-63c9-5a12-89b2-167bafce6e2a",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3105-01-00",
+        "credits": 3.0,
+        "title": "입체패턴설계 ",
+        "instructor": "오설영",
+        "times_str": "월2,3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "삼312"
+    },
+    {
+        "id": "35d5b447-32f8-5cf6-824b-f6c74a58a401",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3114-01-00",
+        "credits": 3.0,
+        "title": "패션브랜드마케팅관리 ",
+        "instructor": "고은주,아우스프룽울프",
+        "times_str": "수6,7,8,9/수6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼308/실시간온라인"
+    },
+    {
+        "id": "ba7dbfc4-8088-50bc-adfd-517612193ba5",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3121-01-00",
+        "credits": 3.0,
+        "title": "직물조직과설계 ",
+        "instructor": "이승신,송유정",
+        "times_str": "화4/화4/목6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "삼308/삼B124/실시간온라인"
+    },
+    {
+        "id": "8a269474-f04e-57fa-b36e-7016c67e515f",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3124-01-00",
+        "credits": 3.0,
+        "title": "어패럴패턴디자인 ",
+        "instructor": "천종숙",
+        "times_str": "화6,7/화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼312/동영상콘텐츠"
+    },
+    {
+        "id": "3e362d76-fa10-547c-b531-cdbf3c641ca5",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3128-01-00",
+        "credits": 3.0,
+        "title": "의복관리 ",
+        "instructor": "한은경",
+        "times_str": "금5,6/금7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "84391eae-bb8e-59ac-9d57-f60d9ba0d150",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3133-01-00",
+        "credits": 3.0,
+        "title": "패션색채와의류기획 ",
+        "instructor": "이주현",
+        "times_str": "화2,3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "삼312"
+    },
+    {
+        "id": "17427916-d4f4-5c2f-8ba0-305011341b58",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3136-01-00",
+        "credits": 3.0,
+        "title": "유행심리와의류산업 ",
+        "instructor": "김수연",
+        "times_str": "목2/목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼308"
+    },
+    {
+        "id": "def7fcac-e21a-5d18-90a7-658daa6f5366",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CNT3139-01-00",
+        "credits": 3.0,
+        "title": "패션상품과국제무역 ",
+        "instructor": "우홍주",
+        "times_str": "월6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a84abe29-2ed1-5883-a2e2-583fb321c3d2",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "3",
+        "classification": "교직",
+        "code": "TTP3828-01-00",
+        "credits": 2.0,
+        "title": "의상교과논리및논술 ",
+        "instructor": "신은정",
+        "times_str": "수4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5d8ce004-a92e-5be9-9045-5bc9236ada71",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CNT4110-01-00",
+        "credits": 3.0,
+        "title": "의류상품기획의실제와응용 ",
+        "instructor": "임소연",
+        "times_str": "수6,7,8,9/수6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼312/실시간온라인"
+    },
+    {
+        "id": "3317c53f-7038-555a-b73d-a0dd1b1f5681",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CNT4121-01-00",
+        "credits": 3.0,
+        "title": "텍스타일산업과지식재산권 ",
+        "instructor": "김춘정,이세진,이명은",
+        "times_str": "금3,4/금5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "c920d6ea-3d4d-52f1-8b98-da6a0a40be1a",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CNT4126-01-00",
+        "credits": 3.0,
+        "title": "패션소비문화와소비자주의 ",
+        "instructor": "고애란,신은정",
+        "times_str": "화3/목8,9/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼B124/삼308"
+    },
+    {
+        "id": "0e905b59-178b-52df-92a6-a764c67bb4cd",
+        "department": "생활과학대학",
+        "major": "의류환경학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CNT4127-01-00",
+        "credits": 3.0,
+        "title": "직물의염색 ",
+        "instructor": "장은지",
+        "times_str": "화6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2e0b2d50-adc1-5a4d-a721-229b0b26ee60",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "1",
+        "classification": "전탐",
+        "code": "FNS1101-01-00",
+        "credits": 3.0,
+        "title": "식품영양과체형 ",
+        "instructor": "정혜경",
+        "times_str": "화4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ca97f82c-ae94-5ff5-8b6d-1feac033e412",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "FNS2101-01-00",
+        "credits": 3.0,
+        "title": "급식경영학 ",
+        "instructor": "함선옥",
+        "times_str": "화7,목6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4324f599-7180-5dc2-ad10-5a6bf208bdd6",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "FNS4117-01-00",
+        "credits": 3.0,
+        "title": "식품학 ",
+        "instructor": "최혜정",
+        "times_str": "월2,목8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c73ea70d-9f96-56b8-aedf-9c3c5e802b0e",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS3119-01-00",
+        "credits": 2.0,
+        "title": "영양사현장실습 ",
+        "instructor": "김민식",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f058a214-f3cf-5ecc-8e28-4772215bdabe",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS2103-01-00",
+        "credits": 3.0,
+        "title": "식품미생물학 ",
+        "instructor": "김민식",
+        "times_str": "화5,6/화5,6/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "삼508/삼609/동영상콘텐츠"
+    },
+    {
+        "id": "dc412e6d-d4c8-5e4b-91ba-16ea7ac353f4",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS3102-01-00",
+        "credits": 3.0,
+        "title": "생애주기영양학 ",
+        "instructor": "김수연",
+        "times_str": "목4/금6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "삼508/동영상콘텐츠"
+    },
+    {
+        "id": "e1507290-339c-5e69-8926-849deb0aa2ea",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS3108-01-00",
+        "credits": 3.0,
+        "title": "임상영양학 ",
+        "instructor": "이종호",
+        "times_str": "화2,3,목5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "46f03425-fee8-550d-b8a7-dd0c21e6104a",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS3116-01-00",
+        "credits": 3.0,
+        "title": "영양소대사및실험 ",
+        "instructor": "임주원",
+        "times_str": "수6,7(월8,9)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(삼508)"
+    },
+    {
+        "id": "2f280066-bdd5-584d-a752-b4a49ed80a12",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "FNS3124-01-00",
+        "credits": 3.0,
+        "title": "영양생리학 ",
+        "instructor": "이승민",
+        "times_str": "월3,수3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6700b592-b773-5bc2-8131-5072acf06aa7",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "FNS4106-01-00",
+        "credits": 3.0,
+        "title": "실험조리및식품개발 ",
+        "instructor": "채선희",
+        "times_str": "화10/화8,9/화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼612/삼508"
+    },
+    {
+        "id": "1530bab9-004b-562c-af57-8d951555a27f",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "FNS4111-01-00",
+        "credits": 3.0,
+        "title": "영양교육및상담 ",
+        "instructor": "이민준",
+        "times_str": "월5/수8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼508"
+    },
+    {
+        "id": "74039337-c154-5676-b453-b6072c2bbf99",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "FNS4116-01-00",
+        "credits": 3.0,
+        "title": "식품가공및저장학 ",
+        "instructor": "우장빈",
+        "times_str": "수5/금4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼508"
+    },
+    {
+        "id": "22cb745a-5cc3-59da-8f4e-399b4628cdb1",
+        "department": "생활과학대학",
+        "major": "식품영양학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "FNS4120-01-00",
+        "credits": 3.0,
+        "title": "기능성식품학 ",
+        "instructor": "박태선",
+        "times_str": "월6,7,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5673a0c9-415e-5e90-a3e2-9968c58345a0",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "HID1104-01-00",
+        "credits": 3.0,
+        "title": "기초설계제도 ",
+        "instructor": "김석경",
+        "times_str": "목2/목3,4,5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "I진C401/동영상콘텐츠"
+    },
+    {
+        "id": "3165f53c-5e4b-59b5-ac02-9b739cdbea06",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "HID1104-02-00",
+        "credits": 3.0,
+        "title": "기초설계제도 ",
+        "instructor": "이진국",
+        "times_str": "목6/목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "5172c9d0-5a32-55f5-9c44-4a335d098f89",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "HID1103-01-00",
+        "credits": 3.0,
+        "title": "공간조형 ",
+        "instructor": "임호균",
+        "times_str": "월6,7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I진C401"
+    },
+    {
+        "id": "61370a00-5fe6-5d4f-9ac7-bfa4c9958df8",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HID1105-01-00",
+        "credits": 3.0,
+        "title": "디지털디자인미디어 ",
+        "instructor": "이진국",
+        "times_str": "월5,6/월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "삼513/동영상콘텐츠"
+    },
+    {
+        "id": "3ad7ac1b-ef9b-5bad-9fdf-2d553bb40aa4",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HID2111-01-00",
+        "credits": 3.0,
+        "title": "디지털패브리케이션 ",
+        "instructor": "조혜연",
+        "times_str": "금6,7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼412"
+    },
+    {
+        "id": "fe77ce2d-b690-526b-a234-ef962b2b830c",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HID2114-01-00",
+        "credits": 3.0,
+        "title": "실내건축스튜디오(2) ",
+        "instructor": "이현수,조혜연",
+        "times_str": "화6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼513"
+    },
+    {
+        "id": "37551eb1-b045-50bf-bfdf-749a4fe5f96c",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HID2114-02-00",
+        "credits": 3.0,
+        "title": "실내건축스튜디오(2) ",
+        "instructor": "손선기",
+        "times_str": "화6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼518"
+    },
+    {
+        "id": "42c08cd2-7166-5ba6-82ba-12c9a6a36c2e",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HID3119-01-00",
+        "credits": 3.0,
+        "title": "인간공학과디자인 ",
+        "instructor": "최유림",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼B111"
+    },
+    {
+        "id": "32bb6f79-f2f2-5c3a-b806-988279003196",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "HID3122-01-00",
+        "credits": 3.0,
+        "title": "친환경실내건축 ",
+        "instructor": "전정윤",
+        "times_str": "월3,수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "삼412"
+    },
+    {
+        "id": "13e1075a-bc37-5a1c-9450-4f20422a2ef5",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "HID3124-01-00",
+        "credits": 3.0,
+        "title": "한국전통공간과건축 ",
+        "instructor": "임호균",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b220638f-7dee-5bab-82a8-8faca526e7a3",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "HID3125-01-00",
+        "credits": 3.0,
+        "title": "GIS공간기획 ",
+        "instructor": "송지현",
+        "times_str": "금2,3/금4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼412/동영상콘텐츠"
+    },
+    {
+        "id": "615f3af5-cf88-5e07-affc-3dc2d0ce3be4",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "HID3127-01-00",
+        "credits": 3.0,
+        "title": "실내건축스튜디오(4) ",
+        "instructor": "이정은",
+        "times_str": "금1,2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼518"
+    },
+    {
+        "id": "44a96664-5333-51fc-9e97-e9c50f367f29",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "HID3130-01-00",
+        "credits": 3.0,
+        "title": "건축음향환경 ",
+        "instructor": "김수영",
+        "times_str": "월7,8,9/월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/삼412"
+    },
+    {
+        "id": "e42ac069-d7b0-51fb-9bc8-1f85cf785a21",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "HID4101-01-00",
+        "credits": 3.0,
+        "title": "졸업스튜디오 ",
+        "instructor": "하미경",
+        "times_str": "목6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼516"
+    },
+    {
+        "id": "3f3dedf2-5e54-50d1-819b-66f03e3a75ee",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "HID4101-02-00",
+        "credits": 3.0,
+        "title": "졸업스튜디오 ",
+        "instructor": "변기동",
+        "times_str": "목6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼513"
+    },
+    {
+        "id": "8433f9a1-0a55-5b25-8809-c4850e52e231",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "HID4110-01-00",
+        "credits": 3.0,
+        "title": "현대실내건축 ",
+        "instructor": "하미경",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼412"
+    },
+    {
+        "id": "f4f8a218-7028-5cf4-a5fd-c598a65c921c",
+        "department": "생활과학대학",
+        "major": "실내건축학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "HID4119-01-00",
+        "credits": 3.0,
+        "title": "공간디스플레이와코디네이션 ",
+        "instructor": "김석경",
+        "times_str": "수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼412"
+    },
+    {
+        "id": "d95b2675-3c9e-5f6b-a03a-51061159526c",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "CFS2106-01-00",
+        "credits": 3.0,
+        "title": "가족학개론 ",
+        "instructor": "김성희",
+        "times_str": "목2,3/목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "f1e78fb6-e49c-55c4-8a1c-0a896ce104f5",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "CFS2103-01-00",
+        "credits": 3.0,
+        "title": "영아발달 ",
+        "instructor": "정영선",
+        "times_str": "화2,3/화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "1e4618c3-faad-56e7-b820-9b2fdad63bc4",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "CFS2104-01-00",
+        "credits": 3.0,
+        "title": "유아교육론 ",
+        "instructor": "박찬화",
+        "times_str": "화7/화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "db252682-470e-54af-bd29-d2d15e0830bb",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CFS4110-01-00",
+        "credits": 3.0,
+        "title": "아동복지론 ",
+        "instructor": "김은영",
+        "times_str": "목1,2/목3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼206"
+    },
+    {
+        "id": "2aaf46a2-d6e4-5d1a-b629-67e114181c07",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3102-01-00",
+        "credits": 3.0,
+        "title": "유아사회·정서교육 ",
+        "instructor": "박경자",
+        "times_str": "월6,7/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼206"
+    },
+    {
+        "id": "c205a7df-5a66-5bd1-a957-70bb17fa7eef",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3104-01-00",
+        "credits": 3.0,
+        "title": "아동문제행동지도 ",
+        "instructor": "박주희",
+        "times_str": "화6,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f49de965-ad05-5a60-83fd-3840bcd38b76",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3108-01-00",
+        "credits": 3.0,
+        "title": "아동수학지도 ",
+        "instructor": "이혜경",
+        "times_str": "수2,3,4/수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/삼206"
+    },
+    {
+        "id": "87f0d839-b013-550d-a49c-f59867cfff73",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3126-01-00",
+        "credits": 3.0,
+        "title": "청년발달 ",
+        "instructor": "강민주",
+        "times_str": "월8,9,수9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "07c9afa1-2c50-53ea-9d10-1697ee5b665c",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3137-01-00",
+        "credits": 3.0,
+        "title": "아동가족연구와통계적이해 ",
+        "instructor": "주수산나",
+        "times_str": "화2,3/화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼206"
+    },
+    {
+        "id": "7eb37be6-6a27-5560-8d0d-75eaae6bbac7",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CFS3139-01-00",
+        "credits": 3.0,
+        "title": "아동안전관리 ",
+        "instructor": "신윤승",
+        "times_str": "금6/금7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "삼206/동영상콘텐츠"
+    },
+    {
+        "id": "d40b3a09-8952-5597-a57f-f58e9bd86482",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CFS4102-01-00",
+        "credits": 3.0,
+        "title": "보육교사론 ",
+        "instructor": "김지연",
+        "times_str": "월2,3/월2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼206"
+    },
+    {
+        "id": "66e87568-d6eb-5f41-a211-87deaddd4252",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CFS4107-01-00",
+        "credits": 3.0,
+        "title": "인간생태연구 ",
+        "instructor": "김희숙",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2e95fd16-8089-52c9-9bc8-863abe3163f3",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CFS4112-01-00",
+        "credits": 3.0,
+        "title": "보육실습 ",
+        "instructor": "김명순",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5aef2d74-4bb8-534f-962d-41f1c3aea628",
+        "department": "생활과학대학",
+        "major": "아동·가족전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CFS4115-01-00",
+        "credits": 3.0,
+        "title": "가족정책론 ",
+        "instructor": "권영인",
+        "times_str": "금2,3/금4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/삼206"
+    },
+    {
+        "id": "d956d598-32b0-5003-a98b-95f041516e57",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "DSN2110-01-00",
+        "credits": 3.0,
+        "title": "패션일러스트레이션 ",
+        "instructor": "김지은",
+        "times_str": "수6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "69e65321-55f5-5ac9-bddf-b808d9fa4fc9",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "DSN2120-01-00",
+        "credits": 3.0,
+        "title": "디자인재료와조형 ",
+        "instructor": "김소연",
+        "times_str": "화6,7,8,9/화6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/I종314"
+    },
+    {
+        "id": "c0cee16e-1e50-5633-992b-49413bd342d7",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "DSN3111-01-00",
+        "credits": 3.0,
+        "title": "제품디자인기초 ",
+        "instructor": "오세환",
+        "times_str": "목5,6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fb9df9f5-1726-54e2-911b-e1d5c9812fc8",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "DSN3128-01-00",
+        "credits": 3.0,
+        "title": "시각디자인기초 ",
+        "instructor": "김현정",
+        "times_str": "월6,7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6a50d1e0-d474-5283-91cf-020b9de864f2",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(패션e-비즈니스창업) ",
+        "instructor": "이은지",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "삼706"
+    },
+    {
+        "id": "b5b5b807-1c91-5399-850b-0e814d7737ea",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN3113-01-00",
+        "credits": 3.0,
+        "title": "패션디자인과제작기법 ",
+        "instructor": "김희연",
+        "times_str": "금6,7/금8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼710/동영상콘텐츠"
+    },
+    {
+        "id": "d7c431af-20e1-571c-a807-229ad36bd87d",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN3119-01-00",
+        "credits": 3.0,
+        "title": "현대디자인사 ",
+        "instructor": "최경원",
+        "times_str": "금2,3,4/금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼B110/실시간온라인"
+    },
+    {
+        "id": "d7ee8e35-12e7-5282-ad35-75a2e8832af1",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN3121-01-00",
+        "credits": 3.0,
+        "title": "디자인리서치 ",
+        "instructor": "오상은",
+        "times_str": "목2/목3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "a155445d-8623-534b-872d-9eb6413f6934",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN3122-01-00",
+        "credits": 3.0,
+        "title": "인터랙션디자인 ",
+        "instructor": "이상원",
+        "times_str": "수1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "db9f4c7e-25e0-543e-af8a-d14cc31bc3da",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN3123-01-00",
+        "credits": 3.0,
+        "title": "제품디자인 ",
+        "instructor": "이주현",
+        "times_str": "수6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ba751c29-f7fa-58b1-bd84-82f3947822a7",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "DSN4106-01-00",
+        "credits": 3.0,
+        "title": "브랜드디자인 ",
+        "instructor": "주혜영",
+        "times_str": "월1,2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c3da4b21-cb5d-513a-8f21-1601d48bfbed",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "DSN4102-01-00",
+        "credits": 4.0,
+        "title": "졸업작품스튜디오1(캡스톤디자인) ",
+        "instructor": "김소연,한소원,백준상,김영은",
+        "times_str": "월6,7,8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "삼704"
+    },
+    {
+        "id": "5f3a63ce-76f1-50ad-a16b-7fe4925277da",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "DSN3106-01-00",
+        "credits": 3.0,
+        "title": "디자인미학 ",
+        "instructor": "노영덕",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "23ac7e1b-4672-5811-8bbf-ff1d39631ee0",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "DSN3112-01-00",
+        "credits": 3.0,
+        "title": "가구/생활용품디자인 ",
+        "instructor": "오세환",
+        "times_str": "수1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "67e08b34-79d1-5817-8ffe-c1cf0e984514",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "DSN3134-01-00",
+        "credits": 3.0,
+        "title": "사용자경험과인터페이스디자인 ",
+        "instructor": "홍수연",
+        "times_str": "목6,7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ae8bac3a-c903-54a5-9568-ac021e26e274",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "DSN4109-01-00",
+        "credits": 3.0,
+        "title": "패션디자인 ",
+        "instructor": "이지현",
+        "times_str": "화6,7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "삼710"
+    },
+    {
+        "id": "bc317344-1ff2-5374-83d6-98de2be91085",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "DSN4116-01-00",
+        "credits": 3.0,
+        "title": "제품서비스시스템디자인 ",
+        "instructor": "백준상",
+        "times_str": "금1,2,3,4/금1,2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "삼704/삼710"
+    },
+    {
+        "id": "98c87d89-0441-5b9d-82de-cf8e78a93218",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "DSN4119-01-00",
+        "credits": 3.0,
+        "title": "비주얼머천다이징 ",
+        "instructor": "한은주",
+        "times_str": "목1,2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b8a2decf-caac-5432-818e-5b689308cc88",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "DSN4120-01-00",
+        "credits": 3.0,
+        "title": "디자인비즈니스 ",
+        "instructor": "한국인",
+        "times_str": "화6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "7dd944cb-b54c-5f7a-9d7e-0fad8a8f0031",
+        "department": "생활과학대학",
+        "major": "생활디자인전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "DSN4121-01-00",
+        "credits": 3.0,
+        "title": "시각디자인 ",
+        "instructor": "이현주,박가미",
+        "times_str": "수6,7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

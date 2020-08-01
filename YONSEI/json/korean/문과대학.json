@@ -1,0 +1,5881 @@
+﻿[
+    {
+        "id": "e0953a76-1fdc-5305-85c6-08be8b0b9462",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "0",
+        "classification": "교직",
+        "code": "TTP3829-01-00",
+        "credits": 3.0,
+        "title": "외국어평가방법론 ",
+        "instructor": "이원경",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b550602f-c4e7-524c-98f8-45402c25d303",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "0",
+        "classification": "일반",
+        "code": "HUM2037-01-00",
+        "credits": 3.0,
+        "title": "동서양공연예술의이해 ",
+        "instructor": "하경심,유현주,최기숙",
+        "times_str": "목8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "52c6ec98-9551-54a6-9607-67e62daa63d0",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "0",
+        "classification": "일반",
+        "code": "HUM2038-01-00",
+        "credits": 3.0,
+        "title": "디지털언어데이터와인문학 ",
+        "instructor": "김한샘",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위215/실시간온라인"
+    },
+    {
+        "id": "009ec3f6-1b8d-56b8-9fdb-88b4e41eb637",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "HUM2046-01-00",
+        "credits": 3.0,
+        "title": "인문학도를위한코딩(중급) ",
+        "instructor": "허고은",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위416"
+    },
+    {
+        "id": "5a378101-3f5d-5f1b-a045-f0910d04983f",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "HUM2047-01-00",
+        "credits": 3.0,
+        "title": "디지털미디어와젠더(성찰과디자인) ",
+        "instructor": "최기숙",
+        "times_str": "화5,6/화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인/위215"
+    },
+    {
+        "id": "df9e4ed3-9529-5f79-b9ad-24897dc210d3",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "HUM2048-01-00",
+        "credits": 3.0,
+        "title": "한국의유산: 전통과지속가능성 ",
+        "instructor": "류정민",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "외01/실시간온라인"
+    },
+    {
+        "id": "508ce920-7329-527a-ab30-49e49e9a8c81",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "HUM2049-01-00",
+        "credits": 3.0,
+        "title": "인물로본한국사 ",
+        "instructor": "조경철",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "위216/실시간온라인"
+    },
+    {
+        "id": "780679cc-fdca-5215-a9be-7188484c6519",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "3,4",
+        "classification": "일반",
+        "code": "HUM3001-01-00",
+        "credits": 3.0,
+        "title": "인문학과법 ",
+        "instructor": "김종철,박지윤",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "dc4672c7-514a-522c-bcc4-0b96713adaa2",
+        "department": "문과대학",
+        "major": "문과대학 공통",
+        "year": "3,4",
+        "classification": "일반",
+        "code": "HUM3007-01-00",
+        "credits": 3.0,
+        "title": "디지털담화처리의이해 ",
+        "instructor": "손현정",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교604"
+    },
+    {
+        "id": "6568bc97-37bf-5396-a2af-d6df6d7e0ad9",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "KOR1001-01-00",
+        "credits": 3.0,
+        "title": "한국어문학의이해 ",
+        "instructor": "박무영,원미진,이경훈",
+        "times_str": "금2,3,4/금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "94051448-0092-5b5c-9e0c-fb9bace2abb6",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "KOR1101-01-00",
+        "credits": 3.0,
+        "title": "우리말연구의첫걸음 ",
+        "instructor": "권경일",
+        "times_str": "화4,목5,6/화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위210"
+    },
+    {
+        "id": "34d20dfb-886c-5b67-ba43-82562a360e08",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "KOR1102-01-00",
+        "credits": 3.0,
+        "title": "문학이란무엇인가 ",
+        "instructor": "조강석,이단비",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "000c3881-513a-5ac5-b3b8-e17d17d95b82",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "KOR1106-01-00",
+        "credits": 3.0,
+        "title": "한국고전문학의이해 ",
+        "instructor": "김영희,구태운",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "18df4bff-953a-57e2-ad85-348ba092e83e",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(비평쓰기연습) ",
+        "instructor": "양순모",
+        "times_str": "수9/수9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "위301/실시간온라인"
+    },
+    {
+        "id": "9c0d13e3-d82f-5d13-8d70-96c1886a368d",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(소설텍스트읽기) ",
+        "instructor": "최영석",
+        "times_str": "화7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b2ca49b2-67a4-5df9-b559-ca95259dcfed",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-03-00",
+        "credits": 1.0,
+        "title": "UT세미나(소셜미디어와한국어) ",
+        "instructor": "한승규",
+        "times_str": "금4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0890a8c8-4956-5b8a-b98e-aa7169efb378",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-04-00",
+        "credits": 1.0,
+        "title": "UT세미나(시텍스트읽는법) ",
+        "instructor": "홍성희",
+        "times_str": "목9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5e7b8ef5-dacf-5fcd-a75e-e61b11af8329",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-05-00",
+        "credits": 1.0,
+        "title": "UT세미나(최신한국문학논문읽기) ",
+        "instructor": "최명석",
+        "times_str": "수3/수3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "위203/실시간온라인"
+    },
+    {
+        "id": "6414395b-2cb2-5418-8b23-2f73331b1268",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-06-00",
+        "credits": 1.0,
+        "title": "UT세미나(한국사회의언어문제) ",
+        "instructor": "공나형",
+        "times_str": "월2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d6bbf2eb-de99-551c-9cb2-03da50b381f4",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2002-07-00",
+        "credits": 1.0,
+        "title": "UT세미나(현장활동과구술자료의분석) ",
+        "instructor": "황은주",
+        "times_str": "수5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "322ac1ff-fa69-5eca-a1cb-a2528dfe0827",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2301-01-00",
+        "credits": 3.0,
+        "title": "현대사회와문학 ",
+        "instructor": "김현주,이한빛",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외106"
+    },
+    {
+        "id": "764179ef-b5b9-53e8-aebe-8827c44da7ed",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2306-01-00",
+        "credits": 3.0,
+        "title": "고전소설의이해 ",
+        "instructor": "주형예",
+        "times_str": "화3/화3,목3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외02/실시간온라인"
+    },
+    {
+        "id": "7956030c-351f-574f-ac40-082004bb8eb4",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2308-01-00",
+        "credits": 3.0,
+        "title": "소설쓰기 ",
+        "instructor": "김선아",
+        "times_str": "수6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f7e749ad-30da-5d3f-adc7-23bdc2e0cb01",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2309-01-00",
+        "credits": 3.0,
+        "title": "현대소설읽기 ",
+        "instructor": "이경훈",
+        "times_str": "화8,9,목7/화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "8b2089b5-085e-5cab-bb2a-01b394ef37a3",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2312-01-00",
+        "credits": 3.0,
+        "title": "현대시읽기 ",
+        "instructor": "김나현",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "dd99c870-f971-5922-bed3-baed74eadc9b",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "KOR2509-01-00",
+        "credits": 3.0,
+        "title": "고전문학과인접예술 ",
+        "instructor": "조규희",
+        "times_str": "금6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "14ecbd69-6b62-5808-8761-67ce07283504",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3301-01-00",
+        "credits": 3.0,
+        "title": "한국근대문학사 ",
+        "instructor": "정한나",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위216/실시간온라인"
+    },
+    {
+        "id": "f740f9ed-610c-5a24-9015-e66a86d77132",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3310-01-00",
+        "credits": 3.0,
+        "title": "영상문학론 ",
+        "instructor": "백문임,배새롬",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "d2f9e4de-a39c-5df5-8c6e-07a4608c46ee",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3315-01-00",
+        "credits": 3.0,
+        "title": "시조가사론 ",
+        "instructor": "박애경",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/외01"
+    },
+    {
+        "id": "14c1909b-ed86-5aed-bdd0-546686662bf7",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3402-01-00",
+        "credits": 3.0,
+        "title": "국어형태론 ",
+        "instructor": "손혜옥",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "외02/실시간온라인"
+    },
+    {
+        "id": "15a0511d-203c-5da1-81f5-0c73eac771bf",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3414-01-00",
+        "credits": 3.0,
+        "title": "사회언어학 ",
+        "instructor": "조태린,김주성",
+        "times_str": "월3,4,수4/월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위205"
+    },
+    {
+        "id": "2e95dbe8-3b02-5bcf-ad35-077681969d65",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3501-01-00",
+        "credits": 3.0,
+        "title": "한국한문학작가론 ",
+        "instructor": "오보라",
+        "times_str": "월5,6,수6/월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위210/실시간온라인"
+    },
+    {
+        "id": "339ca42d-8c5c-5369-9c1c-5b422feff83f",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3512-01-00",
+        "credits": 3.0,
+        "title": "국어음운론 ",
+        "instructor": "한영균,김은솔",
+        "times_str": "화5/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "외02/실시간온라인"
+    },
+    {
+        "id": "11e56497-0f64-5daf-af83-8079dcbd7849",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3513-01-00",
+        "credits": 3.0,
+        "title": "한국구전이야기의탐색 ",
+        "instructor": "이미라,황은주",
+        "times_str": "수3,금3,4/수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위210/실시간온라인"
+    },
+    {
+        "id": "ac342ee1-825d-5dda-a538-7187bdb32a55",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3516-01-00",
+        "credits": 3.0,
+        "title": "국어논리및논술 ",
+        "instructor": "박경우",
+        "times_str": "화8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "7de1a7f3-93a3-5e00-b498-c166e09dee11",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3521-01-00",
+        "credits": 3.0,
+        "title": "고전문학과젠더 ",
+        "instructor": "박무영",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위216"
+    },
+    {
+        "id": "3c859706-f393-567e-92e6-eaa2e6ef4482",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3525-01-00",
+        "credits": 3.0,
+        "title": "중세국어자료강독 ",
+        "instructor": "서상규,김선혜",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외01"
+    },
+    {
+        "id": "b673c103-4b5e-5797-9276-19205cc0f03e",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3526-01-00",
+        "credits": 3.0,
+        "title": "언어습득론 ",
+        "instructor": "원미진,남미정",
+        "times_str": "월7,8/수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "ca5f8ed6-d7b2-5bf7-a9d1-666ffae1d757",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR3529-01-00",
+        "credits": 3.0,
+        "title": "한국문학과역사 ",
+        "instructor": "유시어도어준",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ce8466ef-2e80-53f2-8515-831879d32a25",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "KOR4601-01-00",
+        "credits": 3.0,
+        "title": "현대비평읽기 ",
+        "instructor": "소영현",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "22b8cbeb-bc15-58e1-b600-66b0a278c362",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "3,4",
+        "classification": "교직",
+        "code": "TTP3801-01-00",
+        "credits": 2.0,
+        "title": "국어교재연구및지도법 ",
+        "instructor": "유혜령",
+        "times_str": "목7,8/목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외110"
+    },
+    {
+        "id": "810d58b7-0fa4-5cac-8061-881abc9aa4a4",
+        "department": "문과대학",
+        "major": "국어국문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "KOR4410-01-00",
+        "credits": 3.0,
+        "title": "한국어어휘교육론 ",
+        "instructor": "홍혜란",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "353acacd-65cf-5889-8e91-fb7ef96396b3",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "HIS2702-01-00",
+        "credits": 3.0,
+        "title": "역사학입문 ",
+        "instructor": "주의돈",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fd48881f-707b-5308-ba92-b8bbdc8d0315",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "HIS2401-01-00",
+        "credits": 3.0,
+        "title": "동양사학입문 ",
+        "instructor": "임성모",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "079137ea-8ef3-5a0b-9407-4e84de93e090",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "HIS2701-01-00",
+        "credits": 3.0,
+        "title": "서양사학입문 ",
+        "instructor": "전수연",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위414"
+    },
+    {
+        "id": "e246d551-ba9a-54bc-b2b1-bb5bc5a98804",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "HIS2003-01-00",
+        "credits": 0.0,
+        "title": "문화유적답사(2) ",
+        "instructor": "조태섭",
+        "times_str": "화10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "위414"
+    },
+    {
+        "id": "83ce461b-8ece-58d5-8fc1-0775cf0808d2",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HIS2103-01-00",
+        "credits": 3.0,
+        "title": "고고학개론 ",
+        "instructor": "하문식",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "c30dd465-bb75-59a0-b0fe-16ffef06094d",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "HIS2703-01-00",
+        "credits": 3.0,
+        "title": "영국사 ",
+        "instructor": "이영석",
+        "times_str": "화5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "d1ed9035-8b98-58c2-b7ed-df3e5ada48a1",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3110-01-00",
+        "credits": 3.0,
+        "title": "한국중세사회경제사 ",
+        "instructor": "윤석호",
+        "times_str": "금5,6,7/금5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위414"
+    },
+    {
+        "id": "1ef1368e-af28-54a9-9c44-85cad0393e04",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3111-01-00",
+        "credits": 3.0,
+        "title": "한국중세지성의세계 ",
+        "instructor": "도현철,이상민",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "17e16f09-b241-586f-882c-3c45987a651d",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3117-01-00",
+        "credits": 3.0,
+        "title": "근대한국과제국주의 ",
+        "instructor": "이기훈,이정윤",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "위414/실시간온라인"
+    },
+    {
+        "id": "da5fa143-247a-58e3-84d3-a233178e8a1f",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3402-01-00",
+        "credits": 3.0,
+        "title": "중국중세의정치와문화 ",
+        "instructor": "방향숙",
+        "times_str": "월3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "d160f552-4668-5184-95c2-78b31eec4c73",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3403-01-00",
+        "credits": 3.0,
+        "title": "중국근세의사회와문화 ",
+        "instructor": "차혜원,박찬근",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "교406/실시간온라인"
+    },
+    {
+        "id": "c8630934-8460-590f-be83-1b85cd91d159",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3416-01-00",
+        "credits": 3.0,
+        "title": "20세기일본 ",
+        "instructor": "방광석",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "985ad899-12ac-5707-ac39-69500d03029e",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3426-01-00",
+        "credits": 3.0,
+        "title": "내륙아시아사 ",
+        "instructor": "이훈",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "e3a15086-7c81-518c-817c-9dbee4f0f705",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3701-01-00",
+        "credits": 3.0,
+        "title": "서양고전고대 ",
+        "instructor": "이혜민",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교306/실시간온라인"
+    },
+    {
+        "id": "26936f1b-5a24-52c8-ad1d-9defc43598a8",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3733-01-00",
+        "credits": 3.0,
+        "title": "이탈리아사 ",
+        "instructor": "라영순",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "백S111"
+    },
+    {
+        "id": "ff00d385-00fd-5ae7-bb8d-29e992dd1d0b",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3986-01-00",
+        "credits": 3.0,
+        "title": "유라시아고고학 ",
+        "instructor": "조태섭",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교306"
+    },
+    {
+        "id": "8ef58d78-6663-513b-bab4-5ae6a676338c",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS3991-01-00",
+        "credits": 3.0,
+        "title": "고대한국과동아시아세계 ",
+        "instructor": "신가영",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교306"
+    },
+    {
+        "id": "0199b3c1-f941-59bb-a0bb-e9da91af9097",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS4402-01-00",
+        "credits": 3.0,
+        "title": "중국과아시아 ",
+        "instructor": "장수지",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교406"
+    },
+    {
+        "id": "ae53719d-3887-52cf-a06b-91a333f94606",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS4804-01-00",
+        "credits": 3.0,
+        "title": "제3세계의등장과도전 ",
+        "instructor": "이재원",
+        "times_str": "수3/금3/금4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교406/동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "2546b388-840a-5ab7-aa55-3e9940015de2",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS4807-01-00",
+        "credits": 3.0,
+        "title": "역사논리및논술 ",
+        "instructor": "박소연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b0015fc0-13d5-5c98-86a0-75c4d61e0a08",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS4810-01-00",
+        "credits": 3.0,
+        "title": "분단한국의지성사 ",
+        "instructor": "이하나",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위211"
+    },
+    {
+        "id": "f1442786-aad7-5d24-9557-dd1ebe9e90a5",
+        "department": "문과대학",
+        "major": "사학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "HIS4811-01-00",
+        "credits": 3.0,
+        "title": "소비의역사 ",
+        "instructor": "설혜심",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위414"
+    },
+    {
+        "id": "bd86dea6-1b7b-5bdb-89fa-e056ac3ad972",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "0",
+        "classification": "전기",
+        "code": "PHI1001-01-00",
+        "credits": 3.0,
+        "title": "서양철학의이해 ",
+        "instructor": "선우환",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7c7d8303-3c84-5185-b5ef-3c2061afce37",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "PHI1002-01-00",
+        "credits": 3.0,
+        "title": "동양의가치와철학 ",
+        "instructor": "최경순",
+        "times_str": "수5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "4b4dc3d8-bf58-59b0-81d4-09815ad8dad4",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PHI2151-01-00",
+        "credits": 3.0,
+        "title": "중국고대철학 ",
+        "instructor": "김명석",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "외01"
+    },
+    {
+        "id": "5275e5d0-6d3c-5e2b-aaf0-4656e0606269",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PHI2259-01-00",
+        "credits": 3.0,
+        "title": "논리학 ",
+        "instructor": "우환식",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "23217c8f-a81f-5e87-85d5-2a676408faaa",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PHI2261-01-00",
+        "credits": 3.0,
+        "title": "중국근세철학 ",
+        "instructor": "신규탁",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "552d578b-5b29-5cfd-96a5-f3583098e236",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PHI2260-01-00",
+        "credits": 3.0,
+        "title": "철학교육방법론 ",
+        "instructor": "전현희",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a243fd8c-f61d-5e36-85a3-7c0db48bc091",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHI3274-01-00",
+        "credits": 3.0,
+        "title": "불교철학사 ",
+        "instructor": "박인석",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b1933d21-6f9d-55ad-b87e-448d3b8f7227",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PHI3281-01-00",
+        "credits": 3.0,
+        "title": "여성주의의철학 ",
+        "instructor": "이정은",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "8bf2b157-0306-511c-91c0-3ae2101924c6",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "PHI4266-01-00",
+        "credits": 3.0,
+        "title": "형이상학 ",
+        "instructor": "김동규",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d7677973-902f-575e-b1c5-ba42cd530ba2",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI3208-01-00",
+        "credits": 3.0,
+        "title": "헤겔철학 ",
+        "instructor": "남기호",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "외01/실시간온라인"
+    },
+    {
+        "id": "b4e1aada-f5eb-5fce-adca-d86bb12d7bd8",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI3264-01-00",
+        "credits": 3.0,
+        "title": "심리철학 ",
+        "instructor": "이선형",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위415"
+    },
+    {
+        "id": "8161734a-7a20-52f5-aa45-a6260c395da3",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI3270-01-00",
+        "credits": 3.0,
+        "title": "동아시아예술철학 ",
+        "instructor": "강여울",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위415/동영상콘텐츠"
+    },
+    {
+        "id": "465373ea-150e-5e9f-988e-48fcd3c74999",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI3271-01-00",
+        "credits": 3.0,
+        "title": "문화철학 ",
+        "instructor": "홍사현",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "98bf5ff9-a8df-51bd-a251-99ba4fb43fdc",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI4209-01-00",
+        "credits": 3.0,
+        "title": "텍스트의철학 ",
+        "instructor": "홍진기",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "외02"
+    },
+    {
+        "id": "1009fb95-7d8a-54cb-bbd2-1951958c8514",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI4256-01-00",
+        "credits": 3.0,
+        "title": "그리스철학특강 ",
+        "instructor": "홍사현",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/외01"
+    },
+    {
+        "id": "fcb997eb-8e4f-5fc1-b3fb-361cf647bb26",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI4262-01-00",
+        "credits": 3.0,
+        "title": "토마스아퀴나스철학 ",
+        "instructor": "이재경,김선영",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3f63f414-20f0-54b4-bb4f-f52d7c1a12dc",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI4265-01-00",
+        "credits": 3.0,
+        "title": "사회철학 ",
+        "instructor": "정현철",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7306f8e6-e41d-5a80-83e8-cca65b39386f",
+        "department": "문과대학",
+        "major": "철학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PHI4267-01-00",
+        "credits": 3.0,
+        "title": "응용윤리학 ",
+        "instructor": "강철",
+        "times_str": "월9,10,수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "40969b6a-2c8c-5a4e-ab11-76080e854e5a",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "LIS1102-01-00",
+        "credits": 3.0,
+        "title": "정보기술론 ",
+        "instructor": "허고은",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위416"
+    },
+    {
+        "id": "273d8121-4765-573e-9400-45831912b378",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "LIS2001-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(문헌정보학진로탐색세미나) ",
+        "instructor": "채현수",
+        "times_str": "화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위416"
+    },
+    {
+        "id": "a4d5b083-7fd8-5b58-a2b9-a90b96f078d3",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "LIS2601-01-00",
+        "credits": 3.0,
+        "title": "장서개발론 ",
+        "instructor": "박상애",
+        "times_str": "월10,11,12",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "125518ae-fc7c-5c54-a10a-166b00c50453",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "LIS2805-01-00",
+        "credits": 3.0,
+        "title": "정보이용자교육론 ",
+        "instructor": "전정현",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위416"
+    },
+    {
+        "id": "4bf2884e-d1a4-5dc4-b7a5-bf084e70c52c",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "LIS2806-01-00",
+        "credits": 3.0,
+        "title": "정보시스템분석 ",
+        "instructor": "허고은",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "84251aba-1fa2-5312-b6a4-dd349fe88fa7",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "LIS3304-01-00",
+        "credits": 3.0,
+        "title": "도서관정보센터경영의실제 ",
+        "instructor": "김기영",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위416"
+    },
+    {
+        "id": "21049320-8163-5de9-b676-4cec350da522",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "LIS3605-01-00",
+        "credits": 3.0,
+        "title": "정보조직론:목록 ",
+        "instructor": "조성원",
+        "times_str": "화10,11/화12",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "위416/실시간온라인"
+    },
+    {
+        "id": "196fa10e-11b1-5520-80fb-567ddc299b3a",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "LIS3612-01-00",
+        "credits": 3.0,
+        "title": "정보서비스평가 ",
+        "instructor": "감미아",
+        "times_str": "목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "4f04f41b-4fe1-59ff-9958-829c09fd2e27",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "LIS3806-01-00",
+        "credits": 3.0,
+        "title": "사회정보학 ",
+        "instructor": "박지홍",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ee5faae0-1d49-5a75-8876-631c53ddaf3f",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "LIS3814-01-00",
+        "credits": 3.0,
+        "title": "정보이용자론 ",
+        "instructor": "이선희",
+        "times_str": "목10,11,12",
+        "times": {
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8ca29e70-2e3e-5dc0-8833-b04275c30501",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "LIS4302-01-00",
+        "credits": 3.0,
+        "title": "공공도서관경영 ",
+        "instructor": "감미아",
+        "times_str": "목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d2c8ed22-ee5f-545b-9c3a-4fcc51c4f86e",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "LIS4701-01-00",
+        "credits": 3.0,
+        "title": "정보검색론 ",
+        "instructor": "문성빈",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "위416"
+    },
+    {
+        "id": "c6d75967-6be8-5352-ad1e-ed9aa3bd9250",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "LIS4704-01-00",
+        "credits": 3.0,
+        "title": "소셜네트워크서비스론 ",
+        "instructor": "전정현",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위416"
+    },
+    {
+        "id": "9a347190-e59f-5264-94c2-2312fbf8c1df",
+        "department": "문과대학",
+        "major": "문헌정보학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "LIS4801-01-00",
+        "credits": 3.0,
+        "title": "디지털도서관구축론 ",
+        "instructor": "이지연",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "09a24a62-b4ce-590e-9fa7-b435336d7056",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "0",
+        "classification": "전선",
+        "code": "PSY4125-01-00",
+        "credits": 3.0,
+        "title": "지각및정신물리학실습 ",
+        "instructor": "박수진,홍인재",
+        "times_str": "월3,4/수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위B05"
+    },
+    {
+        "id": "c20e4d51-5d0f-59df-9c7f-dd9685c7f288",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PSY2103-01-00",
+        "credits": 3.0,
+        "title": "심리학개론 ",
+        "instructor": "김민식,이기학,손영우,서은국,정경미,송현주,이동귀,이도준,한상훈,김영훈,박수현,박수진,정상철,허주연",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fb086049-01f8-5cc0-b5e8-ffc9fdfd5ee7",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PSY2104-01-00",
+        "credits": 3.0,
+        "title": "심리학의실험연구방법 ",
+        "instructor": "김민식",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위B05"
+    },
+    {
+        "id": "c0521146-adea-5ace-ab41-f5e0a0668c92",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "PSY2104-02-00",
+        "credits": 3.0,
+        "title": "심리학의실험연구방법 ",
+        "instructor": "박수진",
+        "times_str": "월6/수5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위202"
+    },
+    {
+        "id": "41385f63-3308-5dad-a09f-1e72eb63fd3a",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PSY2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(마음연구법) ",
+        "instructor": "김민식",
+        "times_str": "수8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "유405"
+    },
+    {
+        "id": "7922f1fa-9409-596b-a0b4-769552067a98",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "PSY3113-01-00",
+        "credits": 3.0,
+        "title": "문화심리 ",
+        "instructor": "김영훈",
+        "times_str": "화2,3/목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "위B05/실시간온라인"
+    },
+    {
+        "id": "94eba791-e70b-589e-beab-54ea06f56985",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PSY3122-01-00",
+        "credits": 3.0,
+        "title": "심리통계 ",
+        "instructor": "한광희",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "교604/실시간온라인"
+    },
+    {
+        "id": "294fad8f-13a8-5da3-a4a0-794cbf095597",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PSY3122-02-00",
+        "credits": 3.0,
+        "title": "심리통계 ",
+        "instructor": "김민선",
+        "times_str": "수3,4/목4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교604"
+    },
+    {
+        "id": "3aa00523-0f43-54df-9ee7-f1aa2fb68065",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PSY3122-03-00",
+        "credits": 3.0,
+        "title": "심리통계 ",
+        "instructor": "정예슬",
+        "times_str": "수6,7/목7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교604"
+    },
+    {
+        "id": "beeee036-77fc-52f8-845c-9cc9cddf3dfe",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY3103-01-00",
+        "credits": 3.0,
+        "title": "동기와정서 ",
+        "instructor": "박지영",
+        "times_str": "화6,7/목8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위B05/실시간온라인"
+    },
+    {
+        "id": "e36d0c9b-0a32-524d-826c-445e958f39cf",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY3126-01-00",
+        "credits": 3.0,
+        "title": "이상심리학 ",
+        "instructor": "박수현",
+        "times_str": "월3,4/수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위B09"
+    },
+    {
+        "id": "472ff16c-81d3-5b42-afd4-f167c53e0d73",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY3133-01-00",
+        "credits": 3.0,
+        "title": "조직심리학 ",
+        "instructor": "이경수",
+        "times_str": "수8,9/금8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위B05"
+    },
+    {
+        "id": "42ee9c73-9aec-5169-9fb9-9ae361d890d2",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY3163-01-00",
+        "credits": 3.0,
+        "title": "완벽주의와정신건강 ",
+        "instructor": "이동귀",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외110"
+    },
+    {
+        "id": "cb15a78c-1502-56cb-b3d4-61033b0933c1",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY3168-01-00",
+        "credits": 3.0,
+        "title": "인지와정서조절 ",
+        "instructor": "허주연",
+        "times_str": "화3,4/수5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위B09"
+    },
+    {
+        "id": "e18b00ab-5692-5721-909c-28febb0282a2",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY4121-01-00",
+        "credits": 3.0,
+        "title": "성격심리학 ",
+        "instructor": "서은국",
+        "times_str": "목8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "28d54d83-449f-5350-b4fb-c31c0cf8c64f",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "PSY4127-01-00",
+        "credits": 3.0,
+        "title": "인지발달 ",
+        "instructor": "송현주",
+        "times_str": "월3,4/수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외110"
+    },
+    {
+        "id": "4e40bef1-1f68-56de-868b-d1fc9ece39de",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "PSY4141-01-00",
+        "credits": 3.0,
+        "title": "재능과기술의심리학 ",
+        "instructor": "손영우,강윤진",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위409/실시간온라인"
+    },
+    {
+        "id": "0a14e01b-ac57-51ec-ab86-81fcd0996577",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PSY4132-01-00",
+        "credits": 1.0,
+        "title": "심리학연구실습(1) ",
+        "instructor": "한상훈",
+        "times_str": "월10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ad6c8000-318b-5a0f-a399-29a7d686ced0",
+        "department": "문과대학",
+        "major": "심리학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PSY4130-01-00",
+        "credits": 3.0,
+        "title": "사회정서신경과학 ",
+        "instructor": "이도준",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위202"
+    },
+    {
+        "id": "c4bf11e2-dd39-54e5-bcd5-5e365ede5777",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "CLL2101-01-00",
+        "credits": 3.0,
+        "title": "중국어학입문 ",
+        "instructor": "진화진",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교306"
+    },
+    {
+        "id": "3ab5ef4c-c658-5d3d-bef6-4ee7fc879fc6",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "CLL2101-02-00",
+        "credits": 3.0,
+        "title": "중국어학입문 ",
+        "instructor": "김현철,진화진,송화영",
+        "times_str": "화8/화8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b3948af4-e284-5228-8ae4-08a7151fade7",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(현대중국과중국문화탐색) ",
+        "instructor": "이석구",
+        "times_str": "금2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "위209"
+    },
+    {
+        "id": "d6fa93c9-dcdb-5ac1-bace-ec3e03927fe9",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL2306-01-00",
+        "credits": 3.0,
+        "title": "전공중국어연습(2) ",
+        "instructor": "신혜인",
+        "times_str": "화1,2,목1(목2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "6c30ee45-b3f3-5770-b586-07c5bba7c037",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL2401-01-00",
+        "credits": 3.0,
+        "title": "역대산문선독 ",
+        "instructor": "이주해",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위209"
+    },
+    {
+        "id": "48a33161-4fb9-5398-9b6b-f37b6f19d12a",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL2603-01-00",
+        "credits": 3.0,
+        "title": "중국신화의이해 ",
+        "instructor": "홍윤희,송동령",
+        "times_str": "화6/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위209"
+    },
+    {
+        "id": "bd716d76-b427-5bdc-8085-f94a5bccb31b",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL3302-01-00",
+        "credits": 3.0,
+        "title": "중급중국어말하기 ",
+        "instructor": "김춘희",
+        "times_str": "월1,2,수1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "166b1023-8ce4-55e5-848f-27982e59eccb",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CLL3302-02-00",
+        "credits": 3.0,
+        "title": "중급중국어말하기 ",
+        "instructor": "밍양양",
+        "times_str": "수1/수1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위211"
+    },
+    {
+        "id": "1ccf871c-af44-50e3-a624-6928b602eb80",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3406-01-00",
+        "credits": 3.0,
+        "title": "중국백화소설선독 ",
+        "instructor": "연소영",
+        "times_str": "월9,10,수9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "위209"
+    },
+    {
+        "id": "6ce9373d-aba1-5050-8581-df8dc3ef553e",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3409-01-00",
+        "credits": 3.0,
+        "title": "중국근세문학사 ",
+        "instructor": "김장환,이성현",
+        "times_str": "월6,수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "교306"
+    },
+    {
+        "id": "4078db6a-b3ed-5eb4-9531-a254e0f4b880",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3410-01-00",
+        "credits": 3.0,
+        "title": "당시 ",
+        "instructor": "채미현",
+        "times_str": "화8,9/화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "위209/동영상콘텐츠"
+    },
+    {
+        "id": "c9e63b66-e210-5bdf-b5cc-43362913ef13",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3502-01-00",
+        "credits": 3.0,
+        "title": "한자학 ",
+        "instructor": "이규갑",
+        "times_str": "화2,3/목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위209"
+    },
+    {
+        "id": "a34e102b-22a3-5e52-9384-7170289ef1e1",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3605-01-00",
+        "credits": 3.0,
+        "title": "중국어교육론 ",
+        "instructor": "이현선",
+        "times_str": "수4,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위211"
+    },
+    {
+        "id": "72f52e88-1bb9-5e28-987a-bbe4255fe73b",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "CLL3607-01-00",
+        "credits": 3.0,
+        "title": "현대한어와한어어법(2) ",
+        "instructor": "성기은",
+        "times_str": "월4,5/월4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "da9d3de8-d120-50a4-a2a9-735c5ecbee1e",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "CLL3603-01-00",
+        "credits": 3.0,
+        "title": "중국사상(II) ",
+        "instructor": "서유진",
+        "times_str": "수4/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위209"
+    },
+    {
+        "id": "aeb6a87c-4d9a-5821-be48-4424c9816fbf",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "CLL3611-01-00",
+        "credits": 3.0,
+        "title": "중국문화읽기 ",
+        "instructor": "정진배",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위209"
+    },
+    {
+        "id": "26e2b62e-01cc-540f-bb8b-df0b6a99129c",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CLL4301-01-00",
+        "credits": 3.0,
+        "title": "고급중국어독해 ",
+        "instructor": "나상진",
+        "times_str": "화1,2,목1(목2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "b2fda04e-3e43-53b1-a5ba-a7d288dffbbc",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CLL4304-01-00",
+        "credits": 3.0,
+        "title": "고급중국어쓰기 ",
+        "instructor": "김춘희,최화",
+        "times_str": "월3,수2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "db17bd4e-d7ce-5a75-ab2d-242dd562689b",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CLL4304-02-00",
+        "credits": 3.0,
+        "title": "고급중국어쓰기 ",
+        "instructor": "권문란",
+        "times_str": "월3,수2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "80415ad5-fe53-51cb-9bca-8387fef725da",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CLL4604-01-00",
+        "credits": 3.0,
+        "title": "중국희곡선독 ",
+        "instructor": "하경심,현영희",
+        "times_str": "화4,5/화4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "위209/동영상콘텐츠"
+    },
+    {
+        "id": "8105aba0-828c-5892-b13a-2973eb6928a4",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "CLL4608-01-00",
+        "credits": 3.0,
+        "title": "중국어역사음운론 ",
+        "instructor": "김태은",
+        "times_str": "화7/목7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위209/실시간온라인"
+    },
+    {
+        "id": "4a9c9ef1-d2a6-5c83-aea2-791aead129c4",
+        "department": "문과대학",
+        "major": "중어중문학전공",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP3802-01-00",
+        "credits": 2.0,
+        "title": "중국어교재연구및지도법 ",
+        "instructor": "박지영",
+        "times_str": "목1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "위209"
+    },
+    {
+        "id": "53d07c4f-434c-5d3b-b69e-b1a225f1bbea",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "ELL2101-01-00",
+        "credits": 3.0,
+        "title": "영어학입문 ",
+        "instructor": "김현우,이승희,이원표,정은혁",
+        "times_str": "금5,6,7/금5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "246e523c-2eba-5f6b-a35c-09c2895c2564",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "ELL2101-02-00",
+        "credits": 3.0,
+        "title": "영어학입문 ",
+        "instructor": "이석재",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "e58469ee-c511-57e7-9e96-9e792224583e",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "1",
+        "classification": "전필",
+        "code": "ELL2501-01-00",
+        "credits": 3.0,
+        "title": "영문학입문 ",
+        "instructor": "최현빈",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "3b5b5a2f-5489-5f8a-aec9-86cb355a5448",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2001-01-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(1) ",
+        "instructor": "이태희",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2538a006-884e-5394-846d-e2a591d5a55d",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2001-02-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(1) ",
+        "instructor": "킬패트릭리린다",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "690027cd-3225-5c7c-9427-bacbf78f491d",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2001-03-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(1) ",
+        "instructor": "킬패트릭리린다",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3d0dadfd-9ed1-53d2-abb1-c4771f408993",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2002-01-00",
+        "credits": 3.0,
+        "title": "영어말하기와토론 ",
+        "instructor": "이태희",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3a1e2004-3252-537d-af2e-59c89942e642",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2002-02-00",
+        "credits": 3.0,
+        "title": "영어말하기와토론 ",
+        "instructor": "방펄",
+        "times_str": "수6(월5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(위202)"
+    },
+    {
+        "id": "96e15851-675b-5e43-9e8d-19fb17afba20",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2002-03-00",
+        "credits": 3.0,
+        "title": "영어말하기와토론 ",
+        "instructor": "킬패트릭리린다",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "891c8e9e-0640-559f-9aff-955bd9b1e57d",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2003-01-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(2) ",
+        "instructor": "이태희",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "47f8b4c7-89b7-591c-9ddd-de1c4bc7af46",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2003-02-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(2) ",
+        "instructor": "방펄",
+        "times_str": "목7(화8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인(위201)"
+    },
+    {
+        "id": "31fc9a7b-01a1-5cb4-9c29-f295e05b3194",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ELL2003-03-00",
+        "credits": 3.0,
+        "title": "영어글쓰기(2) ",
+        "instructor": "킬패트릭리린다",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4c9ef159-2fc4-5c51-ac77-469fe33ee7dc",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2004-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(영어어휘학습전략) ",
+        "instructor": "고광윤",
+        "times_str": "목6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "외110"
+    },
+    {
+        "id": "9253f465-152e-5d4b-9784-0f41ba374ab9",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2005-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(19세기발명품을사용하여일하는여성들) ",
+        "instructor": "김지은",
+        "times_str": "화5/화5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b353d979-cfc3-5393-bf7d-34e1b3464835",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2005-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(미국희곡비평을통한한국의페미니즘이해) ",
+        "instructor": "윤낭희",
+        "times_str": "화5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0a288bea-77cf-5a0c-a4bb-c6e5bcb7eb29",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2005-03-00",
+        "credits": 1.0,
+        "title": "UT세미나(연극영화로보는최근미국문화) ",
+        "instructor": "김현아",
+        "times_str": "수5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fb8e9ee3-9249-57ee-9759-0feb6fd6b0e7",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2005-04-00",
+        "credits": 1.0,
+        "title": "UT세미나(패션의수사학) ",
+        "instructor": "최성우",
+        "times_str": "월5(월5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인(외326-1)"
+    },
+    {
+        "id": "fbe93748-7e52-5ebe-8c38-6706fc53ecf3",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2504-01-00",
+        "credits": 3.0,
+        "title": "영국문학개관(2) ",
+        "instructor": "김준환",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "94bd7bc4-7e71-5a27-87f1-4782292178fc",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL2601-01-00",
+        "credits": 3.0,
+        "title": "단편소설의예술 ",
+        "instructor": "머피테리",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외106"
+    },
+    {
+        "id": "0b00557d-72a1-52f3-9ea1-228306dba5c3",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ELL3701-01-00",
+        "credits": 3.0,
+        "title": "현대영국소설 ",
+        "instructor": "이석구",
+        "times_str": "월5,6(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(외106)"
+    },
+    {
+        "id": "9e8ee887-242c-5a17-b4ef-f6e065b9fd65",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3302-01-00",
+        "credits": 3.0,
+        "title": "영어담화분석 ",
+        "instructor": "이원표",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "7b571ddd-225a-5c4c-ab4d-ce734ca012e1",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3308-01-00",
+        "credits": 3.0,
+        "title": "현대영국희곡 ",
+        "instructor": "임이연",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ccee4b0b-4280-51f2-a1b4-80f569d14ffd",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3601-01-00",
+        "credits": 3.0,
+        "title": "17세기영국시 ",
+        "instructor": "서홍원",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "72a4626d-ab36-5cc1-a41b-1d6a72d79d60",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3707-01-00",
+        "credits": 3.0,
+        "title": "20세기미국소설 ",
+        "instructor": "문상영",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "위210"
+    },
+    {
+        "id": "56d934fa-9499-5124-95cf-02da46507c7e",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3802-01-00",
+        "credits": 3.0,
+        "title": "현대미국희곡 ",
+        "instructor": "우미성,송정경",
+        "times_str": "수4(월3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(외110)"
+    },
+    {
+        "id": "83419c9b-1dee-591d-8d80-132d7d9dd202",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL3902-01-00",
+        "credits": 3.0,
+        "title": "서양고전강독 ",
+        "instructor": "서홍원",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "b5cd2a0a-934f-57b4-ba73-96ff36241ac6",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "ELL4305-01-00",
+        "credits": 3.0,
+        "title": "영어구조론 ",
+        "instructor": "고광윤",
+        "times_str": "화8,9(목7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(외106)"
+    },
+    {
+        "id": "c7e849ac-ef90-501e-a4f2-eeec7b5d3998",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3407-01-00",
+        "credits": 3.0,
+        "title": "소설과영화의플롯 ",
+        "instructor": "머피테리",
+        "times_str": "목4(화5,6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(외106)"
+    },
+    {
+        "id": "e3a4c758-cc8a-5992-95b8-08cdaf0f139b",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3909-01-00",
+        "credits": 3.0,
+        "title": "셰익스피어 ",
+        "instructor": "김재철,지수현",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "20ebdb31-e1c1-5968-a058-538958228a5d",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3912-01-00",
+        "credits": 3.0,
+        "title": "영어발표와의사소통 ",
+        "instructor": "방펄",
+        "times_str": "화7(목8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인(위201)"
+    },
+    {
+        "id": "af41ff93-4f99-537f-8112-e039c828914d",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3913-01-00",
+        "credits": 3.0,
+        "title": "고급영어글쓰기 ",
+        "instructor": "방펄",
+        "times_str": "수8(월7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인(위203)"
+    },
+    {
+        "id": "6094dd6b-4f51-5982-8cd6-5216b3a33cd4",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3914-01-00",
+        "credits": 3.0,
+        "title": "영어능력평가 ",
+        "instructor": "이희경",
+        "times_str": "수5,금5/금6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "e01142ed-9512-5b4e-967b-a4d40c7df2b5",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3918-01-00",
+        "credits": 3.0,
+        "title": "영어어원론 ",
+        "instructor": "고광윤",
+        "times_str": "화5,6(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(외106)"
+    },
+    {
+        "id": "fdca7aa2-fc35-5cd2-a9d8-70ea1d98f82b",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL3921-01-00",
+        "credits": 3.0,
+        "title": "영어성경과영문학 ",
+        "instructor": "윤석민",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "93993ec3-d01d-50b5-8aad-f826fb093442",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4302-01-00",
+        "credits": 3.0,
+        "title": "고급영문법 ",
+        "instructor": "김현우",
+        "times_str": "목5,6(화4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(외106)"
+    },
+    {
+        "id": "6d4024bf-1c76-52f3-ae88-bb9f90e69900",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4909-01-00",
+        "credits": 3.0,
+        "title": "대화분석과기관내에서의대화 ",
+        "instructor": "이승희",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "41351be9-31d8-54cf-8aae-b1af04104072",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4911-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT SKILLS AND STRATEGIES ",
+        "instructor": "이태희",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "672951ea-bee4-502f-a618-43aa098a861c",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4912-01-00",
+        "credits": 3.0,
+        "title": "언어와성 ",
+        "instructor": "이원표",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "09ca8660-17ec-53f2-860e-3e836b10b3f7",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4913-01-00",
+        "credits": 3.0,
+        "title": "문화와예술의정신분석 ",
+        "instructor": "양석원",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "46d0a67d-5b16-5e02-b6de-e1a214c4f91c",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4919-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE ENGLISH LITERATURES ",
+        "instructor": "박형지",
+        "times_str": "수4(월3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(위B05)"
+    },
+    {
+        "id": "dfaf473a-8baf-514f-8771-47a755b71d78",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ELL4921-01-00",
+        "credits": 3.0,
+        "title": "근대성과신성한경험연구 ",
+        "instructor": "백윤석",
+        "times_str": "목1(화2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인(외106)"
+    },
+    {
+        "id": "6b919980-c2fd-5f9b-a2c2-b50bb6bfda58",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ELL3401-01-00",
+        "credits": 3.0,
+        "title": "영어교육론 ",
+        "instructor": "정은혁",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "9bfa22bd-f63a-5d2c-beef-0f27f3f7dd4a",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ELL3603-01-00",
+        "credits": 3.0,
+        "title": "낭만주의문학 ",
+        "instructor": "신경숙",
+        "times_str": "화5,6(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(위210)"
+    },
+    {
+        "id": "7c694b88-f3c9-5704-8290-f2ebaea2fa96",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ELL4301-01-00",
+        "credits": 3.0,
+        "title": "영어학특강 ",
+        "instructor": "박홍근",
+        "times_str": "수2,3(금5)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인(교304)"
+    },
+    {
+        "id": "4cec5a10-2aaa-50ca-bcfe-e6cbcddf0bcf",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ELL4904-01-00",
+        "credits": 3.0,
+        "title": "현대비평이론 ",
+        "instructor": "양석원",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a33fd3bc-32d4-5027-a9e9-3ab631bb8111",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "ELL4915-01-00",
+        "credits": 3.0,
+        "title": "세계희곡과인간의계보학 ",
+        "instructor": "지유리",
+        "times_str": "수2(월1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(위209)"
+    },
+    {
+        "id": "48e404a7-8634-525d-859c-7533caeae03b",
+        "department": "문과대학",
+        "major": "영어영문학전공",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP3803-01-00",
+        "credits": 3.0,
+        "title": "영어교재연구및지도법 ",
+        "instructor": "정은혁",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "1b65b475-54e8-5d18-a36b-c3f67e78f135",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "GER2118-01-00",
+        "credits": 3.0,
+        "title": "독일어말하기연습 ",
+        "instructor": "라이디히안드레아스",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6c98f84b-7da4-59f8-8ffe-a6336ba1e6fd",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "GER2115-01-00",
+        "credits": 3.0,
+        "title": "독어연습(2) ",
+        "instructor": "라이디히안드레아스",
+        "times_str": "월5,6/수4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "위204/실시간온라인"
+    },
+    {
+        "id": "e1be0b57-87d9-55a4-bf55-534586c6d821",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "GER3139-01-00",
+        "credits": 3.0,
+        "title": "독어학의이해 ",
+        "instructor": "지광신",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교406"
+    },
+    {
+        "id": "9f30131e-8902-55af-a7d2-45765a206b7d",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "GER3140-01-00",
+        "credits": 3.0,
+        "title": "독일어텍스트읽기(2) ",
+        "instructor": "홍길표",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외01"
+    },
+    {
+        "id": "9e689879-852f-551d-a0ca-a3cd509e9a64",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "GER2109-01-00",
+        "credits": 3.0,
+        "title": "독일의문화와역사 ",
+        "instructor": "유현주",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위204"
+    },
+    {
+        "id": "cdf7b93f-9387-59f6-a868-f8b84e48639e",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "GER2112-01-00",
+        "credits": 3.0,
+        "title": "독일문학사 ",
+        "instructor": "최문규",
+        "times_str": "월3,4,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위209"
+    },
+    {
+        "id": "091caab0-bd17-5820-bd3c-c52ad55a7854",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "GER3138-01-00",
+        "credits": 3.0,
+        "title": "독어연습(4) ",
+        "instructor": "라이디히안드레아스",
+        "times_str": "월1,2/수1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "위204/실시간온라인"
+    },
+    {
+        "id": "3b35bee2-b87d-51f0-bd3f-675e20929141",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3107-01-00",
+        "credits": 3.0,
+        "title": "독일어의문장구조이해 ",
+        "instructor": "지광신",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교306"
+    },
+    {
+        "id": "a05c81dc-587e-5832-9079-2b612487cb97",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3113-01-00",
+        "credits": 3.0,
+        "title": "독일통일과문학 ",
+        "instructor": "김용민",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위204"
+    },
+    {
+        "id": "db89011a-6d5c-5cab-b2b1-ce1500e1f164",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3121-01-00",
+        "credits": 3.0,
+        "title": "최근독일문학동향 ",
+        "instructor": "이진영",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/위204"
+    },
+    {
+        "id": "00d487de-f756-55f8-bb4a-c88a47ce53ba",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3124-01-00",
+        "credits": 3.0,
+        "title": "괴테의문학세계 ",
+        "instructor": "주일선",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "위204/실시간온라인"
+    },
+    {
+        "id": "d070e498-b3d8-5dc7-83d4-61d16fdf2452",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3129-01-00",
+        "credits": 3.0,
+        "title": "문학과영화 ",
+        "instructor": "임정택",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외526"
+    },
+    {
+        "id": "b1353158-3489-50fe-8d83-d661beaedd35",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER3144-01-00",
+        "credits": 3.0,
+        "title": "근현대성장담 ",
+        "instructor": "홍길표",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위B05"
+    },
+    {
+        "id": "80903e02-a3e4-5291-bcd5-9ddedcf696f0",
+        "department": "문과대학",
+        "major": "독어독문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "GER4117-01-00",
+        "credits": 3.0,
+        "title": "TestDaF준비 ",
+        "instructor": "라이디히안드레아스",
+        "times_str": "화1,2/목1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "위204/실시간온라인"
+    },
+    {
+        "id": "9273e4bd-569a-517d-b0be-3e30e2aa4108",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "FRE2102-01-00",
+        "credits": 3.0,
+        "title": "프랑스어학의이해 ",
+        "instructor": "임재호",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a93a705a-f45a-5678-ba52-7f891107a3db",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "FRE2108-01-00",
+        "credits": 3.0,
+        "title": "프랑스어문법과작문(2) ",
+        "instructor": "손현정",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "교306/실시간온라인"
+    },
+    {
+        "id": "569fb737-0749-5113-93da-bc135cec6723",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "FRE2109-01-00",
+        "credits": 3.0,
+        "title": "프랑스어회화(2) ",
+        "instructor": "르사쥬베랑제르",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "위203"
+    },
+    {
+        "id": "f82a1c18-1298-5751-9f1b-6c711bc41bca",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "FRE2109-02-00",
+        "credits": 3.0,
+        "title": "프랑스어회화(2) ",
+        "instructor": "르사쥬베랑제르",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "위201"
+    },
+    {
+        "id": "630f6b08-d7fc-503a-ae38-5a4914e41c29",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "FRE2110-01-00",
+        "credits": 3.0,
+        "title": "프랑스어회화(4) ",
+        "instructor": "르사쥬베랑제르",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위203"
+    },
+    {
+        "id": "032dc784-7d76-5263-aebf-f6e0ec0908eb",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "FRE2111-01-00",
+        "credits": 3.0,
+        "title": "프랑스어와문화(2) ",
+        "instructor": "강옥경",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f7187335-b074-5dfc-b26f-c4e1783f3fe4",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "FRE2112-01-00",
+        "credits": 3.0,
+        "title": "프랑스산문강독(2) ",
+        "instructor": "박혜정",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "위B05/실시간온라인"
+    },
+    {
+        "id": "31186ca7-c162-514d-9a02-fe113c2807bf",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE3107-01-00",
+        "credits": 3.0,
+        "title": "프랑스어문법연습 ",
+        "instructor": "강옥경",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "e662f7f6-79c5-52fa-9862-4c0106f7e5f6",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE3110-01-00",
+        "credits": 3.0,
+        "title": "프랑스상징주의시 ",
+        "instructor": "김시원",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "외01/동영상콘텐츠"
+    },
+    {
+        "id": "23f95787-3d30-5bcc-acd2-8273c061920b",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE3114-01-00",
+        "credits": 3.0,
+        "title": "프랑스현대소설(2) ",
+        "instructor": "이기언",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위201"
+    },
+    {
+        "id": "0e62e4af-ce2d-5b6d-8f48-632265734e61",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE3115-01-00",
+        "credits": 3.0,
+        "title": "프랑스문학비평 ",
+        "instructor": "윤정임",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "외01/실시간온라인"
+    },
+    {
+        "id": "6781637c-701f-5317-b2f1-98d872dbac34",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE3120-01-00",
+        "credits": 3.0,
+        "title": "프랑스근대소설(2) ",
+        "instructor": "박혜숙",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "267825f5-18dc-549a-b9a0-8859d18d375a",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE4103-01-00",
+        "credits": 3.0,
+        "title": "프랑스희곡 ",
+        "instructor": "송민숙",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "61e21be9-3cb3-54cf-8aa6-6edf1fbac86f",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE4109-01-00",
+        "credits": 3.0,
+        "title": "프랑스어텍스트담화연구 ",
+        "instructor": "홍종화",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위B05/동영상콘텐츠"
+    },
+    {
+        "id": "632c198e-27a6-56f9-a51d-7d7d523bb8d8",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "FRE4117-01-00",
+        "credits": 3.0,
+        "title": "프랑스어문장연구 ",
+        "instructor": "임재호",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "1cad07ef-f404-595d-bee3-ece71e1a333c",
+        "department": "문과대학",
+        "major": "불어불문학전공",
+        "year": "3,4",
+        "classification": "교직",
+        "code": "TTP3805-01-00",
+        "credits": 2.0,
+        "title": "불어교재연구및지도법 ",
+        "instructor": "김민채",
+        "times_str": "월1/월2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/위201"
+    },
+    {
+        "id": "9ac3ac86-74f7-52fe-b7c0-4a727c318e36",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "RUS2106-01-00",
+        "credits": 3.0,
+        "title": "중급러시아어연습(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "월8,9,수8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "외02"
+    },
+    {
+        "id": "3e236f13-b506-5952-896c-c525a36b38b3",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "RUS2106-02-00",
+        "credits": 3.0,
+        "title": "중급러시아어연습(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "월5,6,수5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "외02"
+    },
+    {
+        "id": "a01ea2ce-3b55-5e3c-b9c0-57b8e666416d",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "RUS2112-01-00",
+        "credits": 3.0,
+        "title": "러시아어학의이해 ",
+        "instructor": "남혜현,류진경",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교406/실시간온라인"
+    },
+    {
+        "id": "27a72138-b38f-53d0-aebe-0065b1abcfae",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "RUS2104-01-00",
+        "credits": 3.0,
+        "title": "중급러시아어(2) ",
+        "instructor": "황서경",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "위205/실시간온라인"
+    },
+    {
+        "id": "6231c02b-597b-5e8c-ad6f-a64da433344b",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "RUS2104-02-00",
+        "credits": 3.0,
+        "title": "중급러시아어(2) ",
+        "instructor": "황서경",
+        "times_str": "월8,9/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "위205/실시간온라인"
+    },
+    {
+        "id": "c45e247e-da17-51f1-8af3-2cb4ab34db74",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "RUS2130-01-00",
+        "credits": 3.0,
+        "title": "모스크바-페테르부르그 ",
+        "instructor": "황기은",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교406"
+    },
+    {
+        "id": "83cd81cf-ec69-5a87-a7f3-5e31624f44d4",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "RUS2135-01-00",
+        "credits": 3.0,
+        "title": "현대러시아대중문화 ",
+        "instructor": "정보라",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교406"
+    },
+    {
+        "id": "823a3334-db7f-522e-96b2-095c75d805cf",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "RUS2136-01-00",
+        "credits": 3.0,
+        "title": "현대유라시아지역이해 ",
+        "instructor": "조정원",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S111"
+    },
+    {
+        "id": "72472078-e267-511f-87ab-d958796cd861",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "RUS3106-01-00",
+        "credits": 3.0,
+        "title": "현대러시아어독해(2) ",
+        "instructor": "권용재",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "교306/동영상콘텐츠"
+    },
+    {
+        "id": "eafce23c-f4fe-51c3-af74-bd89d65e970a",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS3104-01-00",
+        "credits": 3.0,
+        "title": "고급러시아어연습(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "수10,금9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "외02"
+    },
+    {
+        "id": "9a1211fe-2beb-5105-9f46-deb9589b7a71",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS3110-01-00",
+        "credits": 3.0,
+        "title": "20세기러시아문학 ",
+        "instructor": "최건영,김윤하",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/백S111"
+    },
+    {
+        "id": "0a5800a7-2dd6-5b8c-bd30-b28bfa7af558",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS3113-01-00",
+        "credits": 3.0,
+        "title": "톨스토이 ",
+        "instructor": "최인선",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교306/동영상콘텐츠"
+    },
+    {
+        "id": "84880df2-3304-5c59-a12c-f86c42052095",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS3136-01-00",
+        "credits": 3.0,
+        "title": "러시아어와사회 ",
+        "instructor": "박수빈",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교406"
+    },
+    {
+        "id": "74f98efc-27db-52a5-a795-967a14f3b149",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS4108-01-00",
+        "credits": 3.0,
+        "title": "러시아문학세미나 ",
+        "instructor": "김진영,김혜영",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/외01"
+    },
+    {
+        "id": "7f7cb5b9-75ab-53e5-a84e-00adaf9a5748",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS4115-01-00",
+        "credits": 3.0,
+        "title": "커리어러시아어 ",
+        "instructor": "박수빈",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/교406"
+    },
+    {
+        "id": "66657ca8-a094-5603-955f-beec62fa964d",
+        "department": "문과대학",
+        "major": "노어노문학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "RUS4116-01-00",
+        "credits": 3.0,
+        "title": "러시아어의구조 ",
+        "instructor": "황서경",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S111"
+    }
+]

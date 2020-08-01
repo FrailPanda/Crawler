@@ -1,0 +1,1271 @@
+﻿[
+    {
+        "id": "29d82c11-dbef-5f91-ad68-e8af7695a79a",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "CHE1012-01-00",
+        "credits": 3.0,
+        "title": "GENERAL CHEMISTRY AND EXPERIMENT(2) ",
+        "instructor": "Oh Moonhyun",
+        "times_str": "Tue5,6(Thu5,6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHA432(SciH422)"
+    },
+    {
+        "id": "80223cce-2ceb-5f81-a1a7-c180bca0f04c",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1002-01-01",
+        "credits": 3.0,
+        "title": "CALCULUS & VECTOR ANALYSIS(2) ",
+        "instructor": "Park, Seung Kyung",
+        "times_str": "Wed3,4(Fri3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "1cce4ed3-b607-581f-9c29-8e6003d4507e",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1002-01-02",
+        "credits": 3.0,
+        "title": "CALCULUS & VECTOR ANALYSIS(2) ",
+        "instructor": "Park, Seung Kyung",
+        "times_str": "Wed3,4(Fri3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "9a6bae44-8e1c-5336-b7f0-ae1c104f52a9",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1002-01-00",
+        "credits": 3.0,
+        "title": "GENERAL PHYSICS AND LABORATORY(2) ",
+        "instructor": "CHANG Soo Kyung",
+        "times_str": "Mon7,8(Wed7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH118)"
+    },
+    {
+        "id": "ad7c365f-1a58-5493-9979-a2c5965c64e8",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1002-02-00",
+        "credits": 3.0,
+        "title": "GENERAL PHYSICS AND LABORATORY(2) ",
+        "instructor": "JEONG KwangHo",
+        "times_str": "Tue2,3(Thu2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH118)"
+    },
+    {
+        "id": "f91fbf60-e3f3-5400-a345-1b382bebd774",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1202-01-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(2) ",
+        "instructor": "JANG JINYOUP",
+        "times_str": "Mon3,4/Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu402/()"
+    },
+    {
+        "id": "a7370204-dba5-5dc2-a5e4-f01e0bfd19bc",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1202-02-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(2) ",
+        "instructor": "KIM SEONGEUN",
+        "times_str": "Tue5,6/Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu405/()"
+    },
+    {
+        "id": "d3072abc-2558-59d6-bcac-e359efccd060",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1203-01-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(3) ",
+        "instructor": "KIM SEONGEUN",
+        "times_str": "Tue3,4/Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu302/()"
+    },
+    {
+        "id": "fbc69801-20d4-5255-a026-ba1d3b6bb45b",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1302-01-00",
+        "credits": 3.0,
+        "title": "CHINESE(2) ",
+        "instructor": "박미애",
+        "times_str": "Mon3,4/Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu404/()"
+    },
+    {
+        "id": "f3dd3f9d-0430-5447-8273-6d3da2985436",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1302-02-00",
+        "credits": 3.0,
+        "title": "CHINESE(2) ",
+        "instructor": "SUNG KI EUN",
+        "times_str": "Mon7,8/Wed7(Wed8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu404/()"
+    },
+    {
+        "id": "1100ca98-cbd4-57cb-9ad8-f06d4cce4eff",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1302-03-00",
+        "credits": 3.0,
+        "title": "CHINESE(2) ",
+        "instructor": "PARK JEE YOUNG",
+        "times_str": "Tue5,6/Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu302(Edu302)"
+    },
+    {
+        "id": "1f137d46-d6b0-57c9-be73-720316d982de",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1303-01-00",
+        "credits": 3.0,
+        "title": "CHINESE(3) ",
+        "instructor": "PARK SOOJIN",
+        "times_str": "Tue3,4,Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "af36582d-e6f1-5632-a1b3-80fd06981a89",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1452-01-00",
+        "credits": 3.0,
+        "title": "GERMAN(2) ",
+        "instructor": "Lee Jin Young",
+        "times_str": "Tue3,4/Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu405/()"
+    },
+    {
+        "id": "de64b302-fd19-5830-9e62-3816ef9f8d9c",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1453-01-00",
+        "credits": 3.0,
+        "title": "GERMAN(3) ",
+        "instructor": "Kim SungHyun",
+        "times_str": "Mon7,8/Wed7(Wed8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu405(Edu405)"
+    },
+    {
+        "id": "35e639d5-f528-5a9f-8311-81b7e012018b",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1502-01-00",
+        "credits": 3.0,
+        "title": "FRENCH(2) ",
+        "instructor": "Lee Hyeyoung",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d218906b-f5cd-5f80-b666-52000545031f",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1502-02-00",
+        "credits": 3.0,
+        "title": "FRENCH(2) ",
+        "instructor": "Yoo Yaejin",
+        "times_str": "Tue1,2/Thu1(Thu2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu302(Edu302)"
+    },
+    {
+        "id": "9ed27555-41b3-5981-b8c9-c9de421a833f",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1503-01-00",
+        "credits": 3.0,
+        "title": "FRENCH(3) ",
+        "instructor": "Lesage Berangere",
+        "times_str": "Tue5,6,Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu404(Edu404)"
+    },
+    {
+        "id": "b61a4909-9765-5e9b-b970-5566e8616aeb",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1552-01-00",
+        "credits": 3.0,
+        "title": "RUSSIAN(2) ",
+        "instructor": "Chang Younsun",
+        "times_str": "Tue3,4/Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu402/()"
+    },
+    {
+        "id": "f0badfeb-a4f4-58bc-9139-6485a4a8a638",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "YCF1553-01-00",
+        "credits": 3.0,
+        "title": "RUSSIAN(3) ",
+        "instructor": "JEONG YEONWOO",
+        "times_str": "Tue5,6/Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu405(Edu405)"
+    },
+    {
+        "id": "e2f05692-1649-53f8-a3db-d0a0339af303",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "CHE1004-01-00",
+        "credits": 4.0,
+        "title": "GENERAL CHEMISTRY AND EXPERIMENT(2) ",
+        "instructor": "Sim, Eun Ji",
+        "times_str": "Tue7,8,9(Thu7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciHB101(SciH422)"
+    },
+    {
+        "id": "805b0722-2955-5acb-a7c4-ed1ab6ead4ea",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1004-01-00",
+        "credits": 4.0,
+        "title": "GENERAL PHYSICS AND LABORATORY(2) ",
+        "instructor": "CHANG Soo Kyung",
+        "times_str": "Mon7,8(Wed7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH118)"
+    },
+    {
+        "id": "50e553b6-89ca-55d1-83ed-a4935a89e1e4",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "BIO1001-01-00",
+        "credits": 3.0,
+        "title": "GENERAL BIOLOGY & LABORATORY(1) ",
+        "instructor": "CHUNG, In Kwon/Cho Hyun-Soo",
+        "times_str": "Mon5/Mon6(Wed5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/SRC118A(SRCB202)"
+    },
+    {
+        "id": "852dc1a2-ea15-5a7c-b556-1abdcaabdd65",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "BIO1002-01-00",
+        "credits": 3.0,
+        "title": "GENERAL BIOLOGY AND LABORATORY(2) ",
+        "instructor": "Lee, Myeong Min",
+        "times_str": "Tue7,8(Thu7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(Pre-recorded lecture)"
+    },
+    {
+        "id": "d05dc720-03e3-5b58-9c74-3e99a9c31c47",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "BIO1009-01-00",
+        "credits": 3.0,
+        "title": "GENERAL BIOLOGY AND LABORATORY(2)(HONOR CLASS) ",
+        "instructor": "Cho, Jin Won",
+        "times_str": "Mon3,4,5(Wed3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "cf0baf87-7b34-58a0-86f2-782d3040add5",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "BIO1011-01-00",
+        "credits": 3.0,
+        "title": "BIOLOGY AND EXPERIMENT(1) ",
+        "instructor": "CHO, Myeon Haeng",
+        "times_str": "Wed3,4(Fri3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Pre-recorded lecture)"
+    },
+    {
+        "id": "4cb524d1-d57b-5bbf-9bc1-3c02880ec801",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "BIO1012-01-00",
+        "credits": 3.0,
+        "title": "BIOLOGY AND EXPERIMENT(2) ",
+        "instructor": "LEE JooHun",
+        "times_str": "Mon3,4(Wed3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(Pre-recorded lecture)"
+    },
+    {
+        "id": "e777f045-4cea-5022-bc1c-0e943f387ef8",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "CHE1002-01-00",
+        "credits": 3.0,
+        "title": "GENERAL CHEMISTRY AND EXPERIMENTS(2) ",
+        "instructor": "Sim, Eun Ji",
+        "times_str": "Tue7,8(Thu7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciHB101(SciH422)"
+    },
+    {
+        "id": "154b88fb-533f-58b7-8b22-ec1e52ca6c1e",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "ECO1001-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ECONOMICS ",
+        "instructor": "Lee Sang Heon",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "abbda30c-2993-5683-961e-143643ebd5ac",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "ECO1001-02-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ECONOMICS ",
+        "instructor": "LEE JI YOUNG",
+        "times_str": "Thu2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "dfe95111-47c5-5bfc-af63-06ee7b3cf6db",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "ECO1001-03-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ECONOMICS ",
+        "instructor": "KIM HAK-RYUL",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3b92697a-f54a-5a21-88fc-cd9b831b4f63",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1001-01-01",
+        "credits": 3.0,
+        "title": "CALCULUS & VECTOR ANALYSIS(1) ",
+        "instructor": "KIM, Ho Beom",
+        "times_str": "Thu6,7(Tue8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "ed5b77b5-708b-505b-b1a6-e6ebd4b224c4",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1001-01-02",
+        "credits": 3.0,
+        "title": "CALCULUS & VECTOR ANALYSIS(1) ",
+        "instructor": "KIM, Ho Beom",
+        "times_str": "Thu6,7(Tue8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "4cb29ada-1680-534a-86d6-24ccf3754c28",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1011-01-01",
+        "credits": 3.0,
+        "title": "ENGINEERING MATHEMATICS(1) ",
+        "instructor": "Sohn, Jaebum",
+        "times_str": "Tue5,6/Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHA528(EngHA528)"
+    },
+    {
+        "id": "a8b27c8e-e17e-5958-88c8-1b7d5230fc48",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1011-01-02",
+        "credits": 3.0,
+        "title": "ENGINEERING MATHEMATICS(1) ",
+        "instructor": "Sohn, Jaebum",
+        "times_str": "Tue5,6/Thu5(Thu6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/EngHA528(EngHA690)"
+    },
+    {
+        "id": "2b5e76e2-8924-5a0a-bbad-d1df91d1706f",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1012-01-01",
+        "credits": 3.0,
+        "title": "ENGINEERING MATHEMATICS(2) ",
+        "instructor": "Kim Dugyu",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5c918583-960d-5104-97f2-ca938fc6dd0f",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "MAT1012-01-02",
+        "credits": 3.0,
+        "title": "ENGINEERING MATHEMATICS(2) ",
+        "instructor": "Kim Dugyu",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "8bcd29d6-c097-5831-982f-8c59ea21156f",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1012-01-00",
+        "credits": 3.0,
+        "title": "GENERAL PHYSICS AND EXPERIMENT(2) ",
+        "instructor": "JEONG KwangHo",
+        "times_str": "Tue7,8(Thu7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(SciH118)"
+    },
+    {
+        "id": "43bb5a39-f91d-56c5-8dff-b786656d8728",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1012-02-00",
+        "credits": 3.0,
+        "title": "GENERAL PHYSICS AND EXPERIMENT(2) ",
+        "instructor": "LEE Sam-Hyeon",
+        "times_str": "Thu3,4(Tue2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "EngHA546(SciH118)"
+    },
+    {
+        "id": "59545bc3-a6ed-560e-b043-f2349e29f25d",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "PHY1012-03-00",
+        "credits": 3.0,
+        "title": "GENERAL PHYSICS AND EXPERIMENT(2) ",
+        "instructor": "LEE Sam-Hyeon",
+        "times_str": "Thu7,8(Tue7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "EngHA546(SciH118)"
+    },
+    {
+        "id": "10613671-9a69-5a1c-88d2-cf49b6c0324e",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-01-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "KIM SUGKYUNG",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5bc89f03-caae-5ce7-8271-f423891c3067",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-01-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "KIM SUGKYUNG",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "df6f886d-f03c-5ac2-afa4-040e8d8b90cb",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-02-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "park jiyoung",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "bd4904e1-f5f0-5246-8213-e461abf03f35",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-02-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "park jiyoung",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "745c0971-7065-5ff3-ae9f-f9298c989f82",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-03-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "HAHN SOL JI",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "755cafe6-e14a-5115-8685-697779cab18c",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-03-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "HAHN SOL JI",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "f4bce875-b8bc-557d-b44c-a33591d764ba",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-04-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "Kim Mijung",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5eca9fd2-a0ce-5b98-89ef-01f57a93d61e",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-04-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "Kim Mijung",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "eefab9d5-2753-540d-8be8-d87f06e05212",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-05-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "KIM KYU HYUN",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "a7f336da-0911-5156-a1b8-7ac87efa1c94",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-05-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "KIM KYU HYUN",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "e4156a42-bef3-538b-aa24-aa0a40d14321",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-06-01",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "HAHN SOL JI",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7106b2f0-0cae-59f7-8af1-5411e398f4bb",
+        "department": "General Area Basic(~2009)",
+        "major": "General Area Basic",
+        "year": null,
+        "classification": "General Area Basic",
+        "code": "STA1001-06-02",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO STATISTICS ",
+        "instructor": "HAHN SOL JI",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    }
+]

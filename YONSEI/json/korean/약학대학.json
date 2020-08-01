@@ -1,0 +1,640 @@
+﻿[
+    {
+        "id": "e6c56dfe-e5d3-5df3-a746-203c915aea9f",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3102-01-00",
+        "credits": 0.0,
+        "title": "약학전공설계(2) ",
+        "instructor": "한정민",
+        "times_str": "목9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I진D114"
+    },
+    {
+        "id": "c347ad17-7568-5106-9066-c75be376cec8",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3006-01-00",
+        "credits": 3.0,
+        "title": "분자생물학 ",
+        "instructor": "권소희",
+        "times_str": "화5,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "06a71e0e-00ac-5c32-8b76-64ef8009163d",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3007-01-00",
+        "credits": 3.0,
+        "title": "보건사회약학 ",
+        "instructor": "강혜영",
+        "times_str": "월6,수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "76e12cc0-130a-57de-81fa-3725b4acf692",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3008-01-00",
+        "credits": 3.0,
+        "title": "의약품합성학 ",
+        "instructor": "김익연",
+        "times_str": "월2,3,목2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "b6aeea0c-0cfe-52f2-9777-444ccb45e628",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3009-01-00",
+        "credits": 3.0,
+        "title": "생약학 ",
+        "instructor": "김승현",
+        "times_str": "화2,3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "23becd9e-4483-5e49-bcef-f9e826830937",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3010-01-00",
+        "credits": 3.0,
+        "title": "의약품기기분석 ",
+        "instructor": "정진현",
+        "times_str": "월7,목7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "dc758285-5ebf-5e4c-b796-e2585bdccab8",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3011-01-00",
+        "credits": 3.0,
+        "title": "약학실험(2) ",
+        "instructor": "김승현,김정동",
+        "times_str": "화6,7,8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I진D401"
+    },
+    {
+        "id": "6987bf87-0b25-58b1-be86-7d520a79bd6e",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "PHM3015-01-00",
+        "credits": 3.0,
+        "title": "미생물학 ",
+        "instructor": "한정민",
+        "times_str": "화1,수8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "4fc97fe1-c262-526b-892d-d4e820bc6260",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3104-01-00",
+        "credits": 0.0,
+        "title": "약학전공설계(4) ",
+        "instructor": "한정민",
+        "times_str": "목9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I진D114"
+    },
+    {
+        "id": "1fad123e-72b4-5320-b7c1-42d113903dfc",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3023-01-00",
+        "credits": 3.0,
+        "title": "약리학(2) ",
+        "instructor": "이진우",
+        "times_str": "목8,금2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I진D117"
+    },
+    {
+        "id": "a0825e96-dce3-5898-b268-94344289ae42",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3024-01-00",
+        "credits": 3.0,
+        "title": "약제학 ",
+        "instructor": "석수현",
+        "times_str": "금6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "I진D117"
+    },
+    {
+        "id": "8ec6e9f6-a313-58f6-a25b-eaaf0d630c5c",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3025-01-00",
+        "credits": 3.0,
+        "title": "독성학 ",
+        "instructor": "민도식",
+        "times_str": "월9,화8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I진D117"
+    },
+    {
+        "id": "9f128036-64d3-5fc1-933d-8aa6b371ad02",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3027-01-00",
+        "credits": 3.0,
+        "title": "의약품행정학 ",
+        "instructor": "한은아",
+        "times_str": "월7,8/목7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I진D117/실시간온라인"
+    },
+    {
+        "id": "dc6ddb6a-f50b-502b-9f03-958fa2cadbe5",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3028-01-00",
+        "credits": 3.0,
+        "title": "임상약학개론 ",
+        "instructor": "유윤미,김승연",
+        "times_str": "월5,6/화10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I진D117/동영상콘텐츠"
+    },
+    {
+        "id": "578dcf8c-1498-5289-8bf8-291ba96f0210",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전필",
+        "code": "PHM3029-01-00",
+        "credits": 3.0,
+        "title": "약학실험(4) ",
+        "instructor": "민도식",
+        "times_str": "수6,7,8,9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I진D201"
+    },
+    {
+        "id": "a9115b41-6955-5d57-b6d7-89b2efdb431a",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHM3026-01-00",
+        "credits": 3.0,
+        "title": "질병의이해 ",
+        "instructor": "최준정",
+        "times_str": "화5,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f68d2c79-bcd1-5e1b-9909-dc4b95f598b7",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "PHM3054-01-00",
+        "credits": 3.0,
+        "title": "신약탐색학 ",
+        "instructor": "남궁완",
+        "times_str": "화2,3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I진D117"
+    },
+    {
+        "id": "770f0019-915a-547f-bee7-5fc235382818",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4130-01-00",
+        "credits": 3.0,
+        "title": "제약산업및약무행정실무실습 ",
+        "instructor": "강혜영,김영수,한은아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "168d1e37-1bcb-51e1-be32-1a90751d2f5f",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4100-01-00",
+        "credits": 4.0,
+        "title": "병원약국실무실습 ",
+        "instructor": "유윤미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e28142e2-062b-53a0-91e5-ed4cdc8cc80a",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4100-02-00",
+        "credits": 4.0,
+        "title": "병원약국실무실습 ",
+        "instructor": "장민정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "646c2a0f-7d64-5620-a655-3cc1186be195",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4110-01-00",
+        "credits": 4.0,
+        "title": "임상약학실무실습 ",
+        "instructor": "유윤미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eb7ba29a-0d01-5f4f-b491-394dc3b6b9d3",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4110-02-00",
+        "credits": 4.0,
+        "title": "임상약학실무실습 ",
+        "instructor": "장민정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ca5552b7-9282-529c-bf37-77d79f7afbeb",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "5",
+        "classification": "전필",
+        "code": "PHM4120-01-00",
+        "credits": 4.0,
+        "title": "지역약국실무실습 ",
+        "instructor": "유윤미",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2df5453d-f419-5974-911a-5164808bdb90",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전필",
+        "code": "PHM4320-01-00",
+        "credits": 3.0,
+        "title": "전공심화실습(2) ",
+        "instructor": "김영수,민도식",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "48172023-1a78-5328-8cd8-fa4ae5c7d8ab",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전선",
+        "code": "PHM3032-01-00",
+        "credits": 2.0,
+        "title": "한약제제학 ",
+        "instructor": "김승현",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "I진D116"
+    },
+    {
+        "id": "c1d2765f-200d-5f23-bbae-dab2e27c8f22",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전선",
+        "code": "PHM3058-01-00",
+        "credits": 2.0,
+        "title": "의약관계법규 ",
+        "instructor": "한은아",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I진D116"
+    },
+    {
+        "id": "1356f22b-5436-5071-8201-f697052e1bae",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전선",
+        "code": "PHM3105-01-00",
+        "credits": 2.0,
+        "title": "화장품학 ",
+        "instructor": "성종혁",
+        "times_str": "화6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I진D115"
+    },
+    {
+        "id": "4d47ec0b-0e64-5eff-ae55-5fe3e2ea3557",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전선",
+        "code": "PHM3049-01-00",
+        "credits": 3.0,
+        "title": "약물치료학(4) ",
+        "instructor": "장민정",
+        "times_str": "화5,수6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I진D116"
+    },
+    {
+        "id": "af127660-9a74-5c05-a84e-af744cfc61e6",
+        "department": "약학대학",
+        "major": "약학전공",
+        "year": "6",
+        "classification": "전선",
+        "code": "PHM3050-01-00",
+        "credits": 3.0,
+        "title": "신약설계학 ",
+        "instructor": "한균희",
+        "times_str": "금6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

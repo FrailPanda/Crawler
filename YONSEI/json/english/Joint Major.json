@@ -1,0 +1,633 @@
+﻿[
+    {
+        "id": "9b332009-f9c0-5701-8e34-3b4f0a46faea",
+        "department": "Joint Major",
+        "major": "European Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "EUR3101-01-00",
+        "credits": 3.0,
+        "title": "NEW UNDERSTANDING OF THE EUROPE ",
+        "instructor": "Ko, Sangtu",
+        "times_str": "Mon7,8/Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BYH S206"
+    },
+    {
+        "id": "b47b6369-8f4d-5620-abbe-7f6020526273",
+        "department": "Joint Major",
+        "major": "European Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "EUR3105-01-00",
+        "credits": 3.0,
+        "title": "LANGUAGE AND CULTURAL POLICIES OF EU ",
+        "instructor": "LEEM Jaiho",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2a25ad4f-5f9a-5fbb-a8fd-ba3f8febef37",
+        "department": "Joint Major",
+        "major": "Digital Arts",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "FIL3109-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING DIGITAL CONTENTS ",
+        "instructor": "Park Namkee",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHMB106/Realtime online lecture"
+    },
+    {
+        "id": "39b7630c-6bb3-51b5-a04e-eef176794c19",
+        "department": "Joint Major",
+        "major": "Digital Arts",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "FIL4103-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL STORYTELLING PRACTICE ",
+        "instructor": "Lim, Jeong Taeg",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu606"
+    },
+    {
+        "id": "ac15759f-8a04-56bc-a05e-c17d3154adeb",
+        "department": "Joint Major",
+        "major": "American Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "AMR3104-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR ON AMERICAN STUDIES: FILM & ",
+        "instructor": "LEE KWANG JIN",
+        "times_str": "Tue8,9,Thu7/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB106/Realtime online lecture"
+    },
+    {
+        "id": "9749dc54-dfea-5dfa-8728-9b4386c60cef",
+        "department": "Joint Major",
+        "major": "American Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "AMR3105-01-00",
+        "credits": 3.0,
+        "title": "AMERICAN CONSUMER CULTURE AND ECOLOGY ",
+        "instructor": "KIM JIN WOOK",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "412d57b5-aa9e-59d8-896d-aa4557d3d225",
+        "department": "Joint Major",
+        "major": "Chinese Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "CHI3101-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO CHINA ",
+        "instructor": "LEE YOU-JIN",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S204"
+    },
+    {
+        "id": "2404347c-9b92-5dfe-b223-c9ab0096b6cb",
+        "department": "Joint Major",
+        "major": "Chinese Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "CHI3103-01-00",
+        "credits": 3.0,
+        "title": "CHINA'S GEOGRAPHY & ENVIRONMENT ",
+        "instructor": "KIM SEONJA",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "67f46089-e304-53cf-be00-5fb4f38a4e83",
+        "department": "Joint Major",
+        "major": "Chinese Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "CHI3104-01-00",
+        "credits": 3.0,
+        "title": "Understanding Chinese Diplomacy ",
+        "instructor": "KIM DONG CHAN",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "0acbf9e7-32af-59fa-922b-4718302beef9",
+        "department": "Joint Major",
+        "major": "Korean Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "KOS3107-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO KOREAN SOCIETY & CULTURE(2) ",
+        "instructor": "Kim Haeok",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHM112"
+    },
+    {
+        "id": "ca6c2f42-4121-5a4b-ac13-c38415ed498f",
+        "department": "Joint Major",
+        "major": "Korean Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "KOS3108-01-00",
+        "credits": 3.0,
+        "title": "CRITICAL STUDIES OF CULTURE AND ART IN KOREA AND THE WORLD ",
+        "instructor": "Lee Dohoon",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BYH S402"
+    },
+    {
+        "id": "8072fc7a-1484-5059-954b-6fd92484466c",
+        "department": "Joint Major",
+        "major": "Japanese Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "JAP3105-01-00",
+        "credits": 3.0,
+        "title": "SPECIAL LECTURE OF JAPANOLOGY ",
+        "instructor": "LEE SAEBOM",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3659670d-95df-5515-8884-0c68d0a4b2a9",
+        "department": "Joint Major",
+        "major": "Japanese Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "JAP3108-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE KOREAN AND JAPANESE LITERATURE ",
+        "instructor": "YI YOUNGJAE",
+        "times_str": "Fri4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHMB110"
+    },
+    {
+        "id": "a83d339f-4d3d-5177-bab3-dfd5b7916f83",
+        "department": "Joint Major",
+        "major": "A Study of Foreign Affairs and Trade",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "TRA3103-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO INTERNATIONAL LAW ",
+        "instructor": "IM HAN TAEK",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHM113"
+    },
+    {
+        "id": "c337a262-77bc-5750-a5a4-e1c9b9e71eb9",
+        "department": "Joint Major",
+        "major": "A Study of Foreign Affairs and Trade",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "TRA3104-01-00",
+        "credits": 3.0,
+        "title": "EUROPEAN UNION LAW AND PRACTICE ",
+        "instructor": "Go Joo Hyun",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu410/Realtime online lecture"
+    },
+    {
+        "id": "a1d71e68-cb27-52be-972d-13405bfa662b",
+        "department": "Joint Major",
+        "major": "Cognitive Science",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "COG3104-01-00",
+        "credits": 3.0,
+        "title": "RESEARCH METHODS IN COGNITIVE SCIENCE ",
+        "instructor": "KWON HEE JUNG",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2a38600b-ee12-5704-8d82-61abd718d309",
+        "department": "Joint Major",
+        "major": "Cognitive Science",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "COG4101-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION PROCESSING THEORY ",
+        "instructor": "Chong Sang Chul",
+        "times_str": "Mon5,6/Wed5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu604"
+    },
+    {
+        "id": "c2f2e323-3c6b-51b9-8e9e-26f84de468cd",
+        "department": "Joint Major",
+        "major": "Venture Studies",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "VEN3103-01-00",
+        "credits": 3.0,
+        "title": "VENTURE FIELD STUDY ",
+        "instructor": "Lee seungyong",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S206"
+    },
+    {
+        "id": "7980a9c0-37f5-5259-8586-175832460466",
+        "department": "Joint Major",
+        "major": "Venture Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "VEN3106-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL VENTURING ",
+        "instructor": "Lee seungyong",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB103"
+    },
+    {
+        "id": "90a12829-c736-5e68-9470-94653c50c413",
+        "department": "Joint Major",
+        "major": "Leadership",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "LEA3101-01-00",
+        "credits": 3.0,
+        "title": "LEADERSHIP WORKSHOP ",
+        "instructor": "Kim Kwang Hwan/HONG GEEYOUNG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "265891d6-76ed-5706-82ff-5f73f89646de",
+        "department": "Joint Major",
+        "major": "Leadership",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "LEA3103-01-00",
+        "credits": 3.0,
+        "title": "EMPATHY, SERVANT LEADERSHIP FOR HUMAN RELATIONSHIP ",
+        "instructor": "SUH WOO KYUNG",
+        "times_str": "Wed5/Wed5,Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/DWHMB106"
+    },
+    {
+        "id": "bb6fde3f-8860-556c-9ead-5a2fb7f32c35",
+        "department": "Joint Major",
+        "major": "East Asian Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "EAS3101-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF EAST ASIAN REGINONAL ORDER ",
+        "instructor": "LEE SAEBOM",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6fc5ad11-3d00-5198-a846-9cb210e38d5f",
+        "department": "Joint Major",
+        "major": "East Asian Studies",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "EAS3104-01-00",
+        "credits": 3.0,
+        "title": "KOREA AND EAST ASIA ",
+        "instructor": "SHIN JI YOUNG",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "42a4b4cb-1928-5a8e-960d-bf6e0db13aee",
+        "department": "Joint Major",
+        "major": "Comparative Literature",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "CML3103-01-00",
+        "credits": 3.0,
+        "title": "NARRATIVE AND MEDIUM ",
+        "instructor": "Lee Dohoon",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHMB103"
+    },
+    {
+        "id": "82893802-53fb-5581-a62b-070abcdcf344",
+        "department": "Joint Major",
+        "major": "Comparative Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "CML3105-01-00",
+        "credits": 3.0,
+        "title": "REREADING THE WESTERN CANON ",
+        "instructor": "Yun Dong goo/KIM YUNHA/Kim Insook",
+        "times_str": "Wed3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "DWHMB109"
+    },
+    {
+        "id": "d0288714-bb16-5861-87fa-2beee6635f76",
+        "department": "Joint Major",
+        "major": "Cultural Theory and Criticism",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "CUL4102-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR ON CULTURAL THEORY ",
+        "instructor": "CHOI INSON",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "DWHMB106/Pre-recorded lecture"
+    },
+    {
+        "id": "c5c0136b-f95a-5133-aa01-d034a4db9e6d",
+        "department": "Joint Major",
+        "major": "Cultural Theory and Criticism",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "CUL3104-01-00",
+        "credits": 3.0,
+        "title": "CRITICAL WRITINGS ON CULTURAL STUDIES ",
+        "instructor": "CHOI INSON",
+        "times_str": "Thu2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

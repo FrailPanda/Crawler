@@ -1,0 +1,2813 @@
+﻿[
+    {
+        "id": "b9296239-2982-51ae-a3d9-5ce4f19d825e",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "1",
+        "classification": "전선",
+        "code": "BIZ2126-01-00",
+        "credits": 3.0,
+        "title": "기업가정신:혁신과창업을위한경영학이야기 ",
+        "instructor": "정동일",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "1aa0e0a2-6f5e-5299-9cc5-5a81d1235a99",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-01-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "손성규",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "경영102"
+    },
+    {
+        "id": "094c36ab-b133-5901-98b1-bdd7d4417b53",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-02-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "최원욱",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "ac903f51-d2b6-5cce-a170-44c68127eab5",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-03-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "기랄안드레스",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2d01eb14-76b7-554c-b045-7408b0a49b7c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-04-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "김종환",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영103/동영상콘텐츠"
+    },
+    {
+        "id": "3a88fae8-5ea8-5505-ba0f-13bdd33dd72c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-05-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "박주형",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영B201/동영상콘텐츠"
+    },
+    {
+        "id": "638212f0-df85-5e1f-8f2b-6e9f453180f1",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1101-06-00",
+        "credits": 3.0,
+        "title": "회계원리(1) ",
+        "instructor": "박주형",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영B201/동영상콘텐츠"
+    },
+    {
+        "id": "24b47383-15a4-5e81-b3f7-540f929d02fa",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-01-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "신동엽",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "경영103"
+    },
+    {
+        "id": "e7eaae95-2a49-563c-a888-f920a693222c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-02-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "오홍석",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a8fb433a-ecdb-5c0b-bbd8-ab8e25a63575",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-03-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "장은미",
+        "times_str": "월9,10/수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영101"
+    },
+    {
+        "id": "7448cf57-16a6-5643-ab5e-827759e2e2ef",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-04-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "이기영",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3f830adf-8283-544d-944e-c16fb8ef8fe0",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-05-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "도보람",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "e9041d0a-3426-51da-b035-04d285adb10a",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ1102-06-00",
+        "credits": 3.0,
+        "title": "조직행동론 ",
+        "instructor": "도보람",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "1dd8fb7a-7305-5df1-9a3a-8ee60541ee7e",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-01-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "구본일",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/경영101"
+    },
+    {
+        "id": "c47fe5a1-a366-5f5e-b18c-8dc6775483ef",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-02-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "연강흠",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "5f89234e-72eb-573d-981e-0223eab7cd88",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-03-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "연강흠",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "becc6cf4-7ba9-5a92-971d-d8238bf82393",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-04-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "신진영",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/경영103"
+    },
+    {
+        "id": "d48d3a88-334d-5cb5-8012-6eae47fa09dd",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-05-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "박세열",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영102"
+    },
+    {
+        "id": "6a09732c-f6d0-52eb-b135-334704dd6238",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2119-06-00",
+        "credits": 3.0,
+        "title": "재무관리 ",
+        "instructor": "김기범",
+        "times_str": "월9,10,수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영103"
+    },
+    {
+        "id": "940ed113-ec2b-553e-a68f-4444d197a288",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2120-01-00",
+        "credits": 3.0,
+        "title": "마케팅 ",
+        "instructor": "김영찬",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영101"
+    },
+    {
+        "id": "ec51619b-e8fa-5e0b-8402-ec5ce2da6dd2",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2120-02-00",
+        "credits": 3.0,
+        "title": "마케팅 ",
+        "instructor": "장수령",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "경영B204"
+    },
+    {
+        "id": "52dc6153-48fc-53f2-a1f9-7706c3c460b3",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2120-03-00",
+        "credits": 3.0,
+        "title": "마케팅 ",
+        "instructor": "고민정",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영104"
+    },
+    {
+        "id": "770a51d9-73af-5d82-9654-f1b2f8835217",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2120-04-00",
+        "credits": 3.0,
+        "title": "마케팅 ",
+        "instructor": "고민정",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영104"
+    },
+    {
+        "id": "15862c68-1b4e-5413-8a72-966e84c9d791",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2120-05-00",
+        "credits": 3.0,
+        "title": "마케팅 ",
+        "instructor": "이루리",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영B204"
+    },
+    {
+        "id": "60033570-f713-5c34-a506-c9f9dfd49b2c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-01-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "허대식",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영102"
+    },
+    {
+        "id": "a7ffcb6a-1809-5122-b9b9-4d6b7d041bcd",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-02-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "민순홍",
+        "times_str": "화2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "056f316a-1c94-5b4c-8dec-0fd202957feb",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-03-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "민순홍",
+        "times_str": "목2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "0e84c0ec-f4b5-50da-bd12-21daef183d57",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-04-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "박승재",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B204"
+    },
+    {
+        "id": "969b8501-7f7d-5880-9707-10a5257cf13a",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-05-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "이인호",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "3b8ef1b9-470f-5905-9fc1-ef7796912f96",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2121-06-00",
+        "credits": 3.0,
+        "title": "생산및운영관리 ",
+        "instructor": "신재호",
+        "times_str": "수7,금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5f8a346c-5366-5ab6-a754-0900d677c112",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-01-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "김학진",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8b524b41-bf38-5ec9-be10-1e444a62a611",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-02-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "박선주",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B201"
+    },
+    {
+        "id": "dac8aebe-b211-5405-80bd-a7da6d916a11",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-03-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "김성문",
+        "times_str": "화2/화3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "95c8b352-4c47-5927-9e63-cac53181f38b",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-04-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "정예림",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B101"
+    },
+    {
+        "id": "044c69e0-df48-55e7-ac01-f1887d6ca7f8",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-05-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "정예림",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B101"
+    },
+    {
+        "id": "61a41edf-7022-5fce-9074-ba7ff17d2151",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BIZ2122-06-00",
+        "credits": 3.0,
+        "title": "경영과학 ",
+        "instructor": "서승범",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영B208/실시간온라인"
+    },
+    {
+        "id": "02eacea3-cfe6-5219-9f6f-98d830513682",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(기업재무사례연구) ",
+        "instructor": "신현한",
+        "times_str": "금9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B223"
+    },
+    {
+        "id": "27f41e75-ef52-5aae-865f-9db3d50ed4b9",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2003-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(국제경영) ",
+        "instructor": "강지훈",
+        "times_str": "수3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3147b0cb-f05e-5bcf-9ef5-bd010bd0142d",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2003-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(마케팅) ",
+        "instructor": "김정운",
+        "times_str": "월5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "경영B223"
+    },
+    {
+        "id": "453a4226-3fbb-55f7-8f99-7946d3b97f42",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2003-03-00",
+        "credits": 1.0,
+        "title": "UT세미나(조직행동론) ",
+        "instructor": "김영욱",
+        "times_str": "월4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영B223"
+    },
+    {
+        "id": "17b6a6d6-62af-593c-bd74-838d62f9b516",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2003-04-00",
+        "credits": 1.0,
+        "title": "UT세미나(회계원리연습) ",
+        "instructor": "박주형",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영B223"
+    },
+    {
+        "id": "26877066-49e2-522d-97cf-84743261e57f",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2003-05-00",
+        "credits": 1.0,
+        "title": "UT세미나(재무관리) ",
+        "instructor": "박지영",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "9bbd9dfd-516a-53cf-a788-7e36419a1925",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIZ2125-01-00",
+        "credits": 3.0,
+        "title": "경영환경의최신동향:디지털혁명과사회변동 ",
+        "instructor": "이승용",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B204"
+    },
+    {
+        "id": "abd4c331-7226-5212-b077-6901b42fee1c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3108-01-00",
+        "credits": 3.0,
+        "title": "회계원리(2) ",
+        "instructor": "손성규",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영102"
+    },
+    {
+        "id": "eceac076-8f94-501a-8b23-d9b38972fdf3",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3108-02-00",
+        "credits": 3.0,
+        "title": "회계원리(2) ",
+        "instructor": "이경태",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "139e7201-1f6b-552b-b0d0-72e1b2eab582",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3108-03-00",
+        "credits": 3.0,
+        "title": "회계원리(2) ",
+        "instructor": "이경태",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8f0b15c9-878e-5a44-9a97-720e989e7b57",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3108-04-00",
+        "credits": 3.0,
+        "title": "회계원리(2) ",
+        "instructor": "문두철",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B202"
+    },
+    {
+        "id": "54c484e1-1b11-59c5-b7e1-bab53cf7f5b9",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3108-05-00",
+        "credits": 3.0,
+        "title": "회계원리(2) ",
+        "instructor": "윤대희",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b429acd3-4f17-57d2-9d05-67893b33f3ec",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-01-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "권구혁",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영101/동영상콘텐츠"
+    },
+    {
+        "id": "7459e6d1-6f34-5009-b509-553e37a2f724",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-02-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "박경민",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B203/동영상콘텐츠"
+    },
+    {
+        "id": "5cea9a10-96fb-5a60-a063-827265dcacbd",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-03-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "박경민",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영B203/동영상콘텐츠"
+    },
+    {
+        "id": "3648c3b5-7319-5e39-97bd-f1e47b9b3548",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-04-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "김지현",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B201"
+    },
+    {
+        "id": "856da276-0136-5971-8c6d-42e361543cf3",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-05-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "김보경",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영104"
+    },
+    {
+        "id": "37d9669e-bd6b-5d1b-a977-84d88fdb1b26",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3147-06-00",
+        "credits": 3.0,
+        "title": "전략경영 ",
+        "instructor": "전경미",
+        "times_str": "월10/월9,수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "e8a00294-52b1-542a-a773-e43928c10047",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3189-01-00",
+        "credits": 3.0,
+        "title": "경영정보시스템 ",
+        "instructor": "이호근",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영102"
+    },
+    {
+        "id": "7799b119-64db-59b1-be88-510516bad5b4",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3189-02-00",
+        "credits": 3.0,
+        "title": "경영정보시스템 ",
+        "instructor": "서길수",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "경영B101/동영상콘텐츠"
+    },
+    {
+        "id": "cf7cb4d9-40df-5b33-bef1-f7593cf1554e",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3189-03-00",
+        "credits": 3.0,
+        "title": "경영정보시스템 ",
+        "instructor": "임일",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "f69eb5f2-15fe-5c74-a75e-5cdbbb9f1529",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3189-04-00",
+        "credits": 3.0,
+        "title": "경영정보시스템 ",
+        "instructor": "임일",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "af5324cc-21be-5099-a0d8-5839a13dd0ef",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전필",
+        "code": "BIZ3189-05-00",
+        "credits": 3.0,
+        "title": "경영정보시스템 ",
+        "instructor": "김승현",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "100b3055-31d7-5255-9348-badb8d921c8a",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ2113-01-00",
+        "credits": 3.0,
+        "title": "경영수학(1) ",
+        "instructor": "서승범",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B202"
+    },
+    {
+        "id": "b35ecdfa-ce9a-5bd2-9963-1e1b74f0d103",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3105-01-00",
+        "credits": 3.0,
+        "title": "회사법 ",
+        "instructor": "문상일",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "4af0fb36-a6b2-51b7-a4c7-83b491522f2f",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3105-02-00",
+        "credits": 3.0,
+        "title": "회사법 ",
+        "instructor": "김유돈",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "0db0d41b-eaec-5259-97f9-4710355d25c9",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3107-01-00",
+        "credits": 3.0,
+        "title": "법인세법 ",
+        "instructor": "이승원",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "fbadbbfb-c231-5c2d-83cf-e03c31a08c55",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3109-01-00",
+        "credits": 3.0,
+        "title": "중급회계(1) ",
+        "instructor": "김수인",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "경영B201/동영상콘텐츠"
+    },
+    {
+        "id": "6bb334d0-b54f-5cbd-8404-847525dcfebc",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3109-02-00",
+        "credits": 3.0,
+        "title": "중급회계(1) ",
+        "instructor": "김수인",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B202/동영상콘텐츠"
+    },
+    {
+        "id": "e39471af-6d7e-5ffd-b775-b07bc6f4a487",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3110-01-00",
+        "credits": 3.0,
+        "title": "원가회계 ",
+        "instructor": "문두철",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B202"
+    },
+    {
+        "id": "faff62cb-8ee7-5fdf-b22b-c51360a0be3e",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3119-01-00",
+        "credits": 3.0,
+        "title": "기업재무 ",
+        "instructor": "신진영",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/경영103"
+    },
+    {
+        "id": "57f543c2-6fba-5a4b-b1d0-c48e00adf11b",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3119-02-00",
+        "credits": 3.0,
+        "title": "기업재무 ",
+        "instructor": "이지윤",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B205"
+    },
+    {
+        "id": "39c5f9d3-57a5-51b8-a4d7-be9e12fa143f",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3120-01-00",
+        "credits": 3.0,
+        "title": "투자론 ",
+        "instructor": "구본일",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "경영101/동영상콘텐츠"
+    },
+    {
+        "id": "93f12268-5d13-5cbf-8147-20d35cb74fec",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3120-02-00",
+        "credits": 3.0,
+        "title": "투자론 ",
+        "instructor": "한재훈",
+        "times_str": "월8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영B101"
+    },
+    {
+        "id": "eef7bae3-349d-5884-912c-50a3adb3e3d4",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3125-01-00",
+        "credits": 3.0,
+        "title": "보험경영론 ",
+        "instructor": "김정동",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "경영101"
+    },
+    {
+        "id": "73fc79b8-be1b-507d-8522-2b541401afae",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3125-02-00",
+        "credits": 3.0,
+        "title": "보험경영론 ",
+        "instructor": "김정동",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영101"
+    },
+    {
+        "id": "09c90755-89d9-508f-9a59-fbe9ef0e85d9",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3126-01-00",
+        "credits": 3.0,
+        "title": "소비자행동론 ",
+        "instructor": "박세범,정난희",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f954d5e1-2719-56c9-a063-2ad5922c86c7",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3126-02-00",
+        "credits": 3.0,
+        "title": "소비자행동론 ",
+        "instructor": "김병규",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "21a16764-9bc5-5ddb-9adf-8d136c1de5f1",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3134-01-00",
+        "credits": 3.0,
+        "title": "국제경영론 ",
+        "instructor": "최순규",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영101/실시간온라인"
+    },
+    {
+        "id": "cf496a40-3062-55f3-8506-e8351a6320bf",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3134-02-00",
+        "credits": 3.0,
+        "title": "국제경영론 ",
+        "instructor": "박용석",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c60f410b-ab80-5269-bf57-29f53618be2c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3134-03-00",
+        "credits": 3.0,
+        "title": "국제경영론 ",
+        "instructor": "곽주영",
+        "times_str": "화2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "dbd0a503-3276-5561-9565-706c3b87082e",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3134-04-00",
+        "credits": 3.0,
+        "title": "국제경영론 ",
+        "instructor": "최순규",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영101/실시간온라인"
+    },
+    {
+        "id": "2b8505f7-c087-5714-9a55-ddb8063ac9b8",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3135-01-00",
+        "credits": 3.0,
+        "title": "국제마케팅 ",
+        "instructor": "박영렬",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영104"
+    },
+    {
+        "id": "83d97ae3-9402-5fa2-b634-30a425cb361c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3136-01-00",
+        "credits": 3.0,
+        "title": "인적자원관리 ",
+        "instructor": "이지만",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B101"
+    },
+    {
+        "id": "2ff01ce1-aca3-5964-8792-9de064a0d136",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3136-02-00",
+        "credits": 3.0,
+        "title": "인적자원관리 ",
+        "instructor": "노현탁",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "04189342-c873-5bea-a8dc-18b6fc5a2eed",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3136-03-00",
+        "credits": 3.0,
+        "title": "인적자원관리 ",
+        "instructor": "유이정",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B205/실시간온라인"
+    },
+    {
+        "id": "304756c7-83a5-5c87-b0f4-de919cdfe03b",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3148-01-00",
+        "credits": 3.0,
+        "title": "노사관계론 ",
+        "instructor": "이지만",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B101"
+    },
+    {
+        "id": "5b8fa07f-90d6-561e-bcb4-6230b5c64ef4",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3155-01-00",
+        "credits": 3.0,
+        "title": "중급회계(2) ",
+        "instructor": "지은상",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "663bafe9-e7ab-5a75-92af-b3175873363c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3158-01-00",
+        "credits": 3.0,
+        "title": "비즈니스커뮤니케이션 ",
+        "instructor": "이태희",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d1db659d-bb69-5805-9323-d5fc28fb4e16",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3162-01-00",
+        "credits": 3.0,
+        "title": "금융시장론 ",
+        "instructor": "강기윤",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8ae26910-f55c-54b5-95fb-8f4cc21a02d6",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3175-01-00",
+        "credits": 3.0,
+        "title": "글로벌기업과법적환경 ",
+        "instructor": "김형진",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5863bdec-5ddb-5ad6-a93a-23a0b0f605f6",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3197-01-00",
+        "credits": 3.0,
+        "title": "비즈니스애널리틱스 ",
+        "instructor": "방영석",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "경영B208"
+    },
+    {
+        "id": "25a823ad-4ef4-58c1-9e17-3023278b9497",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3198-01-00",
+        "credits": 3.0,
+        "title": "비즈니스프로그래밍 ",
+        "instructor": "최한별",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3e5d76c8-25ea-5123-aac9-ea91c2889746",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ3198-02-00",
+        "credits": 3.0,
+        "title": "비즈니스프로그래밍 ",
+        "instructor": "최한별",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "51195cad-370d-58d1-9ee7-ba8d798dbfc0",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4115-01-00",
+        "credits": 3.0,
+        "title": "회계감사 ",
+        "instructor": "이호영,오명전",
+        "times_str": "목6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영B204"
+    },
+    {
+        "id": "7e4d80f6-8b06-5d9e-9ef3-d007a7e13dac",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4116-01-00",
+        "credits": 3.0,
+        "title": "고급회계 ",
+        "instructor": "최병철",
+        "times_str": "월9,10/수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영B204/동영상콘텐츠"
+    },
+    {
+        "id": "4e27df58-8a8f-5b0a-be04-6814eac5d817",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4122-01-00",
+        "credits": 3.0,
+        "title": "파생상품론 ",
+        "instructor": "박도준",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "dae1a9d6-6edd-5e31-8b51-ac91839e463d",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4123-01-00",
+        "credits": 3.0,
+        "title": "기업분석과가치평가 ",
+        "instructor": "장진호",
+        "times_str": "화2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c5c91bdb-298a-5576-acb7-f003e3368ccf",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4129-01-00",
+        "credits": 3.0,
+        "title": "관계마케팅 ",
+        "instructor": "이동진",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "경영104"
+    },
+    {
+        "id": "4f98f243-04ac-5499-a864-88d19a6bd9ca",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4139-01-00",
+        "credits": 3.0,
+        "title": "데이타를이용한의사결정 ",
+        "instructor": "김학진",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "366f34ba-1108-5c92-a6dc-16d9bb99fad3",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4147-01-00",
+        "credits": 3.0,
+        "title": "불확실성과최적의사결정 ",
+        "instructor": "김성문,양지혜",
+        "times_str": "월1,2/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "3f3cf9cd-5f45-537f-95db-bccd798c4b06",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4148-01-00",
+        "credits": 3.0,
+        "title": "세계신흥시장의이해와진출전략 ",
+        "instructor": "박용석",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3e1e2496-8d39-50ff-a1d2-0ee2811b4f4b",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4150-01-00",
+        "credits": 3.0,
+        "title": "프로젝트관리 ",
+        "instructor": "임건신",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영B205"
+    },
+    {
+        "id": "36967b17-fb6d-57d6-8691-adfb5134886f",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4151-01-00",
+        "credits": 3.0,
+        "title": "인수합병과구조조정 ",
+        "instructor": "장진호",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "7a9c9b7b-5e93-52ab-a0fe-f395709a18c1",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4157-01-00",
+        "credits": 3.0,
+        "title": "연경리더스포럼 ",
+        "instructor": "서길수,양정미",
+        "times_str": "화8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영103"
+    },
+    {
+        "id": "0a39d18e-8128-5a88-9eb6-fbe424707d40",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4159-01-00",
+        "credits": 3.0,
+        "title": "경영윤리와지속가능경영포럼 ",
+        "instructor": "이호영,민순홍",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "경영B204"
+    },
+    {
+        "id": "9a0303b6-83a0-5550-a5d0-1e73e77957b7",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4167-01-00",
+        "credits": 3.0,
+        "title": "서비스디자인 ",
+        "instructor": "김진우",
+        "times_str": "목8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영102"
+    },
+    {
+        "id": "f5d025a7-3a97-5d5b-840d-f36f802df498",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4180-01-00",
+        "credits": 3.0,
+        "title": "조직학습:기회와함정 ",
+        "instructor": "이무원",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "경영102"
+    },
+    {
+        "id": "7211695e-3b64-5256-b81c-f7909b8ee304",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4183-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY: A PSYCHOLOGICAL APPROACH ",
+        "instructor": "기랄안드레스",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "경영B203"
+    },
+    {
+        "id": "29c9422b-0447-56ee-b0f7-75d9abc5e2b1",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4183-02-00",
+        "credits": 3.0,
+        "title": "BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY: A PSYCHOLOGICAL APPROACH ",
+        "instructor": "기랄안드레스",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B203"
+    },
+    {
+        "id": "102a379c-2864-5ed2-ab39-cbfb0423c0a5",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4189-01-00",
+        "credits": 3.0,
+        "title": "경영협상론 ",
+        "instructor": "박헌준",
+        "times_str": "화1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f15a37bf-be7e-5328-be92-f12666b27b34",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4190-01-00",
+        "credits": 3.0,
+        "title": "창업401:창업기업컨설팅-uCAN ",
+        "instructor": "박경민",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B202"
+    },
+    {
+        "id": "ee8d1ed7-d539-5292-8f3c-d5fda0886d69",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4194-01-00",
+        "credits": 3.0,
+        "title": "비즈니스애널리틱스를위한데이터마이닝 ",
+        "instructor": "손재열",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/경영B208"
+    },
+    {
+        "id": "aca3c07f-c843-5ce7-9503-c12d86f5a94c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BIZ4197-01-00",
+        "credits": 3.0,
+        "title": "상시창조적혁신과21세기형경영 ",
+        "instructor": "신동엽",
+        "times_str": "목8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "경영103"
+    },
+    {
+        "id": "a9459759-392b-542f-8502-41f682aee98c",
+        "department": "경영대학",
+        "major": "경영학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIZ4177-01-00",
+        "credits": 3.0,
+        "title": "마케팅전략모형 ",
+        "instructor": "최정혜",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "경영B208"
+    }
+]

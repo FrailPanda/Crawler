@@ -1,0 +1,753 @@
+﻿[
+    {
+        "id": "8f84c2da-f443-56c1-9ad9-4d3cfe9bae00",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전기",
+        "code": "NUR2012-01-01",
+        "credits": 1.0,
+        "title": "건강사정 실습 ",
+        "instructor": "최지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "499ba84b-0aca-5397-b1b9-3d559370648d",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전기",
+        "code": "NUR2006-01-00",
+        "credits": 2.0,
+        "title": "약리학 ",
+        "instructor": "추상희",
+        "times_str": "월2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호)"
+    },
+    {
+        "id": "13ebc598-80a3-5188-b5a6-adf746a7be72",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전기",
+        "code": "NUR2013-01-00",
+        "credits": 3.0,
+        "title": "병태생리학 ",
+        "instructor": "이향규",
+        "times_str": "목5,6,금2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호)"
+    },
+    {
+        "id": "9dc7d744-14b2-537b-a956-132a156eedc5",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR2024-01-01",
+        "credits": 2.0,
+        "title": "임상간호실습입문 II ",
+        "instructor": "이주희,이지연,김영만",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "65af8717-b499-5659-8e8d-ebe74444e314",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR2025-01-00",
+        "credits": 2.0,
+        "title": "건강사정 ",
+        "instructor": "최지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc2ed1ab-36ca-5423-b2b8-3d4f56e06089",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR2026-01-00",
+        "credits": 3.0,
+        "title": "건강증진과 교육 ",
+        "instructor": "김광숙",
+        "times_str": "월5,6,금4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "간호대진리관"
+    },
+    {
+        "id": "b0718208-7494-5494-8adf-f3b6aa95c719",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR2026-02-00",
+        "credits": 3.0,
+        "title": "건강증진과 교육 ",
+        "instructor": null,
+        "times_str": "월5,6,목1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "908f2e51-73fb-55fb-89b9-9a2d0b0c6268",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR5113-01-00",
+        "credits": 0.5,
+        "title": "채플 I ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c95ac6ab-cdc8-54ef-be62-b3d33d27261d",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR4008-01-00",
+        "credits": 2.0,
+        "title": "노인간호학 ",
+        "instructor": "조은희",
+        "times_str": "금8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호)"
+    },
+    {
+        "id": "5300217f-de45-5c85-852b-5aa7da6c943d",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR4121-01-00",
+        "credits": 2.0,
+        "title": "간호와정보 ",
+        "instructor": "최모나",
+        "times_str": "금8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "a4be8fe9-f7b2-5f09-91f9-2e0b6da9647d",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR4123-01-00",
+        "credits": 2.0,
+        "title": "통일과 간호 ",
+        "instructor": "추상희",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "간호대소망관"
+    },
+    {
+        "id": "a62a22e2-62d2-5ef1-9e48-a96add3b51e5",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR4202-01-00",
+        "credits": 2.0,
+        "title": "여성건강 ",
+        "instructor": "김수",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "cbced18f-a2b7-5227-941c-54cf81ebb5ed",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR5116-01-00",
+        "credits": 3.0,
+        "title": "보건교과교재연구지도법 ",
+        "instructor": "이가영",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "탐구관"
+    },
+    {
+        "id": "5fffd3b6-beeb-5090-b475-9c6930d028b0",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "일반",
+        "code": "NUR2112-01-00",
+        "credits": 0.0,
+        "title": "사회봉사 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2ecf5ba2-febd-57b4-b4cc-9d6c631bcd88",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3006-01-00",
+        "credits": 2.0,
+        "title": "간호학 IV ",
+        "instructor": "김선아",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d8f5afc1-b56a-5a89-8632-bd0dc831cc3a",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3114-01-00",
+        "credits": 3.0,
+        "title": "지역사회간호학 ",
+        "instructor": "이경희,이가영",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "2eec9b5f-b7f6-5daf-865e-d1d038466c74",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3114-02-00",
+        "credits": 3.0,
+        "title": "지역사회간호학 ",
+        "instructor": "이경희,이가영",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "간호대창조관"
+    },
+    {
+        "id": "f37c6da7-f637-5ceb-8a8a-fbb7411929ee",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3102-01-00",
+        "credits": 4.0,
+        "title": "간호학 II ",
+        "instructor": "최모나,오의금,최은경,김영만",
+        "times_str": "목2,3,금2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "0ed59048-4585-5dd1-8c19-c57bbd44a673",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3102-02-00",
+        "credits": 4.0,
+        "title": "간호학 II ",
+        "instructor": "최모나,오의금,최은경,김영만",
+        "times_str": "목2,3,금2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "간호대창조관"
+    },
+    {
+        "id": "7dd168a3-9a98-51d2-993e-ac65d713ef52",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR3013-01-01",
+        "credits": 6.0,
+        "title": "통합간호실습 II ",
+        "instructor": "김희정",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e1cd00db-ffb2-530b-b247-1c04f950c580",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR5011-01-00",
+        "credits": 0.0,
+        "title": "종합시험 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d85ac550-026e-5e95-80ad-5e399021c7e5",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4031-01-00",
+        "credits": 2.0,
+        "title": "임상추론 ",
+        "instructor": "이주희",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호)"
+    },
+    {
+        "id": "63eeab27-a6e6-580c-9035-dd3c20f245b5",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4031-02-00",
+        "credits": 2.0,
+        "title": "임상추론 ",
+        "instructor": null,
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호)"
+    },
+    {
+        "id": "7330f3cf-57df-5135-8a6e-c353426b9fd5",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4031-03-00",
+        "credits": 2.0,
+        "title": "임상추론 ",
+        "instructor": null,
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호1)"
+    },
+    {
+        "id": "38d63a5f-e92c-5f10-83b1-5d44bee60443",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4031-04-00",
+        "credits": 2.0,
+        "title": "임상추론 ",
+        "instructor": null,
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(간호2)"
+    },
+    {
+        "id": "107869dd-e707-5b89-8b9d-f36f8dbf8de7",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4115-01-01",
+        "credits": 2.0,
+        "title": "리더십개발 ",
+        "instructor": "이승은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d1dc9c56-f3b2-5347-9535-f7c05303f452",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4118-01-00",
+        "credits": 2.0,
+        "title": "간호윤리와 법 ",
+        "instructor": "김상희,강선주",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "간호대자유관"
+    },
+    {
+        "id": "5db481aa-1f02-5590-b1e2-1f79f5e7c948",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4118-02-00",
+        "credits": 2.0,
+        "title": "간호윤리와 법 ",
+        "instructor": "김상희,강선주",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "간호대창조관"
+    },
+    {
+        "id": "3a17444a-8ecb-50cb-884f-fb540985c78a",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4119-01-00",
+        "credits": 2.0,
+        "title": "통계학 ",
+        "instructor": "이지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "584cd20c-73f5-5c47-98d1-99ecc8b1973f",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4119-02-00",
+        "credits": 2.0,
+        "title": "통계학 ",
+        "instructor": "이지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a972b985-e0f3-5c0d-8973-182f42a486e2",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4119-03-00",
+        "credits": 2.0,
+        "title": "통계학 ",
+        "instructor": "이지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dea8eb77-4654-5e3e-becf-ad605f82a103",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4119-04-00",
+        "credits": 2.0,
+        "title": "통계학 ",
+        "instructor": "이지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "14aae4f5-668d-53a9-8e84-a36363ebea1d",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4006-01-01",
+        "credits": 6.0,
+        "title": "통합간호실습 III ",
+        "instructor": "장연수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d5dbaf1f-ae93-5b13-8679-c1eed317fe11",
+        "department": "간호대학",
+        "major": "간호학(2-4학년)",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR4201-01-01",
+        "credits": 6.0,
+        "title": "통합간호실습 IV ",
+        "instructor": "장연수",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d189be2e-7394-50e6-b1e4-a38bda9d73b9",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "교필",
+        "code": "NUR9421-01-00",
+        "credits": 3.0,
+        "title": "법과 경제생활 ",
+        "instructor": "조채영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "06530389-be28-5734-be06-2edf63cab66c",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR9414-01-00",
+        "credits": 2.0,
+        "title": "정신건강문제와 간호 ",
+        "instructor": "오인옥",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2bb89305-49c0-5266-86f5-f9bf16ad419b",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR9422-01-00",
+        "credits": 3.0,
+        "title": "지역사회건강문제와 간호 ",
+        "instructor": "이가영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f0d49940-6aa8-518b-9846-8c95e99a5d07",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전필",
+        "code": "NUR9426-01-00",
+        "credits": 3.0,
+        "title": "간호와 경영 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17a9e7fd-12b7-5300-9828-5aadfdcfaa96",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR9501-01-00",
+        "credits": 3.0,
+        "title": "건강사정 ",
+        "instructor": "최지연",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7d0c3ebb-e8ce-5161-bdd8-11ffaeae07a5",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR9504-01-00",
+        "credits": 3.0,
+        "title": "통계학 ",
+        "instructor": "김영만",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cf5a2fae-ebea-53a5-a498-2774c171009b",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "전선",
+        "code": "NUR9505-01-00",
+        "credits": 3.0,
+        "title": "보건의료정책과 국제간호 ",
+        "instructor": "박정숙",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "64eb4bc8-c4cb-51a3-84b3-3ebda0035f69",
+        "department": "간호대학",
+        "major": "RN-BSN",
+        "year": null,
+        "classification": "일반",
+        "code": "NUR9300-01-00",
+        "credits": 0.0,
+        "title": "채플 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    }
+]

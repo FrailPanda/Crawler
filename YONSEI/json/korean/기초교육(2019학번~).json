@@ -1,0 +1,260 @@
+﻿[
+    {
+        "id": "e934226f-b6ac-5574-9ff3-7ad1904894ec",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI1175-01-00",
+        "credits": 1.0,
+        "title": "연세정신과인권 ",
+        "instructor": "박경자",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8fe065c6-9e49-5ca6-8e24-27541a9b77ce",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-01-00",
+        "credits": 1.0,
+        "title": "사회봉사(자유선택 자원봉사활동) ",
+        "instructor": "박준홍",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "357d4c3e-b2ed-5d1a-b5ff-3c6ddc2a4d45",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-02-00",
+        "credits": 1.0,
+        "title": "사회봉사(희망원정대-선 봉사후 학점인정) ",
+        "instructor": "전흥재",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "534e6dfa-600f-5670-9133-daecb0c6affe",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-03-00",
+        "credits": 1.0,
+        "title": "사회봉사(동행프로젝트) ",
+        "instructor": "홍원표",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d23658c5-edcf-52d3-9468-5f1a04b85b46",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-06-00",
+        "credits": 1.0,
+        "title": "사회봉사(함께나누는 세상) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cacebf5a-3e59-5e47-9dc0-ebcee293b57f",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-07-00",
+        "credits": 1.0,
+        "title": "사회봉사(시각장애인 희망나눔교실) ",
+        "instructor": "나정은",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc65d3e4-178b-5c2d-93a6-7fa008db4dbf",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-09-00",
+        "credits": 1.0,
+        "title": "사회봉사(드림 스터디 멘토링 가람1004 봉사단) ",
+        "instructor": "정종훈",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e7b4957-742e-5b02-8f38-90ecbb043195",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI2001-13-00",
+        "credits": 1.0,
+        "title": "사회봉사(와세다-연세평화캠프 선봉사 후 학점인정) ",
+        "instructor": "김동환",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3c3d171f-472b-5057-927f-02b49797ee3c",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCJ1135-01-00",
+        "credits": 1.0,
+        "title": "연세대학합창(랩콰이어) ",
+        "instructor": "지현정",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음117"
+    },
+    {
+        "id": "a410599c-fbf1-5173-a259-bbffbb5905a0",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCJ1135-02-00",
+        "credits": 1.0,
+        "title": "연세대학합창(랩콰이어) ",
+        "instructor": "김대광",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "음103"
+    },
+    {
+        "id": "7a635d59-a16d-5541-b0a3-5ae7057cdf11",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCR1016-01-00",
+        "credits": 1.0,
+        "title": "라이프아카데미-삶과미래 ",
+        "instructor": "남석인",
+        "times_str": "화10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "아108"
+    },
+    {
+        "id": "ab0a6168-9fcc-539e-a809-04e88c0a552f",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI1167-01-00",
+        "credits": 3.0,
+        "title": "사회혁신과기업CSR ",
+        "instructor": "김도영",
+        "times_str": "화8,9/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "백S208/실시간온라인"
+    },
+    {
+        "id": "4c6a6969-0d50-548d-a074-e22f5c9f66a3",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI1176-01-00",
+        "credits": 3.0,
+        "title": "사회과학적이슈에대한융합적접근 ",
+        "instructor": "백윤수",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "845d046e-2866-5767-a79b-8711b23f3a74",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI1177-01-00",
+        "credits": 3.0,
+        "title": "반기문과함께하는지속가능발전의이해 ",
+        "instructor": "김소윤,박준홍,박태인",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "873779a7-1ff6-5af5-a440-780620c57aeb",
+        "department": "기초교육(2019학번~)",
+        "major": "자율선택",
+        "year": null,
+        "classification": "기교",
+        "code": "UCI1183-01-00",
+        "credits": 3.0,
+        "title": "사회문제해결을위한융합팀워크 ",
+        "instructor": "송인한",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "교403"
+    }
+]

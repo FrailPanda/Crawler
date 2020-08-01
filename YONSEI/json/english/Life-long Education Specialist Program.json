@@ -1,0 +1,187 @@
+﻿[
+    {
+        "id": "e4980e30-78f0-58e1-bd33-d21662f66d8d",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP2001-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO LIFE-LONG EDUCATION ",
+        "instructor": "Koo Yoojeong",
+        "times_str": "Wed2,3/Fri2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu614"
+    },
+    {
+        "id": "6244612d-0f93-5138-95b7-5d93ea29345b",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP2002-01-00",
+        "credits": 3.0,
+        "title": "LIFE-LONG MANAGEMENT ",
+        "instructor": "JEON Sue Bin",
+        "times_str": "Mon6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "4d6288b0-fa8a-59f1-8761-867135e096c3",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP2006-01-00",
+        "credits": 3.0,
+        "title": "LIFE-LONG EDUCATION METHODS ",
+        "instructor": "LEE JI YOUNG",
+        "times_str": "Wed9/Fri2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "3f341ff2-5767-5dd9-a27b-0a7fc4e99485",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP2007-01-00",
+        "credits": 3.0,
+        "title": "EDUCATION & TRAINING PROGRAMS DEVEL ",
+        "instructor": "LEE HYUN KYUNG",
+        "times_str": "Mon9/Thu10,11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "Edu601/Pre-recorded lecture"
+    },
+    {
+        "id": "9cf7c6d2-fa59-5972-851a-add7fd82a374",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP3002-01-00",
+        "credits": 3.0,
+        "title": "WOMAN'S EDUCATION ",
+        "instructor": "Koo Yoojeong",
+        "times_str": "Wed1/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu517"
+    },
+    {
+        "id": "ba89c557-1fd9-524a-b2df-e5ffc339c296",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP3004-01-00",
+        "credits": 3.0,
+        "title": "CORPORATE EDUCATION ",
+        "instructor": "Chang Jihyun",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "36148eb2-ee63-5a3a-af7b-d98c27aa0f08",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP3005-01-00",
+        "credits": 3.0,
+        "title": "DESIGNING CAREER DEVELOPMENT ",
+        "instructor": "Chang Jihyun",
+        "times_str": "Tue3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "451a8d47-13c2-5493-964d-26ade38eddb8",
+        "department": "Life-long Education Specialist Program",
+        "major": "Life-long Education Specialist Program",
+        "year": "0",
+        "classification": "Electives",
+        "code": "LEP4001-01-00",
+        "credits": 3.0,
+        "title": "PRACTICUM ",
+        "instructor": "Chang, Wonsup",
+        "times_str": null,
+        "times": null,
+        "location": null
+    }
+]

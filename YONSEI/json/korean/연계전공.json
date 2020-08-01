@@ -1,0 +1,633 @@
+﻿[
+    {
+        "id": "9b332009-f9c0-5701-8e34-3b4f0a46faea",
+        "department": "연계전공",
+        "major": "유럽지역학",
+        "year": "0",
+        "classification": "전기",
+        "code": "EUR3101-01-00",
+        "credits": 3.0,
+        "title": "유럽의새로운이해 ",
+        "instructor": "고상두",
+        "times_str": "월7,8/월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/백S206"
+    },
+    {
+        "id": "b47b6369-8f4d-5620-abbe-7f6020526273",
+        "department": "연계전공",
+        "major": "유럽지역학",
+        "year": "0",
+        "classification": "전선",
+        "code": "EUR3105-01-00",
+        "credits": 3.0,
+        "title": "EU의언어문화정책 ",
+        "instructor": "임재호",
+        "times_str": "화6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2a25ad4f-5f9a-5fbb-a8fd-ba3f8febef37",
+        "department": "연계전공",
+        "major": "디지털예술학",
+        "year": "0",
+        "classification": "전선",
+        "code": "FIL3109-01-00",
+        "credits": 3.0,
+        "title": "디지털콘텐츠의이해 ",
+        "instructor": "박남기",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본B106/실시간온라인"
+    },
+    {
+        "id": "39b7630c-6bb3-51b5-a04e-eef176794c19",
+        "department": "연계전공",
+        "major": "디지털예술학",
+        "year": "0",
+        "classification": "전선",
+        "code": "FIL4103-01-00",
+        "credits": 3.0,
+        "title": "디지털스토리텔링연습 ",
+        "instructor": "임정택",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교606"
+    },
+    {
+        "id": "ac15759f-8a04-56bc-a05e-c17d3154adeb",
+        "department": "연계전공",
+        "major": "미국학",
+        "year": "0",
+        "classification": "전기",
+        "code": "AMR3104-01-00",
+        "credits": 3.0,
+        "title": "미국학특강 ",
+        "instructor": "이광진",
+        "times_str": "화8,9,목7/목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "상본B106/실시간온라인"
+    },
+    {
+        "id": "9749dc54-dfea-5dfa-8728-9b4386c60cef",
+        "department": "연계전공",
+        "major": "미국학",
+        "year": "0",
+        "classification": "전선",
+        "code": "AMR3105-01-00",
+        "credits": 3.0,
+        "title": "미국소비문화와생태론 ",
+        "instructor": "김진욱",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "412d57b5-aa9e-59d8-896d-aa4557d3d225",
+        "department": "연계전공",
+        "major": "한국및동아시아학(중국학)",
+        "year": "0",
+        "classification": "전기",
+        "code": "CHI3101-01-00",
+        "credits": 3.0,
+        "title": "중국입문 ",
+        "instructor": "이유진",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S204"
+    },
+    {
+        "id": "2404347c-9b92-5dfe-b223-c9ab0096b6cb",
+        "department": "연계전공",
+        "major": "한국및동아시아학(중국학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "CHI3103-01-00",
+        "credits": 3.0,
+        "title": "중국의자연지리와인문환경 ",
+        "instructor": "김선자",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "67f46089-e304-53cf-be00-5fb4f38a4e83",
+        "department": "연계전공",
+        "major": "한국및동아시아학(중국학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "CHI3104-01-00",
+        "credits": 3.0,
+        "title": "중국외교의 이해 ",
+        "instructor": "김동찬",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "교601"
+    },
+    {
+        "id": "0acbf9e7-32af-59fa-922b-4718302beef9",
+        "department": "연계전공",
+        "major": "한국및동아시아학(한국학)",
+        "year": "0",
+        "classification": "전기",
+        "code": "KOS3107-01-00",
+        "credits": 3.0,
+        "title": "한국학입문(2) ",
+        "instructor": "김해옥",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본112"
+    },
+    {
+        "id": "ca6c2f42-4121-5a4b-ac13-c38415ed498f",
+        "department": "연계전공",
+        "major": "한국및동아시아학(한국학)",
+        "year": "0",
+        "classification": "전기",
+        "code": "KOS3108-01-00",
+        "credits": 3.0,
+        "title": "한국과세계문화예술의비평 ",
+        "instructor": "이도훈",
+        "times_str": "목6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "백S402"
+    },
+    {
+        "id": "8072fc7a-1484-5059-954b-6fd92484466c",
+        "department": "연계전공",
+        "major": "한국및동아시아학(일본학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "JAP3105-01-00",
+        "credits": 3.0,
+        "title": "일본학특강 ",
+        "instructor": "이새봄",
+        "times_str": "화5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3659670d-95df-5515-8884-0c68d0a4b2a9",
+        "department": "연계전공",
+        "major": "한국및동아시아학(일본학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "JAP3108-01-00",
+        "credits": 3.0,
+        "title": "한일비교문학 ",
+        "instructor": "이영재",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본B110"
+    },
+    {
+        "id": "a83d339f-4d3d-5177-bab3-dfd5b7916f83",
+        "department": "연계전공",
+        "major": "외교통상학",
+        "year": "0",
+        "classification": "전기",
+        "code": "TRA3103-01-00",
+        "credits": 3.0,
+        "title": "국제법입문 ",
+        "instructor": "임한택",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "상본113"
+    },
+    {
+        "id": "c337a262-77bc-5750-a5a4-e1c9b9e71eb9",
+        "department": "연계전공",
+        "major": "외교통상학",
+        "year": "0",
+        "classification": "전기",
+        "code": "TRA3104-01-00",
+        "credits": 3.0,
+        "title": "유럽연합론 ",
+        "instructor": "고주현",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교410/실시간온라인"
+    },
+    {
+        "id": "a1d71e68-cb27-52be-972d-13405bfa662b",
+        "department": "연계전공",
+        "major": "인지과학",
+        "year": "0",
+        "classification": "전선",
+        "code": "COG3104-01-00",
+        "credits": 3.0,
+        "title": "인지과학연구방법론 ",
+        "instructor": "권희정",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "2a38600b-ee12-5704-8d82-61abd718d309",
+        "department": "연계전공",
+        "major": "인지과학",
+        "year": "0",
+        "classification": "전선",
+        "code": "COG4101-01-00",
+        "credits": 3.0,
+        "title": "정보처리이론 ",
+        "instructor": "정상철",
+        "times_str": "월5,6/수5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교604"
+    },
+    {
+        "id": "c2f2e323-3c6b-51b9-8e9e-26f84de468cd",
+        "department": "연계전공",
+        "major": "벤처학",
+        "year": "0",
+        "classification": "전기",
+        "code": "VEN3103-01-00",
+        "credits": 3.0,
+        "title": "벤처현장실습 ",
+        "instructor": "이승용",
+        "times_str": "목5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "백S206"
+    },
+    {
+        "id": "7980a9c0-37f5-5259-8586-175832460466",
+        "department": "연계전공",
+        "major": "벤처학",
+        "year": "0",
+        "classification": "전선",
+        "code": "VEN3106-01-00",
+        "credits": 3.0,
+        "title": "소셜벤처링 ",
+        "instructor": "이승용",
+        "times_str": "금5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "상본B103"
+    },
+    {
+        "id": "90a12829-c736-5e68-9470-94653c50c413",
+        "department": "연계전공",
+        "major": "리더십",
+        "year": "0",
+        "classification": "전기",
+        "code": "LEA3101-01-00",
+        "credits": 3.0,
+        "title": "리더십워크숍 ",
+        "instructor": "김광환,홍지영",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "265891d6-76ed-5706-82ff-5f73f89646de",
+        "department": "연계전공",
+        "major": "리더십",
+        "year": "0",
+        "classification": "전선",
+        "code": "LEA3103-01-00",
+        "credits": 3.0,
+        "title": "공감과섬김의인간관계리더십 ",
+        "instructor": "서우경",
+        "times_str": "수5/수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본B106"
+    },
+    {
+        "id": "bb6fde3f-8860-556c-9ead-5a2fb7f32c35",
+        "department": "연계전공",
+        "major": "한국및동아시아학(동아시아학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "EAS3101-01-00",
+        "credits": 3.0,
+        "title": "동아시아지역질서의어제와오늘 ",
+        "instructor": "이새봄",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6fc5ad11-3d00-5198-a846-9cb210e38d5f",
+        "department": "연계전공",
+        "major": "한국및동아시아학(동아시아학)",
+        "year": "0",
+        "classification": "전선",
+        "code": "EAS3104-01-00",
+        "credits": 3.0,
+        "title": "한국과동아시아 ",
+        "instructor": "신지영",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "42a4b4cb-1928-5a8e-960d-bf6e0db13aee",
+        "department": "연계전공",
+        "major": "비교문학",
+        "year": "0",
+        "classification": "전선",
+        "code": "CML3103-01-00",
+        "credits": 3.0,
+        "title": "이야기와매체 ",
+        "instructor": "이도훈",
+        "times_str": "화4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본B103"
+    },
+    {
+        "id": "82893802-53fb-5581-a62b-070abcdcf344",
+        "department": "연계전공",
+        "major": "비교문학",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "CML3105-01-00",
+        "credits": 3.0,
+        "title": "서구문학의정전 ",
+        "instructor": "윤동구,김윤하,김인숙",
+        "times_str": "수3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "상본B109"
+    },
+    {
+        "id": "d0288714-bb16-5861-87fa-2beee6635f76",
+        "department": "연계전공",
+        "major": "문화비평학",
+        "year": "0",
+        "classification": "전기",
+        "code": "CUL4102-01-00",
+        "credits": 3.0,
+        "title": "문화비평이론세미나 ",
+        "instructor": "최인선",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "상본B106/동영상콘텐츠"
+    },
+    {
+        "id": "c5c0136b-f95a-5133-aa01-d034a4db9e6d",
+        "department": "연계전공",
+        "major": "문화비평학",
+        "year": "0",
+        "classification": "전선",
+        "code": "CUL3104-01-00",
+        "credits": 3.0,
+        "title": "문화현상에대한비평적글쓰기 ",
+        "instructor": "최인선",
+        "times_str": "목2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

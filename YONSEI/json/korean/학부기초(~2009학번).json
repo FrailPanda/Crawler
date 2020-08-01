@@ -1,0 +1,341 @@
+﻿[
+    {
+        "id": "8c1785ea-c00e-52b3-8efb-653b31a3aedd",
+        "department": "학부기초(~2009학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "학기",
+        "code": "YCA1101-11-00",
+        "credits": 3.0,
+        "title": "기독교와세계문화 ",
+        "instructor": "조재국",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S208"
+    },
+    {
+        "id": "61359aaf-428f-541d-8d3b-973c923280dc",
+        "department": "학부기초(~2009학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "학기",
+        "code": "YCA1102-12-00",
+        "credits": 3.0,
+        "title": "기독교와현대사회 ",
+        "instructor": "한인철",
+        "times_str": "화7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "036ef38a-63e1-5ad4-bb3c-cdb80a9dc1dd",
+        "department": "학부기초(~2009학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "학기",
+        "code": "YCA1103-07-00",
+        "credits": 3.0,
+        "title": "성서와기독교 ",
+        "instructor": "김주환",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "백S208/실시간온라인"
+    },
+    {
+        "id": "3f2f0950-91a3-5163-a0e5-7b4817fcc8de",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1001-01-00",
+        "credits": 2.0,
+        "title": "대학기본영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화5,목5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d37d3812-4e1b-5fd5-b483-f635cc243f90",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1101-02-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "베켓제레미",
+        "times_str": "월2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b33dc82c-6a56-57e5-b487-352f62eed209",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1101-03-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "베켓제레미",
+        "times_str": "월7,수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0a631a35-a19a-589d-887a-3acb1cd73c57",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1002-01-00",
+        "credits": 2.0,
+        "title": "대학기본영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "174dca44-fa63-5881-a448-ceb9aee4809a",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1101-01-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화6,목6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "70578360-f053-58e7-93ea-d1d0544a6911",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1102-01-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "오진숙",
+        "times_str": "화2,목2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0331936b-aeeb-5e6d-9b5e-eb5d3ce2b7bf",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1102-02-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "오진숙",
+        "times_str": "화3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8b038b1f-31b3-567c-87f0-cf3f1c4536bb",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1102-03-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3ae2fc63-c4cc-526b-a2bc-5090f6a3d292",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1201-01-00",
+        "credits": 2.0,
+        "title": "고급대학영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화4,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "793cd85f-a651-5e6e-85bf-7a1c809ed55e",
+        "department": "학부기초(~2009학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "학기",
+        "code": "YCC1202-01-00",
+        "credits": 2.0,
+        "title": "고급대학영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

@@ -1,0 +1,1836 @@
+﻿[
+    {
+        "id": "e266e9eb-b2ca-5aa1-b8d1-6f02f7b83c2b",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCB1101-01-00",
+        "credits": 3.0,
+        "title": "한국근현대사 ",
+        "instructor": "이하나",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4b30e982-e15b-549d-9dbf-fbf176c75d87",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCB1103-01-00",
+        "credits": 3.0,
+        "title": "서양문화의유산 ",
+        "instructor": "황혜진",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6f5b9694-6f55-53df-b4d7-d76999115ad6",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCB1104-01-00",
+        "credits": 3.0,
+        "title": "철학과윤리 ",
+        "instructor": "고정식",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "1f28f198-0dfc-5d56-8ce5-537865e2041b",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCB1105-01-00",
+        "credits": 3.0,
+        "title": "서양철학사 ",
+        "instructor": "김옥경",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ad4f2038-5702-5c0c-b029-0ab7ce9d2713",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCG1126-01-00",
+        "credits": 3.0,
+        "title": "그리스로마시대의시문학과사상 ",
+        "instructor": "김기영",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "9c4380cd-e8b1-58d7-a70b-1a548f6df35c",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCD1653-01-00",
+        "credits": 3.0,
+        "title": "아시아영화탐색 ",
+        "instructor": "백문임,이화진",
+        "times_str": "수3,4(금3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "fb5d7e0f-57fe-594f-ad73-10cda78ed073",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1251-01-00",
+        "credits": 3.0,
+        "title": "전쟁과역사 ",
+        "instructor": "홍석민",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d1c1d1a4-9ed4-5564-8673-02d94fb119bc",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1254-01-00",
+        "credits": 3.0,
+        "title": "이데올로기와역사의대화 ",
+        "instructor": "홍석민",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "59c156a8-8f17-5793-b6bd-8f201e084b59",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1601-01-00",
+        "credits": 3.0,
+        "title": "대인관계의심리학 ",
+        "instructor": "이기학",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0189985f-7641-543f-b1a0-dd40c7706d0f",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1603-01-00",
+        "credits": 3.0,
+        "title": "마음이란무엇인가 ",
+        "instructor": "김민식",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "31ab142d-5c75-5a81-a7f1-1d473f89dca0",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1604-01-00",
+        "credits": 3.0,
+        "title": "성과성차의심리 ",
+        "instructor": "양현정",
+        "times_str": "화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "de34450e-7928-5322-9c23-2a4d0baf22b3",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1605-01-00",
+        "credits": 3.0,
+        "title": "이상행동의심리 ",
+        "instructor": "양현정",
+        "times_str": "목11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "f8a7c9f2-5fcc-599c-9ddd-73e32547336e",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1607-01-00",
+        "credits": 3.0,
+        "title": "스트레스의과학과적응의삶 ",
+        "instructor": "양현정",
+        "times_str": "화6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "318f9ff2-547a-5367-8930-e06d9dae5c6b",
+        "department": "학부필수(~2009학번)",
+        "major": "인간의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCG1702-01-00",
+        "credits": 3.0,
+        "title": "기독교윤리와사회적책임 ",
+        "instructor": "정종훈",
+        "times_str": "월7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "648f3e12-0281-5d9e-a3a4-0e4fabdd8525",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1102-01-00",
+        "credits": 3.0,
+        "title": "물리학의현대적이해 ",
+        "instructor": "박성찬",
+        "times_str": "목8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "과B132"
+    },
+    {
+        "id": "be067aaa-2a4b-519d-a5f9-4520b84c9eba",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1103-01-00",
+        "credits": 3.0,
+        "title": "물질문명의명암 ",
+        "instructor": "최문근",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8c081827-5c87-5b87-b699-8ce5e15a2449",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1104-01-00",
+        "credits": 3.0,
+        "title": "현대생명론 ",
+        "instructor": "김옥용",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과B132"
+    },
+    {
+        "id": "a1526c9c-54a6-54b1-a420-bad7cec3d805",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1105-01-00",
+        "credits": 3.0,
+        "title": "지구의생성과진화 ",
+        "instructor": "김진욱",
+        "times_str": "화8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4a2f3680-9d80-54a8-acb8-2f489afda784",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1106-01-00",
+        "credits": 3.0,
+        "title": "우주의이해 ",
+        "instructor": "이석영",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "53beb7e1-beed-5cad-b7c4-2e5de34f62b1",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1106-02-00",
+        "credits": 3.0,
+        "title": "우주의이해 ",
+        "instructor": "김용철",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "52c052c5-12b2-55fd-896f-7a5a9403d56b",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCC1113-01-00",
+        "credits": 3.0,
+        "title": "생명과학의세계 ",
+        "instructor": "장수철",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ce04eb1d-2b58-5c69-9782-56e780a6e41a",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCH1103-01-00",
+        "credits": 3.0,
+        "title": "물질과생명 ",
+        "instructor": "이태호,최수혁",
+        "times_str": "화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "16822fa8-cbfe-5318-b0cc-fc6b903f65b1",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCJ1001-01-00",
+        "credits": 3.0,
+        "title": "수학과금융사회 ",
+        "instructor": "김정훈",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "85c5ae89-465c-5240-b60f-320e288508f1",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCL1003-01-00",
+        "credits": 3.0,
+        "title": "활과리라:생물학과철학의창조적접점찾기 ",
+        "instructor": "김동규",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "과B132/실시간온라인"
+    },
+    {
+        "id": "66a3bacb-3a93-5e39-a375-85b929df7414",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCL1004-01-00",
+        "credits": 3.0,
+        "title": "인간관계의신경생물학적이해 ",
+        "instructor": "김현경",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4db52b9a-eee1-588d-a5c0-3b498fa61875",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCL1201-01-00",
+        "credits": 3.0,
+        "title": "인간의삶과역사속의미생물 ",
+        "instructor": "이주헌",
+        "times_str": "화8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7fa6c0a5-829b-5765-9357-48f94495bc41",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCL1601-01-01",
+        "credits": 3.0,
+        "title": "생명과학과삶 ",
+        "instructor": "장수철",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a4925a1e-7885-5b72-8378-14ba58934d05",
+        "department": "학부필수(~2009학번)",
+        "major": "자연의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCL1601-01-02",
+        "credits": 3.0,
+        "title": "생명과학과삶 ",
+        "instructor": "장수철",
+        "times_str": "화3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "fd5dfac8-1b98-53e5-8e06-5e1197504054",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1101-01-00",
+        "credits": 3.0,
+        "title": "현대사회와사회학 ",
+        "instructor": "김경미",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "e85a12a0-6146-5424-a675-1f74393e3032",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1102-01-00",
+        "credits": 3.0,
+        "title": "현대사회와심리학 ",
+        "instructor": "윤소연",
+        "times_str": "수1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "81981f0f-1688-5221-b1c7-0655d1c7afee",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1103-01-00",
+        "credits": 3.0,
+        "title": "현대사회와경제 ",
+        "instructor": "조하현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3e8a5403-2c62-5215-9acb-608853549e1a",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1105-01-00",
+        "credits": 3.0,
+        "title": "시민사회와자원봉사 ",
+        "instructor": "최수찬,김정수",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교303/실시간온라인"
+    },
+    {
+        "id": "01f35a49-6bb9-5d62-a91e-6241e9e948cd",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1106-01-00",
+        "credits": 3.0,
+        "title": "현대사회의법과권리 ",
+        "instructor": "한견우",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과111"
+    },
+    {
+        "id": "7ad69e94-e203-5fe2-a468-213c9ad09963",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCD1107-01-00",
+        "credits": 3.0,
+        "title": "우리교육의어제와오늘 ",
+        "instructor": "이원재",
+        "times_str": "화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "86eadba1-8ae5-54c9-91a8-b8363925312a",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCG1004-01-00",
+        "credits": 3.0,
+        "title": "인문학에길을묻다 ",
+        "instructor": "김현철,김선자,이기학,한경희,노의근",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "95e176de-cb88-5218-a1e7-052febc7852b",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCH1002-01-00",
+        "credits": 3.0,
+        "title": "국민국가와공공성 ",
+        "instructor": "나종석",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "65613d8d-180c-5981-bc43-71c33335de23",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCH1302-01-00",
+        "credits": 3.0,
+        "title": "진보와보수 ",
+        "instructor": "김호기",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "722add04-743a-529a-ab55-e94ad3d09bc7",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCH1603-01-00",
+        "credits": 3.0,
+        "title": "가족생활과법 ",
+        "instructor": "신정민",
+        "times_str": "금7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "1aaf0c4f-807d-58ce-b9e4-1f5401866b78",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCH1604-01-00",
+        "credits": 3.0,
+        "title": "인권정책과법 ",
+        "instructor": "이승현",
+        "times_str": "수6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "cf1fce70-669f-5cee-8ec6-28da461c54f1",
+        "department": "학부필수(~2009학번)",
+        "major": "사회의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCI1853-01-00",
+        "credits": 3.0,
+        "title": "글로벌리더십 ",
+        "instructor": "김용호",
+        "times_str": "수11,12,13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fd700b28-1b40-5251-b984-44efd0dc4e10",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCE1102-01-00",
+        "credits": 3.0,
+        "title": "미술사 ",
+        "instructor": "송희경",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5f543ab8-7347-537d-9c67-9e4fb02eeabf",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCE1105-01-00",
+        "credits": 3.0,
+        "title": "영화의이해 ",
+        "instructor": "김동호",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4f125314-285c-5c35-a310-127d95d6b8b9",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCE1105-02-00",
+        "credits": 3.0,
+        "title": "영화의이해 ",
+        "instructor": "강철",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ad958cdb-87c9-5451-8bd5-bdb84b100f8a",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCE1107-01-00",
+        "credits": 3.0,
+        "title": "음악사 ",
+        "instructor": "지형주",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백양관강당/실시간온라인"
+    },
+    {
+        "id": "6168356b-3e11-55b7-a663-af26c6c57f87",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCE1108-01-00",
+        "credits": 3.0,
+        "title": "디자인과문화 ",
+        "instructor": "김혜란",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "0720e369-9bf2-5dc5-8d39-81f5ccff9c53",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCJ1104-01-00",
+        "credits": 3.0,
+        "title": "한국미술사 ",
+        "instructor": "송희경",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "a1e2500b-7651-5d50-941a-8991729427e3",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCD1001-01-00",
+        "credits": 3.0,
+        "title": "오래된미래,르네상스 ",
+        "instructor": "김상근",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "af3117d5-cce1-5286-8218-ca435f643936",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCD1351-01-00",
+        "credits": 3.0,
+        "title": "중부유럽의문화와예술 ",
+        "instructor": "최건영",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "8d393290-000d-55a0-8486-0ed1b573b354",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCD1601-01-00",
+        "credits": 3.0,
+        "title": "영화로보는현대음악 ",
+        "instructor": "임지선",
+        "times_str": "화8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d30cee69-b561-5ed1-8bbb-43d2d95e2a8a",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCD1602-01-00",
+        "credits": 3.0,
+        "title": "대중음악의이해 ",
+        "instructor": "박애경,권현석",
+        "times_str": "수3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "bafaf58a-8f61-5dc0-b321-b730a4426620",
+        "department": "학부필수(~2009학번)",
+        "major": "문화의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCE1255-01-00",
+        "credits": 3.0,
+        "title": "유럽도시문화공간으로읽는역사 ",
+        "instructor": "홍석민",
+        "times_str": "금11,12,13",
+        "times": {
+            "4": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "47ede4b7-8b44-5cfc-bad1-bd1ebe34b093",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "UCF1101-01-00",
+        "credits": 3.0,
+        "title": "정보와사회 ",
+        "instructor": "전정현",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f974095a-5353-51e6-a2d0-b7d1459657c1",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-01-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "김유경",
+        "times_str": "월1,2/수1(수2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교402(교402)"
+    },
+    {
+        "id": "095d58a5-79c4-59aa-9209-e75eaeb04cc1",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-02-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "김유경",
+        "times_str": "월5,6/수5(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교402(교402)"
+    },
+    {
+        "id": "131faefb-e695-56a0-b2ec-9ae9a4808538",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-03-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "강혜종",
+        "times_str": "월7,8/수7(수8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "교302/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "6cd122e9-3621-51e7-a9b1-fadc99420a6c",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-04-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "강혜종",
+        "times_str": "화1,2/목1(목2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "교404/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "722fb36d-e37d-51da-ae10-3f10ad69ae95",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-05-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "임미정",
+        "times_str": "화3,4/목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교402(교402)"
+    },
+    {
+        "id": "7b82ea1d-9c57-534c-a157-126377e09358",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1201-06-00",
+        "credits": 3.0,
+        "title": "한문(1) ",
+        "instructor": "임미정",
+        "times_str": "화7,8/목7(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교402(교402)"
+    },
+    {
+        "id": "8e51edb5-633f-53d1-bfd7-dba53d0108bb",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1301-01-00",
+        "credits": 3.0,
+        "title": "중국어(1) ",
+        "instructor": "김세미",
+        "times_str": "월3,4,수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "94f19c99-5111-5e2b-a540-b1f549733ae6",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1301-02-00",
+        "credits": 3.0,
+        "title": "중국어(1) ",
+        "instructor": "김원희",
+        "times_str": "월5,6,수5(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "cdeaa57d-6dae-5ed5-832d-1cdc870d38a1",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1301-03-00",
+        "credits": 3.0,
+        "title": "중국어(1) ",
+        "instructor": "김승현",
+        "times_str": "화1,2,목1(목2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "5ba19116-5ac0-5451-8a89-b5fc68e30023",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1301-04-00",
+        "credits": 3.0,
+        "title": "중국어(1) ",
+        "instructor": "안인",
+        "times_str": "화7,8,목7(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "9a7427e4-beba-5d90-aca1-30a2f6571921",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1351-01-00",
+        "credits": 3.0,
+        "title": "일본어(1) ",
+        "instructor": "신원선",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    },
+    {
+        "id": "584f9b26-f815-50f0-ac11-fbf72758ca22",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1351-02-00",
+        "credits": 3.0,
+        "title": "일본어(1) ",
+        "instructor": "장윤아",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "백S108/실시간온라인"
+    },
+    {
+        "id": "6c0577da-5407-5fc0-abd1-673baeea672e",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1352-01-00",
+        "credits": 3.0,
+        "title": "일본어(2) ",
+        "instructor": "신원선",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백S108/실시간온라인"
+    },
+    {
+        "id": "c51bcadb-a5d8-5d6a-b665-8bbb46aaf2f7",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1451-01-00",
+        "credits": 3.0,
+        "title": "독일어(1) ",
+        "instructor": "박은경",
+        "times_str": "화3,4,목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "1afa8ece-2d93-5709-a601-4c9aa9d805ff",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1451-02-00",
+        "credits": 3.0,
+        "title": "독일어(1) ",
+        "instructor": "박은경",
+        "times_str": "월5,6,수5(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "83b9dd01-19cd-5fa5-af13-34f06b835c8d",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1501-01-00",
+        "credits": 3.0,
+        "title": "프랑스어(1) ",
+        "instructor": "윤정임",
+        "times_str": "월3,4/수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교302(교302)"
+    },
+    {
+        "id": "7a4bf2ac-45cf-5fc0-81f7-65965806aef0",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1501-02-00",
+        "credits": 3.0,
+        "title": "프랑스어(1) ",
+        "instructor": "김민채",
+        "times_str": "화7,8/목7(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "교402/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "94626e38-27f5-5d90-9708-38678844096e",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1551-01-00",
+        "credits": 3.0,
+        "title": "러시아어(1) ",
+        "instructor": "권용재",
+        "times_str": "월5,6/수5(수6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교405/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "5d6930c1-8eed-5a9d-a0ec-ba30fb07e7bb",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1551-02-00",
+        "credits": 3.0,
+        "title": "러시아어(1) ",
+        "instructor": "정보라",
+        "times_str": "화3,4/목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교405(교405)"
+    },
+    {
+        "id": "70a77225-91b0-5a9d-85a7-8b4e7d784e9b",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1551-03-00",
+        "credits": 3.0,
+        "title": "러시아어(1) ",
+        "instructor": "황기은",
+        "times_str": "화7,8/목7(목8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교405(교405)"
+    },
+    {
+        "id": "420a7ac6-13fa-5fab-928f-aeba40acea0c",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1603-01-00",
+        "credits": 3.0,
+        "title": "스페인어(1) ",
+        "instructor": "최해성",
+        "times_str": "화2,3/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S408"
+    },
+    {
+        "id": "d8ffce2a-ebed-52f7-bf12-831c8a1b2935",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1603-02-00",
+        "credits": 3.0,
+        "title": "스페인어(1) ",
+        "instructor": "힐라레스리디아돌리스까",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "38dbf8d4-cb09-5ea7-9b63-f31a493170b4",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCF1604-01-00",
+        "credits": 3.0,
+        "title": "스페인어(2) ",
+        "instructor": "양성혜",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c2c1627d-7bcd-5083-be3d-4aaa980a9d2c",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCH1201-01-00",
+        "credits": 3.0,
+        "title": "세계화와글로벌거버넌스 ",
+        "instructor": "조은일",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6d1b1aa8-25f5-5dbb-a687-aacacbbd96e4",
+        "department": "학부필수(~2009학번)",
+        "major": "세계의이해",
+        "year": null,
+        "classification": "학필",
+        "code": "YCI1002-01-00",
+        "credits": 3.0,
+        "title": "세계평화와발전의국제관계 ",
+        "instructor": "배종윤",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    }
+]

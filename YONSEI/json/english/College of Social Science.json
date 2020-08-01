@@ -1,0 +1,3096 @@
+﻿[
+    {
+        "id": "03876ac2-fee8-5bbf-9b2b-4a39d1bf3541",
+        "department": "College of Social Science",
+        "major": "Social Science College Common",
+        "year": "0",
+        "classification": "Electives",
+        "code": "SOS2001-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO LAW FOR SOCIAL SCIENTISTS ",
+        "instructor": "Kim Hyun Hee",
+        "times_str": "Mon1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH402"
+    },
+    {
+        "id": "0e611db7-ba2b-59ff-8dba-86db55955ab6",
+        "department": "College of Social Science",
+        "major": "Social Science College Common",
+        "year": "0",
+        "classification": "Electives",
+        "code": "SOS2002-01-00",
+        "credits": 3.0,
+        "title": "ARGUMENTS AND EVIDENCE ",
+        "instructor": "Kang Jeong-han/LEE DAJ MI",
+        "times_str": "Mon8/Wed9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "YHH025/Pre-recorded lecture"
+    },
+    {
+        "id": "dd139220-10a6-5739-b184-623536a89811",
+        "department": "College of Social Science",
+        "major": "Social Science College Common",
+        "year": "0",
+        "classification": "Electives",
+        "code": "SOS3001-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL PRODUCTION & ETHNOGRAPHY ",
+        "instructor": "CHANG HO JIN",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH025"
+    },
+    {
+        "id": "67dfbeaf-adc6-5ee8-825b-5e4e64a7fac0",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "POL2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "CHOI YEON SIK",
+        "times_str": "Sat5",
+        "times": {
+            "5": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH112"
+    },
+    {
+        "id": "72cab041-b62c-59b7-9a32-c1c9f646f500",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "POL1004-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE ",
+        "instructor": "Jin Young Jae",
+        "times_str": "Tue2,3,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "10478a6a-292d-5aab-b1df-afe75475b3ea",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "POL2106-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE POLITICS ",
+        "instructor": "Jin Young Jae",
+        "times_str": "Tue6,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a94b429f-9b5c-515b-bfaf-c13acb69a615",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3113-01-00",
+        "credits": 3.0,
+        "title": "MEDIA AND FOREIGN POLICY ",
+        "instructor": "Kim, Yongho",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH218/Realtime online lecture"
+    },
+    {
+        "id": "7dcce8da-78fa-50bc-98c5-e9de09e576a1",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3120-01-00",
+        "credits": 3.0,
+        "title": "KOREAN FOREIGN POLICIES ",
+        "instructor": "Bae Jong-Yun",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ac178133-ac02-506f-8557-4a3be6fee0ca",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3124-01-00",
+        "credits": 3.0,
+        "title": "KOREA IN INTERNATIONAL HISTORY ",
+        "instructor": "KIM Myongsob",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH218/Realtime online lecture"
+    },
+    {
+        "id": "0b658139-8e06-5940-aedb-7f0efb2cb5e5",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3153-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING CHINESE POLITICS ",
+        "instructor": "PAIK WOOYEAL",
+        "times_str": "Mon3/Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH112/Realtime online lecture"
+    },
+    {
+        "id": "55d2b920-9ae2-5714-9969-f145887b777b",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3154-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL DEVELOPMENT COOPERATION AND THE EU ",
+        "instructor": "Lee, Yeon Ho",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH112/Realtime online lecture"
+    },
+    {
+        "id": "49edea25-c84b-5ca7-9c03-88b8e804d733",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3163-01-00",
+        "credits": 3.0,
+        "title": "STATE AND CONSTITUTIONAL LAW ",
+        "instructor": "Kim Jung Hwan",
+        "times_str": "Wed9,Fri8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH112"
+    },
+    {
+        "id": "faee6088-df8f-529b-b598-def75e291e1b",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3825-01-00",
+        "credits": 3.0,
+        "title": "POLITICS OF COLLABORATION AND INTEGRATION IN EUROPE ",
+        "instructor": "SCHATTLE HANS",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6da6401f-522b-5985-8820-ea6c1684e09a",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3829-01-00",
+        "credits": 3.0,
+        "title": "POLITICAL PARTIES ",
+        "instructor": "Jin Young Jae",
+        "times_str": "Tue4,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "efd6d887-6d6c-5d78-b85b-4ff09beeb64d",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL3834-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL POLITICAL ECONOMY IN EAST ASIA ",
+        "instructor": "KIM MINJUNG",
+        "times_str": "Wed5,Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c9d8e5d7-b470-5e30-8e8f-6a5102871ad9",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "POL4108-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL RELATIONS IN EAST ASIA ",
+        "instructor": "Kim Woo Sang",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a26b5c68-3d74-5ae7-8efe-790ee04983ed",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "POL3201-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHICAL FOUNDATION OF LAW ",
+        "instructor": "Kim Jeong-Oh",
+        "times_str": "Mon5/Wed4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH112/Pre-recorded lecture"
+    },
+    {
+        "id": "a577b162-905a-5f6d-ba80-60e23362d4ff",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "POL3847-01-00",
+        "credits": 3.0,
+        "title": "POLITICS, MEDIA AND GLOBALIZATION ",
+        "instructor": "SCHATTLE HANS",
+        "times_str": "Mon3,Wed3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "edb72c73-17ee-5175-be89-3cd21a419bd6",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "POL4133-01-00",
+        "credits": 3.0,
+        "title": "THE POLITICS OF THINGS ",
+        "instructor": "PAIK WOOYEAL",
+        "times_str": "Mon6,Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "YHH112"
+    },
+    {
+        "id": "65cb106a-6824-5a58-8e62-9d83e3ded913",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL3130-01-00",
+        "credits": 3.0,
+        "title": "KOREAN POLITICAL THOUGHT ",
+        "instructor": "CHOI YEON SIK",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH112"
+    },
+    {
+        "id": "e98e8340-1240-56e2-b01f-06ade4cfd919",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL3131-01-00",
+        "credits": 3.0,
+        "title": "POST-MODERN PHILOSOPHY OF POLITICS ",
+        "instructor": "Lee SangWon",
+        "times_str": "Tue2,3/Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH112"
+    },
+    {
+        "id": "d6b52f4e-a524-5887-8a1d-8d8b9a2ca456",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL3164-01-00",
+        "credits": 3.0,
+        "title": "AMERICAN POLITICS AND GOVERNMENT ",
+        "instructor": "SCHATTLE HANS",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "bcab86e2-5e6a-5bdf-a365-a85060e61fe9",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL4101-01-00",
+        "credits": 3.0,
+        "title": "ECONOMIC STATECRAFT: ECONOMIC SANCTIONS AND AID ",
+        "instructor": "Whang Taehee",
+        "times_str": "Mon8,9/Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH218"
+    },
+    {
+        "id": "f2bf5d04-dff2-5cff-8d81-7d48952cf7c4",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL4823-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF JUSTICE ",
+        "instructor": "JANG DONG-JIN",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "58df2f6b-dca9-5ba8-91e4-60b46e02a45a",
+        "department": "College of Social Science",
+        "major": "Political Science and Diplomacy",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "POL4839-01-00",
+        "credits": 3.0,
+        "title": "GAME THEORY AND POLITICS ",
+        "instructor": "Woo Byungwon",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH112/Realtime online lecture"
+    },
+    {
+        "id": "015f0aef-bbd4-5413-9f1e-efef6777f5ac",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "1",
+        "classification": "Major Exploratory",
+        "code": "PUB1101-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO PUBLIC ADMINISTRATION ",
+        "instructor": "YOO NARI",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH108/Pre-recorded lecture"
+    },
+    {
+        "id": "49401471-c0ea-5862-a853-afc934c24044",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "PUB2107-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO POLICY STUDIES ",
+        "instructor": "Hong Sounman",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "0f8bb499-e4b4-5c22-8cc6-1c44a3adda80",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "PUB2107-02-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO POLICY STUDIES ",
+        "instructor": "RYU SANGYUB",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH404"
+    },
+    {
+        "id": "25b215ff-71f7-5354-9193-669af040ff46",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PUB2105-01-00",
+        "credits": 3.0,
+        "title": "PUBLIC FINANCE ",
+        "instructor": "Choi Geunho",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "163a7622-c905-5b66-92aa-1119e9ceba77",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PUB2108-01-00",
+        "credits": 3.0,
+        "title": "ORGANIZATION THEORY ",
+        "instructor": "CHO YUSUN",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d0c9fea9-a406-5b92-bbda-63b659d67ea6",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PUB2121-01-00",
+        "credits": 3.0,
+        "title": "CONSTITUTION AND DEMOCRATIC ADMINISTRATION ",
+        "instructor": "LEE SEUNG HYUN",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "15b5e383-83ce-56e5-af2a-ae371fb8864a",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB2102-01-00",
+        "credits": 3.0,
+        "title": "BUREAUCRACY AND DEMOCRACY ",
+        "instructor": "Kim Hyangmi",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "c2cc00e4-53ac-5352-b55a-51eadaf8b347",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3103-01-00",
+        "credits": 3.0,
+        "title": "WELFARE POLICY ",
+        "instructor": "Yang Jae-jin",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b8666d7d-5f3f-534f-8451-e85963e5029c",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3105-01-00",
+        "credits": 3.0,
+        "title": "FINANCIAL ADMINISTRATION ",
+        "instructor": "SHIN GAHUI",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "006eeb03-9043-5ef4-a74a-d6f9ad271d6f",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3106-01-00",
+        "credits": 3.0,
+        "title": "GOVERNMENT & BUSINESS ",
+        "instructor": "Kim Sun Hyoung",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6e000758-01bc-5b3b-b72c-28e97600bc47",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3109-01-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "Cho Yoon Jik",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "YHH108"
+    },
+    {
+        "id": "673a2169-33df-5904-bc28-63326a317ea1",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3114-01-00",
+        "credits": 3.0,
+        "title": "ADMINISTRATIVE LAW II ",
+        "instructor": "Kim Nam Cheol",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "9fe4d017-b2a2-596a-8793-5ae86a931f23",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3115-01-00",
+        "credits": 3.0,
+        "title": "ADMINISTRATIVE CASE STUDIES ",
+        "instructor": "KIM TAE HYUNG",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fefdfbf2-1bfd-5f4a-b6fb-b60eed2691b8",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3120-01-00",
+        "credits": 3.0,
+        "title": "CULTURE POLICY ",
+        "instructor": "Jeong Cheol Hyun",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH108"
+    },
+    {
+        "id": "fc080928-ba4f-584f-b460-334b52ef363d",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3125-01-00",
+        "credits": 3.0,
+        "title": "POLICY TOOLS OF GOVERNANCE ",
+        "instructor": "LEE MYOUNG-JIN",
+        "times_str": "Fri6,7,8/Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH108/Realtime online lecture"
+    },
+    {
+        "id": "422473b9-c9a6-5782-9a90-04d628f27bd8",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PUB3130-01-00",
+        "credits": 3.0,
+        "title": "VARIETIES OF INDUSTRIAL POLICY ",
+        "instructor": "Heon Joo Jung",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fbb88f1f-21cc-5d4c-8737-bfb7bb1cbca6",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB3107-01-00",
+        "credits": 3.0,
+        "title": "POLICY IMPLEMENTATION ",
+        "instructor": "Choi Seonmi",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ba74c611-e166-5869-9bde-c1238de4680e",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4102-01-00",
+        "credits": 3.0,
+        "title": "INTER-GOVERNMENTAL RELATIONS ",
+        "instructor": "Lee Yoonkyung",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "28c1539c-0012-539f-ab18-2390f8623ea3",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4112-01-00",
+        "credits": 3.0,
+        "title": "LEADERSHIP AND GOVERNANACE ",
+        "instructor": "KIM GONGROK",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH404"
+    },
+    {
+        "id": "ba662a3d-0ee9-5ffd-9355-264318893e93",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4113-01-00",
+        "credits": 3.0,
+        "title": "GOVERNMENT ACCOUNTING(1) ",
+        "instructor": "LEE JAEHYUK",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f85d7ba8-3119-519f-8777-cfdfea899bde",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4201-01-00",
+        "credits": 3.0,
+        "title": "INNOVATION,ENTREPRENEURSHIP,AND POLICY ",
+        "instructor": "JO HYUN JEONG",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/YHH404"
+    },
+    {
+        "id": "5a3a6227-6528-5cfd-bedd-51233fcf1bb1",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4204-01-00",
+        "credits": 3.0,
+        "title": "SEMINER IN SOCIAL SCIENCE RESEARCH DISIGN ",
+        "instructor": "LEE, EUN KOOK",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH404/Realtime online lecture"
+    },
+    {
+        "id": "6484b007-072a-578a-9a49-0f59c5076634",
+        "department": "College of Social Science",
+        "major": "Public Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PUB4205-01-00",
+        "credits": 3.0,
+        "title": "QUANTITATIVE POLICY ANALYSIS ",
+        "instructor": "Bae Hyunhoe",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH404/Realtime online lecture"
+    },
+    {
+        "id": "48f6db2d-3baa-5b43-a072-098928657063",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "SOW2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "KIM, JAE YOP",
+        "times_str": "Tue9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "2072ccc0-9ce9-5c2e-ae4c-891ceeab8ca7",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Park Sunwon",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2c457797-058b-554e-a22a-c1a0105760fe",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "양승민",
+        "times_str": "Wed9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2b415538-e043-519e-839a-301ca3f94abe",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE EUN JUNG",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH027"
+    },
+    {
+        "id": "e494cd58-90b1-5bda-8ea2-5edfa31f6bb8",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "YOO JIEUN",
+        "times_str": "Mon2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "bd331095-b9cc-54d8-a74b-f7880e00d78a",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-05-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "채주석",
+        "times_str": "Mon3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH027"
+    },
+    {
+        "id": "6c0ffc3e-f1ca-5473-b970-be438979f606",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-06-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "최유나",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "03e8a3d0-ee38-5338-b7f2-b64647f76d08",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2002-07-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "황현주",
+        "times_str": "Thu8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "591df9d0-1228-50bf-9f62-b3cafbd82820",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2102-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF SOCIAL WELFARE DEVELOP- ",
+        "instructor": "Yun Tae-Young",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH027"
+    },
+    {
+        "id": "76ea3951-cea8-5392-b4ae-d88beb03923b",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW2103-01-00",
+        "credits": 3.0,
+        "title": "FOUNDA. OF SOCIAL WELFARE PRACTICE ",
+        "instructor": "Choi Soochan",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "764acbc2-0e80-5426-b364-44e0e9f73704",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOW3126-01-00",
+        "credits": 3.0,
+        "title": "KOREAN SOCIAL WELFARE ",
+        "instructor": "Kim Mihee",
+        "times_str": "Mon2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a0f434fe-062d-5122-882a-49798f84462e",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3114-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL WELFARE ADMINISTRATION ",
+        "instructor": "CHOI JAE-SUNG",
+        "times_str": "Tue5,6/Tue7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "YHH308/Pre-recorded lecture"
+    },
+    {
+        "id": "7b85a00c-cc56-568f-8c37-01155fdb8ac5",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3115-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL WELFARE PRACTICE ",
+        "instructor": "SUNG SHIN MYOUNG",
+        "times_str": "Wed10,11,12",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "YHH027"
+    },
+    {
+        "id": "1f335c06-545a-5a13-bcf5-7ed76d2cff19",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3117-01-00",
+        "credits": 3.0,
+        "title": "CHILD WELFARE ",
+        "instructor": "Nam Boyoung",
+        "times_str": "Thu4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "f1877ef1-0739-5179-8450-65ad1df7332d",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3121-01-00",
+        "credits": 3.0,
+        "title": "WELFARE FOR THE DISABLED ",
+        "instructor": "Park Soo Kyung",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "eb35c85b-71dd-502c-a309-4e9656ce8dcf",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3122-01-00",
+        "credits": 3.0,
+        "title": "COM. MENTAL HEALTH & SOCIAL WELFARE ",
+        "instructor": "Song In Han",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "5e58273d-c903-5918-b3a7-92623c768d47",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOW3123-01-00",
+        "credits": 3.0,
+        "title": "COMMUNITY WELFARE ",
+        "instructor": "Kang Chul Hee",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ca240238-9101-50c1-9bcf-9c99d8dc07e9",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SOW3103-01-00",
+        "credits": 3.0,
+        "title": "GERONTOLOGICAL SOCIAL WORK ",
+        "instructor": "Nam Seok In",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "640aad9a-f9ae-5a6d-ac71-52d3eaad97fa",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SOW3113-01-00",
+        "credits": 3.0,
+        "title": "SPECIAL LECTURE ON SOCIAL WELFARE ",
+        "instructor": "Seo Jeongyeol",
+        "times_str": "Wed4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "446adf34-c961-58cd-963b-50ec1278a9b3",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SOW4106-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL SECURITY ",
+        "instructor": "Kim Jin Soo",
+        "times_str": "Mon4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "e1c4b99b-a5e6-5006-950e-5a86604b2af9",
+        "department": "College of Social Science",
+        "major": "Social Work",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SOW4111-01-00",
+        "credits": 3.0,
+        "title": "FAMILY WELFARE ",
+        "instructor": "KIM, JAE YOP",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH211"
+    },
+    {
+        "id": "cc3b8aba-c97d-5885-9335-6a9dc1514127",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "SOC1002-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING SOCIOLOGY ",
+        "instructor": "Kim Jongwoo",
+        "times_str": "Mon2,3,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ad4ab8c7-9085-5c85-a1ec-e29eb2c1afcf",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "SOC1002-02-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING SOCIOLOGY ",
+        "instructor": "Cho Sun Mi",
+        "times_str": "Mon5,6,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "1ab9c878-ac67-524d-a7cc-2e3419374e43",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "SOC1004-01-00",
+        "credits": 3.0,
+        "title": "CURRENCE OF MODERN SOCIAL THOUGHT ",
+        "instructor": "BAEK KWANG RYEOL",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d5a74b45-da69-5973-b749-5f6a39a9fce5",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "SOC2103-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL STATISTICS ",
+        "instructor": "Kang Jeong-han",
+        "times_str": "Mon2/Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BilHall103"
+    },
+    {
+        "id": "b2187fba-6b81-5d98-9392-44226b014bbc",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOC2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Lim Jeong Jae",
+        "times_str": "Tue5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "37c24066-fdbd-5d5e-a9c6-2c6bf9159195",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SOC2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Lee Garam",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH027"
+    },
+    {
+        "id": "e631d680-f86b-52d0-88d8-3ac84c8a7c34",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SOC3707-01-00",
+        "credits": 3.0,
+        "title": "SOCIOLOGY OF DEVEOPMENT ",
+        "instructor": "Jang Sangchul",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BilHall103"
+    },
+    {
+        "id": "450a1b9c-5ef8-5a48-a4d9-31e3100fa52f",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "SOC4121-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL RESEARCH PRACTICE ",
+        "instructor": "Park Kwang Hyung",
+        "times_str": "Tue2,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "3644a9eb-14a0-5797-b258-be3be7baf18b",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3304-01-00",
+        "credits": 3.0,
+        "title": "URBAN SPACE AND SOCIETY ",
+        "instructor": "Kim, Wang Bae",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "8d533567-ef6d-54b9-bc16-1a3abda65739",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3601-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL PSYCHOLOGY ",
+        "instructor": "Lee Garam",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "92d749d5-a961-59b4-8135-f9bd76a97585",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3603-01-00",
+        "credits": 3.0,
+        "title": "SOCIOLOGY OF FAMILY ",
+        "instructor": "Wang Hye-sook",
+        "times_str": "Mon4,5/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BilHall103/Realtime online lecture"
+    },
+    {
+        "id": "27b68792-c795-5334-b7c0-87b619329892",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3604-01-00",
+        "credits": 3.0,
+        "title": "KNOWLEDGE.INFORMATION SOCIETY ",
+        "instructor": "Choi Kyu Youn",
+        "times_str": "Fri2,3/Fri4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BilHall103/Pre-recorded lecture"
+    },
+    {
+        "id": "6a6865da-c61b-57b2-8745-de1064b69097",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3610-01-00",
+        "credits": 3.0,
+        "title": "STUIDES OF POP CULTURES ",
+        "instructor": "AHN MIHYANG",
+        "times_str": "Tue3,4,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "1495693b-0647-5d59-ab96-b6b3576d7bf6",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC3611-01-00",
+        "credits": 3.0,
+        "title": "SEX ROLES IN SOCIETY ",
+        "instructor": "Kim Young-Mi",
+        "times_str": "Wed7/Thu3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BilHall103"
+    },
+    {
+        "id": "5aececab-84eb-5d2c-9e6c-67d8f1b770ed",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4117-01-00",
+        "credits": 3.0,
+        "title": "MODERN SOCITIES ",
+        "instructor": "Kim, Ho-Ki",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "c3be6a16-b92a-595e-9906-453e1ca80eb8",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4118-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL CLASS AND ISSUES OF INEQUALITY ",
+        "instructor": "Choi Seongsoo",
+        "times_str": "Tue8,9,Thu9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BilHall103"
+    },
+    {
+        "id": "b36980eb-6877-5b7a-b029-971d962dfea0",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4119-01-00",
+        "credits": 3.0,
+        "title": "LAW AND SOCIETY ",
+        "instructor": "LEE CHULWOO",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH313/Pre-recorded lecture"
+    },
+    {
+        "id": "b278bc6b-ec8b-5a68-989e-05e8f31eab36",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4305-01-00",
+        "credits": 3.0,
+        "title": "OTHER MODERNITIES IN EAST ASIA ",
+        "instructor": "Won Jaeyoun",
+        "times_str": "Mon7,8,Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "7d82f4e8-9487-518d-8ade-d6cb29dbaefd",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4503-01-00",
+        "credits": 3.0,
+        "title": "DEVIATION AND CRIME ",
+        "instructor": "Lim Jae-sung",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "YHH313"
+    },
+    {
+        "id": "6b52a1cb-3054-55bf-ac8e-b0a4f2491b7f",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SOC4703-01-00",
+        "credits": 3.0,
+        "title": "NETWORK THEORIES AND ANALYSES ",
+        "instructor": "Youm Yoosik",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BilHall103"
+    },
+    {
+        "id": "e2165bee-e641-5f22-b955-ed308bcbccfe",
+        "department": "College of Social Science",
+        "major": "Sociology",
+        "year": "3,4",
+        "classification": "Teacher Training Program",
+        "code": "SOC3830-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL EDUCATION ",
+        "instructor": "LEE SEONGHO",
+        "times_str": "Mon8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BilHall103"
+    },
+    {
+        "id": "922a9700-bb0e-5b2b-b24f-781b0f7a8c22",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ANT1001-01-00",
+        "credits": 3.0,
+        "title": "CULTURAL ANTHROPOLOGY ",
+        "instructor": "KOO Gi Yeon",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BilHall110"
+    },
+    {
+        "id": "d69cdc7b-672e-5f1b-a37e-805cdf8d4fcf",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "ANT2105-01-00",
+        "credits": 3.0,
+        "title": "CULTURAL ANTHROP IN THE GLOBAL AGE ",
+        "instructor": "KIM JI YOUN",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "YHH402/Realtime online lecture"
+    },
+    {
+        "id": "8b2c5c5b-2b89-5c14-ba06-97f27dc95de0",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ANT2103-01-00",
+        "credits": 3.0,
+        "title": "FAMILY AND CULTURE ",
+        "instructor": "kwon soohyeon",
+        "times_str": "Mon3/Wed3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BilHall110/Realtime online lecture"
+    },
+    {
+        "id": "1f9f80ac-daa8-5a5d-a757-cc14239e7d8e",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "ANT3102-01-00",
+        "credits": 3.0,
+        "title": "FIELDWORK METHODOLOGY ",
+        "instructor": "Seo Bo Kyeong",
+        "times_str": "Fri10,11,12",
+        "times": {
+            "4": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "BilHall110"
+    },
+    {
+        "id": "6ced9433-c313-5247-8abe-e0878b087ca7",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ANT3105-01-00",
+        "credits": 3.0,
+        "title": "ANTHROPOLOGY OF BODY ",
+        "instructor": "Seo Bo Kyeong",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH025"
+    },
+    {
+        "id": "0239d766-8b9b-54a6-acf6-8e39f473045e",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ANT3112-01-00",
+        "credits": 3.0,
+        "title": "POPULAR CULTURE AND THE CULTURAL INDUSTRY ",
+        "instructor": "Chae Suk Jin",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BilHall110"
+    },
+    {
+        "id": "ab17edac-2f4d-5d01-9654-0d7411b70ec6",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ANT3113-01-00",
+        "credits": 3.0,
+        "title": "ANTHROPOLOGY AND THE VISUAL MEDIA(1) ",
+        "instructor": "CHANG HO JIN",
+        "times_str": "Mon9,10/Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BilHall110/Realtime online lecture"
+    },
+    {
+        "id": "4fd1a9c8-c6df-5df4-b145-f27dcf397fdf",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ANT3114-01-00",
+        "credits": 3.0,
+        "title": "CULLTURAL DESIGN IN THE NETWORK AGE ",
+        "instructor": "Lee Gilho",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH025/Realtime online lecture"
+    },
+    {
+        "id": "e670ad22-93fc-5eb3-8213-fa7f437d0898",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ANT3206-01-00",
+        "credits": 3.0,
+        "title": "ANTHROPOLOGY OF POVERTY ",
+        "instructor": "Cho Mun Young",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3352f682-4aa3-584f-9e35-683a75af8312",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ANT3211-01-00",
+        "credits": 3.0,
+        "title": "STUDIES OF CULTURE AND REPRESENTATION ",
+        "instructor": "KIM Hang",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BilHall110"
+    },
+    {
+        "id": "83ec8e00-1a87-55b2-ac68-b283d6ab1557",
+        "department": "College of Social Science",
+        "major": "Cultural Anthropology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ANT4202-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY THEORIES IN CULTURAL ANTHROPOLOGY ",
+        "instructor": "Lee Jieun",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BilHall110/Realtime online lecture"
+    },
+    {
+        "id": "d76e6bc6-bb02-5676-82a5-ad7b325c8eb4",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "COM3001-01-00",
+        "credits": 4.0,
+        "title": "JOURNALISM INTERNSHIP IN FOREIGN MEDIA ",
+        "instructor": "Lee Sang Yup/KIM SONGHEE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f9165b25-a690-5a61-a2ef-462b4a87042b",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "COM1101-01-00",
+        "credits": 3.0,
+        "title": "INTRO. TO MEDIA STUDIES ",
+        "instructor": "KIM Yoonkyoung",
+        "times_str": "Tue3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "54582de4-c1f2-52da-8dd9-5c293e1ad677",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "COM2101-01-00",
+        "credits": 3.0,
+        "title": "RESEARCH METHODS IN COMMUNICATION ",
+        "instructor": "Young Min Baek",
+        "times_str": "Thu4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c603cd3f-2931-5998-9d76-f86f943d921e",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "COM2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM HEEJEONG",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1b3d3971-ac3c-547b-a459-c4f93e5eceb8",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "COM2105-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF ADVERTISING ",
+        "instructor": "Kim Heejin",
+        "times_str": "Tue8,9/Thu9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH308"
+    },
+    {
+        "id": "29662d0b-142d-5cd5-ad5f-dde5c706d73d",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "COM2109-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING BROADCAST MEDIA ",
+        "instructor": "CHOI Yang Soo",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5835d050-0056-5062-949c-845cf1f91b40",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "COM2110-01-00",
+        "credits": 3.0,
+        "title": "BROADCAST PRODUCTION ",
+        "instructor": "Kang Wonjoon",
+        "times_str": "Wed5,6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SAH307"
+    },
+    {
+        "id": "3b230318-73de-5ed1-bc8a-e23b18fc4e47",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "COM2117-01-00",
+        "credits": 3.0,
+        "title": "MEDIA AND SOCIETY ",
+        "instructor": "KIM HEEJEONG",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BilHall210"
+    },
+    {
+        "id": "1988e487-1f0c-5bda-a1aa-f74b8791ec31",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "COM3168-01-00",
+        "credits": 3.0,
+        "title": "MEDIA PRODUCTION FIELD WORKSHOP ",
+        "instructor": "KIM UG YOUNG",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6d976644-9be7-5bc5-a65e-6266eb88a6d8",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "COM4205-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO AI PROGRAMMING ",
+        "instructor": "Lee Sang Yup",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "YHH402/Pre-recorded lecture"
+    },
+    {
+        "id": "8c9c128d-0323-5d0a-87ee-a7c0856ea16b",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "COM4218-01-00",
+        "credits": 3.0,
+        "title": "TEXT, MIND AND SOCIETY ",
+        "instructor": "Young Min Baek",
+        "times_str": "Wed2/Fri2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH308/Realtime online lecture"
+    },
+    {
+        "id": "fc7a2eb9-d33b-52da-9679-54b470b3a880",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3101-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED VIDEO PRODUCTION ",
+        "instructor": "Kang Wonjoon",
+        "times_str": "Wed1,2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SAH307"
+    },
+    {
+        "id": "ca3c666f-4f8d-5b4f-91bb-8ae262e1ae11",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3106-01-00",
+        "credits": 3.0,
+        "title": "INTERPERSONAL COMMUNICATION ",
+        "instructor": "KIM SOOHEE",
+        "times_str": "Mon4/Tue2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "c6298164-ed9c-5ee7-8d50-8ef6c8fec43a",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3110-01-00",
+        "credits": 3.0,
+        "title": "INSTITUTIONS OF MASS MEDIA ",
+        "instructor": "Kim Jeongho",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BilHall210"
+    },
+    {
+        "id": "ef81a856-a3da-5d72-ae18-a80f191f3534",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3112-01-00",
+        "credits": 3.0,
+        "title": "COMMUNICATION AND SOCIAL CHANGE ",
+        "instructor": "Shin Euikyung",
+        "times_str": "Thu4,5/Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BilHall210"
+    },
+    {
+        "id": "9ea965be-4d0e-5010-95c8-a94b0d5968ab",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3120-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF JOURNALISM ",
+        "instructor": "Ryu Yongmin",
+        "times_str": "Mon7,8,Thu3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BilHall210"
+    },
+    {
+        "id": "09a6f8d9-6f30-59ab-acac-4c22cedd4533",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3131-01-00",
+        "credits": 3.0,
+        "title": "PRACTICES IN JOURNALISM ",
+        "instructor": "KIM SONGHEE",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "4044d06a-01d4-5786-b557-b15c2a32cb36",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3137-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO FILMART ",
+        "instructor": "Lim Chul-Hee",
+        "times_str": "Mon1,2/Wed1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/YHH308"
+    },
+    {
+        "id": "6c9970d3-260e-5af7-a63a-32875d0c4b5b",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3144-01-00",
+        "credits": 3.0,
+        "title": "THEORIES OF ADVANCED PUBLIC RELATION ",
+        "instructor": "Kim Jarim",
+        "times_str": "Mon8,9,Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3ac1d1d0-c5cd-579b-a47c-23b4dcb1f15a",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3145-01-00",
+        "credits": 3.0,
+        "title": "CASE ANALYSIS IN PR ",
+        "instructor": "Kang Doo Syen",
+        "times_str": "Mon3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH308"
+    },
+    {
+        "id": "2f85a273-3bf5-5504-8c24-19b58b6ad392",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3146-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL MARKETING ",
+        "instructor": "Cho Chang-Hoan",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BilHall210"
+    },
+    {
+        "id": "7bb64060-39d0-5d43-a2c9-e59160d3ee8e",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3156-01-00",
+        "credits": 3.0,
+        "title": "INTERFACE DESIGN ",
+        "instructor": "KWON HEE JUNG",
+        "times_str": "Wed3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH308"
+    },
+    {
+        "id": "04e7bfd2-86f5-5ea0-9505-8ba19dd77eab",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "COM3161-01-00",
+        "credits": 3.0,
+        "title": "THE MUSIC INDUSTRY IN THE VISUAL AGE ",
+        "instructor": "LEE JIHOON",
+        "times_str": "Wed3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "74f892a9-4c7e-53b8-ac24-edacbb2c382e",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "COM3154-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO HEALTH COMMUNICATION ",
+        "instructor": "So Jiyeon",
+        "times_str": "Mon6,7,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "758be513-cd6a-5474-982a-b026c039ebaf",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "COM4109-01-00",
+        "credits": 3.0,
+        "title": "CYBER COMMUNICATION ",
+        "instructor": "Yoon, Youngchul",
+        "times_str": "Tue7,Thu7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH308"
+    },
+    {
+        "id": "b78211ed-5256-5945-b939-c8f8f5b01b62",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "COM4217-01-00",
+        "credits": 3.0,
+        "title": "ARTIFICIAL INTELLIGENCE AND COMMUNICATION ",
+        "instructor": "KIM Yoonkyoung",
+        "times_str": "Thu3,4,5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "YHH308"
+    },
+    {
+        "id": "24ca20e2-0f96-502c-9778-7981381338bd",
+        "department": "College of Social Science",
+        "major": "Mass Communication",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "COM4200-01-00",
+        "credits": 3.0,
+        "title": "DEVELOPING COMMUNICATION COMPETENCE ",
+        "instructor": "Kim, Joohan",
+        "times_str": "Mon9,Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

@@ -1,0 +1,5881 @@
+﻿[
+    {
+        "id": "e0953a76-1fdc-5305-85c6-08be8b0b9462",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP3829-01-00",
+        "credits": 3.0,
+        "title": "EVALUATION METHOD OF FOREIGN LANGUAGE ",
+        "instructor": "Lee Wonkyung",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b550602f-c4e7-524c-98f8-45402c25d303",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "0",
+        "classification": "Electives",
+        "code": "HUM2037-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF PERFORMING ARTS IN THE EAST AND WEST ",
+        "instructor": "Ha Kyung Sim/Yoo, Hyun-Joo/Choe Keysook",
+        "times_str": "Thu8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "52c6ec98-9551-54a6-9607-67e62daa63d0",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "0",
+        "classification": "Electives",
+        "code": "HUM2038-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL LANGUAGE DATA AND HUMANITIES ",
+        "instructor": "Kim Hansaem",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH215/Realtime online lecture"
+    },
+    {
+        "id": "009ec3f6-1b8d-56b8-9fdb-88b4e41eb637",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "HUM2046-01-00",
+        "credits": 3.0,
+        "title": "CODING FOR HUMANITIES(INTERMEDIATE) ",
+        "instructor": "Heo Goeun",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH416"
+    },
+    {
+        "id": "5a378101-3f5d-5f1b-a045-f0910d04983f",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "HUM2047-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL MEDIA AND GENDER(REFLECTION AND DESIGN) ",
+        "instructor": "Choe Keysook",
+        "times_str": "Tue5,6/Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture/WDH215"
+    },
+    {
+        "id": "df9e4ed3-9529-5f79-b9ad-24897dc210d3",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "HUM2048-01-00",
+        "credits": 3.0,
+        "title": "TREASURES OF KOREA: HERITAGE AND SUSTAINABILITY ",
+        "instructor": "Yoo Jungmin",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "OSH01/Realtime online lecture"
+    },
+    {
+        "id": "508ce920-7329-527a-ab30-49e49e9a8c81",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "HUM2049-01-00",
+        "credits": 3.0,
+        "title": "KOREAN HISTORY SEEN THROUGH HISTORIC FIGURES ",
+        "instructor": "JO GYUNG CHEOL",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "WDH216/Realtime online lecture"
+    },
+    {
+        "id": "780679cc-fdca-5215-a9be-7188484c6519",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "3,4",
+        "classification": "Electives",
+        "code": "HUM3001-01-00",
+        "credits": 3.0,
+        "title": "HUMANITIES AND LAW ",
+        "instructor": "Kim Jong Cheol/Park Ji Yoon",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "dc4672c7-514a-522c-bcc4-0b96713adaa2",
+        "department": "College of Liberal Arts",
+        "major": "Liberal Arts College Common",
+        "year": "3,4",
+        "classification": "Electives",
+        "code": "HUM3007-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ANALYZING DIGITAL DISCOURSE ",
+        "instructor": "SON HYUNJUNG",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu604"
+    },
+    {
+        "id": "6568bc97-37bf-5396-a2af-d6df6d7e0ad9",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "KOR1001-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF KOREAN LANGUAGE AND LITERATURE ",
+        "instructor": "Park Mooyoung/Won Mi Jin/Lee Kyoung Hoon",
+        "times_str": "Fri2,3,4/Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "94051448-0092-5b5c-9e0c-fb9bace2abb6",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "KOR1101-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO KOREAN LINGUISTICS ",
+        "instructor": "Kwon Kyungil",
+        "times_str": "Tue4,Thu5,6/Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH210/Pre-recorded lecture"
+    },
+    {
+        "id": "34d20dfb-886c-5b67-ba43-82562a360e08",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "KOR1102-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO LITERATURE ",
+        "instructor": "CHO KANG SOK/LEE DANBEE",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "000c3881-513a-5ac5-b3b8-e17d17d95b82",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "KOR1106-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF CLASSICAL LITER. ",
+        "instructor": "Kim Young Hee/GOO TAEUN",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "18df4bff-953a-57e2-ad85-348ba092e83e",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "YANG SOON MO",
+        "times_str": "Wed9/Wed9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "WDH301/Realtime online lecture"
+    },
+    {
+        "id": "9c0d13e3-d82f-5d13-8d70-96c1886a368d",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "CHOI YOUNG SEOK",
+        "times_str": "Tue7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b2ca49b2-67a4-5df9-b559-ca95259dcfed",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "HAN SEUNGKYU",
+        "times_str": "Fri4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0890a8c8-4956-5b8a-b98e-aa7169efb378",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "HONG SUNGHEE",
+        "times_str": "Thu9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5e7b8ef5-dacf-5fcd-a75e-e61b11af8329",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-05-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "CHOI MYEONG SEOK",
+        "times_str": "Wed3/Wed3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "WDH203/Realtime online lecture"
+    },
+    {
+        "id": "6414395b-2cb2-5418-8b23-2f73331b1268",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-06-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KONG NA HYUNG",
+        "times_str": "Mon2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d6bbf2eb-de99-551c-9cb2-03da50b381f4",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2002-07-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "HWANG EUN JU",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "322ac1ff-fa69-5eca-a1cb-a2528dfe0827",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2301-01-00",
+        "credits": 3.0,
+        "title": "MODERN SOCIETY & LITERATURE ",
+        "instructor": "KIM HYUN JOO/LEE HANBIT",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH106"
+    },
+    {
+        "id": "764179ef-b5b9-53e8-aebe-8827c44da7ed",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2306-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF CLASSIC NOVELS ",
+        "instructor": "Joo Hyungye",
+        "times_str": "Tue3/Tue3,Thu3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "OSH02/Realtime online lecture"
+    },
+    {
+        "id": "7956030c-351f-574f-ac40-082004bb8eb4",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2308-01-00",
+        "credits": 3.0,
+        "title": "THE WRITING OF NOVELS ",
+        "instructor": "KIM SUN A",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f7e749ad-30da-5d3f-adc7-23bdc2e0cb01",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2309-01-00",
+        "credits": 3.0,
+        "title": "READING MODERN NOVELS ",
+        "instructor": "Lee Kyoung Hoon",
+        "times_str": "Tue8,9,Thu7/Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/OSH01"
+    },
+    {
+        "id": "8b2089b5-085e-5cab-bb2a-01b394ef37a3",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2312-01-00",
+        "credits": 3.0,
+        "title": "READING MODERN POETRY ",
+        "instructor": "KIM NA HYUN",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "dd99c870-f971-5922-bed3-baed74eadc9b",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "KOR2509-01-00",
+        "credits": 3.0,
+        "title": "CLASSICAL LITERATURE AND OTHER ART FIELDS ",
+        "instructor": "CHO KYUHEE",
+        "times_str": "Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "14ecbd69-6b62-5808-8761-67ce07283504",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3301-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF KOREAN MODERN LITERATURE ",
+        "instructor": "CHONG HANNA",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH216/Realtime online lecture"
+    },
+    {
+        "id": "f740f9ed-610c-5a24-9015-e66a86d77132",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3310-01-00",
+        "credits": 3.0,
+        "title": "STUDIES ON CINELITERATURE ",
+        "instructor": "Baek Moon Im/BAE SAEROM",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "d2f9e4de-a39c-5df5-8c6e-07a4608c46ee",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3315-01-00",
+        "credits": 3.0,
+        "title": "STUDY OF SIJO AND LYRICS ",
+        "instructor": "Park Ae-Kyung",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/OSH01"
+    },
+    {
+        "id": "14c1909b-ed86-5aed-bdd0-546686662bf7",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3402-01-00",
+        "credits": 3.0,
+        "title": "KOREAN MORPHOLOGY ",
+        "instructor": "SON HYEOK",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "OSH02/Realtime online lecture"
+    },
+    {
+        "id": "15a0511d-203c-5da1-81f5-0c73eac771bf",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3414-01-00",
+        "credits": 3.0,
+        "title": "SOCIOLINGUISTICS ",
+        "instructor": "Cho Tae-Rin/GIM JOO SUNG",
+        "times_str": "Mon3,4,Wed4/Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH205"
+    },
+    {
+        "id": "2e95dbe8-3b02-5bcf-ad35-077681969d65",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3501-01-00",
+        "credits": 3.0,
+        "title": "STUDIES OF AUTHORS OF KOREAN CLASSICAL CHINESE ",
+        "instructor": "OH BORA",
+        "times_str": "Mon5,6,Wed6/Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH210/Realtime online lecture"
+    },
+    {
+        "id": "339ca42d-8c5c-5369-9c1c-5b422feff83f",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3512-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF KOREAN PHONOLOGY ",
+        "instructor": "Han Young Gyun/KIM UN SOL",
+        "times_str": "Tue5/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH02/Realtime online lecture"
+    },
+    {
+        "id": "11e56497-0f64-5daf-af83-8079dcbd7849",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3513-01-00",
+        "credits": 3.0,
+        "title": "THE EXPLORATION OF KOREAN ORAL-NARRATIVES ",
+        "instructor": "Lee Mira/HWANG EUN JU",
+        "times_str": "Wed3,Fri3,4/Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH210/Realtime online lecture"
+    },
+    {
+        "id": "ac342ee1-825d-5dda-a538-7187bdb32a55",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3516-01-00",
+        "credits": 3.0,
+        "title": "KOREAN LOGIC AND ESSAY WRITING ",
+        "instructor": "PARK KYUNG WOO",
+        "times_str": "Tue8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "7de1a7f3-93a3-5e00-b498-c166e09dee11",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3521-01-00",
+        "credits": 3.0,
+        "title": "CLASSICAL LITERATURE AND GENDER ",
+        "instructor": "Park Mooyoung",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH216"
+    },
+    {
+        "id": "3c859706-f393-567e-92e6-eaa2e6ef4482",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3525-01-00",
+        "credits": 3.0,
+        "title": "THE READING OF MIDDLE KOREAN MATERIALS ",
+        "instructor": "SEO SANG KYU/KIM SUNHYE",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH01"
+    },
+    {
+        "id": "b673c103-4b5e-5797-9276-19205cc0f03e",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3526-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO LANGUAGE ACQUISITION ",
+        "instructor": "Won Mi Jin/NAM MI JUNG",
+        "times_str": "Mon7,8/Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "ca5f8ed6-d7b2-5bf7-a9d1-666ffae1d757",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR3529-01-00",
+        "credits": 3.0,
+        "title": "KOREAN LITERATURE AND HISTORY ",
+        "instructor": "Yoo Theodore Jun",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ce8466ef-2e80-53f2-8515-831879d32a25",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "KOR4601-01-00",
+        "credits": 3.0,
+        "title": "READING MODERN LITERARY CRITICISM ",
+        "instructor": "SO YOUNG HYUN",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "22b8cbeb-bc15-58e1-b600-66b0a278c362",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "3,4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3801-01-00",
+        "credits": 2.0,
+        "title": "RES & TEACHING METH TO KOREAN ",
+        "instructor": "Yu Hye-ryung",
+        "times_str": "Thu7,8/Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "OSH110/Realtime online lecture"
+    },
+    {
+        "id": "810d58b7-0fa4-5cac-8061-881abc9aa4a4",
+        "department": "College of Liberal Arts",
+        "major": "Korean Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "KOR4410-01-00",
+        "credits": 3.0,
+        "title": "KOREAN VOCABULARY EDUCATION ",
+        "instructor": "HONG HYERAN",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "353acacd-65cf-5889-8e91-fb7ef96396b3",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "HIS2702-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO HISTORY ",
+        "instructor": "주의돈",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fd48881f-707b-5308-ba92-b8bbdc8d0315",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "HIS2401-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ASIAN HISTORY ",
+        "instructor": "Yim Sung Mo",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "079137ea-8ef3-5a0b-9407-4e84de93e090",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "HIS2701-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO WESTERN HISTORY ",
+        "instructor": "CHUN Soo-Yun",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH414"
+    },
+    {
+        "id": "e246d551-ba9a-54bc-b2b1-bb5bc5a98804",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "HIS2003-01-00",
+        "credits": 0.0,
+        "title": "CULTURAL HERITAGE SURVEY(2) ",
+        "instructor": "Cho Taesop",
+        "times_str": "Tue10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "WDH414"
+    },
+    {
+        "id": "83ce461b-8ece-58d5-8fc1-0775cf0808d2",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HIS2103-01-00",
+        "credits": 3.0,
+        "title": "SURVEY OF ARCHAEOLOGY ",
+        "instructor": "HA Moonsig",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "c30dd465-bb75-59a0-b0fe-16ffef06094d",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "HIS2703-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF ENGLAND ",
+        "instructor": "LEE YOUNG SUK",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "d1ed9035-8b98-58c2-b7ed-df3e5ada48a1",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3110-01-00",
+        "credits": 3.0,
+        "title": "THE SOCIO-ECONOMIC HISTORY OF MEDIEVAL KOREA ",
+        "instructor": "YOON SUK HO",
+        "times_str": "Fri5,6,7/Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH414"
+    },
+    {
+        "id": "1ef1368e-af28-54a9-9c44-85cad0393e04",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3111-01-00",
+        "credits": 3.0,
+        "title": "THE INTELLECTUALS OF MED. KOR. ",
+        "instructor": "DO, HYEON CHUL/LEE SANGMIN",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "17e16f09-b241-586f-882c-3c45987a651d",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3117-01-00",
+        "credits": 3.0,
+        "title": "MODERN KOREA AND IMPERIALISM ",
+        "instructor": "Lee Kihoon/LEE JUNG YOON",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "WDH414/Realtime online lecture"
+    },
+    {
+        "id": "da5fa143-247a-58e3-84d3-a233178e8a1f",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3402-01-00",
+        "credits": 3.0,
+        "title": "POLITICS AND CULTURE IN MEDIEVAL CHINA ",
+        "instructor": "PANG HYANG SOOK",
+        "times_str": "Mon3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "d160f552-4668-5184-95c2-78b31eec4c73",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3403-01-00",
+        "credits": 3.0,
+        "title": "SOCIETY AND CULTURE IN EARLY-MODERN CHINA ",
+        "instructor": "Cha Hyewon/PARK CHAN GUEN",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Edu406/Realtime online lecture"
+    },
+    {
+        "id": "c8630934-8460-590f-be83-1b85cd91d159",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3416-01-00",
+        "credits": 3.0,
+        "title": "JAPAN IN 20TH CENTURY ",
+        "instructor": "BANG KWANG SUK",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "985ad899-12ac-5707-ac39-69500d03029e",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3426-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF CENTRAL ASIA ",
+        "instructor": "LEE Hun",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "e3a15086-7c81-518c-817c-9dbee4f0f705",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3701-01-00",
+        "credits": 3.0,
+        "title": "CLASSICAL ANTIQUITY ",
+        "instructor": "Hye-Min Lee",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu306/Realtime online lecture"
+    },
+    {
+        "id": "26936f1b-5a24-52c8-ad1d-9defc43598a8",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3733-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF ITALY ",
+        "instructor": "RA YOUNG SOON",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BYH S111"
+    },
+    {
+        "id": "ff00d385-00fd-5ae7-bb8d-29e992dd1d0b",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3986-01-00",
+        "credits": 3.0,
+        "title": "EURASIAN ARCHEOLOGY ",
+        "instructor": "Cho Taesop",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu306"
+    },
+    {
+        "id": "8ef58d78-6663-513b-bab4-5ae6a676338c",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS3991-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF ANCIENT KOREA AND EAST ASIA ",
+        "instructor": "SHIN KA YOUNG",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu306"
+    },
+    {
+        "id": "0199b3c1-f941-59bb-a0bb-e9da91af9097",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS4402-01-00",
+        "credits": 3.0,
+        "title": "CHINA & ASIA ",
+        "instructor": "CHANG SOO JI",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu406"
+    },
+    {
+        "id": "ae53719d-3887-52cf-a06b-91a333f94606",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS4804-01-00",
+        "credits": 3.0,
+        "title": "ADVENT AND DEFIANCE OF THE THIRD WORLD ",
+        "instructor": "Lee Jaewon",
+        "times_str": "Wed3/Fri3/Fri4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu406/Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "2546b388-840a-5ab7-aa55-3e9940015de2",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS4807-01-00",
+        "credits": 3.0,
+        "title": "HISTORICAL REASONING AND DISCUSSION ",
+        "instructor": "PARK SOYEON",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b0015fc0-13d5-5c98-86a0-75c4d61e0a08",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS4810-01-00",
+        "credits": 3.0,
+        "title": "INTELLECTUAL HISTORY OF DIVIDED KOREA ",
+        "instructor": "Lee Hana",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH211"
+    },
+    {
+        "id": "f1442786-aad7-5d24-9557-dd1ebe9e90a5",
+        "department": "College of Liberal Arts",
+        "major": "History",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "HIS4811-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF CONSUMPTION ",
+        "instructor": "Sul Heasim",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH414"
+    },
+    {
+        "id": "bd86dea6-1b7b-5bdb-89fa-e056ac3ad972",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "0",
+        "classification": "Major Basic",
+        "code": "PHI1001-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF WESTERN PHILOSOPHY ",
+        "instructor": "Sunwoo Hwan",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7c7d8303-3c84-5185-b5ef-3c2061afce37",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PHI1002-01-00",
+        "credits": 3.0,
+        "title": "EAST-ASIAN VALUE AND PHILOSOPHY ",
+        "instructor": "CHOI KYUNG SOON",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "4b4dc3d8-bf58-59b0-81d4-09815ad8dad4",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PHI2151-01-00",
+        "credits": 3.0,
+        "title": "ANCIENT CHINESE PHILOSOPHY ",
+        "instructor": "Kim Myeong-seok",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "OSH01"
+    },
+    {
+        "id": "5275e5d0-6d3c-5e2b-aaf0-4656e0606269",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PHI2259-01-00",
+        "credits": 3.0,
+        "title": "LOGIC ",
+        "instructor": "WOO HWAN SHIK",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "OSH01/Pre-recorded lecture"
+    },
+    {
+        "id": "23217c8f-a81f-5e87-85d5-2a676408faaa",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PHI2261-01-00",
+        "credits": 3.0,
+        "title": "MODERN CHINESE PHILOSOPHY ",
+        "instructor": "SHIN GYOO TAG",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "OSH01/Pre-recorded lecture"
+    },
+    {
+        "id": "552d578b-5b29-5cfd-96a5-f3583098e236",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PHI2260-01-00",
+        "credits": 3.0,
+        "title": "METHODOLOGY OF PHILOSOPHICAL EDUCAT ",
+        "instructor": "Jeon Hyunhee",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a243fd8c-f61d-5e36-85a3-7c0db48bc091",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PHI3274-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF BUDDHIST PHILOSOPHY ",
+        "instructor": "PARK INN SUK",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b1933d21-6f9d-55ad-b87e-448d3b8f7227",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PHI3281-01-00",
+        "credits": 3.0,
+        "title": "FEMINIST PHILOSOPHY ",
+        "instructor": "Lee Jeong-Eun",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "8bf2b157-0306-511c-91c0-3ae2101924c6",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "PHI4266-01-00",
+        "credits": 3.0,
+        "title": "METAPHYSICS ",
+        "instructor": "Kim Dong Gyu",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d7677973-902f-575e-b1c5-ba42cd530ba2",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI3208-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF HEGEL ",
+        "instructor": "NAHM KIHO",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "OSH01/Realtime online lecture"
+    },
+    {
+        "id": "b4e1aada-f5eb-5fce-adca-d86bb12d7bd8",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI3264-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF MIND ",
+        "instructor": "Rhee Sun Hyung",
+        "times_str": "Wed5,Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH415"
+    },
+    {
+        "id": "8161734a-7a20-52f5-aa45-a6260c395da3",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI3270-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF ART IN EAST ASIA ",
+        "instructor": "KANG YOEWOOL",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH415/Pre-recorded lecture"
+    },
+    {
+        "id": "465373ea-150e-5e9f-988e-48fcd3c74999",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI3271-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF CULTURE ",
+        "instructor": "Hong Sahyeon",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "OSH01/Pre-recorded lecture"
+    },
+    {
+        "id": "98bf5ff9-a8df-51bd-a251-99ba4fb43fdc",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI4209-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF TEXT ",
+        "instructor": "HONG JINKEE",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH02"
+    },
+    {
+        "id": "1009fb95-7d8a-54cb-bbd2-1951958c8514",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI4256-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR ON GREEK PHILOSOPHY ",
+        "instructor": "Hong Sahyeon",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/OSH01"
+    },
+    {
+        "id": "fcb997eb-8e4f-5fc1-b3fb-361cf647bb26",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI4262-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY OF THOMAS AQUINAS ",
+        "instructor": "Lee Jaekyung/KIM SUNYOUNG",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3f63f414-20f0-54b4-bb4f-f52d7c1a12dc",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI4265-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL PHILOSOPHY ",
+        "instructor": "Chung Hyeon-Chul",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7306f8e6-e41d-5a80-83e8-cca65b39386f",
+        "department": "College of Liberal Arts",
+        "major": "Philosophy",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PHI4267-01-00",
+        "credits": 3.0,
+        "title": "APPLIED ETHICS ",
+        "instructor": "Kang Cheul",
+        "times_str": "Mon9,10,Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "40969b6a-2c8c-5a4e-ab11-76080e854e5a",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "LIS1102-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION TECHNOLOGY ",
+        "instructor": "Heo Goeun",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH416"
+    },
+    {
+        "id": "273d8121-4765-573e-9400-45831912b378",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "LIS2001-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "CHAE HYUN SOO",
+        "times_str": "Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH416"
+    },
+    {
+        "id": "a4d5b083-7fd8-5b58-a2b9-a90b96f078d3",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "LIS2601-01-00",
+        "credits": 3.0,
+        "title": "COLLECTION DEVELOPMENT ",
+        "instructor": "PARK SANG AE",
+        "times_str": "Mon10,11,12",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "125518ae-fc7c-5c54-a10a-166b00c50453",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "LIS2805-01-00",
+        "credits": 3.0,
+        "title": "USER EDUCATION ",
+        "instructor": "Chun Jung Hyun",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH416"
+    },
+    {
+        "id": "4bf2884e-d1a4-5dc4-b7a5-bf084e70c52c",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "LIS2806-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION SYSTEMS ANALYSIS ",
+        "instructor": "Heo Goeun",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "84251aba-1fa2-5312-b6a4-dd349fe88fa7",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "LIS3304-01-00",
+        "credits": 3.0,
+        "title": "PRACTICE IN MANAGEMENT OF LIBRARY AND INFORMATION CENTER ",
+        "instructor": "KIM GIYEONG",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH416"
+    },
+    {
+        "id": "21049320-8163-5de9-b676-4cec350da522",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "LIS3605-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION ORGANIZATION:CATALOGING ",
+        "instructor": "조성원",
+        "times_str": "Tue10,11/Tue12",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "WDH416/Realtime online lecture"
+    },
+    {
+        "id": "196fa10e-11b1-5520-80fb-567ddc299b3a",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "LIS3612-01-00",
+        "credits": 3.0,
+        "title": "EVALUATION OF LIBRARY AND INFORMATION SERVICES ",
+        "instructor": "Kam Miah",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "4f04f41b-4fe1-59ff-9958-829c09fd2e27",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "LIS3806-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL INFORMATICS ",
+        "instructor": "Park Ji-Hong",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ee5faae0-1d49-5a75-8876-631c53ddaf3f",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "LIS3814-01-00",
+        "credits": 3.0,
+        "title": "USERS OF LIBRARY & INFORMATION ",
+        "instructor": "LEE Seonhee",
+        "times_str": "Thu10,11,12",
+        "times": {
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8ca29e70-2e3e-5dc0-8833-b04275c30501",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "LIS4302-01-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT OF PUBLIC LIBRARIES ",
+        "instructor": "Kam Miah",
+        "times_str": "Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "d2c8ed22-ee5f-545b-9c3a-4fcc51c4f86e",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "LIS4701-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION RETRIEVAL ",
+        "instructor": "Moon Sung Been",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "WDH416"
+    },
+    {
+        "id": "c6d75967-6be8-5352-ad1e-ed9aa3bd9250",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "LIS4704-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN SOCIAL NETWORK SERVICE ",
+        "instructor": "Chun Jung Hyun",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH416"
+    },
+    {
+        "id": "9a347190-e59f-5264-94c2-2312fbf8c1df",
+        "department": "College of Liberal Arts",
+        "major": "Library and Information Science",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "LIS4801-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL LIBRARY SYSTEMS ",
+        "instructor": "Lee Jeeyeon",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "09a24a62-b4ce-590e-9fa7-b435336d7056",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "PSY4125-01-00",
+        "credits": 3.0,
+        "title": "PERCEPTION & PSYCHOPHYSICS PRACTICUM ",
+        "instructor": "PARK, SOO JIN/HONG INJAE",
+        "times_str": "Mon3,4/Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDHB05"
+    },
+    {
+        "id": "c20e4d51-5d0f-59df-9c7f-dd9685c7f288",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PSY2103-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO PSYCHOLOGY ",
+        "instructor": "Kim, Min-Shik/Lee, Ki-Hak/Sohn, Young Woo/Suh, Eun Kook/Chung Kyongmee/SONG Hyun Joo/LEE DONGGWI/YI DO JOON/Han Sanghoon/Young-Hoon Kim/Soo Hyun Park/PARK, SOO JIN/Chong Sang Chul/Hur Ju Yoen",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fb086049-01f8-5cc0-b5e8-ffc9fdfd5ee7",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PSY2104-01-00",
+        "credits": 3.0,
+        "title": "EXPER. METHODOLOGY IN PSYCHOLOGY ",
+        "instructor": "Kim, Min-Shik",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDHB05"
+    },
+    {
+        "id": "c0521146-adea-5ace-ab41-f5e0a0668c92",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "PSY2104-02-00",
+        "credits": 3.0,
+        "title": "EXPER. METHODOLOGY IN PSYCHOLOGY ",
+        "instructor": "PARK, SOO JIN",
+        "times_str": "Mon6/Wed5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH202"
+    },
+    {
+        "id": "41385f63-3308-5dad-a09f-1e72eb63fd3a",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PSY2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Kim, Min-Shik",
+        "times_str": "Wed8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YEGH405"
+    },
+    {
+        "id": "7922f1fa-9409-596b-a0b4-769552067a98",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PSY3113-01-00",
+        "credits": 3.0,
+        "title": "CULTURAL PSYCOLOGY ",
+        "instructor": "Young-Hoon Kim",
+        "times_str": "Tue2,3/Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "WDHB05/Realtime online lecture"
+    },
+    {
+        "id": "94eba791-e70b-589e-beab-54ea06f56985",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PSY3122-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGICAL STATISTICS ",
+        "instructor": "HAN, KWANG HEE",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Edu604/Realtime online lecture"
+    },
+    {
+        "id": "294fad8f-13a8-5da3-a4a0-794cbf095597",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PSY3122-02-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGICAL STATISTICS ",
+        "instructor": "KIM MIN SUN",
+        "times_str": "Wed3,4/Thu4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu604"
+    },
+    {
+        "id": "3aa00523-0f43-54df-9ee7-f1aa2fb68065",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "PSY3122-03-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGICAL STATISTICS ",
+        "instructor": "JUNG YESEUL",
+        "times_str": "Wed6,7/Thu7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu604"
+    },
+    {
+        "id": "beeee036-77fc-52f8-845c-9cc9cddf3dfe",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY3103-01-00",
+        "credits": 3.0,
+        "title": "MOTIVATION AND EMOTION ",
+        "instructor": "PARK JIYOUNG",
+        "times_str": "Tue6,7/Thu8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDHB05/Realtime online lecture"
+    },
+    {
+        "id": "e36d0c9b-0a32-524d-826c-445e958f39cf",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY3126-01-00",
+        "credits": 3.0,
+        "title": "ABNORMAL PSYCHOLOGY ",
+        "instructor": "Soo Hyun Park",
+        "times_str": "Mon3,4/Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDHB09"
+    },
+    {
+        "id": "472ff16c-81d3-5b42-afd4-f167c53e0d73",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY3133-01-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL PSYCOLOGY ",
+        "instructor": "LEE KYUNGSOO",
+        "times_str": "Wed8,9/Fri8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDHB05"
+    },
+    {
+        "id": "42ee9c73-9aec-5169-9fb9-9ae361d890d2",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY3163-01-00",
+        "credits": 3.0,
+        "title": "PERFECRIONISM AND MENTAL HEALTH ",
+        "instructor": "LEE DONGGWI",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH110"
+    },
+    {
+        "id": "cb15a78c-1502-56cb-b3d4-61033b0933c1",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY3168-01-00",
+        "credits": 3.0,
+        "title": "COGNITION AND EMOTION REGULATION ",
+        "instructor": "Hur Ju Yoen",
+        "times_str": "Tue3,4/Wed5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDHB09"
+    },
+    {
+        "id": "e18b00ab-5692-5721-909c-28febb0282a2",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY4121-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF PERSONALITY ",
+        "instructor": "Suh, Eun Kook",
+        "times_str": "Thu8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "28d54d83-449f-5350-b4fb-c31c0cf8c64f",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PSY4127-01-00",
+        "credits": 3.0,
+        "title": "COGNITIVE DEVELOPMENT ",
+        "instructor": "SONG Hyun Joo",
+        "times_str": "Mon3,4/Wed3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH110"
+    },
+    {
+        "id": "4e40bef1-1f68-56de-868b-d1fc9ece39de",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "PSY4141-01-00",
+        "credits": 3.0,
+        "title": "PSYCOLOGY OF TALENT AND SKILL ",
+        "instructor": "Sohn, Young Woo/KANG YUN JIN",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH409/Realtime online lecture"
+    },
+    {
+        "id": "0a14e01b-ac57-51ec-ab86-81fcd0996577",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PSY4132-01-00",
+        "credits": 1.0,
+        "title": "INDEPENDENT RESEARCH(1) ",
+        "instructor": "Han Sanghoon",
+        "times_str": "Mon10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ad6c8000-318b-5a0f-a399-29a7d686ced0",
+        "department": "College of Liberal Arts",
+        "major": "Psychology",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PSY4130-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL AND AFFECTIVE NEUROSCIENCE ",
+        "instructor": "YI DO JOON",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH202"
+    },
+    {
+        "id": "c4bf11e2-dd39-54e5-bcd5-5e365ede5777",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "CLL2101-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO CHINESE LINGUISTICS ",
+        "instructor": "JIN HWAJIN",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu306"
+    },
+    {
+        "id": "3ab5ef4c-c658-5d3d-bef6-4ee7fc879fc6",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "CLL2101-02-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO CHINESE LINGUISTICS ",
+        "instructor": "Hyun-cheol Kim/JIN HWAJIN/SONG HWAYOUNG",
+        "times_str": "Tue8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b3948af4-e284-5228-8ae4-08a7151fade7",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "YI SEOK GU",
+        "times_str": "Fri2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "WDH209"
+    },
+    {
+        "id": "d6fa93c9-dcdb-5ac1-bace-ec3e03927fe9",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL2306-01-00",
+        "credits": 3.0,
+        "title": "Fundamental Mandarin Chinese(2) ",
+        "instructor": "SHIN HYEIN",
+        "times_str": "Tue1,2,Thu1(Thu2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "6c30ee45-b3f3-5770-b586-07c5bba7c037",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL2401-01-00",
+        "credits": 3.0,
+        "title": "SELECETED READINGS ON PRASE CHINESE ",
+        "instructor": "LEE JUHAE",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH209"
+    },
+    {
+        "id": "48a33161-4fb9-5398-9b6b-f37b6f19d12a",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL2603-01-00",
+        "credits": 3.0,
+        "title": "CHINESE MYTHOLOGY ",
+        "instructor": "Hong Yoonhee/SONG DONG YOUNG",
+        "times_str": "Tue6/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH209"
+    },
+    {
+        "id": "bd716d76-b427-5bdc-8085-f94a5bccb31b",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL3302-01-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE CHINESE SPEECH ",
+        "instructor": "Jin Chunji",
+        "times_str": "Mon1,2,Wed1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "166b1023-8ce4-55e5-848f-27982e59eccb",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CLL3302-02-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE CHINESE SPEECH ",
+        "instructor": "MING YANG YANG",
+        "times_str": "Wed1/Wed1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lectureWDH211/"
+    },
+    {
+        "id": "1ccf871c-af44-50e3-a624-6928b602eb80",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3406-01-00",
+        "credits": 3.0,
+        "title": "READINGS IN PROSE ",
+        "instructor": "Yeon So-yung",
+        "times_str": "Mon9,10,Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "WDH209"
+    },
+    {
+        "id": "6ce9373d-aba1-5050-8581-df8dc3ef553e",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3409-01-00",
+        "credits": 3.0,
+        "title": "HIS OF MODERN CHINESE LITER ",
+        "instructor": "KIM, Janghwan/LEE SEONG HYUN",
+        "times_str": "Mon6,Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Edu306"
+    },
+    {
+        "id": "4078db6a-b3ed-5eb4-9531-a254e0f4b880",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3410-01-00",
+        "credits": 3.0,
+        "title": "TANG-POETRY ",
+        "instructor": "CHAE MEE-HYUN",
+        "times_str": "Tue8,9/Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "/WDH209Pre-recorded lecture"
+    },
+    {
+        "id": "c9e63b66-e210-5bdf-b5cc-43362913ef13",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3502-01-00",
+        "credits": 3.0,
+        "title": "CHINESE WRITING ",
+        "instructor": "LEE KYOO KAP",
+        "times_str": "Tue2,3/Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH209"
+    },
+    {
+        "id": "a34e102b-22a3-5e52-9384-7170289ef1e1",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3605-01-00",
+        "credits": 3.0,
+        "title": "THEORIES OF CHINESE EDUCATION ",
+        "instructor": "LEE HYUN-SUN",
+        "times_str": "Wed4,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH211"
+    },
+    {
+        "id": "72f52e88-1bb9-5e28-987a-bbe4255fe73b",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CLL3607-01-00",
+        "credits": 3.0,
+        "title": "STUDY ON MODERN CHINESE AND CHINESE GRAMMAR(2) ",
+        "instructor": "SUNG KI EUN",
+        "times_str": "Mon4,5/Mon4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/OSH01"
+    },
+    {
+        "id": "da9d3de8-d120-50a4-a2a9-735c5ecbee1e",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "CLL3603-01-00",
+        "credits": 3.0,
+        "title": "CHINESE THOUGHT(II) ",
+        "instructor": "Soh Yoojin",
+        "times_str": "Wed4/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH209"
+    },
+    {
+        "id": "aeb6a87c-4d9a-5821-be48-4424c9816fbf",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "CLL3611-01-00",
+        "credits": 3.0,
+        "title": "READING CHINESE CULTURE ",
+        "instructor": "CHUNG Jin-bae",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDH209"
+    },
+    {
+        "id": "26e2b62e-01cc-540f-bb8b-df0b6a99129c",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CLL4301-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR IN ADVANCED CHINESE ",
+        "instructor": "NA SANGJIN",
+        "times_str": "Tue1,2,Thu1(Thu2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "b2fda04e-3e43-53b1-a5ba-a7d288dffbbc",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CLL4304-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED CHINESE WRITING ",
+        "instructor": "Jin Chunji/CUI HUA",
+        "times_str": "Mon3,Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "db17bd4e-d7ce-5a75-ab2d-242dd562689b",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CLL4304-02-00",
+        "credits": 3.0,
+        "title": "ADVANCED CHINESE WRITING ",
+        "instructor": "권문란",
+        "times_str": "Mon3,Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "80415ad5-fe53-51cb-9bca-8387fef725da",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CLL4604-01-00",
+        "credits": 3.0,
+        "title": "SELECTED READINGS IN CHINESE DRAMA ",
+        "instructor": "Ha Kyung Sim/HYUN YOUNG HEE",
+        "times_str": "Tue4,5/Tue4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "/WDH209Pre-recorded lecture"
+    },
+    {
+        "id": "8105aba0-828c-5892-b13a-2973eb6928a4",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CLL4608-01-00",
+        "credits": 3.0,
+        "title": "CHINESE HISTORICAL PHONOLOGY ",
+        "instructor": "Kim Tae Eun",
+        "times_str": "Tue7/Thu7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDH209/Realtime online lecture"
+    },
+    {
+        "id": "4a9c9ef1-d2a6-5c83-aea2-791aead129c4",
+        "department": "College of Liberal Arts",
+        "major": "Chinese Language and Literature",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3802-01-00",
+        "credits": 2.0,
+        "title": "RES & TCHNG METH TO CHICLASSICS ",
+        "instructor": "PARK JEE YOUNG",
+        "times_str": "Thu1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "WDH209"
+    },
+    {
+        "id": "53d07c4f-434c-5d3b-b69e-b1a225f1bbea",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "ELL2101-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ENGLISH LINGUISTICS ",
+        "instructor": "Kim Hyunwoo/Seung-Hee Lee/Lee, Won-Pyo/Jung Euen Hyuk",
+        "times_str": "Fri5,6,7/Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "246e523c-2eba-5f6b-a35c-09c2895c2564",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "ELL2101-02-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ENGLISH LINGUISTICS ",
+        "instructor": "Rhee Seok-Chae",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "e58469ee-c511-57e7-9e96-9e792224583e",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "ELL2501-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO ENGLISH LITERATURE ",
+        "instructor": "CHOI HYONBIN",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "3b5b5a2f-5489-5f8a-aec9-86cb355a5448",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2001-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(1) ",
+        "instructor": "Lee Tae-hee",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2538a006-884e-5394-846d-e2a591d5a55d",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2001-02-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(1) ",
+        "instructor": "Kilpatrick-Lee Linda",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "690027cd-3225-5c7c-9427-bacbf78f491d",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2001-03-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(1) ",
+        "instructor": "Kilpatrick-Lee Linda",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3d0dadfd-9ed1-53d2-abb1-c4771f408993",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2002-01-00",
+        "credits": 3.0,
+        "title": "SPEECH AND DEBATE ",
+        "instructor": "Lee Tae-hee",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3a1e2004-3252-537d-af2e-59c89942e642",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2002-02-00",
+        "credits": 3.0,
+        "title": "SPEECH AND DEBATE ",
+        "instructor": "PANG PEARL KIM",
+        "times_str": "Wed6(Mon5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(WDH202)"
+    },
+    {
+        "id": "96e15851-675b-5e43-9e8d-19fb17afba20",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2002-03-00",
+        "credits": 3.0,
+        "title": "SPEECH AND DEBATE ",
+        "instructor": "Kilpatrick-Lee Linda",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "891c8e9e-0640-559f-9aff-955bd9b1e57d",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2003-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(2) ",
+        "instructor": "Lee Tae-hee",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "47f8b4c7-89b7-591c-9ddd-de1c4bc7af46",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2003-02-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(2) ",
+        "instructor": "PANG PEARL KIM",
+        "times_str": "Thu7(Tue8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(WDH201)"
+    },
+    {
+        "id": "31fc9a7b-01a1-5cb4-9c29-f295e05b3194",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "ELL2003-03-00",
+        "credits": 3.0,
+        "title": "ENGLISH WRITING(2) ",
+        "instructor": "Kilpatrick-Lee Linda",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4c9ef159-2fc4-5c51-ac77-469fe33ee7dc",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2004-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Go Gwang-Yoon",
+        "times_str": "Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "OSH110"
+    },
+    {
+        "id": "9253f465-152e-5d4b-9784-0f41ba374ab9",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2005-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM JI EUN",
+        "times_str": "Tue5/Tue5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b353d979-cfc3-5393-bf7d-34e1b3464835",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2005-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "YOON NANG HEE",
+        "times_str": "Tue5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0a288bea-77cf-5a0c-a4bb-c6e5bcb7eb29",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2005-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM HYUN AH",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fb8e9ee3-9249-57ee-9759-0feb6fd6b0e7",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2005-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Choi Seong Woo",
+        "times_str": "Mon5(Mon5)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(OSH326-1)"
+    },
+    {
+        "id": "fbe93748-7e52-5ebe-8c38-6706fc53ecf3",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2504-01-00",
+        "credits": 3.0,
+        "title": "SURVEY OF ENGLISH LITERATURE(2) ",
+        "instructor": "KIM, JOON-HWAN",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "94bd7bc4-7e71-5a27-87f1-4782292178fc",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL2601-01-00",
+        "credits": 3.0,
+        "title": "THE ART OF THE SHORT STORY ",
+        "instructor": "Murphy Terry",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH106"
+    },
+    {
+        "id": "0b00557d-72a1-52f3-9ea1-228306dba5c3",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "ELL3701-01-00",
+        "credits": 3.0,
+        "title": "TWENTIETH-CENTURY ENGLISH NOVEL ",
+        "instructor": "Rhee Suk Koo",
+        "times_str": "Mon5,6(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(OSH106)"
+    },
+    {
+        "id": "9e8ee887-242c-5a17-b4ef-f6e065b9fd65",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3302-01-00",
+        "credits": 3.0,
+        "title": "DISCOURSE ANALYSIS IN ENGLISH ",
+        "instructor": "Lee, Won-Pyo",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "7b571ddd-225a-5c4c-ab4d-ce734ca012e1",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3308-01-00",
+        "credits": 3.0,
+        "title": "TWENTIETH-CENTURY BRITISH DRAMA ",
+        "instructor": "Im Yeeyon",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ccee4b0b-4280-51f2-a1b4-80f569d14ffd",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3601-01-00",
+        "credits": 3.0,
+        "title": "SEVENTEENTH-CENTURY ENGLISH POETRY ",
+        "instructor": "Suh Hong Won",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "72a4626d-ab36-5cc1-a41b-1d6a72d79d60",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3707-01-00",
+        "credits": 3.0,
+        "title": "TWENTIETH-CENTURY AMERICAN NOVEL ",
+        "instructor": "Moon Sahng Young",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "WDH210"
+    },
+    {
+        "id": "56d934fa-9499-5124-95cf-02da46507c7e",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3802-01-00",
+        "credits": 3.0,
+        "title": "TWENTIETH-CENTURY AMERICAN DRAMA ",
+        "instructor": "Woo Miseong/SONG JUNGGYUNG",
+        "times_str": "Wed4(Mon3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(OSH110)"
+    },
+    {
+        "id": "83419c9b-1dee-591d-8d80-132d7d9dd202",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL3902-01-00",
+        "credits": 3.0,
+        "title": "WESTERN CLASSICS ",
+        "instructor": "Suh Hong Won",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "b5cd2a0a-934f-57b4-ba73-96ff36241ac6",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "ELL4305-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH SYNTAX ",
+        "instructor": "Go Gwang-Yoon",
+        "times_str": "Tue8,9(Thu7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(OSH106)"
+    },
+    {
+        "id": "c7e849ac-ef90-501e-a4f2-eeec7b5d3998",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3407-01-00",
+        "credits": 3.0,
+        "title": "PLOT IN FICTION AND FILM ",
+        "instructor": "Murphy Terry",
+        "times_str": "Thu4(Tue5,6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(OSH106)"
+    },
+    {
+        "id": "e3a4c758-cc8a-5992-95b8-08cdaf0f139b",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3909-01-00",
+        "credits": 3.0,
+        "title": "SHAKESPEARE ",
+        "instructor": "Kim Jaecheol/JIE SUE HYUN",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "20ebdb31-e1c1-5968-a058-538958228a5d",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3912-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH SPEECH AND COMMUNICATION ",
+        "instructor": "PANG PEARL KIM",
+        "times_str": "Tue7(Thu8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(WDH201)"
+    },
+    {
+        "id": "af41ff93-4f99-537f-8112-e039c828914d",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3913-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED ENGLISH WRITING ",
+        "instructor": "PANG PEARL KIM",
+        "times_str": "Wed8(Mon7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(WDH203)"
+    },
+    {
+        "id": "6094dd6b-4f51-5982-8cd6-5216b3a33cd4",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3914-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH LANGUAGE ASSESSMENT ",
+        "instructor": "LEE Heekyung",
+        "times_str": "Wed5,Fri5/Fri6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "e01142ed-9512-5b4e-967b-a4d40c7df2b5",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3918-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH ETYMOLOGY ",
+        "instructor": "Go Gwang-Yoon",
+        "times_str": "Tue5,6(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(OSH106)"
+    },
+    {
+        "id": "fdca7aa2-fc35-5cd2-a9d8-70ea1d98f82b",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL3921-01-00",
+        "credits": 3.0,
+        "title": "ENGLISH BIBLE AND ENGLISH LITERATURE ",
+        "instructor": "Yun Seok Min",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "93993ec3-d01d-50b5-8aad-f826fb093442",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4302-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED ENGLISH GRAMMAR ",
+        "instructor": "Kim Hyunwoo",
+        "times_str": "Thu5,6(Tue4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(OSH106)"
+    },
+    {
+        "id": "6d4024bf-1c76-52f3-ae88-bb9f90e69900",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4909-01-00",
+        "credits": 3.0,
+        "title": "CONVERSATION ANALYSIS AND INSTITUTIONAL INTERACTION ",
+        "instructor": "Seung-Hee Lee",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "41351be9-31d8-54cf-8aae-b1af04104072",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4911-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT SKILLS AND STRATEGIES ",
+        "instructor": "Lee Tae-hee",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "672951ea-bee4-502f-a618-43aa098a861c",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4912-01-00",
+        "credits": 3.0,
+        "title": "LANGUAGE AND GENDER ",
+        "instructor": "Lee, Won-Pyo",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "09ca8660-17ec-53f2-860e-3e836b10b3f7",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4913-01-00",
+        "credits": 3.0,
+        "title": "ART, CULTURE, AND PSYCHOANALYSIS ",
+        "instructor": "Yang, Seok Won",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "46d0a67d-5b16-5e02-b6de-e1a214c4f91c",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4919-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE ENGLISH LITERATURES ",
+        "instructor": "Park Hyungji",
+        "times_str": "Wed4(Mon3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(WDHB05)"
+    },
+    {
+        "id": "dfaf473a-8baf-514f-8771-47a755b71d78",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "ELL4921-01-00",
+        "credits": 3.0,
+        "title": "MODERNITY AND THE IDEA OF THE SACRED ",
+        "instructor": "Paik Yoonsuk",
+        "times_str": "Thu1(Tue2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(OSH106)"
+    },
+    {
+        "id": "6b919980-c2fd-5f9b-a2c2-b50bb6bfda58",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ELL3401-01-00",
+        "credits": 3.0,
+        "title": "THEORIES OF ENGLISH LANGUAGE EDUCATION ",
+        "instructor": "Jung Euen Hyuk",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "9bfa22bd-f63a-5d2c-beef-0f27f3f7dd4a",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ELL3603-01-00",
+        "credits": 3.0,
+        "title": "BRITISH ROMANTICISM ",
+        "instructor": "SHIN Kyung-Sook",
+        "times_str": "Tue5,6(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(WDH210)"
+    },
+    {
+        "id": "7c694b88-f3c9-5704-8290-f2ebaea2fa96",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ELL4301-01-00",
+        "credits": 3.0,
+        "title": "SPECIAL TOPICS IN ENGLISH LINGUISTICS ",
+        "instructor": "Park Hong-Keun",
+        "times_str": "Wed2,3(Fri5)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Edu304)"
+    },
+    {
+        "id": "4cec5a10-2aaa-50ca-bcfe-e6cbcddf0bcf",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ELL4904-01-00",
+        "credits": 3.0,
+        "title": "MODERN CRITICAL THEORY ",
+        "instructor": "Yang, Seok Won",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a33fd3bc-32d4-5027-a9e9-3ab631bb8111",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "ELL4915-01-00",
+        "credits": 3.0,
+        "title": "WORLD DRAMA AND THE GENEOLOGY OF HUMANISM ",
+        "instructor": "JI YURI",
+        "times_str": "Wed2(Mon1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture(WDH209)"
+    },
+    {
+        "id": "48e404a7-8634-525d-859c-7533caeae03b",
+        "department": "College of Liberal Arts",
+        "major": "English Language and Literature",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3803-01-00",
+        "credits": 3.0,
+        "title": "METHODS OF TEACHING ENGLISH ",
+        "instructor": "Jung Euen Hyuk",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "1b65b475-54e8-5d18-a36b-c3f67e78f135",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "GER2118-01-00",
+        "credits": 3.0,
+        "title": "GERMAN CONVERSATION PRACTICE ",
+        "instructor": "Leidig Andreas",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6c98f84b-7da4-59f8-8ffe-a6336ba1e6fd",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "GER2115-01-00",
+        "credits": 3.0,
+        "title": "PRACTICE IN GERMAN(2) ",
+        "instructor": "Leidig Andreas",
+        "times_str": "Mon5,6/Wed4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "WDH204/Realtime online lecture"
+    },
+    {
+        "id": "e1be0b57-87d9-55a4-bf55-534586c6d821",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "GER3139-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING GERMAN LINGUISTICS ",
+        "instructor": "Kwangsin JEE",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu406"
+    },
+    {
+        "id": "9f30131e-8902-55af-a7d2-45765a206b7d",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "GER3140-01-00",
+        "credits": 3.0,
+        "title": "READING IN GERMAN TEXT(2) ",
+        "instructor": "Hong Kil-Pyo",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "OSH01"
+    },
+    {
+        "id": "9e689879-852f-551d-a0ca-a3cd509e9a64",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "GER2109-01-00",
+        "credits": 3.0,
+        "title": "GERMAN LITERATURE AND HISTORY ",
+        "instructor": "Yoo, Hyun-Joo",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH204"
+    },
+    {
+        "id": "cdf7b93f-9387-59f6-a868-f8b84e48639e",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "GER2112-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF GERMAN LITERATURE ",
+        "instructor": "Choi Moon-Gyoo",
+        "times_str": "Mon3,4,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH209"
+    },
+    {
+        "id": "091caab0-bd17-5820-bd3c-c52ad55a7854",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "GER3138-01-00",
+        "credits": 3.0,
+        "title": "PRACTICE IN GERMAN(4) ",
+        "instructor": "Leidig Andreas",
+        "times_str": "Mon1,2/Wed1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "WDH204/Realtime online lecture"
+    },
+    {
+        "id": "3b35bee2-b87d-51f0-bd3f-675e20929141",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3107-01-00",
+        "credits": 3.0,
+        "title": "STD. IN GERMAN SYNTACTIC STRUCTURE ",
+        "instructor": "Kwangsin JEE",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu306"
+    },
+    {
+        "id": "a05c81dc-587e-5832-9079-2b612487cb97",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3113-01-00",
+        "credits": 3.0,
+        "title": "GERMAN REUNIFICATION AND LITERATURE ",
+        "instructor": "Kim Yong - Min",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH204"
+    },
+    {
+        "id": "db89011a-6d5c-5cab-b2b1-ce1500e1f164",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3121-01-00",
+        "credits": 3.0,
+        "title": "TENDENCY OF CONTEMPORARY GER. LIT. ",
+        "instructor": "Lee Jin Young",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/WDH204"
+    },
+    {
+        "id": "00d487de-f756-55f8-bb4a-c88a47ce53ba",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3124-01-00",
+        "credits": 3.0,
+        "title": "JOHANN WOLFGANG VON GOETHE ",
+        "instructor": "Joo Ill Sun",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "WDH204/Realtime online lecture"
+    },
+    {
+        "id": "d070e498-b3d8-5dc7-83d4-61d16fdf2452",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3129-01-00",
+        "credits": 3.0,
+        "title": "LITERATURE AND CINEMA ",
+        "instructor": "Lim, Jeong Taeg",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "OSH526"
+    },
+    {
+        "id": "b1353158-3489-50fe-8d83-d661beaedd35",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER3144-01-00",
+        "credits": 3.0,
+        "title": "MODERN GERMAN COMING-OF-AGE STORIES ",
+        "instructor": "Hong Kil-Pyo",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDHB05"
+    },
+    {
+        "id": "80903e02-a3e4-5291-bcd5-9ddedcf696f0",
+        "department": "College of Liberal Arts",
+        "major": "German Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "GER4117-01-00",
+        "credits": 3.0,
+        "title": "TestDaF ",
+        "instructor": "Leidig Andreas",
+        "times_str": "Tue1,2/Thu1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "WDH204/Realtime online lecture"
+    },
+    {
+        "id": "9273e4bd-569a-517d-b0be-3e30e2aa4108",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "FRE2102-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO FRENCH LINGUISTICS ",
+        "instructor": "LEEM Jaiho",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a93a705a-f45a-5678-ba52-7f891107a3db",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "FRE2108-01-00",
+        "credits": 3.0,
+        "title": "FRENCH GRAMMAR AND COMPOSITION(2) ",
+        "instructor": "SON HYUNJUNG",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Edu306/Realtime online lecture"
+    },
+    {
+        "id": "569fb737-0749-5113-93da-bc135cec6723",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "FRE2109-01-00",
+        "credits": 3.0,
+        "title": "FRENCH CONVERSATION II ",
+        "instructor": "Lesage Berangere",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH203"
+    },
+    {
+        "id": "f82a1c18-1298-5751-9f1b-6c711bc41bca",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "FRE2109-02-00",
+        "credits": 3.0,
+        "title": "FRENCH CONVERSATION II ",
+        "instructor": "Lesage Berangere",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "WDH201"
+    },
+    {
+        "id": "630f6b08-d7fc-503a-ae38-5a4914e41c29",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "FRE2110-01-00",
+        "credits": 3.0,
+        "title": "FRENCH CONVERSATION IV ",
+        "instructor": "Lesage Berangere",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH203"
+    },
+    {
+        "id": "032dc784-7d76-5263-aebf-f6e0ec0908eb",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "FRE2111-01-00",
+        "credits": 3.0,
+        "title": "FRENCH LANGUAGE AND CIVLIZATION(2) ",
+        "instructor": "KANG Ok-Kyung",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f7187335-b074-5dfc-b26f-c4e1783f3fe4",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "FRE2112-01-00",
+        "credits": 3.0,
+        "title": "READINGS IN FRENCH NARRATIVE TEXTS(2) ",
+        "instructor": "Park Hae Jung",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "WDHB05/Realtime online lecture"
+    },
+    {
+        "id": "31186ca7-c162-514d-9a02-fe113c2807bf",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE3107-01-00",
+        "credits": 3.0,
+        "title": "PRACTICE IN FRENCH GRAMMAR ",
+        "instructor": "KANG Ok-Kyung",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e662f7f6-79c5-52fa-9862-4c0106f7e5f6",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE3110-01-00",
+        "credits": 3.0,
+        "title": "FRENCH SYMBOLIC POETRY ",
+        "instructor": "KIM Siwon",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "OSH01/Pre-recorded lecture"
+    },
+    {
+        "id": "23f95787-3d30-5bcc-acd2-8273c061920b",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE3114-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY FRENCH NOVEL ",
+        "instructor": "LEE KIEUN",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDH201"
+    },
+    {
+        "id": "0e62e4af-ce2d-5b6d-8f48-632265734e61",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE3115-01-00",
+        "credits": 3.0,
+        "title": "CRITICISM OF FRENCH LITERATURE ",
+        "instructor": "Yoon Jeongim",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "OSH01/Realtime online lecture"
+    },
+    {
+        "id": "6781637c-701f-5317-b2f1-98d872dbac34",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE3120-01-00",
+        "credits": 3.0,
+        "title": "NINETEENTH CENTURY FRENCH NOVEL(2) ",
+        "instructor": "Park Haesook",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "267825f5-18dc-549a-b9a0-8859d18d375a",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE4103-01-00",
+        "credits": 3.0,
+        "title": "FRENCH THEATER ",
+        "instructor": "Song Min Sook",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "61e21be9-3cb3-54cf-8aa6-6edf1fbac86f",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE4109-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN FRENCH TEXT AND DISCOURSE ",
+        "instructor": "Hong, JongHwa",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDHB05/Pre-recorded lecture"
+    },
+    {
+        "id": "632c198e-27a6-56f9-a51d-7d7d523bb8d8",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "FRE4117-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN FRENCH SYNTAX ",
+        "instructor": "LEEM Jaiho",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1cad07ef-f404-595d-bee3-ece71e1a333c",
+        "department": "College of Liberal Arts",
+        "major": "French Language and Literature",
+        "year": "3,4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3805-01-00",
+        "credits": 2.0,
+        "title": "RES & TEACHING METH TO FRENCH ",
+        "instructor": "Kim Minchai",
+        "times_str": "Mon1/Mon2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/WDH201"
+    },
+    {
+        "id": "9ac3ac86-74f7-52fe-b7c0-4a727c318e36",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "RUS2106-01-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE RUSSIAN DRILL(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "Mon8,9,Wed8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH02"
+    },
+    {
+        "id": "3e236f13-b506-5952-896c-c525a36b38b3",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "RUS2106-02-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE RUSSIAN DRILL(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "Mon5,6,Wed5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "OSH02"
+    },
+    {
+        "id": "a01ea2ce-3b55-5e3c-b9c0-57b8e666416d",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "RUS2112-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING RUSSIAN LINGUISTICS ",
+        "instructor": "Nam Hye Hyun/RYU JIN KYUNG",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu406/Realtime online lecture"
+    },
+    {
+        "id": "27a72138-b38f-53d0-aebe-0065b1abcfae",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "RUS2104-01-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE RUSSIAN GRAMMAR(2) ",
+        "instructor": "Hwang SeoKyoung",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "WDH205/Realtime online lecture"
+    },
+    {
+        "id": "6231c02b-597b-5e8c-ad6f-a64da433344b",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "RUS2104-02-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE RUSSIAN GRAMMAR(2) ",
+        "instructor": "Hwang SeoKyoung",
+        "times_str": "Mon8,9/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDH205/Realtime online lecture"
+    },
+    {
+        "id": "c45e247e-da17-51f1-8af3-2cb4ab34db74",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "RUS2130-01-00",
+        "credits": 3.0,
+        "title": "MOSCOW & PETERBURG ",
+        "instructor": "Hwang Kiun",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu406"
+    },
+    {
+        "id": "83cd81cf-ec69-5a87-a7f3-5e31624f44d4",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "RUS2135-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY RUSSIAN POPULAR CULTURE ",
+        "instructor": "Chung Bora",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu406"
+    },
+    {
+        "id": "823a3334-db7f-522e-96b2-095c75d805cf",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "RUS2136-01-00",
+        "credits": 3.0,
+        "title": "STUDIES OF MODERN EURASIAN REGIONS ",
+        "instructor": "Cho Jungwon",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S111"
+    },
+    {
+        "id": "72472078-e267-511f-87ab-d958796cd861",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "RUS3106-01-00",
+        "credits": 3.0,
+        "title": "READING OF RUSSIAN TEXTS ",
+        "instructor": "Kwon Yongjae",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu306/Pre-recorded lecture"
+    },
+    {
+        "id": "eafce23c-f4fe-51c3-af74-bd89d65e970a",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS3104-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED RUSSIAN DRILL(2) ",
+        "instructor": "흐라브로바올가",
+        "times_str": "Wed10,Fri9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "OSH02"
+    },
+    {
+        "id": "9a1211fe-2beb-5105-9f46-deb9589b7a71",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS3110-01-00",
+        "credits": 3.0,
+        "title": "20TH CENTURY RUSSIAN LITERATURE ",
+        "instructor": "Choi, Gunn Young/KIM YUNHA",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BYH S111"
+    },
+    {
+        "id": "0a5800a7-2dd6-5b8c-bd30-b28bfa7af558",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS3113-01-00",
+        "credits": 3.0,
+        "title": "TOLSTOY ",
+        "instructor": "CHOI INSON",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu306/Pre-recorded lecture"
+    },
+    {
+        "id": "84880df2-3304-5c59-a12c-f86c42052095",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS3136-01-00",
+        "credits": 3.0,
+        "title": "RUSSIAN LANGUAGE AND SOCIETY ",
+        "instructor": "Park Subin",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu406"
+    },
+    {
+        "id": "74f98efc-27db-52a5-a795-967a14f3b149",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS4108-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR IN RUSSIAN LITERATURE ",
+        "instructor": "KIM, Jean Young/KIM HAE YOUNG",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/OSH01"
+    },
+    {
+        "id": "7f7cb5b9-75ab-53e5-a84e-00adaf9a5748",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS4115-01-00",
+        "credits": 3.0,
+        "title": "CAREER RUSSIAN ",
+        "instructor": "Park Subin",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu406"
+    },
+    {
+        "id": "66657ca8-a094-5603-955f-beec62fa964d",
+        "department": "College of Liberal Arts",
+        "major": "Russian Language and Literature",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "RUS4116-01-00",
+        "credits": 3.0,
+        "title": "STRUCTURE OF RUSSIAN ",
+        "instructor": "Hwang SeoKyoung",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S111"
+    }
+]

@@ -1,0 +1,641 @@
+﻿[
+    {
+        "id": "d088e780-ec2a-5fb0-9fed-41d08c2872e5",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1004-01-00",
+        "credits": 0.0,
+        "title": "채플(4) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "46bbb475-6de6-5155-afaa-23004c36447a",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1004-02-00",
+        "credits": 0.0,
+        "title": "채플(4) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1accf388-7e30-5b5d-b0b5-270b0bea728b",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1012-01-00",
+        "credits": 0.0,
+        "title": "예배채플(2) ",
+        "instructor": "정미현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f09af25e-3131-59f2-abc8-cbed912b72fe",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1008-01-00",
+        "credits": 0.5,
+        "title": "채플(D) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7cf1f9aa-a898-589e-b769-a97e1fff17dc",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1008-02-00",
+        "credits": 0.5,
+        "title": "채플(D) ",
+        "instructor": "이대성",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "259ba9b2-b5c5-5d6f-9f48-4c75bb250f54",
+        "department": "공통기초(10~18학번)",
+        "major": "채플",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1010-01-00",
+        "credits": 0.5,
+        "title": "예배채플(B) ",
+        "instructor": "정미현",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8c1785ea-c00e-52b3-8efb-653b31a3aedd",
+        "department": "공통기초(10~18학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1101-11-00",
+        "credits": 3.0,
+        "title": "기독교와세계문화 ",
+        "instructor": "조재국",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S208"
+    },
+    {
+        "id": "61359aaf-428f-541d-8d3b-973c923280dc",
+        "department": "공통기초(10~18학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1102-12-00",
+        "credits": 3.0,
+        "title": "기독교와현대사회 ",
+        "instructor": "한인철",
+        "times_str": "화7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "036ef38a-63e1-5ad4-bb3c-cdb80a9dc1dd",
+        "department": "공통기초(10~18학번)",
+        "major": "기독교의이해",
+        "year": null,
+        "classification": "공기",
+        "code": "YCA1103-07-00",
+        "credits": 3.0,
+        "title": "성서와기독교 ",
+        "instructor": "김주환",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "백S208/실시간온라인"
+    },
+    {
+        "id": "3f2f0950-91a3-5163-a0e5-7b4817fcc8de",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1001-01-00",
+        "credits": 2.0,
+        "title": "대학기본영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화5,목5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0a631a35-a19a-589d-887a-3acb1cd73c57",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1002-01-00",
+        "credits": 2.0,
+        "title": "대학기본영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "174dca44-fa63-5881-a448-ceb9aee4809a",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1101-01-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화6,목6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d37d3812-4e1b-5fd5-b483-f635cc243f90",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1101-02-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "베켓제레미",
+        "times_str": "월2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b33dc82c-6a56-57e5-b487-352f62eed209",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1101-03-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅰ ",
+        "instructor": "베켓제레미",
+        "times_str": "월7,수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "70578360-f053-58e7-93ea-d1d0544a6911",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1102-01-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "오진숙",
+        "times_str": "화2,목2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0331936b-aeeb-5e6d-9b5e-eb5d3ce2b7bf",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1102-02-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "오진숙",
+        "times_str": "화3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8b038b1f-31b3-567c-87f0-cf3f1c4536bb",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1102-03-00",
+        "credits": 2.0,
+        "title": "대학영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "3ae2fc63-c4cc-526b-a2bc-5090f6a3d292",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1201-01-00",
+        "credits": 2.0,
+        "title": "고급대학영어Ⅰ ",
+        "instructor": "유제왕",
+        "times_str": "화4,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "793cd85f-a651-5e6e-85bf-7a1c809ed55e",
+        "department": "공통기초(10~18학번)",
+        "major": "대학영어",
+        "year": null,
+        "classification": "공기",
+        "code": "YCC1202-01-00",
+        "credits": 2.0,
+        "title": "고급대학영어Ⅱ ",
+        "instructor": "베켓제레미",
+        "times_str": "월3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "30d70397-1e22-5c46-bf85-a93938c8c0bd",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-51-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "유광수",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S108"
+    },
+    {
+        "id": "a935e9ba-4a48-5af5-b04c-6ff3ff2f5d17",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-52-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "유광수",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S408"
+    },
+    {
+        "id": "6b343e4e-35ba-5d78-ab4f-915041b8c973",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-53-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "유광수",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S408"
+    },
+    {
+        "id": "17228671-3082-5d12-ac9e-b3078949179f",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-54-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "김선혜",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/백S408"
+    },
+    {
+        "id": "f16466f4-825c-5b0f-b01e-d38b23c38373",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-55-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "전은주",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    },
+    {
+        "id": "01545c6e-d638-5724-87fc-0a1ba22b558b",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-56-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "박경우",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    },
+    {
+        "id": "95b2488a-3596-55c2-b2ed-475f482c97e3",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-57-00",
+        "credits": 3.0,
+        "title": "글쓰기 ",
+        "instructor": "박경우",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    },
+    {
+        "id": "e4f400aa-8c1d-552b-8dda-9c02f0ebc399",
+        "department": "공통기초(10~18학번)",
+        "major": "글쓰기",
+        "year": null,
+        "classification": "공기",
+        "code": "YCB1101-58-00",
+        "credits": 3.0,
+        "title": "글쓰기(기초한국어) ",
+        "instructor": "전은주",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "백S408/실시간온라인"
+    }
+]

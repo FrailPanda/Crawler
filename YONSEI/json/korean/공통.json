@@ -1,0 +1,86 @@
+﻿[
+    {
+        "id": "87aac812-f9e5-5ca4-acf5-b83519c11a67",
+        "department": "공통",
+        "major": "창업,현장실습",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "U0019-01-00",
+        "credits": 3.0,
+        "title": "창업106:스타트업인사이트Ⅰ(국내) ",
+        "instructor": "손홍규,김영태",
+        "times_str": "수1,2,3/수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "7e7b1b61-edf6-51da-abf1-bfc9040a2d23",
+        "department": "공통",
+        "major": "창업,현장실습",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "U0020-01-00",
+        "credits": 3.0,
+        "title": "창업108:기술&창업트렌드 ",
+        "instructor": "손홍규,김남수",
+        "times_str": "목1,2,3/목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "f5f73c6c-f000-537e-8fae-fe06b74aec9f",
+        "department": "공통",
+        "major": "창업,현장실습",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "U0021-01-00",
+        "credits": 3.0,
+        "title": "창업306:스타트업레벨업 ",
+        "instructor": "손홍규,김영태",
+        "times_str": "월6,7,8/월6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "535ce19e-688f-55e3-9814-39b94037706f",
+        "department": "공통",
+        "major": "창업,현장실습",
+        "year": "2,3,4",
+        "classification": "일반",
+        "code": "U0022-01-00",
+        "credits": 3.0,
+        "title": "창업408:스타트업글로벌셀링 ",
+        "instructor": "손홍규,김영태",
+        "times_str": "화6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "백S106"
+    }
+]

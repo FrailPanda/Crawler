@@ -1,0 +1,2251 @@
+﻿[
+    {
+        "id": "f31d5116-118e-5be7-b9f0-a07e3f1a1b78",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-01-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "서보윤",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "885a25d1-663c-5c3a-89a6-55ac0e491be2",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-02-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "서보윤",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "90bcb110-f463-5259-8280-f1efa982a98c",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-03-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "한원용",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "0a354209-6876-5ab6-b049-14a0b909a1bc",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-04-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "김석호",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "6e7343a0-8111-5cce-9976-bca521454570",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-05-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "윤진희",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "88d8fda4-d52f-545d-b803-10e71d9a8cf6",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "ECO1101-06-00",
+        "credits": 3.0,
+        "title": "경제수학(1) ",
+        "instructor": "윤진희",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6e1290eb-39ee-5128-bd49-e3d8caea5083",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-01-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "이지영",
+        "times_str": "목1",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "c99be727-899d-5a3a-9b19-5210cf6948e8",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-02-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "김용선",
+        "times_str": "수1/금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본B109"
+    },
+    {
+        "id": "9bd13fb8-73cc-5036-8ded-ed2115dd3d9a",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-03-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "최미호",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "683b1064-c6e3-595d-adf4-010acd81e038",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-04-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "김석호",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "62f8907f-f4be-5225-8030-d0c051c2ebb5",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-05-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "이태봉",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본115"
+    },
+    {
+        "id": "11d15f1a-16a8-55bd-bb6f-a52a8d62d7d2",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-06-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "방병국",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6fd62b50-8a23-552c-9c7f-4588dccd33cf",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1103-07-00",
+        "credits": 3.0,
+        "title": "미시경제원론 ",
+        "instructor": "이태봉",
+        "times_str": "화7/목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I진A302/동영상콘텐츠"
+    },
+    {
+        "id": "278580ac-8e57-546b-8057-369ab31befa4",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-01-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "김용진,이종화",
+        "times_str": "수7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fa0f8158-150c-5f77-a578-210527a95333",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-02-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "오현진",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "ed58933c-dc01-5ef4-8ecd-0199d26c0aee",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-03-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "김학렬",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "2b2316fc-9f71-5146-931e-95740bc0e53b",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-04-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "유병하",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f262709d-3ecd-5010-882c-c4b1239fb446",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-05-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "한원용",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d700eb0e-f27c-5ad1-bbfa-6267c8e0c070",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-06-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "김용진,이종화",
+        "times_str": "목7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "121a5973-c8c4-575d-ab39-eff2dfc5633b",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "ECO1104-07-00",
+        "credits": 3.0,
+        "title": "거시경제원론 ",
+        "instructor": "노을아",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "bedc600d-bcdc-58ab-b78b-cb7a37151cec",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-01-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "유병삼",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본B109/실시간온라인"
+    },
+    {
+        "id": "f56f9a91-4be0-5828-9d51-35894c68bd21",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-02-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "조하현",
+        "times_str": "월5,6/수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "a23cfcee-f1a4-5ee8-ab63-1cd8e2675d85",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-03-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "조성훈",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "075fbe8d-7eeb-5bd2-87eb-0be828acb819",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-04-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "김선빈",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d6dd088c-674d-52f9-9a5b-c3da836d0837",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-05-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "김지섭",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "f1db2080-97d5-59ab-aa59-925e68f6832e",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-06-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "최상엽",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "c991f4b5-1e52-5603-a3cd-d19944d52b52",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-07-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "심명규",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본115"
+    },
+    {
+        "id": "b5460559-15b3-505c-85df-1e7660c6f706",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-08-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9dbc1e31-4539-559b-9da5-030630866ccd",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2101-09-00",
+        "credits": 3.0,
+        "title": "거시경제학 ",
+        "instructor": "김용진,이종화",
+        "times_str": "목5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "22810624-4e1f-57bf-b8ed-0382bfc97078",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-01-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "신동천",
+        "times_str": "수4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "89eac55d-53be-5902-a780-f4ae309d5c90",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-02-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "김세민",
+        "times_str": "수3/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "70239e1b-7dda-5533-924b-06631077afe7",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-03-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "김용선",
+        "times_str": "수5/금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본B109"
+    },
+    {
+        "id": "b2b70e77-358d-59f9-9239-9408869cea0c",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-04-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "최미호",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "4a8bccbf-defa-5ceb-82fd-af61ad453cfc",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-05-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "한원용",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8e806f44-7084-5974-985b-eecf91ab9649",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-06-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "김석호",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "1da9ee75-91d3-5119-8e5a-f9949f35f345",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "ECO2102-07-00",
+        "credits": 3.0,
+        "title": "미시경제학 ",
+        "instructor": "김상현",
+        "times_str": "목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "e36ed97f-b09f-5dd2-844e-9e5046a72a14",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ECO2002-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(미시경제학) ",
+        "instructor": "정혜윤",
+        "times_str": "수2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "bf2cab1f-9fc7-5769-9b4d-4da822583cc4",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ECO2114-01-00",
+        "credits": 3.0,
+        "title": "경제수학(2) ",
+        "instructor": "서보윤",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "65c36825-2767-52e7-9a7c-17811291be9e",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "ECO3132-01-00",
+        "credits": 3.0,
+        "title": "근대경제사 ",
+        "instructor": "홍성찬",
+        "times_str": "금3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "8f5b8c9e-1c83-523c-b68c-2189a5d48270",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3101-01-00",
+        "credits": 3.0,
+        "title": "게임이론과응용 ",
+        "instructor": "김영세",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d26b9749-d29f-525d-bba8-2bf03a6c8629",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3101-02-00",
+        "credits": 3.0,
+        "title": "게임이론과응용 ",
+        "instructor": "한순구",
+        "times_str": "토4",
+        "times": {
+            "5": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3942f792-36d6-53cf-8cac-e39dc82ec6e6",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3101-03-00",
+        "credits": 3.0,
+        "title": "게임이론과응용 ",
+        "instructor": "김진엽",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fc064a74-9502-53f8-a7af-6f19b67b05ff",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3103-01-00",
+        "credits": 3.0,
+        "title": "경제발전론 ",
+        "instructor": "이두원",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "15393746-f5fd-51d5-8a0b-f331084e2725",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3104-01-00",
+        "credits": 3.0,
+        "title": "계량경제학(1) ",
+        "instructor": "정진욱",
+        "times_str": "월7,8/수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "상본115/실시간온라인"
+    },
+    {
+        "id": "12f5fa76-9e86-52bd-9ef5-ca87f1792418",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3104-02-00",
+        "credits": 3.0,
+        "title": "계량경제학(1) ",
+        "instructor": "이진현",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "00e64dd4-f1b6-5f30-bc3b-2bb25055d71a",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3108-01-00",
+        "credits": 3.0,
+        "title": "수리경제학 ",
+        "instructor": "박재옥",
+        "times_str": "화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "f6f62406-9240-515d-b44d-fa803c1b06c5",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3110-01-00",
+        "credits": 3.0,
+        "title": "재정학 ",
+        "instructor": "윤건영",
+        "times_str": "화8/화8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "상본115/동영상콘텐츠"
+    },
+    {
+        "id": "0b20e501-ba64-5f9f-9fbd-03cc738b9591",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3110-02-00",
+        "credits": 3.0,
+        "title": "재정학 ",
+        "instructor": "이경우",
+        "times_str": "월9,10/수10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "671c639a-35d8-5106-815a-3a9f6c84df31",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3114-01-00",
+        "credits": 3.0,
+        "title": "후생경제학 ",
+        "instructor": "김세민",
+        "times_str": "수7/금7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "상본101/동영상콘텐츠"
+    },
+    {
+        "id": "a0c814a6-8408-5025-b3a7-efd35ada7653",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3116-01-00",
+        "credits": 3.0,
+        "title": "경제정책 ",
+        "instructor": "윤건영",
+        "times_str": "화7/화7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "상본115/동영상콘텐츠"
+    },
+    {
+        "id": "e91a4687-7b4f-5161-96f3-433be4ca17f6",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3119-01-00",
+        "credits": 3.0,
+        "title": "금융공학의이해(1) ",
+        "instructor": "김주철",
+        "times_str": "토6/토7,8",
+        "times": {
+            "5": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "831997a9-7acf-56bd-b223-2f54ec69bf91",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3123-01-00",
+        "credits": 3.0,
+        "title": "계약및조직이론 ",
+        "instructor": "김상현",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "445230ab-5278-5221-bc19-7165424b9cf2",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3128-01-00",
+        "credits": 3.0,
+        "title": "금융계량경제학 ",
+        "instructor": "유병삼",
+        "times_str": "화5,6/목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/상본B109"
+    },
+    {
+        "id": "de84078e-9b69-512f-95a5-d1537da6db04",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3130-01-00",
+        "credits": 3.0,
+        "title": "국제금융론 ",
+        "instructor": "김정식",
+        "times_str": "목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "c2e65924-cb5f-54a6-9337-cac47f342721",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3130-02-00",
+        "credits": 3.0,
+        "title": "국제금융론 ",
+        "instructor": "성태윤,오현진",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "345be731-d45d-5d57-b21d-de2312cdd903",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3131-01-00",
+        "credits": 3.0,
+        "title": "국제무역론 ",
+        "instructor": "신동천",
+        "times_str": "화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "a7219019-d77c-5ad4-a432-eb9de369c7f5",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3133-01-00",
+        "credits": 3.0,
+        "title": "산업조직론 ",
+        "instructor": "한종희,최윤정",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fd549844-15a5-5654-af60-37684736fbd9",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3133-02-00",
+        "credits": 3.0,
+        "title": "산업조직론 ",
+        "instructor": "한종희,최윤정",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d7e5e67c-62aa-5b47-bb3c-7fab6ca136b0",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3134-01-00",
+        "credits": 3.0,
+        "title": "화폐금융론 ",
+        "instructor": "김정식",
+        "times_str": "목1",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "e18d2925-d9da-57cc-874b-10f9d99b864e",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3134-02-00",
+        "credits": 3.0,
+        "title": "화폐금융론 ",
+        "instructor": "김광환",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "상본115"
+    },
+    {
+        "id": "4782a523-59fd-5119-962a-150f62fd0746",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3137-01-00",
+        "credits": 3.0,
+        "title": "에너지경제학 ",
+        "instructor": "조하현,임형우",
+        "times_str": "금7/금8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "0bc7abe3-fb18-5e5b-8bee-864fe18b7f33",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3140-01-00",
+        "credits": 3.0,
+        "title": "의료경제학 ",
+        "instructor": "한유진",
+        "times_str": "목7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "8bec5f38-8d04-55ba-b0fd-73723e24d3b2",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO3164-01-00",
+        "credits": 3.0,
+        "title": "경제데이터분석 ",
+        "instructor": "조하현,김재혁",
+        "times_str": "금4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "aff260cc-bec9-54fb-ac8c-e8ef99242190",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4104-01-00",
+        "credits": 3.0,
+        "title": "계량경제학(2) ",
+        "instructor": "김태환",
+        "times_str": "금3/금3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "상본102/동영상콘텐츠"
+    },
+    {
+        "id": "cfe8f92b-c0b2-50f3-9342-4a372c4d664f",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4110-01-00",
+        "credits": 3.0,
+        "title": "정치및공공경제 ",
+        "instructor": "김영세",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "c05b8afd-f71e-5202-b113-a72d0a43b629",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4115-01-00",
+        "credits": 3.0,
+        "title": "기업금융론 ",
+        "instructor": "성태윤,오현진",
+        "times_str": "수8/수8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "00e0100b-237a-59e9-b839-857b78148440",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4116-01-00",
+        "credits": 3.0,
+        "title": "산업과전략 ",
+        "instructor": "한종희",
+        "times_str": "수2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "f8e79c7a-51a3-530e-b23e-f92b06df56b6",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4118-01-00",
+        "credits": 3.0,
+        "title": "동태경제학 ",
+        "instructor": "김선빈",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7845c155-ab87-5060-be58-d886cd17687d",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4122-01-00",
+        "credits": 3.0,
+        "title": "개발경제특수문제 ",
+        "instructor": "양희승",
+        "times_str": "화1/화1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "8dd91f56-4403-5761-8141-701ee415df6c",
+        "department": "상경대학",
+        "major": "경제학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "ECO4862-01-00",
+        "credits": 3.0,
+        "title": "국제금융시장분석 ",
+        "instructor": "최상엽",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/상본101"
+    },
+    {
+        "id": "aeb7bc90-c21a-5f0a-900c-51ed27c00ef2",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "STA1002-01-00",
+        "credits": 3.0,
+        "title": "미분적분학 ",
+        "instructor": "박영자",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "상본B112"
+    },
+    {
+        "id": "6b0231bd-2a26-5dfb-a705-875c01d55821",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "1",
+        "classification": "전기",
+        "code": "STA1002-02-00",
+        "credits": 3.0,
+        "title": "미분적분학 ",
+        "instructor": "박영자",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "상본B112"
+    },
+    {
+        "id": "ddb663ea-170c-5151-b02f-7c3779c04185",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2102-01-00",
+        "credits": 3.0,
+        "title": "선형대수 ",
+        "instructor": "강성봉",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본B121"
+    },
+    {
+        "id": "0cbcb981-90da-52dd-9f53-8f75857c7a6a",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2102-02-00",
+        "credits": 3.0,
+        "title": "선형대수 ",
+        "instructor": "김숙경",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "상본B120"
+    },
+    {
+        "id": "9b190968-d0de-52f3-9b30-5f4749e8d167",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2102-03-00",
+        "credits": 3.0,
+        "title": "선형대수 ",
+        "instructor": "이명숙",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "1e823ce2-e9ac-514f-92e7-f4577ddb1889",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2102-04-00",
+        "credits": 3.0,
+        "title": "선형대수 ",
+        "instructor": "이명숙",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5193428c-3108-56de-9a55-cb27a2175cff",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2104-01-00",
+        "credits": 3.0,
+        "title": "R과파이썬프로그래밍 ",
+        "instructor": "박혜준",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "eb50dfbf-5130-50e3-80e2-2f17a741d672",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2104-02-00",
+        "credits": 3.0,
+        "title": "R과파이썬프로그래밍 ",
+        "instructor": "박혜준",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "d968a23b-83d7-5550-8c00-320e93aa7e5c",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2105-01-00",
+        "credits": 3.0,
+        "title": "통계방법론 ",
+        "instructor": "정종희",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6a20bc88-63ba-50b8-9e28-72b342ad7d44",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2105-02-00",
+        "credits": 3.0,
+        "title": "통계방법론 ",
+        "instructor": "정종희",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "459ccb25-826b-5a0a-b372-d0a6ba99e96f",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2105-03-00",
+        "credits": 3.0,
+        "title": "통계방법론 ",
+        "instructor": "김철응",
+        "times_str": "화2/화2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "상본B121/동영상콘텐츠"
+    },
+    {
+        "id": "0c4e985e-2fc3-5035-86b8-35c0077ea43c",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "STA2105-04-00",
+        "credits": 3.0,
+        "title": "통계방법론 ",
+        "instructor": "이주영",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "78b47ce9-7b6b-5f4a-8d6c-8a993ef24d70",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "STA2005-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(생물통계학) ",
+        "instructor": "김규현",
+        "times_str": "목4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "상본B103"
+    },
+    {
+        "id": "2527bf2a-6284-5081-b484-3fc87b56fbad",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "STA2005-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(자연어처리) ",
+        "instructor": "이주영",
+        "times_str": "목5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "상본B103"
+    },
+    {
+        "id": "5b5bae16-4c50-56da-a98b-907198db2a8a",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "STA3109-01-00",
+        "credits": 3.0,
+        "title": "수리통계학(2) ",
+        "instructor": "강승호",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ac8f38b4-0b96-5804-934b-473d70a3f400",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "STA3126-01-00",
+        "credits": 3.0,
+        "title": "수리통계학(1) ",
+        "instructor": "박태영",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "c14b6a9e-e6f1-599f-b39c-c2b93b45b124",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "STA3107-01-00",
+        "credits": 3.0,
+        "title": "비모수통계학 ",
+        "instructor": "박상언",
+        "times_str": "월1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "93ad7560-ddfa-574b-8c46-0ba6e72f3740",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "STA3111-01-00",
+        "credits": 3.0,
+        "title": "실험계획법 ",
+        "instructor": "김현중",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "fc70223c-f54f-5b3b-a7ba-6470d5e8e539",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "STA3125-01-00",
+        "credits": 3.0,
+        "title": "회귀분석 ",
+        "instructor": "전용호",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3749ee1e-95b1-5bb6-8a88-e3e3b4315744",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "STA3140-01-00",
+        "credits": 3.0,
+        "title": "딥러닝 ",
+        "instructor": "박재우",
+        "times_str": "금4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "a46857cb-c7ee-5e5e-8978-81bd75eff5c5",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "STA4116-01-00",
+        "credits": 3.0,
+        "title": "데이터사이언스(1):데이터통합과정보보호 ",
+        "instructor": "임종호",
+        "times_str": "화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "39915510-f125-5405-944d-1d4fa121ad06",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "STA3102-01-00",
+        "credits": 3.0,
+        "title": "다변량통계분석 ",
+        "instructor": "이학배",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "47c4d2a5-5b34-5614-8c3a-bf406c7b264a",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "STA3105-01-00",
+        "credits": 3.0,
+        "title": "베이즈통계 ",
+        "instructor": "김철응",
+        "times_str": "화1/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "상본B121/동영상콘텐츠"
+    },
+    {
+        "id": "be9e5bfa-85e7-518d-9edb-aa0b67cd7e8b",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "STA3108-01-00",
+        "credits": 3.0,
+        "title": "생존자료분석 ",
+        "instructor": "강상욱",
+        "times_str": "목5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "bec2beb7-e76c-56ca-8cae-cef6ca99b31a",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "STA3110-01-00",
+        "credits": 3.0,
+        "title": "시계열분석 ",
+        "instructor": "문지은",
+        "times_str": "월9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "99ab6d71-567e-513b-9dc2-537e7b6374df",
+        "department": "상경대학",
+        "major": "응용통계학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "STA4111-01-00",
+        "credits": 3.0,
+        "title": "보험통계 ",
+        "instructor": "김현태",
+        "times_str": "금5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    }
+]

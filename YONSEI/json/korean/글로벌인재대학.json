@@ -1,0 +1,3530 @@
+﻿[
+    {
+        "id": "b1d4f2d7-20c6-58d6-840e-415c6675d4cd",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1105-01-00",
+        "credits": 3.0,
+        "title": "학술담화의이해 ",
+        "instructor": "윤경원",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "7993d1d1-a081-56ff-9fab-2dddc136e074",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1105-02-00",
+        "credits": 3.0,
+        "title": "학술담화의이해 ",
+        "instructor": "이정은",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "ed6b0442-9643-554a-aac1-1449f717c2dd",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1106-01-00",
+        "credits": 3.0,
+        "title": "학술텍스트의이해 ",
+        "instructor": "김보영",
+        "times_str": "월1,2,수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "797364dc-b28c-5679-8256-d3a104131124",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1106-02-00",
+        "credits": 3.0,
+        "title": "학술텍스트의이해 ",
+        "instructor": "김미옥",
+        "times_str": "월1,2,수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "90dae4da-4583-5381-9f25-8bfa7e621717",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1107-01-00",
+        "credits": 3.0,
+        "title": "논증과토론 ",
+        "instructor": "윤경원",
+        "times_str": "수2,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "cd411294-664c-5d35-9585-3ae134fc9e4c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1107-02-00",
+        "credits": 3.0,
+        "title": "논증과토론 ",
+        "instructor": "이정은",
+        "times_str": "수2,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "20a881fc-9b5a-596c-a022-2f0f254aa77b",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1108-01-00",
+        "credits": 3.0,
+        "title": "논리적사고와글쓰기 ",
+        "instructor": "김보영",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "64d211df-aae2-5ff6-afb7-397b1719eb8c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1108-02-00",
+        "credits": 3.0,
+        "title": "논리적사고와글쓰기 ",
+        "instructor": "김미옥",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "4943dec3-cb94-5d76-b025-a1100161bbd7",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1109-01-00",
+        "credits": 3.0,
+        "title": "초급한국어회화 ",
+        "instructor": "김선영",
+        "times_str": "월1,수1,금1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "I자A434"
+    },
+    {
+        "id": "c681d300-985a-5666-b61e-9745e4dd59f0",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1110-01-00",
+        "credits": 3.0,
+        "title": "초급한국어이해 ",
+        "instructor": "김선영",
+        "times_str": "월2,수2,금2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "I자A434"
+    },
+    {
+        "id": "734685bd-8b10-5da1-8f48-c84e1526c68d",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1111-01-00",
+        "credits": 3.0,
+        "title": "초급한국어문법 ",
+        "instructor": "김선영",
+        "times_str": "월3,수3,금3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A434"
+    },
+    {
+        "id": "c13195ea-9f85-5cbe-800e-4f7c78db2dc1",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1301-01-00",
+        "credits": 1.0,
+        "title": "GLC태권도의이론과실제 ",
+        "instructor": "김영선",
+        "times_str": "화6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I종211"
+    },
+    {
+        "id": "003f6fd5-0ea9-54a1-b317-d6375c00aa0c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1301-02-00",
+        "credits": 1.0,
+        "title": "GLC태권도의이론과실제 ",
+        "instructor": "김영선",
+        "times_str": "화8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I종211"
+    },
+    {
+        "id": "8d776f91-7f0b-5e3c-9820-03786e970995",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1302-01-00",
+        "credits": 1.0,
+        "title": "GLC스포츠댄스이론과실제 ",
+        "instructor": "박지연",
+        "times_str": "목6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I종211"
+    },
+    {
+        "id": "69f22b6d-5795-509b-9b72-57d43a4aebbf",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1302-02-00",
+        "credits": 1.0,
+        "title": "GLC스포츠댄스이론과실제 ",
+        "instructor": "박지연",
+        "times_str": "목8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I종211"
+    },
+    {
+        "id": "367b1a83-854a-5e09-8767-53e3895a01c6",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "GLC1001-01-00",
+        "credits": 3.0,
+        "title": "GLC영어1 ",
+        "instructor": "조이스마이클",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "d6dde933-037c-57ae-b0b5-e6110eb05a9a",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "GLC1001-02-00",
+        "credits": 3.0,
+        "title": "GLC영어1 ",
+        "instructor": "학다니엘",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "5e0939c7-8bfd-5a5e-aed5-13870c857d47",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "GLC1002-01-00",
+        "credits": 3.0,
+        "title": "GLC영어2 ",
+        "instructor": "챈제이슨크리스토퍼",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "da06a2dc-170f-546c-9c6d-a462c9143496",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "GLC1002-02-00",
+        "credits": 3.0,
+        "title": "GLC영어2 ",
+        "instructor": "로버트진스",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A407"
+    },
+    {
+        "id": "dba79136-7f14-540e-90a1-3364b5c12958",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "GLC1002-03-00",
+        "credits": 3.0,
+        "title": "GLC영어2 ",
+        "instructor": "황짐",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "4f309916-ffe9-5396-8e0d-4428af6896be",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1005-01-00",
+        "credits": 3.0,
+        "title": "고급GLC영어글쓰기 ",
+        "instructor": "조이스마이클",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A407"
+    },
+    {
+        "id": "70b7191e-7a0f-5c04-8ba4-b77eb8e66ef2",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1201-01-00",
+        "credits": 3.0,
+        "title": "사고와표현 ",
+        "instructor": "홍혜란",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "6756c6cd-4fc8-59f3-8988-1bd5e58ae67c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1203-01-00",
+        "credits": 3.0,
+        "title": "숫자와생활 ",
+        "instructor": "이은지",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "c00f0c6c-5971-5167-87df-0c5282ff22f6",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1207-01-00",
+        "credits": 3.0,
+        "title": "글로벌산업의이해 ",
+        "instructor": "한재영",
+        "times_str": "화3,목3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "2a20cdbc-76b5-5a90-a782-706982b116c7",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1208-01-00",
+        "credits": 3.0,
+        "title": "GLC수학 ",
+        "instructor": "한혜림",
+        "times_str": "화4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "aec83a93-907a-5095-9114-08d13ab6ae28",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1209-01-00",
+        "credits": 3.0,
+        "title": "물질과문명 ",
+        "instructor": "최두진",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "d946c85f-8d52-5841-ab49-30d04bb30d6e",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1217-01-00",
+        "credits": 3.0,
+        "title": "역사와영화 ",
+        "instructor": "이혜민",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "c47f3862-d62b-5eb6-8a67-ce1dd1fc9000",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1220-01-00",
+        "credits": 3.0,
+        "title": "GLC생물 ",
+        "instructor": "이유",
+        "times_str": "화4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "a6609046-ce12-5a18-aaf0-21820add85cd",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1221-01-00",
+        "credits": 3.0,
+        "title": "현대인의영양과건강 ",
+        "instructor": "이민준",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "cc87b0d9-368a-5a2c-83de-bdc56c799cdd",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1222-01-00",
+        "credits": 3.0,
+        "title": "식품과학의이해 ",
+        "instructor": "채선희",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "57581f85-6de1-596d-9626-44a7cbe5679b",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1223-01-00",
+        "credits": 3.0,
+        "title": "문화마케팅의이해 ",
+        "instructor": "임동진",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "c953c0aa-639e-543b-8aff-ae16ad5c787b",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1224-01-00",
+        "credits": 3.0,
+        "title": "동아시아세계,한국사와한국문화 ",
+        "instructor": "장병진",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "a8bf5a87-2332-5a38-bfcb-8538727f0612",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1225-01-00",
+        "credits": 3.0,
+        "title": "글로벌기업과현대사회 ",
+        "instructor": "장윤희",
+        "times_str": "화2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "6c9ebd52-8eb8-5606-9143-92bfe4cd45a9",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1226-01-00",
+        "credits": 3.0,
+        "title": "글로벌시장과소비자 ",
+        "instructor": "김희영",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "f5addff4-f0ec-58de-a6bc-9cbe7ed4f3c2",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1229-01-00",
+        "credits": 3.0,
+        "title": "세계문학과글로컬이슈 ",
+        "instructor": "박윤영",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "9f91694c-e640-58d4-8b82-88dcc5c0be15",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1230-01-00",
+        "credits": 3.0,
+        "title": "서양문명의역사 ",
+        "instructor": "전혜림",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "4477639a-8a8c-5d6c-a59b-84538331a5f8",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1231-01-00",
+        "credits": 3.0,
+        "title": "시각문화읽기 ",
+        "instructor": "전혜림",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "b40a3bd4-992e-58b1-b1b5-5ab4573c329c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1232-01-00",
+        "credits": 3.0,
+        "title": "한국현대문학입문 ",
+        "instructor": "홍성희",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "5330b198-f334-5f6f-846c-f1c302bc41b8",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1233-01-00",
+        "credits": 3.0,
+        "title": "남북한영화의이해 ",
+        "instructor": "김상민",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "8475f865-9fd1-5fc5-9a2c-a52aeaa832e8",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1234-01-00",
+        "credits": 3.0,
+        "title": "소셜미디어와한국어 ",
+        "instructor": "한승규",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "c6afd201-713c-5cb2-a1e8-84f5f7669c7e",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1235-01-00",
+        "credits": 3.0,
+        "title": "현대사회와친밀한관계 ",
+        "instructor": "김성희",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "89cf9531-b857-564a-be97-dc268ea3b221",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1236-01-00",
+        "credits": 3.0,
+        "title": "현대사회의이해 ",
+        "instructor": "안미향",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "202d519c-d70c-5c53-86fc-44ce0e48fc1b",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1237-01-00",
+        "credits": 3.0,
+        "title": "학술글쓰기와프레젠테이션 ",
+        "instructor": "장채린",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A433"
+    },
+    {
+        "id": "02c149eb-25b5-518f-8899-3913d1534d11",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1237-02-00",
+        "credits": 3.0,
+        "title": "학술글쓰기와프레젠테이션 ",
+        "instructor": "박진철",
+        "times_str": "목6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "2cd98fbe-16ea-5309-985b-8f37b83f0ecb",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1241-01-00",
+        "credits": 3.0,
+        "title": "K푸드의세일즈마케팅 ",
+        "instructor": "유형근",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "d8a7b3e6-6c5f-5c64-9f2c-40b8711792f9",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1242-01-00",
+        "credits": 3.0,
+        "title": "데이팅과결혼 ",
+        "instructor": "박신진",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A406"
+    },
+    {
+        "id": "3174bf42-1728-53c1-a39f-0f0b19b5c174",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1243-01-00",
+        "credits": 3.0,
+        "title": "대학생을위한예비부모교육 ",
+        "instructor": "서재화",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "0ec683ef-74ea-5136-8c63-a0130ae2386e",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1246-01-00",
+        "credits": 3.0,
+        "title": "대학생을위한지속가능한식생활관리 ",
+        "instructor": "김수연",
+        "times_str": "수3,4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "I자A432"
+    },
+    {
+        "id": "ce51b060-2b38-5c04-8082-f7d0bba30057",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1248-01-00",
+        "credits": 3.0,
+        "title": "전쟁과경영 ",
+        "instructor": "이석구",
+        "times_str": "수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "0122bb01-a00e-5d59-8d2f-87ab2194e15c",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1249-01-00",
+        "credits": 3.0,
+        "title": "공생학이론과실제 ",
+        "instructor": "이연숙",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "f102c5d5-3a26-5719-a7e4-a2d67fcc92ff",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLC1250-01-00",
+        "credits": 3.0,
+        "title": "GLC선형대수 ",
+        "instructor": "한혜림",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "a60c40c0-de85-5abe-a123-a99fe4466162",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "YCA1101-12-00",
+        "credits": 3.0,
+        "title": "기독교와세계문화 ",
+        "instructor": "홍성표",
+        "times_str": "금4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "ece83835-dc94-5b29-ac69-2828ce908940",
+        "department": "글로벌인재대학",
+        "major": "GLC공통교과과정",
+        "year": null,
+        "classification": "교기",
+        "code": "YCA1102-13-00",
+        "credits": 3.0,
+        "title": "기독교와현대사회 ",
+        "instructor": "이성호",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "6751ffe9-5db6-554f-8951-5ea866c4b85a",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1101-01-00",
+        "credits": 1.0,
+        "title": "GLD신입생세미나1 ",
+        "instructor": "유성은",
+        "times_str": "수10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "ec181a10-e378-5931-ac9d-a0305224ff97",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "일반",
+        "code": "GLC1102-01-00",
+        "credits": 1.0,
+        "title": "GLD신입생세미나2 ",
+        "instructor": "유성은",
+        "times_str": "수9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A431"
+    },
+    {
+        "id": "6561a7ae-f519-5073-8344-d725c7e695e1",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1201-01-00",
+        "credits": 3.0,
+        "title": "비판적사고와행동 ",
+        "instructor": "박지순",
+        "times_str": "화1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "bbedf716-0d2d-5f87-a137-2e99cf892c4a",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1202-01-00",
+        "credits": 3.0,
+        "title": "현대정치의쟁점과전망 ",
+        "instructor": "허재영",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "0b5fb6aa-5d81-5da4-a64c-9a39b08dfc0f",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1203-01-00",
+        "credits": 3.0,
+        "title": "시각적사고와디지털통찰력 ",
+        "instructor": "김상민",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A407"
+    },
+    {
+        "id": "f2d3e275-7aae-58cd-a585-b9f3bc1c2b54",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1204-01-00",
+        "credits": 3.0,
+        "title": "한국역사문화의이해 ",
+        "instructor": "김유미",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "396d2fa2-a7c7-5198-b60a-ddfa426b6192",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1205-01-00",
+        "credits": 3.0,
+        "title": "인간안보와국제기구 ",
+        "instructor": "이효원",
+        "times_str": "목2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "d6f7a974-e7e9-55cb-b2c5-a1cf45f22ba1",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "대교",
+        "code": "GLD1206-01-00",
+        "credits": 3.0,
+        "title": "아시아안보의이해 ",
+        "instructor": "이석구",
+        "times_str": "수6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "I자A434"
+    },
+    {
+        "id": "99c6d269-c7f9-5685-99f7-01bd0073124a",
+        "department": "글로벌인재대학",
+        "major": "GLD공통교과과정",
+        "year": null,
+        "classification": "필교",
+        "code": "UCC1106-05-00",
+        "credits": 3.0,
+        "title": "우주의이해 ",
+        "instructor": "정애리",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "d3b01f8e-4bca-54ec-83be-7e39c028dbc0",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GIC1101-01-00",
+        "credits": 3.0,
+        "title": "국제통상입문 ",
+        "instructor": "이효원",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "f00bd6c8-fdb8-54f1-9621-aa5df2fa202f",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GIC2201-01-00",
+        "credits": 3.0,
+        "title": "시장과효율성 ",
+        "instructor": "심재훈",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "8c76b9af-63f3-5bd8-9e92-8c4993f5f07a",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2203-01-00",
+        "credits": 3.0,
+        "title": "마케팅관리론 ",
+        "instructor": "강수영",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "083a586c-61c8-5fc7-8db6-0e85feb3cf28",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2204-01-00",
+        "credits": 3.0,
+        "title": "현대기업의조직관리 ",
+        "instructor": "김선주",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "3e2bf276-5727-525d-a30c-27122531e05b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2205-01-00",
+        "credits": 3.0,
+        "title": "물가와고용 ",
+        "instructor": "심재훈",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "a5c28f92-54d1-5b60-ba9b-1cc68ca0d27f",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2207-01-00",
+        "credits": 3.0,
+        "title": "글로벌경영관리 ",
+        "instructor": "김나미",
+        "times_str": "월5,6,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "5ee8688b-d12e-53a2-9b66-036ba7b5875f",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2209-01-00",
+        "credits": 3.0,
+        "title": "경영과회계 ",
+        "instructor": "박성현",
+        "times_str": "금2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "d9b8b44d-2774-5e21-8251-b65cdfedf95b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2211-01-00",
+        "credits": 3.0,
+        "title": "투자분석 ",
+        "instructor": "이진운",
+        "times_str": "수1,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "dc5f3fca-b42b-52e3-bf60-11a3eda573a1",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2304-01-00",
+        "credits": 3.0,
+        "title": "세계화:이론과실제 ",
+        "instructor": "이효원",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "fa6d08de-e9a5-5449-bf56-7420d7b5bf51",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC2305-01-00",
+        "credits": 3.0,
+        "title": "디지털플랫폼비즈니스개론 ",
+        "instructor": "이용규",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "dd93a21a-6a97-52f5-b28c-d3678b913e09",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3202-01-00",
+        "credits": 3.0,
+        "title": "다국적기업론 ",
+        "instructor": "장윤희",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "e4a0761c-38fc-58fc-81b1-7dd6f20cf542",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3205-01-00",
+        "credits": 3.0,
+        "title": "국제자본시장의이해 ",
+        "instructor": "이진운",
+        "times_str": "수3,금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "1bebd426-f2be-587b-bb95-1a9b287dd0b6",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3209-01-00",
+        "credits": 3.0,
+        "title": "소비자행동분석론 ",
+        "instructor": "김희영",
+        "times_str": "수5,금5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "11de0fa1-5562-5e42-b1ab-062c82b5d049",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3210-01-00",
+        "credits": 3.0,
+        "title": "마케팅조사분석론 ",
+        "instructor": "강수영",
+        "times_str": "화4/목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B121/새천113"
+    },
+    {
+        "id": "5da0c7f9-243d-5acc-bd36-8470ed37f35d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3211-01-00",
+        "credits": 3.0,
+        "title": "국제경제학원론 ",
+        "instructor": "심재훈",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "d821715f-8668-51d8-993d-49e266aef9f1",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3304-01-00",
+        "credits": 3.0,
+        "title": "남북한관계와국제정치 ",
+        "instructor": "허재영",
+        "times_str": "화8,9,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "1c5d7838-ad30-5334-b986-f041331e4ac2",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3305-01-00",
+        "credits": 3.0,
+        "title": "통계학연습 ",
+        "instructor": "이은지",
+        "times_str": "월3,4/수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천113/새천B121"
+    },
+    {
+        "id": "edb121a7-3992-5f5b-82f6-afaf4f8666ef",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3208-01-00",
+        "credits": 3.0,
+        "title": "기업과전략 ",
+        "instructor": "김선주",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "bcaa5ffa-8a45-568e-bd24-fc4e5efdd674",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC3208-02-00",
+        "credits": 3.0,
+        "title": "기업과전략 ",
+        "instructor": "김나미",
+        "times_str": "월7,8,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "23f8dc42-ecea-52be-8d7d-d6c17a567c98",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC4301-01-00",
+        "credits": 3.0,
+        "title": "국제개발협력의이해와적용 ",
+        "instructor": "허재영",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "f7aedf88-7e14-5732-b040-aad4e6f555fd",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC4304-01-00",
+        "credits": 3.0,
+        "title": "미국의대내외정책분석 ",
+        "instructor": "이효원",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "8a84c65a-3f15-57a2-ba45-647aeaff29bd",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-국제통상전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GIC4307-01-00",
+        "credits": 3.0,
+        "title": "국제정치론세미나 ",
+        "instructor": "허재영",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "f2d3e275-7aae-58cd-a585-b9f3bc1c2b54",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GLD1204-01-00",
+        "credits": 3.0,
+        "title": "한국역사문화의이해 ",
+        "instructor": "김유미",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "3bd9c47e-faa9-56ef-8fa7-35d83070f652",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GKE1001-01-00",
+        "credits": 3.0,
+        "title": "언어학개론 ",
+        "instructor": "박지순",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "230f6d3a-6a44-5377-966e-d0de213674b2",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM2003-01-00",
+        "credits": 3.0,
+        "title": "매스미디어의이해 ",
+        "instructor": "최지현",
+        "times_str": "화1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "57254dd0-9c13-5976-9e60-eadfe083c953",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM2004-01-00",
+        "credits": 3.0,
+        "title": "이야기와문화연구 ",
+        "instructor": "김유미",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "c46d55f9-d4fe-5104-9f23-c3bf88e7b46e",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM2005-01-00",
+        "credits": 3.0,
+        "title": "일상생활과현대사회 ",
+        "instructor": "김왕배,이가람",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천204"
+    },
+    {
+        "id": "167a8227-f053-5fe5-a027-b1567d160f9d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GKE2302-01-00",
+        "credits": 3.0,
+        "title": "한국어이해교육 ",
+        "instructor": "박지순",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "b281f236-f830-5fb2-901b-f9d8d8164efa",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE2102-01-00",
+        "credits": 3.0,
+        "title": "한국어어문규범 ",
+        "instructor": "박지순",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "f8e372a3-4d47-51c0-8370-dbb8f8ffc21b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2017-01-00",
+        "credits": 3.0,
+        "title": "영화음악과한국문화 ",
+        "instructor": "표신엽",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "7c1744b4-c4d5-5f43-a477-a38df1ccd423",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3002-01-00",
+        "credits": 3.0,
+        "title": "미디어와현대사회 ",
+        "instructor": "홍권희",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "83c4e6a8-d645-5925-8fd1-30003ad2d0e8",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3003-01-00",
+        "credits": 3.0,
+        "title": "한국영화속의아시아 ",
+        "instructor": "김유미",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "a4b4fbc0-2fe5-5eaa-ab5b-fb85101a1e87",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3004-01-00",
+        "credits": 3.0,
+        "title": "문화비교입문 ",
+        "instructor": "구인모",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "d80c59d9-7e4a-5715-87bf-682bbc8e9a84",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3014-01-00",
+        "credits": 3.0,
+        "title": "뉴스리터러시 ",
+        "instructor": "홍권희",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "bc5fc377-9b6d-5b16-bcc0-fecf3d2ceaca",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3021-01-00",
+        "credits": 3.0,
+        "title": "가치창조스토리텔링 ",
+        "instructor": "박지혜",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천212"
+    },
+    {
+        "id": "cac27aa9-6ddb-507c-bc1f-f25d09ac1d99",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GKE3401-01-00",
+        "credits": 3.0,
+        "title": "한국대중문화의이해 ",
+        "instructor": "구인모",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "96ca467f-b3ae-508a-9aa1-4ec36e47bbed",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4003-01-00",
+        "credits": 3.0,
+        "title": "창의기획프로젝트1 ",
+        "instructor": "김홍탁",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "ee0ecf8c-7dfa-5d39-ada5-f43261c67325",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4007-01-00",
+        "credits": 3.0,
+        "title": "문화미디어세미나 ",
+        "instructor": "김유미",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천106"
+    },
+    {
+        "id": "a2c38770-ea77-56fb-aa06-03b207eec1fc",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국문화전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4008-01-00",
+        "credits": 3.0,
+        "title": "영화연출론 ",
+        "instructor": "장률",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "3bd9c47e-faa9-56ef-8fa7-35d83070f652",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE1001-01-00",
+        "credits": 3.0,
+        "title": "언어학개론 ",
+        "instructor": "박지순",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "I자A405"
+    },
+    {
+        "id": "167a8227-f053-5fe5-a027-b1567d160f9d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE2302-01-00",
+        "credits": 3.0,
+        "title": "한국어이해교육 ",
+        "instructor": "박지순",
+        "times_str": "월3,4,수4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "b281f236-f830-5fb2-901b-f9d8d8164efa",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GKE2102-01-00",
+        "credits": 3.0,
+        "title": "한국어어문규범 ",
+        "instructor": "박지순",
+        "times_str": "월1,2,수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "cac27aa9-6ddb-507c-bc1f-f25d09ac1d99",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "교필",
+        "code": "GKE3401-01-00",
+        "credits": 3.0,
+        "title": "한국대중문화의이해 ",
+        "instructor": "구인모",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "8c60015b-e1f9-5f5b-9e8e-25522fcecd9e",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE3103-01-00",
+        "credits": 3.0,
+        "title": "한국어발음교육 ",
+        "instructor": "한송화",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "a4e10a09-3cec-54bd-be6d-c2e4a6da94b2",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE3104-01-00",
+        "credits": 3.0,
+        "title": "한국문화교육 ",
+        "instructor": "김현정",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "83f8aafc-7b04-56ba-88c7-dc82089f703e",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GKE3102-01-00",
+        "credits": 3.0,
+        "title": "한국어문법교육 ",
+        "instructor": "한송화",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "3aa8850a-6437-59e3-b8ca-5f5175adf218",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE4103-01-00",
+        "credits": 3.0,
+        "title": "한국어번역론 ",
+        "instructor": "구인모",
+        "times_str": "화7,목8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "8d368df9-3069-586d-a66d-7c83e4c7030d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-한국언어문화교육전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GKE4102-01-00",
+        "credits": 3.0,
+        "title": "한국어교육현장실습 ",
+        "instructor": "박진철",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B205"
+    },
+    {
+        "id": "ffd629da-8683-5772-a1e8-143df0349c2e",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM1003-01-00",
+        "credits": 3.0,
+        "title": "비주얼리터러시 ",
+        "instructor": "김상민",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "1510cef1-ca40-5a72-9181-d4637d63ca8b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM1004-01-00",
+        "credits": 3.0,
+        "title": "비주얼스토리텔링 ",
+        "instructor": "박영효",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "405044ef-bdbc-58fc-b3e1-a354881606f2",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM1004-02-00",
+        "credits": 3.0,
+        "title": "비주얼스토리텔링 ",
+        "instructor": "박영효",
+        "times_str": "금7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "a6dce714-52cb-5c6a-b2a2-14388e26a366",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GCM2007-01-00",
+        "credits": 3.0,
+        "title": "비디오리터러시 ",
+        "instructor": "김상민",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "b5af9911-b4a3-5c45-b41b-236077c5c80c",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2011-01-00",
+        "credits": 1.0,
+        "title": "UT세미나(아시아영화감상론) ",
+        "instructor": "장우진",
+        "times_str": "화4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "de7643cb-d27a-568d-93a4-c7d1e7a65f18",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2011-02-00",
+        "credits": 1.0,
+        "title": "UT세미나(어도비영상제작) ",
+        "instructor": "정새해",
+        "times_str": "수1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "230f6d3a-6a44-5377-966e-d0de213674b2",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2003-01-00",
+        "credits": 3.0,
+        "title": "매스미디어의이해 ",
+        "instructor": "최지현",
+        "times_str": "화1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "57254dd0-9c13-5976-9e60-eadfe083c953",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2004-01-00",
+        "credits": 3.0,
+        "title": "이야기와문화연구 ",
+        "instructor": "김유미",
+        "times_str": "화2,3,목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "c46d55f9-d4fe-5104-9f23-c3bf88e7b46e",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2005-01-00",
+        "credits": 3.0,
+        "title": "일상생활과현대사회 ",
+        "instructor": "김왕배,이가람",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천204"
+    },
+    {
+        "id": "402c61dd-8b7c-5acd-b642-2ae6d3c7b7de",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2010-01-00",
+        "credits": 3.0,
+        "title": "글로벌미디어의이해 ",
+        "instructor": "문미리",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "a7f660b7-7f3a-52c7-a131-3678f93dddda",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2012-01-00",
+        "credits": 3.0,
+        "title": "콘텐츠라이팅기초 ",
+        "instructor": "이은준",
+        "times_str": "월4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "26a34709-8320-5dfb-9f4b-e7792c75e4c4",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2015-01-00",
+        "credits": 3.0,
+        "title": "사운드디자인입문 ",
+        "instructor": "문수영",
+        "times_str": "화4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "483ee3d0-9786-5dad-9ba5-c7b77e07e585",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2016-01-00",
+        "credits": 3.0,
+        "title": "액티브촬영워크숍 ",
+        "instructor": "정민건",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천201"
+    },
+    {
+        "id": "f8e372a3-4d47-51c0-8370-dbb8f8ffc21b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM2017-01-00",
+        "credits": 3.0,
+        "title": "영화음악과한국문화 ",
+        "instructor": "표신엽",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "7c1744b4-c4d5-5f43-a477-a38df1ccd423",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3002-01-00",
+        "credits": 3.0,
+        "title": "미디어와현대사회 ",
+        "instructor": "홍권희",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "83c4e6a8-d645-5925-8fd1-30003ad2d0e8",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3003-01-00",
+        "credits": 3.0,
+        "title": "한국영화속의아시아 ",
+        "instructor": "김유미",
+        "times_str": "화1,목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천113"
+    },
+    {
+        "id": "a4b4fbc0-2fe5-5eaa-ab5b-fb85101a1e87",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3004-01-00",
+        "credits": 3.0,
+        "title": "문화비교입문 ",
+        "instructor": "구인모",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "f786e53e-f56c-5f7f-a22b-4e73a5fbe339",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3007-01-00",
+        "credits": 3.0,
+        "title": "경험프로토타이핑 ",
+        "instructor": "박영효",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "289aa8bb-ec52-52cf-a1b2-179ffe23983b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3010-01-00",
+        "credits": 3.0,
+        "title": "온라인미디어콘텐츠2 ",
+        "instructor": "정다훈",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천212"
+    },
+    {
+        "id": "4951acac-1622-5c22-b8cb-26b97881d18a",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3011-01-00",
+        "credits": 3.0,
+        "title": "영상실습 ",
+        "instructor": "정민건",
+        "times_str": "수7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "653c73ed-ec4b-5686-8f58-06c3145c8b73",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3012-01-00",
+        "credits": 3.0,
+        "title": "비주얼아이덴티티 ",
+        "instructor": "김상민",
+        "times_str": "목7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "d80c59d9-7e4a-5715-87bf-682bbc8e9a84",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3014-01-00",
+        "credits": 3.0,
+        "title": "뉴스리터러시 ",
+        "instructor": "홍권희",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천107"
+    },
+    {
+        "id": "4e9de904-457e-5900-bedb-b70d69948aea",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3015-01-00",
+        "credits": 3.0,
+        "title": "문화간커뮤니케이션 ",
+        "instructor": "문미리",
+        "times_str": "금1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "88a60b72-ac96-5275-923d-f92135935093",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3016-01-00",
+        "credits": 3.0,
+        "title": "예술경영의이해 ",
+        "instructor": "정재왈",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천106"
+    },
+    {
+        "id": "6524fb30-22c6-55d9-818f-46700ca15556",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3018-01-00",
+        "credits": 3.0,
+        "title": "미디어사운드디자인 ",
+        "instructor": "문수영",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "4ec1bdc3-d10c-51f1-a5e7-df00fff1d55a",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3019-01-00",
+        "credits": 3.0,
+        "title": "미디어콘텐츠표현기술 ",
+        "instructor": "이은준",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천215"
+    },
+    {
+        "id": "25906af9-3496-5b8a-ad93-7b0e8377776d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3020-01-00",
+        "credits": 3.0,
+        "title": "AI비주얼프로덕션 ",
+        "instructor": "정민건",
+        "times_str": "목4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "bc5fc377-9b6d-5b16-bcc0-fecf3d2ceaca",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3021-01-00",
+        "credits": 3.0,
+        "title": "가치창조스토리텔링 ",
+        "instructor": "박지혜",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천212"
+    },
+    {
+        "id": "402f782a-4446-5a79-bb36-b4d67e9aa4a5",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM3022-01-00",
+        "credits": 3.0,
+        "title": "현대미술의시각과해석 ",
+        "instructor": "이정훈",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천212"
+    },
+    {
+        "id": "96ca467f-b3ae-508a-9aa1-4ec36e47bbed",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4003-01-00",
+        "credits": 3.0,
+        "title": "창의기획프로젝트1 ",
+        "instructor": "김홍탁",
+        "times_str": "월7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "ee0ecf8c-7dfa-5d39-ada5-f43261c67325",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4007-01-00",
+        "credits": 3.0,
+        "title": "문화미디어세미나 ",
+        "instructor": "김유미",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천106"
+    },
+    {
+        "id": "a2c38770-ea77-56fb-aa06-03b207eec1fc",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-문화·미디어전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GCM4008-01-00",
+        "credits": 3.0,
+        "title": "영화연출론 ",
+        "instructor": "장률",
+        "times_str": "수1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "b37d02c9-45fc-5955-afa3-aeeb9beb6f8f",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-바이오생활공학전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GBL1002-01-00",
+        "credits": 3.0,
+        "title": "바이오생활융합과학개론 ",
+        "instructor": "정형일,여종석,이동우,김성보",
+        "times_str": "수5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "I자B213"
+    },
+    {
+        "id": "8fc8ff05-8453-58c1-aeb4-cbd6f03cea0b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-바이오생활공학전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GBL2006-01-00",
+        "credits": 3.0,
+        "title": "바이오생활생물2 ",
+        "instructor": "이유",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "975d92e3-97ec-596f-9ba1-aa8a7707229d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-바이오생활공학전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GBL2007-01-00",
+        "credits": 3.0,
+        "title": "바이오생활화학2 ",
+        "instructor": "정재환",
+        "times_str": "화4,목5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천114"
+    },
+    {
+        "id": "2989a505-1ca5-5acf-99b4-7e1c14794e3d",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-바이오생활공학전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GBL2008-01-00",
+        "credits": 3.0,
+        "title": "응용생화학 ",
+        "instructor": "김성보",
+        "times_str": "목1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B205"
+    },
+    {
+        "id": "e2b06ef1-5391-5815-a787-1c20ce6a0240",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-바이오생활공학전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GBL2003-01-00",
+        "credits": 3.0,
+        "title": "바이오화장품학개론 ",
+        "instructor": "김효정",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B205"
+    },
+    {
+        "id": "40221bed-ba3d-547e-ba19-5935719b6735",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-응용정보공학전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GAI1001-01-00",
+        "credits": 3.0,
+        "title": "정보컴퓨팅기술개론 ",
+        "instructor": "이종빈",
+        "times_str": "금4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "I자A408"
+    },
+    {
+        "id": "9c483bfa-e67c-57ef-847d-30c79d8641bf",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-응용정보공학전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GAI2006-01-00",
+        "credits": 3.0,
+        "title": "이산구조론 ",
+        "instructor": "김택헌",
+        "times_str": "수4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천702"
+    },
+    {
+        "id": "b4a3591e-4411-5322-afb1-dbd7c7bada7b",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-응용정보공학전공",
+        "year": null,
+        "classification": "전기",
+        "code": "GAI2008-01-00",
+        "credits": 3.0,
+        "title": "정보프로그래밍2 ",
+        "instructor": "최상민",
+        "times_str": "월1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천B121"
+    },
+    {
+        "id": "b7623241-1fcc-5d44-b454-b690e3a96b49",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-응용정보공학전공",
+        "year": null,
+        "classification": "전필",
+        "code": "GAI2007-01-00",
+        "credits": 3.0,
+        "title": "인공지능개론 ",
+        "instructor": "장지성",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B207"
+    },
+    {
+        "id": "09c75d78-a517-52a7-a113-c1c79b6f8085",
+        "department": "글로벌인재대학",
+        "major": "글로벌인재학부-응용정보공학전공",
+        "year": null,
+        "classification": "전선",
+        "code": "GAI2005-01-00",
+        "credits": 3.0,
+        "title": "고급데이터분석 ",
+        "instructor": "장지성",
+        "times_str": "화1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천212"
+    }
+]

@@ -1,0 +1,2657 @@
+﻿[
+    {
+        "id": "b2fd2527-5f84-5b78-a538-652b2b40adac",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Humanity & History",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCG1105-01-00",
+        "credits": 3.0,
+        "title": "EAST ASIA & CIVILIZATION ",
+        "instructor": "Park Kyungsuk/YU HYUN JUNG",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu403/Realtime online lecture"
+    },
+    {
+        "id": "bf54a949-ef87-5acf-bf6c-f4a3feffde80",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Humanity & History",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCG1111-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY & ITS METHODOLOGY ",
+        "instructor": "NAHM KIHO",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu303"
+    },
+    {
+        "id": "26491776-8be9-5af4-be25-f03af07edf32",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Humanity & History",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCG1125-01-00",
+        "credits": 3.0,
+        "title": "HISTORY ON FILM ",
+        "instructor": "CHUN Soo-Yun",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu403"
+    },
+    {
+        "id": "992803d0-64f4-5d01-b930-cd0f5a183ad3",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Humanity & History",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCG1130-01-00",
+        "credits": 3.0,
+        "title": "A JOURNEY TO THE MYTH OF EASTERN ASIA ",
+        "instructor": "KIM SEONJA",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ed590cf8-f3a1-544e-9037-b862e5ebcb52",
+        "department": "General Education Elective(10~18)",
+        "major": "Science & Technology",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCH1102-01-00",
+        "credits": 3.0,
+        "title": "EARTH AND THE UNIVERSE ",
+        "instructor": "KIMM, TAYSUN",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fcd52db3-b714-5474-aa20-5770bfc5b24f",
+        "department": "General Education Elective(10~18)",
+        "major": "Science & Technology",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCH1105-01-00",
+        "credits": 3.0,
+        "title": "EARTH AND ENVIRONMENT ",
+        "instructor": "Yi Myung-Suk",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "06a5fe3f-b7a7-5320-aef9-4694d22f586b",
+        "department": "General Education Elective(10~18)",
+        "major": "Science & Technology",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCH1108-01-00",
+        "credits": 3.0,
+        "title": "THE ENVIRONMENT AND ATMOSPHERE ",
+        "instructor": "Kim Hyun Mee",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S108"
+    },
+    {
+        "id": "e934226f-b6ac-5574-9ff3-7ad1904894ec",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1175-01-00",
+        "credits": 1.0,
+        "title": "THE SPIRIT OF YONSEI & HUMAN RIGHTS ",
+        "instructor": "PARK Kyung Ja",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8fe065c6-9e49-5ca6-8e24-27541a9b77ce",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Park, Joonhong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "357d4c3e-b2ed-5d1a-b5ff-3c6ddc2a4d45",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-02-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Chun, Heoung Jae",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "534e6dfa-600f-5670-9133-daecb0c6affe",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-03-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d23658c5-edcf-52d3-9468-5f1a04b85b46",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-06-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cacebf5a-3e59-5e47-9dc0-ebcee293b57f",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-07-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Nah Jeong Eun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc65d3e4-178b-5c2d-93a6-7fa008db4dbf",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-09-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Jeong, Chong Hun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e7b4957-742e-5b02-8f38-90ecbb043195",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI2001-13-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Dong Hwan Kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7a635d59-a16d-5541-b0a3-5ae7057cdf11",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCR1016-01-00",
+        "credits": 1.0,
+        "title": "LIFE ACADEMY ",
+        "instructor": "Nam Seok In",
+        "times_str": "Tue10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "APZH108"
+    },
+    {
+        "id": "5ac8ed6f-2cd5-51e0-8740-4650a2cc53fb",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1166-01-00",
+        "credits": 3.0,
+        "title": "HUMANITY REFLECTION FOR THE VALUE OF TRUTH, JUSTICE AND FREEDOM ",
+        "instructor": "Cho, Dae-Ho",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ab0a6168-9fcc-539e-a809-04e88c0a552f",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1167-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL INNOVATION & CSR ",
+        "instructor": "KIM DO-YOUNH",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S208/Realtime online lecture"
+    },
+    {
+        "id": "4c6a6969-0d50-548d-a074-e22f5c9f66a3",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1176-01-00",
+        "credits": 3.0,
+        "title": "SCIO-SCIENTIFIC ISSUES BY CONVERGENCE EDUCATION APPROACH ",
+        "instructor": "BAEK YOON SU",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "845d046e-2866-5767-a79b-8711b23f3a74",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1177-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING SUSTAINABLE DEVELOPMENT WITH BKM ",
+        "instructor": "KIM SO YOON/Park, Joonhong/PARK TAE IN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "873779a7-1ff6-5af5-a440-780620c57aeb",
+        "department": "General Education Elective(10~18)",
+        "major": "Society & Value",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCI1183-01-00",
+        "credits": 3.0,
+        "title": "TRANSDISCIPLINARY TEAMWORK FOR SOCIAL PROBLEM SOLVING ",
+        "instructor": "Song In Han",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu403"
+    },
+    {
+        "id": "3c3d171f-472b-5057-927f-02b49797ee3c",
+        "department": "General Education Elective(10~18)",
+        "major": "Literature & Arts",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCJ1135-01-00",
+        "credits": 1.0,
+        "title": "YONSEI UNIVERSITY CHOIR(LAB CHOIR) ",
+        "instructor": "JI HYUN CHUNG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus117"
+    },
+    {
+        "id": "a410599c-fbf1-5173-a259-bbffbb5905a0",
+        "department": "General Education Elective(10~18)",
+        "major": "Literature & Arts",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCJ1135-02-00",
+        "credits": 1.0,
+        "title": "YONSEI UNIVERSITY CHOIR(LAB CHOIR) ",
+        "instructor": "KIM DAEKWANG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus103"
+    },
+    {
+        "id": "49e035c2-3fda-509f-ae36-bb2acee21ae5",
+        "department": "General Education Elective(10~18)",
+        "major": "Literature & Arts",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCJ1112-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO VISUAL ARTS ",
+        "instructor": "LEE Hyun Soo",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "39a1fa51-ae6f-51f9-b5c8-aef18ef86a94",
+        "department": "General Education Elective(10~18)",
+        "major": "Literature & Arts",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCJ1124-01-00",
+        "credits": 3.0,
+        "title": "CULTURAL CONTENTS & CREATIVE IMAGINATION ",
+        "instructor": "Yu Gwang-Su",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "db705dae-361d-538c-9214-a19699f7bf82",
+        "department": "General Education Elective(10~18)",
+        "major": "Literature & Arts",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCJ1131-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED PRACTICAL WRITING ",
+        "instructor": "QUAN YINZHU",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    },
+    {
+        "id": "98960031-8c0d-5359-bd05-4dbf2ee97e9c",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1111-01-00",
+        "credits": 3.0,
+        "title": "BUILDING FLUENCY IN SPEAKING(ADV) ",
+        "instructor": "HWANG, JIM SUN IL",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S602/Realtime online lecture"
+    },
+    {
+        "id": "03538dbf-9810-5412-9b42-a27270cfb92e",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1111-02-00",
+        "credits": 3.0,
+        "title": "BUILDING FLUENCY IN SPEAKING(ADV) ",
+        "instructor": "Yu Grace Eun Hea",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S106/Realtime online lecture"
+    },
+    {
+        "id": "e853e82a-2063-5c0e-af64-5afff3809815",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1143-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(ADV) ",
+        "instructor": "McCluskey Kelly",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S404"
+    },
+    {
+        "id": "5d1f7468-0627-5b3a-9850-bae4f406c24b",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1143-02-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(ADV) ",
+        "instructor": "HENNING DUANE",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S608/Realtime online lecture"
+    },
+    {
+        "id": "d334bb19-652e-5278-80f4-1cc0af723bdb",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1150-01-00",
+        "credits": 3.0,
+        "title": "WORLD ISSUES: ENGLISH THROUGH THE MEDIA(ADV) ",
+        "instructor": "Barnard Jonathan R.",
+        "times_str": "Wed1/Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S602/Realtime online lecture"
+    },
+    {
+        "id": "5be65d5b-d790-5d8f-add4-a2adf2fa57e7",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1158-01-00",
+        "credits": 3.0,
+        "title": "WORLD ISSUES: ENGLISH THROUGH THE MEDIA(HONORS) ",
+        "instructor": "Barnard Jonathan R.",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S602/Realtime online lecture"
+    },
+    {
+        "id": "a797f9ac-1f53-5c2f-8773-6f6be7b92190",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1159-01-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(HONORS) ",
+        "instructor": "HENNING DUANE",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BYH S106/Realtime online lecture"
+    },
+    {
+        "id": "66e2a132-8135-5eb2-b545-5e8cb305d818",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCK1159-02-00",
+        "credits": 3.0,
+        "title": "CAREER DEVELOPMENT ENGLISH(HONORS) ",
+        "instructor": "McCluskey Kelly",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S106/Realtime online lecture"
+    },
+    {
+        "id": "98779ba4-b8e2-5611-b270-9223f0b0b1f0",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "YCI1702-01-00",
+        "credits": 3.0,
+        "title": "GERMAN CULTURE AND ARTS ",
+        "instructor": "Kim SungHyun",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "9e3839a7-3094-5dc7-9a55-7551afe2edf8",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "YCI1703-01-00",
+        "credits": 3.0,
+        "title": "FRENCH CULTURE AND ARTS ",
+        "instructor": "Yoo Yaejin",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "03654e5b-0163-5a14-b0fe-328874d636fa",
+        "department": "General Education Elective(10~18)",
+        "major": "Understanding Foreign Laguage & World",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "YCI1705-01-00",
+        "credits": 3.0,
+        "title": "SPANISH CULTURAL AND ARTS ",
+        "instructor": "CHOE HAE SUNG",
+        "times_str": "Thu2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fc04cb14-0e8e-5d85-aa13-19c605894f61",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1101-01-00",
+        "credits": 1.0,
+        "title": "TENNIS ",
+        "instructor": "Suh Sang-Hoon",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Tennis Court (Hard)"
+    },
+    {
+        "id": "aae8257f-2081-53b9-a174-4e3f8099a3db",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1101-02-00",
+        "credits": 1.0,
+        "title": "TENNIS ",
+        "instructor": "LEE TAE-HYUNG",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Tennis Court (Clay)"
+    },
+    {
+        "id": "ff225c37-eed5-5176-980d-3af3a2c59e89",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1101-03-00",
+        "credits": 1.0,
+        "title": "TENNIS ",
+        "instructor": "KIM JAE HYUNG",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Tennis Court (Clay)"
+    },
+    {
+        "id": "2fbce83a-ae17-55f3-9fa9-b739bcec52e3",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1102-01-00",
+        "credits": 1.0,
+        "title": "SOCCER ",
+        "instructor": "Kim Byonghun",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Athletic Field"
+    },
+    {
+        "id": "c5681fdf-fd54-5d17-8e36-20fe6aad5b9d",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-01-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "LEE HA YOUNG",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "44379c28-ec2e-51d6-ae61-2efae8fa38bc",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-02-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "KANG TAE-KYU",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "c1653cad-9961-5bc0-b360-d2e82ab188a1",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-03-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "Hwang Jae-Wook",
+        "times_str": "Wed1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "3b6c85ca-24a7-56a5-ae05-1d20320973e2",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-04-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "Hwang Jae-Wook",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "c8d3fc10-df14-5124-bac5-377453ede440",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-05-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "Ha Sunghe",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "3307817d-1391-5a41-b2fc-af523d5c1d2e",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-06-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "kang min hong",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "5be2efdb-60b9-5d83-bacd-e06060268c87",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-07-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "LEE MI KYUNG",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "86f7e722-3dea-5f3c-88f0-452605a0d873",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1103-08-00",
+        "credits": 1.0,
+        "title": "SWIMMING ",
+        "instructor": "LEE MI KYUNG",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "14858d3d-2749-5649-8fd5-ff457dab8ca4",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1104-01-00",
+        "credits": 1.0,
+        "title": "BASKETBALL ",
+        "instructor": "Jeong Hee Seong",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "4fa4debb-63d6-5fe3-ba20-7ca1181842f5",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1104-02-00",
+        "credits": 1.0,
+        "title": "BASKETBALL ",
+        "instructor": "Jeong Hee Seong",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "8476736b-d2ff-5592-9952-0879b19876c4",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1104-03-00",
+        "credits": 1.0,
+        "title": "BASKETBALL ",
+        "instructor": "Kim Taejung",
+        "times_str": "Fri7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "99b0bd7c-4ac3-5afe-89c9-a97afa1c5756",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-01-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "RYU JAE HOON",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "a7332bd5-dcff-50b3-8fd1-31881b90a633",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-02-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "KIM JI SOO",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "2de45596-28ae-5fa5-a1ba-099f6617958c",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-03-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "YOON DOO SANG",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "37d6cfa6-e22f-5f51-8d47-1e7aeffa120d",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-04-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "(강사채용예정)",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "bffed4b6-7898-5530-9d9e-f4ba2b07419c",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-05-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "PARK HYUN MI",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "9ded6b44-6ec6-5ff8-bd97-aace968b1405",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-06-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "chung sunhee",
+        "times_str": "Wed1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "ee63e666-e5a8-5e91-8526-186138df5220",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-07-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "KIM JAE HYUNG",
+        "times_str": "Thu1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "4e64a4aa-779a-5994-a29a-40c1362002cf",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-08-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "KIM JAE HYUNG",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "f4a6cb70-65bf-51ff-b190-f1761b94b49e",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-09-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "Han Jee hoon",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "c9ff444a-c515-5149-91e0-0521a52f37ba",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-10-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "Han Jee hoon",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "db8987a5-6c4a-5bc6-8369-379126a4f52b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1105-11-00",
+        "credits": 1.0,
+        "title": "GOLF ",
+        "instructor": "Lee Hye Ran",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "46726c64-5cd4-5c19-aca3-a3579b15d859",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1106-01-00",
+        "credits": 1.0,
+        "title": "FENCING ",
+        "instructor": "Lee, Han Joo",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC"
+    },
+    {
+        "id": "1ce7bc13-30f6-54e7-af22-08dea184f741",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1106-02-00",
+        "credits": 1.0,
+        "title": "FENCING ",
+        "instructor": "Lee, Han Joo",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC"
+    },
+    {
+        "id": "ca8b59c5-0414-53c1-b331-f1c95aa8197d",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1108-01-00",
+        "credits": 1.0,
+        "title": "SELF-DEFENSE ",
+        "instructor": "KO JAE-MYUN",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB12"
+    },
+    {
+        "id": "17674353-dde2-51f4-8790-5149ea01e3f8",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-01-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "LEE BYUNGGOO",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "fc4cf889-407d-54a4-95c7-1807d0a8fa79",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-02-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "Kim YuSik",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "a7ab1c98-8bd5-5c73-8c69-79356d487835",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-03-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "Kim YuSik",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "40ccff59-3b90-55be-ae51-a06fe76bbb89",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-04-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "KIM JAE HO",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "fc6e9068-3c55-5e57-9bbb-e2a30bf9126c",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-05-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "KIM JAE HO",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "53635187-d11a-5ef5-9e8d-85667338e93d",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-06-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "KIM JAE HO",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "ccc9b749-b8e6-5004-9034-d022dfd9b323",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-07-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "KANG HEEYEOB",
+        "times_str": "Wed1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "9563f597-241d-5baa-91e2-b8866850a274",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-08-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "Han Jee hoon",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "89d36272-6d1c-5169-abad-87bc4f7613ef",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1109-09-00",
+        "credits": 1.0,
+        "title": "PHYSICAL TRAINING ",
+        "instructor": "PARK JIHYE",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "eb55fb1c-42ce-5933-87fa-d1bfab0eebd8",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1110-01-00",
+        "credits": 1.0,
+        "title": "FOLK DANCE ",
+        "instructor": "Gwak jungwoon",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "040f691a-0f67-52b9-9dc1-2becf71e30f0",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1110-02-00",
+        "credits": 1.0,
+        "title": "FOLK DANCE ",
+        "instructor": "Gwak jungwoon",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "a140e58c-c11c-5cc1-aedc-8c2e273dedf9",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1110-03-00",
+        "credits": 1.0,
+        "title": "FOLK DANCE ",
+        "instructor": "Jung Moonmi",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "eab6226f-e30c-5348-a69d-9136789b956b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1111-01-00",
+        "credits": 1.0,
+        "title": "BADMINTON ",
+        "instructor": "JEONG KEUN YOUNG",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "4b0f1345-5593-552b-b8e3-7b4d1316d096",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1111-02-00",
+        "credits": 1.0,
+        "title": "BADMINTON ",
+        "instructor": "CHOI JESANG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "a6655b8e-cc97-5a8c-afb8-c0b4a7e3139a",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1111-03-00",
+        "credits": 1.0,
+        "title": "BADMINTON ",
+        "instructor": "Choi Seangbae",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "04fd86d5-655f-50ea-af65-962d7aa46d5d",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1112-01-00",
+        "credits": 1.0,
+        "title": "TABLE TENNIS ",
+        "instructor": "Choi Seangbae",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "37e28b18-a9c8-59ab-b7ef-f8b7df2311c9",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1112-02-00",
+        "credits": 1.0,
+        "title": "TABLE TENNIS ",
+        "instructor": "KANG TAE-KYU",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "47fd4845-9d63-51b2-88e5-d94aa8e79f5c",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1112-03-00",
+        "credits": 1.0,
+        "title": "TABLE TENNIS ",
+        "instructor": "Choi Hyun-Wook",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "3c2d1391-ddfb-5451-8f65-1fa3df1b7e66",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1112-04-00",
+        "credits": 1.0,
+        "title": "TABLE TENNIS ",
+        "instructor": "Choi Hyun-Wook",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "449ae9a6-68cd-52d6-bcc9-afd0db1eb0f0",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1112-05-00",
+        "credits": 1.0,
+        "title": "TABLE TENNIS ",
+        "instructor": "EUN JONG WON",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "bd2322c6-f359-58cf-bc37-c79378fcc026",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1115-01-00",
+        "credits": 1.0,
+        "title": "DANCE SPORTS ",
+        "instructor": "Park In-sil",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "e4f83525-a498-5c33-88a2-1e88ab3fd123",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1118-01-00",
+        "credits": 1.0,
+        "title": "TAEK-KYUN ",
+        "instructor": "DO KIHYUN",
+        "times_str": "Thu5,6(Thu5,6)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "c045d046-b49a-5f0f-b899-dc5ef465bb76",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1119-01-00",
+        "credits": 1.0,
+        "title": "TAEKWONDO ",
+        "instructor": "MOON DAE SOUN",
+        "times_str": "Tue3,4(Tue3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "f80a8904-0374-5550-87f0-c3d56e5e0e98",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1119-02-00",
+        "credits": 1.0,
+        "title": "TAEKWONDO ",
+        "instructor": "MOON DAE SOUN",
+        "times_str": "Tue6,7(Tue6,7)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "d8ff7308-7a98-5f25-88ac-1a9ddf104d31",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1119-03-00",
+        "credits": 1.0,
+        "title": "TAEKWONDO ",
+        "instructor": "MOON DAE SOUN",
+        "times_str": "Tue8,9(Tue8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "a1a8a623-1208-5b16-9a9b-e8b7884377b4",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1119-04-00",
+        "credits": 1.0,
+        "title": "TAEKWONDO ",
+        "instructor": "Yoon SeongWon",
+        "times_str": "Mon1,2(Mon1,2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "afa805e3-c4b5-5d76-80e7-490ed34f9a60",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1121-01-00",
+        "credits": 1.0,
+        "title": "YOGA ",
+        "instructor": "KIM RI NA",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "7e480d8c-45e8-551e-a22a-c4d3a452209b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1121-02-00",
+        "credits": 1.0,
+        "title": "YOGA ",
+        "instructor": "kwak juhyun",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "5c33d249-80d1-502b-966e-45744eb56f0b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1121-03-00",
+        "credits": 1.0,
+        "title": "YOGA ",
+        "instructor": "Kim Min Sun",
+        "times_str": "Thu1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "ef8a2cde-bf83-59de-b8fb-2f311294d946",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1123-01-00",
+        "credits": 1.0,
+        "title": "BASKETBALL(INTERMEDIATE) ",
+        "instructor": "CHOI JESANG",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC"
+    },
+    {
+        "id": "6ea7b5f3-358d-5799-a821-cad054444dba",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1124-01-00",
+        "credits": 1.0,
+        "title": "GOLF(INTERMEDIATE) ",
+        "instructor": "LEE KWANG HO",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "1d75dad3-401d-5fbf-96f8-419d62e46763",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1127-01-00",
+        "credits": 1.0,
+        "title": "SWIMMING(INTERMEDIATE) ",
+        "instructor": "Hwang Jae-Wook",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "9def9725-8548-53e6-937c-0fb29dc0d857",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1127-02-00",
+        "credits": 1.0,
+        "title": "SWIMMING(INTERMEDIATE) ",
+        "instructor": "kang min hong",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "4f139dd2-a878-5f1d-94dc-3216c0194057",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1127-03-00",
+        "credits": 1.0,
+        "title": "SWIMMING(INTERMEDIATE) ",
+        "instructor": "kang min hong",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "320c39fa-4235-5c4a-aab2-d5bb3d776967",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1207-01-00",
+        "credits": 1.0,
+        "title": "KUNDO ",
+        "instructor": "MA YOON SUNG",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "62f46340-d967-5c0c-8f54-7eeb2bba4794",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1209-01-00",
+        "credits": 1.0,
+        "title": "HIP-HOP DANCE ",
+        "instructor": "CHUNG YUMI",
+        "times_str": "Fri2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "1b5e870d-6f13-5d1c-aebb-d4f038324fc9",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1215-01-00",
+        "credits": 1.0,
+        "title": "PILATES ",
+        "instructor": "KIM RI NA",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "f78357ed-8941-5617-92b5-7b4c5a46fd06",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1215-02-00",
+        "credits": 1.0,
+        "title": "PILATES ",
+        "instructor": "KIM RI NA",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "9fa3427c-0ada-500c-b200-1bd9d4b31f15",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1215-03-00",
+        "credits": 1.0,
+        "title": "PILATES ",
+        "instructor": "chung sunhee",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "7bb5cd04-7491-5785-b834-0f3b2dc832ed",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1215-04-00",
+        "credits": 1.0,
+        "title": "PILATES ",
+        "instructor": "chung sunhee",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "3fd1f70f-bb06-5e8e-8f2f-30e0c492f7e0",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1215-05-00",
+        "credits": 1.0,
+        "title": "PILATES ",
+        "instructor": "Yang Hyejoo",
+        "times_str": "Wed1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "506d11db-0e44-522d-8126-8b8fddc4ab37",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1217-01-00",
+        "credits": 1.0,
+        "title": "BOWLING ",
+        "instructor": "Lee Haemyeong",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Outside Lecture"
+    },
+    {
+        "id": "4e1cd99a-4b4b-5e77-95d5-04271e096a62",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1217-02-00",
+        "credits": 1.0,
+        "title": "BOWLING ",
+        "instructor": "Lee Haemyeong",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Outside Lecture"
+    },
+    {
+        "id": "4181a713-adc4-58f9-9eb5-e1151c24ee28",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1217-03-00",
+        "credits": 1.0,
+        "title": "BOWLING ",
+        "instructor": "Lee Haemyeong",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Outside Lecture"
+    },
+    {
+        "id": "64313d0f-f561-51f9-874d-374f63fc8d8b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1217-04-00",
+        "credits": 1.0,
+        "title": "BOWLING ",
+        "instructor": "Choi Hyun-Wook",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Outside Lecture"
+    },
+    {
+        "id": "9d9b73f7-7274-5bfc-99fb-18009d7901b2",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1219-01-00",
+        "credits": 1.0,
+        "title": "POWER DIET ",
+        "instructor": "PARK JIHYE",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "b41fc6a2-3bbf-5e39-85ba-4e5d626d550b",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1219-02-00",
+        "credits": 1.0,
+        "title": "POWER DIET ",
+        "instructor": "PARK JIHYE",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "a7b5bb43-b4ff-57bc-aff4-839f0a110062",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1220-01-00",
+        "credits": 1.0,
+        "title": "KOREA YANGSENG ",
+        "instructor": "LEE ROK BIT",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "1d84d5f4-afdd-5118-b498-7d70fd70559e",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1220-02-00",
+        "credits": 1.0,
+        "title": "KOREA YANGSENG ",
+        "instructor": "LEE ROK BIT",
+        "times_str": "Thu7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "5b335d40-6e6e-5138-ab03-d1973a3a1dd7",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1222-01-00",
+        "credits": 1.0,
+        "title": "LINE DANCE ",
+        "instructor": "Yoon Mi Jung",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "85a7f872-faec-5287-a997-f597b485fb18",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1222-02-00",
+        "credits": 1.0,
+        "title": "LINE DANCE ",
+        "instructor": "Park HyuKyoung",
+        "times_str": "Mon9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "40eb4ded-56a0-5d27-b654-0086a98a06b5",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1223-01-00",
+        "credits": 1.0,
+        "title": "RHYTHMIC GYMNASTICS ",
+        "instructor": "kwak juhyun",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "23049b56-3a15-5747-9892-c4c3792e8a2c",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1223-02-00",
+        "credits": 1.0,
+        "title": "RHYTHMIC GYMNASTICS ",
+        "instructor": "kwak juhyun",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB13"
+    },
+    {
+        "id": "05995e58-b441-54cc-aa91-d2b6a41a0046",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1224-01-00",
+        "credits": 1.0,
+        "title": "PICKLEBALL ",
+        "instructor": "LEE ROK BIT",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "ef7b207d-53d2-575d-8a1e-3b2010d4a5f8",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1224-02-00",
+        "credits": 1.0,
+        "title": "PICKLEBALL ",
+        "instructor": "Lee Yoongu",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "be441c56-0ee1-569c-a19d-35f5f84ff6ad",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1229-01-00",
+        "credits": 1.0,
+        "title": "Dietary Control and Exercise for Obesity Management ",
+        "instructor": "Cho Suyoun",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "dacb78ec-f977-55df-91cb-0033e983a48e",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "UCL1205-01-00",
+        "credits": 3.0,
+        "title": "MODERN SOCIETY & MENTAL HEALTH ",
+        "instructor": "Soo Hyun Park/CHANG JI HEUM",
+        "times_str": "Wed6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "46b77c94-540a-5c13-818e-315d0f46f15f",
+        "department": "General Education Elective(10~18)",
+        "major": "Health & Sports",
+        "year": null,
+        "classification": "Elective General Education",
+        "code": "YCL1402-01-00",
+        "credits": 3.0,
+        "title": "HEALTH AND EXCERCISE ",
+        "instructor": "PAIK IL YOUNG/Suh Sang-Hoon",
+        "times_str": "Thu8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

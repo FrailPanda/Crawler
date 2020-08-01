@@ -1,0 +1,1271 @@
+﻿[
+    {
+        "id": "29d82c11-dbef-5f91-ad68-e8af7695a79a",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "CHE1012-01-00",
+        "credits": 3.0,
+        "title": "공학화학및실험(2) ",
+        "instructor": "오문현",
+        "times_str": "화5,6(목5,6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "공A432(과422)"
+    },
+    {
+        "id": "80223cce-2ceb-5f81-a1a7-c180bca0f04c",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1002-01-01",
+        "credits": 3.0,
+        "title": "미분적분학과벡터해석(2) ",
+        "instructor": "박승경",
+        "times_str": "수3,4(금3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "1cce4ed3-b607-581f-9c29-8e6003d4507e",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1002-01-02",
+        "credits": 3.0,
+        "title": "미분적분학과벡터해석(2) ",
+        "instructor": "박승경",
+        "times_str": "수3,4(금3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "9a6bae44-8e1c-5336-b7f0-ae1c104f52a9",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1002-01-00",
+        "credits": 3.0,
+        "title": "일반물리학및실험(2) ",
+        "instructor": "장수경",
+        "times_str": "월7,8(수7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과118)"
+    },
+    {
+        "id": "ad7c365f-1a58-5493-9979-a2c5965c64e8",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1002-02-00",
+        "credits": 3.0,
+        "title": "일반물리학및실험(2) ",
+        "instructor": "정광호",
+        "times_str": "화2,3(목2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과118)"
+    },
+    {
+        "id": "f91fbf60-e3f3-5400-a345-1b382bebd774",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1202-01-00",
+        "credits": 3.0,
+        "title": "한문(2) ",
+        "instructor": "장진엽",
+        "times_str": "월3,4/수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교402/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "a7370204-dba5-5dc2-a5e4-f01e0bfd19bc",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1202-02-00",
+        "credits": 3.0,
+        "title": "한문(2) ",
+        "instructor": "김성은",
+        "times_str": "화5,6/목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교405/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "d3072abc-2558-59d6-bcac-e359efccd060",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1203-01-00",
+        "credits": 3.0,
+        "title": "한문(3) ",
+        "instructor": "김성은",
+        "times_str": "화3,4/목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교302/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "fbc69801-20d4-5255-a026-ba1d3b6bb45b",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1302-01-00",
+        "credits": 3.0,
+        "title": "중국어(2) ",
+        "instructor": "박미애",
+        "times_str": "월3,4/수3(수4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교404/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "f3dd3f9d-0430-5447-8273-6d3da2985436",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1302-02-00",
+        "credits": 3.0,
+        "title": "중국어(2) ",
+        "instructor": "성기은",
+        "times_str": "월7,8/수7(수8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "교404/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "1100ca98-cbd4-57cb-9ad8-f06d4cce4eff",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1302-03-00",
+        "credits": 3.0,
+        "title": "중국어(2) ",
+        "instructor": "박지영",
+        "times_str": "화5,6/목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교302(교302)"
+    },
+    {
+        "id": "1f137d46-d6b0-57c9-be73-720316d982de",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1303-01-00",
+        "credits": 3.0,
+        "title": "중국어(3) ",
+        "instructor": "박수진",
+        "times_str": "화3,4,목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "af36582d-e6f1-5632-a1b3-80fd06981a89",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1452-01-00",
+        "credits": 3.0,
+        "title": "독일어(2) ",
+        "instructor": "이진영",
+        "times_str": "화3,4/목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교405/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "de64b302-fd19-5830-9e62-3816ef9f8d9c",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1453-01-00",
+        "credits": 3.0,
+        "title": "독일어(3) ",
+        "instructor": "김성현",
+        "times_str": "월7,8/수7(수8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교405(교405)"
+    },
+    {
+        "id": "35e639d5-f528-5a9f-8311-81b7e012018b",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1502-01-00",
+        "credits": 3.0,
+        "title": "프랑스어(2) ",
+        "instructor": "이혜영",
+        "times_str": "수5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "d218906b-f5cd-5f80-b666-52000545031f",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1502-02-00",
+        "credits": 3.0,
+        "title": "프랑스어(2) ",
+        "instructor": "유예진",
+        "times_str": "화1,2/목1(목2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교302(교302)"
+    },
+    {
+        "id": "9ed27555-41b3-5981-b8c9-c9de421a833f",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1503-01-00",
+        "credits": 3.0,
+        "title": "프랑스어(3) ",
+        "instructor": "르사쥬베랑제르",
+        "times_str": "화5,6,목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "교404(교404)"
+    },
+    {
+        "id": "b61a4909-9765-5e9b-b970-5566e8616aeb",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1552-01-00",
+        "credits": 3.0,
+        "title": "러시아어(2) ",
+        "instructor": "장윤선",
+        "times_str": "화3,4/목3(목4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "교402/실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "f0badfeb-a4f4-58bc-9139-6485a4a8a638",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "YCF1553-01-00",
+        "credits": 3.0,
+        "title": "러시아어(3) ",
+        "instructor": "정연우",
+        "times_str": "화5,6/목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교405(교405)"
+    },
+    {
+        "id": "e2f05692-1649-53f8-a3db-d0a0339af303",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "CHE1004-01-00",
+        "credits": 4.0,
+        "title": "일반화학및실험(2) ",
+        "instructor": "심은지",
+        "times_str": "화7,8,9(목7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과B101(과422)"
+    },
+    {
+        "id": "805b0722-2955-5acb-a7c4-ed1ab6ead4ea",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1004-01-00",
+        "credits": 4.0,
+        "title": "일반물리학및실험(2) ",
+        "instructor": "장수경",
+        "times_str": "월7,8(수7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과118)"
+    },
+    {
+        "id": "50e553b6-89ca-55d1-83ed-a4935a89e1e4",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "BIO1001-01-00",
+        "credits": 3.0,
+        "title": "일반생물학및실험(1) ",
+        "instructor": "정인권,조현수",
+        "times_str": "월5/월6(수5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/과S118A(과SB202)"
+    },
+    {
+        "id": "852dc1a2-ea15-5a7c-b556-1abdcaabdd65",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "BIO1002-01-00",
+        "credits": 3.0,
+        "title": "일반생물학및실험(2) ",
+        "instructor": "이명민",
+        "times_str": "화7,8(목7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(동영상콘텐츠)"
+    },
+    {
+        "id": "d05dc720-03e3-5b58-9c74-3e99a9c31c47",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "BIO1009-01-00",
+        "credits": 3.0,
+        "title": "일반생물학및실험(2)(심화) ",
+        "instructor": "조진원",
+        "times_str": "월3,4,5(수3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "cf0baf87-7b34-58a0-86f2-782d3040add5",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "BIO1011-01-00",
+        "credits": 3.0,
+        "title": "공학생물학및실험(1) ",
+        "instructor": "조면행",
+        "times_str": "수3,4(금3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인(동영상콘텐츠)"
+    },
+    {
+        "id": "4cb524d1-d57b-5bbf-9bc1-3c02880ec801",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "BIO1012-01-00",
+        "credits": 3.0,
+        "title": "공학생물학및실험(2) ",
+        "instructor": "이주헌",
+        "times_str": "월3,4(수3,4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(동영상콘텐츠)"
+    },
+    {
+        "id": "e777f045-4cea-5022-bc1c-0e943f387ef8",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "CHE1002-01-00",
+        "credits": 3.0,
+        "title": "일반화학및실험(2) ",
+        "instructor": "심은지",
+        "times_str": "화7,8(목7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과B101(과422)"
+    },
+    {
+        "id": "154b88fb-533f-58b7-8b22-ec1e52ca6c1e",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "ECO1001-01-00",
+        "credits": 3.0,
+        "title": "경제학입문 ",
+        "instructor": "이상헌",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "abbda30c-2993-5683-961e-143643ebd5ac",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "ECO1001-02-00",
+        "credits": 3.0,
+        "title": "경제학입문 ",
+        "instructor": "이지영",
+        "times_str": "목2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "dfe95111-47c5-5bfc-af63-06ee7b3cf6db",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "ECO1001-03-00",
+        "credits": 3.0,
+        "title": "경제학입문 ",
+        "instructor": "김학렬",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "3b92697a-f54a-5a21-88fc-cd9b831b4f63",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1001-01-01",
+        "credits": 3.0,
+        "title": "미분적분학과벡터해석(1) ",
+        "instructor": "김호범",
+        "times_str": "목6,7(화8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "ed5b77b5-708b-505b-b1a6-e6ebd4b224c4",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1001-01-02",
+        "credits": 3.0,
+        "title": "미분적분학과벡터해석(1) ",
+        "instructor": "김호범",
+        "times_str": "목6,7(화8,9)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인(실시간온라인)"
+    },
+    {
+        "id": "4cb29ada-1680-534a-86d6-24ccf3754c28",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1011-01-01",
+        "credits": 3.0,
+        "title": "공학수학(1) ",
+        "instructor": "손재범",
+        "times_str": "화5,6/목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공A528(공A528)"
+    },
+    {
+        "id": "a8b27c8e-e17e-5958-88c8-1b7d5230fc48",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1011-01-02",
+        "credits": 3.0,
+        "title": "공학수학(1) ",
+        "instructor": "손재범",
+        "times_str": "화5,6/목5(목6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공A528(공A690)"
+    },
+    {
+        "id": "2b5e76e2-8924-5a0a-bbad-d1df91d1706f",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1012-01-01",
+        "credits": 3.0,
+        "title": "공학수학(2) ",
+        "instructor": "김두규",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5c918583-960d-5104-97f2-ca938fc6dd0f",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "MAT1012-01-02",
+        "credits": 3.0,
+        "title": "공학수학(2) ",
+        "instructor": "김두규",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "8bcd29d6-c097-5831-982f-8c59ea21156f",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1012-01-00",
+        "credits": 3.0,
+        "title": "공학물리학및실험(2) ",
+        "instructor": "정광호",
+        "times_str": "화7,8(목7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인(과118)"
+    },
+    {
+        "id": "43bb5a39-f91d-56c5-8dff-b786656d8728",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1012-02-00",
+        "credits": 3.0,
+        "title": "공학물리학및실험(2) ",
+        "instructor": "이삼현",
+        "times_str": "목3,4(화2,3)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "공A546(과118)"
+    },
+    {
+        "id": "59545bc3-a6ed-560e-b043-f2349e29f25d",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "PHY1012-03-00",
+        "credits": 3.0,
+        "title": "공학물리학및실험(2) ",
+        "instructor": "이삼현",
+        "times_str": "목7,8(화7,8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "공A546(과118)"
+    },
+    {
+        "id": "10613671-9a69-5a1c-88d2-cf49b6c0324e",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-01-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김숙경",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5bc89f03-caae-5ce7-8271-f423891c3067",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-01-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김숙경",
+        "times_str": "월3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "df6f886d-f03c-5ac2-afa4-040e8d8b90cb",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-02-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "박지영",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "bd4904e1-f5f0-5246-8213-e461abf03f35",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-02-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "박지영",
+        "times_str": "월5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "745c0971-7065-5ff3-ae9f-f9298c989f82",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-03-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "한솔지",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "755cafe6-e14a-5115-8685-697779cab18c",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-03-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "한솔지",
+        "times_str": "월7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "f4bce875-b8bc-557d-b44c-a33591d764ba",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-04-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김미정",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "5eca9fd2-a0ce-5b98-89ef-01f57a93d61e",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-04-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김미정",
+        "times_str": "화3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "eefab9d5-2753-540d-8be8-d87f06e05212",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-05-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김규현",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "a7f336da-0911-5156-a1b8-7ac87efa1c94",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-05-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "김규현",
+        "times_str": "화5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "e4156a42-bef3-538b-aa24-aa0a40d14321",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-06-01",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "한솔지",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "7106b2f0-0cae-59f7-8af1-5411e398f4bb",
+        "department": "계열기초(~2009학번)",
+        "major": "계열기초",
+        "year": null,
+        "classification": "계기",
+        "code": "STA1001-06-02",
+        "credits": 3.0,
+        "title": "통계학입문 ",
+        "instructor": "한솔지",
+        "times_str": "화7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    }
+]

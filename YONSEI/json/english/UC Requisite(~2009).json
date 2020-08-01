@@ -1,0 +1,1836 @@
+﻿[
+    {
+        "id": "e266e9eb-b2ca-5aa1-b8d1-6f02f7b83c2b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCB1101-01-00",
+        "credits": 3.0,
+        "title": "MODERN HISTORY OF KOREA ",
+        "instructor": "Lee Hana",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4b30e982-e15b-549d-9dbf-fbf176c75d87",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCB1103-01-00",
+        "credits": 3.0,
+        "title": "WESTERN CIVILIZATION ",
+        "instructor": "HWANG HYE JEAN",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6f5b9694-6f55-53df-b4d7-d76999115ad6",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCB1104-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY AND ETHICAL PROBLEMS ",
+        "instructor": "KO JUNG SIK",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "1f28f198-0dfc-5d56-8ce5-537865e2041b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCB1105-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF WESTERN PHILOSOPHY ",
+        "instructor": "KIM Ock-Kyoung",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "ad4f2038-5702-5c0c-b029-0ab7ce9d2713",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCG1126-01-00",
+        "credits": 3.0,
+        "title": "POETRY AND THOUGHT IN GRECO-ROMAN ERA ",
+        "instructor": "김기영",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "9c4380cd-e8b1-58d7-a70b-1a548f6df35c",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCD1653-01-00",
+        "credits": 3.0,
+        "title": "ASIAN CINEMAS ",
+        "instructor": "Baek Moon Im/Lee Hwajin",
+        "times_str": "Wed3,4(Fri3,4)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "fb5d7e0f-57fe-594f-ad73-10cda78ed073",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1251-01-00",
+        "credits": 3.0,
+        "title": "WAR AND HISTORY ",
+        "instructor": "Hong Seok Min",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d1c1d1a4-9ed4-5564-8673-02d94fb119bc",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1254-01-00",
+        "credits": 3.0,
+        "title": "DIALOGUE BETWEEN IDEOLOGIES AND HISTORY ",
+        "instructor": "Hong Seok Min",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "59c156a8-8f17-5793-b6bd-8f201e084b59",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1601-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF INTERPERSONAL RELATIONSHIPS ",
+        "instructor": "Lee, Ki-Hak",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "0189985f-7641-543f-b1a0-dd40c7706d0f",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1603-01-00",
+        "credits": 3.0,
+        "title": "WHAT IS MIND ",
+        "instructor": "Kim, Min-Shik",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "31ab142d-5c75-5a81-a7f1-1d473f89dca0",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1604-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF SEXUALITY AND GENDER ",
+        "instructor": "Yang Hyunjung",
+        "times_str": "Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "de34450e-7928-5322-9c23-2a4d0baf22b3",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1605-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF ABNORMAL BEHAVIOR ",
+        "instructor": "Yang Hyunjung",
+        "times_str": "Thu11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "f8a7c9f2-5fcc-599c-9ddd-73e32547336e",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1607-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF STRESS AND COPING ",
+        "instructor": "Yang Hyunjung",
+        "times_str": "Tue6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "318f9ff2-547a-5367-8930-e06d9dae5c6b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Humanity",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCG1702-01-00",
+        "credits": 3.0,
+        "title": "CHRISTIAN ETHICS AND SOCIAL RESPONSIBILITY ",
+        "instructor": "Jeong, Chong Hun",
+        "times_str": "Mon7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "648f3e12-0281-5d9e-a3a4-0e4fabdd8525",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1102-01-00",
+        "credits": 3.0,
+        "title": "MODERN UNDERSTANDING OF PHYSICS ",
+        "instructor": "Park Seong Chan",
+        "times_str": "Thu8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "SciHB132"
+    },
+    {
+        "id": "be067aaa-2a4b-519d-a5f9-4520b84c9eba",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1103-01-00",
+        "credits": 3.0,
+        "title": "ENVIRONMENTAL POLLUCTION AND HUMAN ",
+        "instructor": "Choi, Moon-Gun",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8c081827-5c87-5b87-b699-8ce5e15a2449",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1104-01-00",
+        "credits": 3.0,
+        "title": "MODERN THEORY OF LIFE ",
+        "instructor": "KIM OKYONG",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/SciHB132"
+    },
+    {
+        "id": "a1526c9c-54a6-54b1-a420-bad7cec3d805",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1105-01-00",
+        "credits": 3.0,
+        "title": "ORIGIN & EVOLUTION OF EARTH ",
+        "instructor": "Kim Jin-Wook",
+        "times_str": "Tue8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4a2f3680-9d80-54a8-acb8-2f489afda784",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1106-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF SPACE ",
+        "instructor": "Yi Sukyoung",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "53beb7e1-beed-5cad-b7c4-2e5de34f62b1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1106-02-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF SPACE ",
+        "instructor": "Kim Yong Cheol",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "52c052c5-12b2-55fd-896f-7a5a9403d56b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCC1113-01-00",
+        "credits": 3.0,
+        "title": "READING LIFE SCIENCES ",
+        "instructor": "Chang Soo Chul",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "ce04eb1d-2b58-5c69-9782-56e780a6e41a",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCH1103-01-00",
+        "credits": 3.0,
+        "title": "MATTER & LIFE ",
+        "instructor": "LEE Tae Ho/CHOI SOO HYUK",
+        "times_str": "Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "16822fa8-cbfe-5318-b0cc-fc6b903f65b1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCJ1001-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICS IN FINANCIAL SOCIETY ",
+        "instructor": "KIM JEONG-HOON",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "85c5ae89-465c-5240-b60f-320e288508f1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCL1003-01-00",
+        "credits": 3.0,
+        "title": "BOW AND LIRA: SEARCHING FOR A CREATIVE TANGENT POINT BETWEEN BIOLOGY AND PHILOSOPHY ",
+        "instructor": "Kim Dong Gyu",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciHB132/Realtime online lecture"
+    },
+    {
+        "id": "66a3bacb-3a93-5e39-a375-85b929df7414",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCL1004-01-00",
+        "credits": 3.0,
+        "title": "THE NEUROSCIENCE OF INTERPERSONAL RELATIONSHIPS ",
+        "instructor": "Kim Hyoun Kyoung",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4db52b9a-eee1-588d-a5c0-3b498fa61875",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCL1201-01-00",
+        "credits": 3.0,
+        "title": "MICROORGANISMS IN HUMAN LIFE AND HISTORY ",
+        "instructor": "LEE JooHun",
+        "times_str": "Tue8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7fa6c0a5-829b-5765-9357-48f94495bc41",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCL1601-01-01",
+        "credits": 3.0,
+        "title": "LIFE SCIENCE IN PRACTICE ",
+        "instructor": "Chang Soo Chul",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a4925a1e-7885-5b72-8378-14ba58934d05",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Nature",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCL1601-01-02",
+        "credits": 3.0,
+        "title": "LIFE SCIENCE IN PRACTICE ",
+        "instructor": "Chang Soo Chul",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "fd5dfac8-1b98-53e5-8e06-5e1197504054",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1101-01-00",
+        "credits": 3.0,
+        "title": "SOCIOLOGY IN CONTEMPORARY SOCIETY ",
+        "instructor": "Kim Kyungmi",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e85a12a0-6146-5424-a675-1f74393e3032",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1102-01-00",
+        "credits": 3.0,
+        "title": "MODERN SOCIETY AND PSYCHOLOGY ",
+        "instructor": "YOON SO YEON",
+        "times_str": "Wed1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "81981f0f-1688-5221-b1c7-0655d1c7afee",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1103-01-00",
+        "credits": 3.0,
+        "title": "MODERN SOCIETY AND ECONOMY ",
+        "instructor": "JO HA-HYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3e8a5403-2c62-5215-9acb-608853549e1a",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1105-01-00",
+        "credits": 3.0,
+        "title": "CIVIL SOCIETY & VOLUNTARISM ",
+        "instructor": "Choi Soochan/KIM JUNG SOO",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu303/Realtime online lecture"
+    },
+    {
+        "id": "01f35a49-6bb9-5d62-a91e-6241e9e948cd",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1106-01-00",
+        "credits": 3.0,
+        "title": "LAW IN MODERN SOCIETY ",
+        "instructor": "HAN Kyunwoo",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "SciH111"
+    },
+    {
+        "id": "7ad69e94-e203-5fe2-a468-213c9ad09963",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCD1107-01-00",
+        "credits": 3.0,
+        "title": "HISTORY & ISSUES OF KOREAN EDUCATION ",
+        "instructor": "Lee Won Jae",
+        "times_str": "Tue8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "86eadba1-8ae5-54c9-91a8-b8363925312a",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCG1004-01-00",
+        "credits": 3.0,
+        "title": "ASK THE WAY IN THE HUMANITIES ",
+        "instructor": "Hyun-cheol Kim/KIM SEONJA/Lee, Ki-Hak/Han Kyong Hee/NOH Yign",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "95e176de-cb88-5218-a1e7-052febc7852b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCH1002-01-00",
+        "credits": 3.0,
+        "title": "NATION-STATE AND PUBLICNESS ",
+        "instructor": "NA JONGSEOK",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "65613d8d-180c-5981-bc43-71c33335de23",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCH1302-01-00",
+        "credits": 3.0,
+        "title": "THE PROGRESSIVE AND THE CONSERVATIVE ",
+        "instructor": "Kim, Ho-Ki",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "722add04-743a-529a-ab55-e94ad3d09bc7",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCH1603-01-00",
+        "credits": 3.0,
+        "title": "FAMILY MATTERS: INTRODUCTION TO FAMILY LAW ",
+        "instructor": "Shin Jung Min",
+        "times_str": "Fri7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "1aaf0c4f-807d-58ce-b9e4-1f5401866b78",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCH1604-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO HUMAN RIGHTS AND POLICY ",
+        "instructor": "LEE SEUNG HYUN",
+        "times_str": "Wed6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "cf1fce70-669f-5cee-8ec6-28da461c54f1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Society",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCI1853-01-00",
+        "credits": 3.0,
+        "title": "GLOBAL LEADERSHIP ",
+        "instructor": "Kim, Yongho",
+        "times_str": "Wed11,12,13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "fd700b28-1b40-5251-b984-44efd0dc4e10",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCE1102-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF ART ",
+        "instructor": "SONG HEE KYUNG",
+        "times_str": "Wed5,Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5f543ab8-7347-537d-9c67-9e4fb02eeabf",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCE1105-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING ON CINEMA ",
+        "instructor": "KIM DONGHO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4f125314-285c-5c35-a310-127d95d6b8b9",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCE1105-02-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING ON CINEMA ",
+        "instructor": "Kang Chul",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ad958cdb-87c9-5451-8bd5-bdb84b100f8a",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCE1107-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF MUSIC ",
+        "instructor": "Chi Hyungjoo",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH Aud/Realtime online lecture"
+    },
+    {
+        "id": "6168356b-3e11-55b7-a663-af26c6c57f87",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCE1108-01-00",
+        "credits": 3.0,
+        "title": "DESIGN & CULTURE ",
+        "instructor": "KIM HYE-RAN",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "0720e369-9bf2-5dc5-8d39-81f5ccff9c53",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCJ1104-01-00",
+        "credits": 3.0,
+        "title": "ART HISTORY OF KOREA ",
+        "instructor": "SONG HEE KYUNG",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a1e2500b-7651-5d50-941a-8991729427e3",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCD1001-01-00",
+        "credits": 3.0,
+        "title": "CREATIVITY THROUGH ART ",
+        "instructor": "Kim Sang Keun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "af3117d5-cce1-5286-8218-ca435f643936",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCD1351-01-00",
+        "credits": 3.0,
+        "title": "CULTURE AND ARTS OF CENTRAL EUROPE ",
+        "instructor": "Choi, Gunn Young",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "8d393290-000d-55a0-8486-0ed1b573b354",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCD1601-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY MUSIC IN FILM ",
+        "instructor": "Lim Jiesun",
+        "times_str": "Tue8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d30cee69-b561-5ed1-8bbb-43d2d95e2a8a",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCD1602-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING POPULAR MUSIC ",
+        "instructor": "Park Ae-Kyung/Kwon Hyunseok",
+        "times_str": "Wed3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "bafaf58a-8f61-5dc0-b321-b730a4426620",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding Culture",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCE1255-01-00",
+        "credits": 3.0,
+        "title": "HISTORY READ THROUGH EUROPEAN URBAN CULTURAL SPACES ",
+        "instructor": "Hong Seok Min",
+        "times_str": "Fri11,12,13",
+        "times": {
+            "4": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "47ede4b7-8b44-5cfc-bad1-bd1ebe34b093",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "UCF1101-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION AND SOCIETY ",
+        "instructor": "Chun Jung Hyun",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f974095a-5353-51e6-a2d0-b7d1459657c1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-01-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "KIM YOOGYUNG",
+        "times_str": "Mon1,2/Wed1(Wed2)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu402(Edu402)"
+    },
+    {
+        "id": "095d58a5-79c4-59aa-9209-e75eaeb04cc1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-02-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "KIM YOOGYUNG",
+        "times_str": "Mon5,6/Wed5(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu402(Edu402)"
+    },
+    {
+        "id": "131faefb-e695-56a0-b2ec-9ae9a4808538",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-03-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "Kang Hyejong",
+        "times_str": "Mon7,8/Wed7(Wed8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu302/Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "6cd122e9-3621-51e7-a9b1-fadc99420a6c",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-04-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "Kang Hyejong",
+        "times_str": "Tue1,2/Thu1(Thu2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu404/()"
+    },
+    {
+        "id": "722fb36d-e37d-51da-ae10-3f10ad69ae95",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-05-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "Lim Mijung",
+        "times_str": "Tue3,4/Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu402(Edu402)"
+    },
+    {
+        "id": "7b82ea1d-9c57-534c-a157-126377e09358",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1201-06-00",
+        "credits": 3.0,
+        "title": "READING SINO-KOREAN LITERATURE(1) ",
+        "instructor": "Lim Mijung",
+        "times_str": "Tue7,8/Thu7(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu402(Edu402)"
+    },
+    {
+        "id": "8e51edb5-633f-53d1-bfd7-dba53d0108bb",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1301-01-00",
+        "credits": 3.0,
+        "title": "CHINESE(1) ",
+        "instructor": "KIM SEMI",
+        "times_str": "Mon3,4,Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "94f19c99-5111-5e2b-a540-b1f549733ae6",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1301-02-00",
+        "credits": 3.0,
+        "title": "CHINESE(1) ",
+        "instructor": "KIM WONHEE",
+        "times_str": "Mon5,6,Wed5(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "cdeaa57d-6dae-5ed5-832d-1cdc870d38a1",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1301-03-00",
+        "credits": 3.0,
+        "title": "CHINESE(1) ",
+        "instructor": "KIM SEUNGHYUN",
+        "times_str": "Tue1,2,Thu1(Thu2)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "5ba19116-5ac0-5451-8a89-b5fc68e30023",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1301-04-00",
+        "credits": 3.0,
+        "title": "CHINESE(1) ",
+        "instructor": "AN IN",
+        "times_str": "Tue7,8,Thu7(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "9a7427e4-beba-5d90-aca1-30a2f6571921",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1351-01-00",
+        "credits": 3.0,
+        "title": "JAPANESE(1) ",
+        "instructor": "Shin Wonsuns",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S408/Realtime online lecture"
+    },
+    {
+        "id": "584f9b26-f815-50f0-ac11-fbf72758ca22",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1351-02-00",
+        "credits": 3.0,
+        "title": "JAPANESE(1) ",
+        "instructor": "JANG YUN AH",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S108/Realtime online lecture"
+    },
+    {
+        "id": "6c0577da-5407-5fc0-abd1-673baeea672e",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1352-01-00",
+        "credits": 3.0,
+        "title": "JAPANESE(2) ",
+        "instructor": "Shin Wonsuns",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S108/Realtime online lecture"
+    },
+    {
+        "id": "c51bcadb-a5d8-5d6a-b665-8bbb46aaf2f7",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1451-01-00",
+        "credits": 3.0,
+        "title": "GERMAN(1) ",
+        "instructor": "Park Eun-Kyoung",
+        "times_str": "Tue3,4,Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "1afa8ece-2d93-5709-a601-4c9aa9d805ff",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1451-02-00",
+        "credits": 3.0,
+        "title": "GERMAN(1) ",
+        "instructor": "Park Eun-Kyoung",
+        "times_str": "Mon5,6,Wed5(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture(Realtime online lecture)"
+    },
+    {
+        "id": "83b9dd01-19cd-5fa5-af13-34f06b835c8d",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1501-01-00",
+        "credits": 3.0,
+        "title": "FRENCH(1) ",
+        "instructor": "Yoon Jeongim",
+        "times_str": "Mon3,4/Wed3(Wed4)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu302(Edu302)"
+    },
+    {
+        "id": "7a4bf2ac-45cf-5fc0-81f7-65965806aef0",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1501-02-00",
+        "credits": 3.0,
+        "title": "FRENCH(1) ",
+        "instructor": "Kim Minchai",
+        "times_str": "Tue7,8/Thu7(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu402/()"
+    },
+    {
+        "id": "94626e38-27f5-5d90-9708-38678844096e",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1551-01-00",
+        "credits": 3.0,
+        "title": "RUSSIAN(1) ",
+        "instructor": "Kwon Yongjae",
+        "times_str": "Mon5,6/Wed5(Wed6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu405/()"
+    },
+    {
+        "id": "5d6930c1-8eed-5a9d-a0ec-ba30fb07e7bb",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1551-02-00",
+        "credits": 3.0,
+        "title": "RUSSIAN(1) ",
+        "instructor": "Chung Bora",
+        "times_str": "Tue3,4/Thu3(Thu4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu405(Edu405)"
+    },
+    {
+        "id": "70a77225-91b0-5a9d-85a7-8b4e7d784e9b",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1551-03-00",
+        "credits": 3.0,
+        "title": "RUSSIAN(1) ",
+        "instructor": "Hwang Kiun",
+        "times_str": "Tue7,8/Thu7(Thu8)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu405(Edu405)"
+    },
+    {
+        "id": "420a7ac6-13fa-5fab-928f-aeba40acea0c",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1603-01-00",
+        "credits": 3.0,
+        "title": "SPANISH(1) ",
+        "instructor": "CHOE HAE SUNG",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BYH S408"
+    },
+    {
+        "id": "d8ffce2a-ebed-52f7-bf12-831c8a1b2935",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1603-02-00",
+        "credits": 3.0,
+        "title": "SPANISH(1) ",
+        "instructor": "Hilares Lidia Dorlisca",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "38dbf8d4-cb09-5ea7-9b63-f31a493170b4",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCF1604-01-00",
+        "credits": 3.0,
+        "title": "SPANISH(2) ",
+        "instructor": "YANG SUNGHYE",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c2c1627d-7bcd-5083-be3d-4aaa980a9d2c",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCH1201-01-00",
+        "credits": 3.0,
+        "title": "GLOBALIZATION AND GLOBAL GOVERNANCE ",
+        "instructor": "CHO EUNIL",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "6d1b1aa8-25f5-5dbb-a687-aacacbbd96e4",
+        "department": "UC Requisite(~2009)",
+        "major": "Understanding the World",
+        "year": null,
+        "classification": "University College Requisite",
+        "code": "YCI1002-01-00",
+        "credits": 3.0,
+        "title": "GLOBAL RELATIONS IN WORLD PEACE AND DEVELOPMENT ",
+        "instructor": "Bae Jong-Yun",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

@@ -1,0 +1,590 @@
+﻿[
+    {
+        "id": "1223ac51-6e5f-5bf9-9d55-5073b1da1c96",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2008-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(1) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "593f891e-895f-5c1f-9177-a0a0eef5fd6a",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2009-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(2) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e91a95e7-aeae-562c-85d2-0fdb8c2cb0e6",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2001-01-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO EDUCATION ",
+        "instructor": "Lee Sang O",
+        "times_str": "Wed6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Edu606"
+    },
+    {
+        "id": "086d5ef7-099d-5bf2-afb1-20f1f41309b6",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2001-02-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO EDUCATION ",
+        "instructor": "CHO JIN",
+        "times_str": "Thu8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "be1458e4-7141-5a8a-9831-db529c414aa6",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2002-01-00",
+        "credits": 2.0,
+        "title": "ED PHILOSOPHY & HIS OF ED ",
+        "instructor": "Lee Won Jae",
+        "times_str": "Mon6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "8caa22df-6743-5f9f-8881-9263c25f59fd",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2002-02-00",
+        "credits": 2.0,
+        "title": "ED PHILOSOPHY & HIS OF ED ",
+        "instructor": "LEE SEONGMI",
+        "times_str": "Fri7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "c6541f0c-bb98-5134-a5b9-17fcf548aea5",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2004-01-00",
+        "credits": 2.0,
+        "title": "ED METHODOLOGY & TECHNOLOGY ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8af6be07-b3ee-5387-893b-16f9f763b364",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2004-02-00",
+        "credits": 2.0,
+        "title": "ED METHODOLOGY & TECHNOLOGY ",
+        "instructor": "LEE HYUN KYUNG",
+        "times_str": "Mon10,11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "62765320-4e8c-5404-8873-f2dc0e4d4061",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2005-01-00",
+        "credits": 2.0,
+        "title": "EDUCATIONAL SOCIETY ",
+        "instructor": "Bahng Jaeim",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "661ced97-43cb-58f1-bb89-c0b220c1b1e1",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2005-02-00",
+        "credits": 2.0,
+        "title": "EDUCATIONAL SOCIETY ",
+        "instructor": "Bahng Jaeim",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "b2c1ed7d-e4eb-5ed1-baba-5cfa72e24677",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2006-01-00",
+        "credits": 2.0,
+        "title": "PSYCHOLOGY OF EDUCATION ",
+        "instructor": "Kim Jungmin",
+        "times_str": "Thu1,2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "2bf9a66e-c3ac-5bcf-a9d6-b5e2860bc820",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2006-02-00",
+        "credits": 2.0,
+        "title": "PSYCHOLOGY OF EDUCATION ",
+        "instructor": "Kim Jungmin",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "67c83f5c-ca34-5e6e-8655-416f4e563d23",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2007-01-00",
+        "credits": 2.0,
+        "title": "ED ADMINISTRATION & MANAGEMENT ",
+        "instructor": "Kim Jeong-a",
+        "times_str": "Fri8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "e340883c-9714-58c9-be8d-6daf630b5ff9",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2007-02-00",
+        "credits": 2.0,
+        "title": "ED ADMINISTRATION & MANAGEMENT ",
+        "instructor": "Sim Yon-sik",
+        "times_str": "Mon2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "2d9e7e8d-5586-5eea-b84e-b8ae47069d63",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2010-01-00",
+        "credits": 2.0,
+        "title": "ED CURRICULUM ",
+        "instructor": "YANG EUN BAE",
+        "times_str": "Mon8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "e2af2c6b-31bd-5af5-b362-a3d38553bce0",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2011-01-00",
+        "credits": 2.0,
+        "title": "ED EVALUATION ",
+        "instructor": "Kim Jooah",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu614"
+    },
+    {
+        "id": "2174e643-c81c-58b3-b352-4e7f00f2122d",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2012-01-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO SPECIAL EDUCATION ",
+        "instructor": "kim Jee-Young",
+        "times_str": "Wed2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "30bddc79-8b06-561c-a961-2cbfaad16e05",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2012-02-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO SPECIAL EDUCATION ",
+        "instructor": "kim Jee-Young",
+        "times_str": "Wed4,5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "59e12c59-be5d-5889-b76d-cd6d0d55c97e",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2013-01-00",
+        "credits": 2.0,
+        "title": "GUIDANCE AND COUNSELING ",
+        "instructor": "Yang Seungmin",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu614"
+    },
+    {
+        "id": "c5bc0f61-f8b3-56b3-8011-c5ebb05b900d",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP2013-02-00",
+        "credits": 2.0,
+        "title": "GUIDANCE AND COUNSELING ",
+        "instructor": "Yang Seungmin",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "7687980c-40b6-5f33-82a1-3a487780d475",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4001-01-00",
+        "credits": 2.0,
+        "title": "TEACHING PRACTICE(SECONDARY SCHOOL) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d79f8825-aae5-5f5b-bb61-2fb18ca05ef2",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4002-01-00",
+        "credits": 2.0,
+        "title": "TEACHING PRACTICE(PRESCHOOL) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c2cf6398-277f-5fb6-818b-8f44ae964631",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4003-01-00",
+        "credits": 2.0,
+        "title": "TEACHING PRACTICE(SCHOOL NURSE) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bc3e74ac-dcf7-5eda-b70a-86fb919cc5ac",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4004-01-00",
+        "credits": 2.0,
+        "title": "PRACTICE IN EDUCATION(LIBRARIAN) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4114539f-cc72-517e-aa44-e05549472e1e",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4005-01-00",
+        "credits": 2.0,
+        "title": "TEACHING PRACTICE(SCHOOL COUNSELOR) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4e7bfc18-9f1d-5a58-b894-ee7870a32a7e",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4006-01-00",
+        "credits": 2.0,
+        "title": "TEACHING PRACTICE(SCHOOL NUTRITION TEACHER) ",
+        "instructor": "goh Rae Eok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7d804d73-84c6-5576-92cd-89a3db545bd0",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4008-01-00",
+        "credits": 2.0,
+        "title": "PRACTICAL WORKS IN SCHOOL ",
+        "instructor": "goh Rae Eok",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c8f548f3-7d8a-53a1-9660-b32f6721029d",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4008-02-00",
+        "credits": 2.0,
+        "title": "PRACTICAL WORKS IN SCHOOL ",
+        "instructor": "goh Rae Eok",
+        "times_str": "Thu6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "505132d7-dec2-5449-b798-1c544bb34945",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4100-01-00",
+        "credits": 2.0,
+        "title": "UNDERSTANDING SCHOOL VIOLENCE PREVENTION AND THE STUDENT ",
+        "instructor": "SEO JUNGKI",
+        "times_str": "Mon10,11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "345c98bb-1cc6-5dc7-a25d-38c3b3151ed4",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "0",
+        "classification": "Teacher Training Program",
+        "code": "TTP4100-02-00",
+        "credits": 2.0,
+        "title": "UNDERSTANDING SCHOOL VIOLENCE PREVENTION AND THE STUDENT ",
+        "instructor": "RYU BUYEAL",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu603"
+    },
+    {
+        "id": "c4f9178b-4f2a-5e18-b36f-662d26870310",
+        "department": "Common Basic(11~19)",
+        "major": "Teacher Training Program",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3004-01-00",
+        "credits": 1.0,
+        "title": "STUDENT TEACHING SEMINAR ",
+        "instructor": "goh Rae Eok",
+        "times_str": "Wed8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    }
+]

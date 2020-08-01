@@ -1,0 +1,3823 @@
+﻿[
+    {
+        "id": "c8dd6a1a-f003-5f15-800a-dcc3b956d460",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1061-01-00",
+        "credits": 3.0,
+        "title": "BIOLOGY 1 CELLULAR &MOLECULAR BIOLOGY ",
+        "instructor": "Chung Sunglan",
+        "times_str": "Fri3,4,5",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "ERCB106"
+    },
+    {
+        "id": "76af38e3-5706-5a77-a34c-0d1dca3c357e",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1062-01-00",
+        "credits": 3.0,
+        "title": "CHEMICAL PRINCIPLES 1 ",
+        "instructor": "Choi, Moon-Gun",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "ERCB106"
+    },
+    {
+        "id": "d5c3f538-3be5-59eb-9eeb-a57525a95099",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1063-01-00",
+        "credits": 3.0,
+        "title": "INTRO TO PSYCHOLOGY ",
+        "instructor": "Soo Hyun Park",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "ERCB106"
+    },
+    {
+        "id": "fbd32feb-26ef-57c9-bd54-439672b4b68a",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1101-01-00",
+        "credits": 3.0,
+        "title": "BEGINNING KOREAN WRITING ",
+        "instructor": "LEE YUN JIN",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "NMH106"
+    },
+    {
+        "id": "b64bd13b-3e56-5dce-bd69-0b77bd3a3623",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1154-01-00",
+        "credits": 3.0,
+        "title": "KOREAN POPULAR CULTURE AND KOREAN WAVE ",
+        "instructor": "Kim Jungwon",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "83c3aed5-9544-53ab-a56f-893ba419f87c",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1154-02-00",
+        "credits": 3.0,
+        "title": "KOREAN POPULAR CULTURE AND KOREAN WAVE ",
+        "instructor": "BAN BOHI GIM",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHM113"
+    },
+    {
+        "id": "0605d73b-9fff-5577-8933-85e0932eee44",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE2021-01-00",
+        "credits": 3.0,
+        "title": "KOREAN TRADITIONAL MUSIC AND CULTURE ",
+        "instructor": "BAN BOHI GIM",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "036bff00-5c49-5b58-b883-a6caab2f1cc1",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE2060-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF MARKETING ",
+        "instructor": "KIM KYUNGHEE",
+        "times_str": "Mon1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "20a53460-d1eb-52e5-896c-cf818c45fc38",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE2083-01-00",
+        "credits": 3.0,
+        "title": "KOREAN ART HISTORY ",
+        "instructor": "KIM JUNG HUI",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "7cbebcf4-c5d5-5c3d-87e2-70dcb62e7402",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE2084-01-00",
+        "credits": 3.0,
+        "title": "KOREAN FOOD AND CULTURE ",
+        "instructor": "KIM DONG JU",
+        "times_str": "Fri4,5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "6299009e-04d1-5752-baa0-5235ea458b54",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE2086-01-00",
+        "credits": 3.0,
+        "title": "CORPORATE POLICY AND KOREAN ECONOMY ",
+        "instructor": "SONG WONGUN",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "3cadda3c-4dc1-5093-99b1-66f3a91c565b",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3103-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO KOREAN STUDIES ",
+        "instructor": "YUH LEIGHANNE",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHA105"
+    },
+    {
+        "id": "8d38fd7e-f54a-589b-a55a-19cccf99301b",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3107-01-00",
+        "credits": 3.0,
+        "title": "PRE-MODERN KOREAN HISTORY ",
+        "instructor": "SON CHEOLBAE",
+        "times_str": "Mon4,5,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "a67a43c0-7202-5dba-8f76-61d85832f826",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3108-01-00",
+        "credits": 3.0,
+        "title": "MODERN KOREAN HISTORY ",
+        "instructor": "SON CHEOLBAE",
+        "times_str": "Mon6,7,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "80285294-bfaa-5013-a83d-9598b7eecc40",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3116-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO KOREAN PHILOSOPHY ",
+        "instructor": "CHANG WON SUK",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "NMH107"
+    },
+    {
+        "id": "3440fc75-1dbe-5ca1-96ca-8b66bc353eba",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3121-01-00",
+        "credits": 3.0,
+        "title": "TRADITIONAL KOREAN SOCIETY & MODERNIZATION ",
+        "instructor": "YUH LEIGHANNE",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "24039a05-f838-5f5d-ba8e-f0a2e11fd059",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3149-01-00",
+        "credits": 3.0,
+        "title": "PHILOSOPHY IN EAST ASIAN LITERATURE ",
+        "instructor": "CHUNG Jin-bae",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH215"
+    },
+    {
+        "id": "679c649b-9ce7-56b9-baeb-5e453229d625",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3300-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY KOREAN CINEMA AND SOCIETY ",
+        "instructor": "MIN HYUNJUN",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "3fcccb8a-8454-5fe7-8dcf-5041f5bfdb1f",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3300-02-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY KOREAN CINEMA AND SOCIETY ",
+        "instructor": "MIN HYUNJUN",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "180c7a4d-cadf-5fdd-9b15-49c3bf7a204e",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3300-03-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY KOREAN CINEMA AND SOCIETY ",
+        "instructor": "MIN HYUNJUN",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "a54c352f-64a8-59d4-a1f8-642b4b6ad25f",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3315-01-00",
+        "credits": 3.0,
+        "title": "LAW AND JUSTICE ",
+        "instructor": "HUH JEANNE LEE",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "NMH106"
+    },
+    {
+        "id": "60335e0d-164f-5815-8747-0aa8ac65d11a",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3317-01-00",
+        "credits": 3.0,
+        "title": "MEDIA COMMUNICATION IN KOREA ",
+        "instructor": "Park Namkee",
+        "times_str": "Tue4,Thu4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "NMH104"
+    },
+    {
+        "id": "90d846e4-e617-5e3f-9d35-02efd46848ed",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3317-02-00",
+        "credits": 3.0,
+        "title": "MEDIA COMMUNICATION IN KOREA ",
+        "instructor": "LEE YOUNG-EUM",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "b8f7e535-1f46-5b1e-8793-486b4ed42b7d",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3325-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS AND SOCIETY ",
+        "instructor": "PAK, KIEJOON",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "9864d722-bab7-538c-99da-528e50144fc5",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3326-01-00",
+        "credits": 3.0,
+        "title": "KOREA-US RELATIONS ",
+        "instructor": "LEE BYUNG-JAE",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "b1bf5882-ac79-5051-a7e2-d1c04a5ba4c4",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3329-01-00",
+        "credits": 3.0,
+        "title": "CULTURE AND COGNITION ",
+        "instructor": "Shin Eunsam",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "a4c6404f-cde0-5bc8-bcdd-0151a8d1923e",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3341-01-00",
+        "credits": 3.0,
+        "title": "KOREAN (1) ",
+        "instructor": "KIM DONGSOOK",
+        "times_str": "Tue2,3,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "NMH106"
+    },
+    {
+        "id": "396f11cd-6dbe-5b30-a633-32dcb097802c",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3341-02-00",
+        "credits": 3.0,
+        "title": "KOREAN (1) ",
+        "instructor": "KIM DONGSOOK",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "NMH106"
+    },
+    {
+        "id": "07ce34d8-f9e5-594a-b97d-2fa61ef818d0",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3341-03-00",
+        "credits": 3.0,
+        "title": "KOREAN (1) ",
+        "instructor": "KIM DONGSOOK",
+        "times_str": "Tue1,Thu1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "NMH106"
+    },
+    {
+        "id": "47f91a69-92cd-5695-bab7-81bb5b550e94",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3371-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING K-POP ",
+        "instructor": "Kim Jungwon",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "56bef299-73fc-5345-a702-86281abd2beb",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3371-02-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING K-POP ",
+        "instructor": "Kim Jungwon",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "9bb5c6a3-486c-5154-bf1e-ff4ea00376c1",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3372-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF DIGITAL MEDIA ",
+        "instructor": "LIM DONGJIN",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "943ba28b-fc35-5bf1-9c65-8ac47e3daa83",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3579-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL POLITICS OF THE KOREAN PENINSULA ",
+        "instructor": "BONG YOUNGSHIK D.",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "74febfc0-fc75-521c-b74f-c994c6b49e52",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3581-01-00",
+        "credits": 3.0,
+        "title": "ECOLOGY OF HUMAN DEVELOPMENT ",
+        "instructor": "KWON YOUNG IN",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "dd1c8150-0926-5fc6-ac44-4ff4a14e2a2e",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE3583-01-00",
+        "credits": 3.0,
+        "title": "SOCIETY AND HUMAN BEHAVIOR ",
+        "instructor": "CHO JEE SUN",
+        "times_str": "Mon5,6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHMB121"
+    },
+    {
+        "id": "32204f2c-aa41-50e4-a9a3-9c887b23bb4e",
+        "department": "Study Abroad Course",
+        "major": "Undergraduate",
+        "year": "9",
+        "classification": "Electives",
+        "code": "IEE3159-01-00",
+        "credits": 3.0,
+        "title": "MONEY, BANKING AND FINANCE ",
+        "instructor": "PAK, KIEJOON",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BYH S113"
+    },
+    {
+        "id": "81253380-49a6-5832-8d1e-3be01776f458",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ANT5102-01-00",
+        "credits": 3.0,
+        "title": "power and resist ",
+        "instructor": "KIM Hang",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH N401"
+    },
+    {
+        "id": "63e8d86d-1ccc-5015-bbe9-4d72180d41dc",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ANT6106-01-00",
+        "credits": 3.0,
+        "title": "life and medical treatment ",
+        "instructor": "Seo Bo Kyeong",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BYH N401"
+    },
+    {
+        "id": "06fc7bcf-0a59-56e6-bdf3-8f1606bc93bd",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARC7000-01-00",
+        "credits": 3.0,
+        "title": "Social Algorithms ",
+        "instructor": "Sung Jooeun",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "EngHA528"
+    },
+    {
+        "id": "f4956d72-a1fa-5828-aa67-fbaac47630f2",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6102-01-00",
+        "credits": 3.0,
+        "title": "QUALITATIVE METHODS OF AREA STUDIES ",
+        "instructor": "Ko, Sangtu",
+        "times_str": "Mon2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "NMHB206"
+    },
+    {
+        "id": "92c7c5c5-c6ff-5bb5-b2ae-72e756ac5751",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6103-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE CULTURAL STUDIES ",
+        "instructor": "HONG GEEYOUNG",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "NMHB206"
+    },
+    {
+        "id": "d374021a-5f80-58ab-9ff1-58804c8b2b8e",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6115-01-00",
+        "credits": 3.0,
+        "title": "EAST ASIAN INTEGRATION ",
+        "instructor": "Park Myung-Lim",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "NMHB206"
+    },
+    {
+        "id": "df412b9b-7910-570f-9cfb-479355c638da",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6202-01-00",
+        "credits": 3.0,
+        "title": "SPECIAL COURSE ON CHINESE SOCIETY ",
+        "instructor": "(강사채용예정)",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a733f82b-51ff-5644-b822-5777a76cd4b9",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6307-01-00",
+        "credits": 3.0,
+        "title": "JAPANESE CORPORATE CASE STUDY ",
+        "instructor": "(비전임채용예정)",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8a03eca6-5cff-5199-b9a1-89ba61956ffb",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6401-01-00",
+        "credits": 3.0,
+        "title": "SOUTHEAST ASIAN POLITICS ",
+        "instructor": "(비전임채용예정)",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cb3b7089-be97-5784-ad92-c9ef7d3f6818",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6406-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING OF ASEAN ",
+        "instructor": "KWON YUL",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "NMHB206"
+    },
+    {
+        "id": "0371e9c7-0d46-5443-ba15-2aef3a22ff2c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6507-01-00",
+        "credits": 3.0,
+        "title": "RUSSIA AND CENTRUAL ASIA ",
+        "instructor": "(비전임채용예정)",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c742c691-abdc-520c-9ece-606324f32bc8",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ARE6623-01-00",
+        "credits": 3.0,
+        "title": "EUROPE'S GEOPOLITICAL CODE ",
+        "instructor": "Ko, Sangtu",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "NMHB206"
+    },
+    {
+        "id": "61c81308-ebb5-5dbb-9ef7-a16ba16b28ea",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "BIZ9016-01-00",
+        "credits": 3.0,
+        "title": "FINANCIAL ACCOUNTING SEMINAR ",
+        "instructor": "Moon Doocheol",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB226"
+    },
+    {
+        "id": "194535e0-aa37-5539-95f3-8888ff354dc0",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CLL7515-01-00",
+        "credits": 3.0,
+        "title": "THE EDUCATION THEORY AND PRACTICE OF CHINESE LANGUAGE ",
+        "instructor": "Jin Chunji",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH302"
+    },
+    {
+        "id": "496ca619-08a2-5696-af57-90567b64eddd",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CLL7817-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN MODERN CHINESE GRAMMER THEORY ",
+        "instructor": "Hyun-cheol Kim",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "WDH302"
+    },
+    {
+        "id": "3b8bc1f9-86fa-5906-88a6-4b3b461e4144",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CLL7824-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR IN PHONOLOGY OF MODERN MANDARIN ",
+        "instructor": "Kim Tae Eun",
+        "times_str": "Tue3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "WDH302"
+    },
+    {
+        "id": "755284b6-f5d3-5758-8323-4592ddd44a98",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CLL7896-01-00",
+        "credits": 3.0,
+        "title": "CHINESE CULTURAL THOUGHT ",
+        "instructor": "CHUNG Jin-bae",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "WDH302"
+    },
+    {
+        "id": "5bc717e8-85a0-59fe-b67b-06283db67128",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "COM6017-01-00",
+        "credits": 3.0,
+        "title": "DIGITAL CITY ",
+        "instructor": "Kim Yong-Chan",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BilHall201"
+    },
+    {
+        "id": "f618b960-7bbb-59f7-b271-1c2a07708767",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "COM6501-01-00",
+        "credits": 3.0,
+        "title": "COMMUNICATION THEORY I ",
+        "instructor": "Park Namkee",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BilHall202"
+    },
+    {
+        "id": "7d421705-c4e9-56be-8be2-3d6ef251a425",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CSE5810-01-00",
+        "credits": 3.0,
+        "title": "NUMERICAL ANALYSIS1 ",
+        "instructor": "PARK EUN-JAE",
+        "times_str": "Tue5,6,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "ASTC516"
+    },
+    {
+        "id": "d4ab6115-6e9d-5d27-a7bf-5650fcdd8ff1",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "CSE5950-01-00",
+        "credits": 3.0,
+        "title": "PARTIAL DIFFERENTIAL EQUATION FOR SCIENCE AND ENGINEERING1 ",
+        "instructor": "SEO, JIN KEUN",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "ASTC616B"
+    },
+    {
+        "id": "b334d4ff-31da-5c75-bbc4-d86e16f1a59d",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ECO6101-01-00",
+        "credits": 3.0,
+        "title": "BEHAVIORAL ECONOMICS ",
+        "instructor": "Kim Chulyoung",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHM537"
+    },
+    {
+        "id": "aecf7512-e2e6-5648-aeee-b32478360db7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ECO6112-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL ECONOMICS ",
+        "instructor": "Park Jaeok",
+        "times_str": "Tue6,Thu4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "DWHM535"
+    },
+    {
+        "id": "e0583730-4c3c-51de-88d8-820464d7c5b7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ECO6771-01-00",
+        "credits": 3.0,
+        "title": "EMPIRICAL TOPICS IN HEALTH ECONOMICS ",
+        "instructor": "Hahn Youjin",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "DWHM537"
+    },
+    {
+        "id": "27aefbfc-ba3c-5155-a953-8a8ca38a717b",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ECO6993-01-00",
+        "credits": 3.0,
+        "title": "GRADUATE ECONOMICS SEMINAR ",
+        "instructor": "Kim Kwang Hwan",
+        "times_str": "Wed4,5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "DWHM537"
+    },
+    {
+        "id": "87a11b6d-5b64-51a7-aaf2-d214ebde02ab",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "EEE5340-01-00",
+        "credits": 3.0,
+        "title": "Speech and Audio Signal Processing ",
+        "instructor": "Kang, Hong-Goo",
+        "times_str": "Tue7,8,Thu2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "EngHB731"
+    },
+    {
+        "id": "c24b2529-4deb-578a-9bba-ee13eeaf61e4",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "EEE6112-01-00",
+        "credits": 3.0,
+        "title": "INFORMATION THEORY ",
+        "instructor": "HWANG TAEWON",
+        "times_str": "Mon2,3,Wed7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "EngHB731"
+    },
+    {
+        "id": "24476d8e-204f-5a4f-940e-d07d6a2eee25",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ELL7282-01-00",
+        "credits": 3.0,
+        "title": "CRITICAL MEDIA STUDIES AND THE ASIAN METROPOLIS ",
+        "instructor": "Park Hyungji",
+        "times_str": "Mon6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "OSH326-1"
+    },
+    {
+        "id": "9ae0d250-a3af-5f63-9dcd-b59f256adfd0",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ESS6702-01-00",
+        "credits": 3.0,
+        "title": "STRATODYNAMICS ",
+        "instructor": "Kim Wonsuck",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과642"
+    },
+    {
+        "id": "42e6fa4b-dbf3-5a37-829f-95c66f531564",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ESS6900-01-00",
+        "credits": 3.0,
+        "title": "BIOGEOCHEMISTRY RESEARCH SEMINAR(1) ",
+        "instructor": "Kim Jin-Wook",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과642"
+    },
+    {
+        "id": "5579d37e-5575-5124-b44c-656bec21b5ae",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6008-01-00",
+        "credits": 3.0,
+        "title": "TOPICS IN MODERN HISTORY OF KOREA : THEORIES AND INTERPRETATION II ",
+        "instructor": "Lee Kihoon",
+        "times_str": "Mon10,11,12",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "0c6169de-1b9c-5fd2-a866-ed0f1f7f3111",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6014-01-00",
+        "credits": 3.0,
+        "title": "COLLOQUIUM IN ARCHAOLOGY OF KOREA1 ",
+        "instructor": "Cho Taesop",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu312"
+    },
+    {
+        "id": "a80df4a6-324f-51ed-8776-780ecec9b3b3",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6023-01-00",
+        "credits": 3.0,
+        "title": "PROSEMINAR IN MEDIEVAL HISTORY OF KOREA Ⅰ ",
+        "instructor": "DO, HYEON CHUL",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "5851c048-f233-5f6f-b3d4-1026fe5e4637",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6025-01-00",
+        "credits": 3.0,
+        "title": "PROSEMINAR IN MEDIEVAL HISTORY OF KOREA 3 ",
+        "instructor": "YOON SUK HO",
+        "times_str": "Fri9,10,11",
+        "times": {
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "e54e1d0a-68dc-5b85-9d56-f0255b4eebfd",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6038-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL STRUCTURE OF ANCIENT KOREA ",
+        "instructor": "HA, IL SIK",
+        "times_str": "Thu10,11,12",
+        "times": {
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "019036e1-b07a-56c4-8321-a5c8e73b68b8",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6071-01-00",
+        "credits": 3.0,
+        "title": "TOPICS IN PREHISTORIC ARCHEOLOGY ",
+        "instructor": "HA Moonsig",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu312"
+    },
+    {
+        "id": "103c2f74-ace2-52a7-8fcf-07f285104769",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS6102-01-00",
+        "credits": 3.0,
+        "title": "THE STUDIES OF CONTEMPORARY HISTORY OF SOCIAL ECONOMY IN KOREA ",
+        "instructor": "Kim Seong Bo",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "a2d46f2c-d505-5c8e-b40b-2ab5863af28c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS7106-01-00",
+        "credits": 3.0,
+        "title": "MODERN JAPAN ",
+        "instructor": "Yim Sung Mo",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu311"
+    },
+    {
+        "id": "96e6c135-035f-5115-836d-d1f9bb1187df",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS7302-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF CHINESE THOUGHT ",
+        "instructor": "Cha Hyewon",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "13d2da99-8b20-5c38-831f-bb24aa99fdc1",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS7410-01-00",
+        "credits": 3.0,
+        "title": "MODERNIZATION OF EAST ASIA ",
+        "instructor": "Park Kyungsuk",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu311"
+    },
+    {
+        "id": "f98f0b0c-b4d7-5949-b79a-0aa997e50b5f",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS7501-01-00",
+        "credits": 3.0,
+        "title": "RECENT TRENDS IN WESTERN HISTORIOGRAPHY ",
+        "instructor": "LEE NAE JOO",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu310"
+    },
+    {
+        "id": "18f5b18d-ae55-5a5e-bd6d-40d81f8fcdac",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "HIS7518-01-00",
+        "credits": 3.0,
+        "title": "THE THEORY AND ANALYSIS OF WORLD SYSTEM ",
+        "instructor": "Sul Heasim",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "OSH627-1"
+    },
+    {
+        "id": "68a9bda0-d8ed-5a75-bf16-c594f5e38fab",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "IBT6106-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO BIO MATERIALS AND ENGINEERING ",
+        "instructor": "Kim Seong-Bo",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "IVHA410"
+    },
+    {
+        "id": "44d4919b-a4b7-5796-97b9-bf906a729b97",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISA6302-01-00",
+        "credits": 3.0,
+        "title": "Political Economy of Japan ",
+        "instructor": "Rhyu, Sang Young",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천209"
+    },
+    {
+        "id": "e39a0d9f-fe83-5cf3-af01-f551b01c1c3f",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISA6309-01-00",
+        "credits": 3.0,
+        "title": "US Global Strategy & the Korean Peninsula ",
+        "instructor": "WOO JUNG-YEOP",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천201"
+    },
+    {
+        "id": "5248d165-a001-58f3-b522-39dd90bfffa0",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6051-01-00",
+        "credits": 3.0,
+        "title": "Law & Development ",
+        "instructor": "Jong Bum Kim",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천112"
+    },
+    {
+        "id": "33d46159-e678-55c8-b978-e39deaa52630",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6076-01-00",
+        "credits": 3.0,
+        "title": "Seminar on International News Analysis ",
+        "instructor": "SMITH FRANK",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천111"
+    },
+    {
+        "id": "c133c45b-9d6a-53b2-878d-b552ccb183f2",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6088-01-00",
+        "credits": 3.0,
+        "title": "Economic Institution and Policy in Korea ",
+        "instructor": "Rhyu, Sang Young",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천209"
+    },
+    {
+        "id": "22cb98c1-1190-5192-8451-1af90f9b21ce",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6110-01-00",
+        "credits": 3.0,
+        "title": "Political Economy of Welfare and Redistribution ",
+        "instructor": "Hwang In Hyee",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천209"
+    },
+    {
+        "id": "2200345e-30dc-5460-abc5-a71d7b2c0bcb",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6122-01-00",
+        "credits": 3.0,
+        "title": "HUMANITARIAN INTERVENTION: THEORY AND PRACTICE ",
+        "instructor": "KIM JINA",
+        "times_str": "Mon1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천702"
+    },
+    {
+        "id": "7e5b53cf-bb68-5b2c-81ec-60cc2fe1cec4",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6138-01-00",
+        "credits": 3.0,
+        "title": "Inter-Korean Relations ",
+        "instructor": "KIM JUNG",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "6536a1aa-c7f8-503d-9963-91ee97c52e46",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6139-01-00",
+        "credits": 3.0,
+        "title": "Sustainable Development and Energy Policy ",
+        "instructor": "Jung Tae Yong",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천112"
+    },
+    {
+        "id": "df56608a-ffd4-5858-894e-8e57f1bf7883",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6142-01-00",
+        "credits": 3.0,
+        "title": "Fragile States and Development Outcomes ",
+        "instructor": "PARK TAE IN",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천209"
+    },
+    {
+        "id": "a1a1e21c-c01f-54a2-bd18-eb3b5870395f",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6143-01-00",
+        "credits": 3.0,
+        "title": "International Organization and Law ",
+        "instructor": "Kim Man Kwon",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "661d0a0c-366f-5540-aba3-0f2fbcb868ad",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6157-01-00",
+        "credits": 3.0,
+        "title": "International Human Rights ",
+        "instructor": "HOSANIAK JOANNA ZENONA",
+        "times_str": "Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천111"
+    },
+    {
+        "id": "df1b6357-c110-50bb-a3c7-c41d762bb6d3",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6159-01-00",
+        "credits": 3.0,
+        "title": "ASEAN and Regionalization in Southeast Asia ",
+        "instructor": "CHO WONDEUK",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천209"
+    },
+    {
+        "id": "0d2cd0eb-c49f-5d8b-bddd-f9bad0db32d3",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6167-01-00",
+        "credits": 3.0,
+        "title": "Foreign Policy Analysis ",
+        "instructor": "KIM JE HEON JAMES",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "97230a00-c300-59fa-ace6-329a6c884417",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6169-01-00",
+        "credits": 3.0,
+        "title": "Immigration and Integration Policies Worldwide ",
+        "instructor": "SHIN JI-HYE",
+        "times_str": "Mon1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "907bea1a-22e8-5884-b40b-d5b5e602ffb5",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6173-01-00",
+        "credits": 3.0,
+        "title": "Conflict and Governance in Cyberspace ",
+        "instructor": "BOCKETT DARYL",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천B205"
+    },
+    {
+        "id": "26b517ff-5e16-593c-950c-b947f505bca0",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6179-01-00",
+        "credits": 3.0,
+        "title": "Global Governance and Regional Integration ",
+        "instructor": "SHIN DONG-IK",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천201"
+    },
+    {
+        "id": "f2473dec-956d-56b0-87fc-0ded509c26c5",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISC6210-01-00",
+        "credits": 3.0,
+        "title": "Reconciliation and Justice in International Politics ",
+        "instructor": "BONG YOUNGSHIK D.",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천201"
+    },
+    {
+        "id": "dbda1194-18c9-5728-92f4-beaf1242bde0",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISE6002-01-00",
+        "credits": 3.0,
+        "title": "Digital business and digital trade ",
+        "instructor": "EOM DOYOUNG",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천702"
+    },
+    {
+        "id": "92e868c3-a63b-5aa3-88f8-c9c1584373d7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6023-01-00",
+        "credits": 3.0,
+        "title": "Corporate Finance ",
+        "instructor": "PAK, KIEJOON",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천111"
+    },
+    {
+        "id": "b731c4ba-b8ce-5824-a919-a2f01ce2c6f8",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6035-01-00",
+        "credits": 3.0,
+        "title": "Financial Derivatives ",
+        "instructor": "YANG IMSEOK",
+        "times_str": "Mon1,2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천201"
+    },
+    {
+        "id": "0df4e4f6-7f7b-5a1e-9fbf-fa6fecfdf6a7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6036-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL BUSINESS LAW ",
+        "instructor": "AN JUNSEONG",
+        "times_str": "Thu4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천112"
+    },
+    {
+        "id": "2c89459d-5993-52e2-bbcb-540f33577166",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6037-01-00",
+        "credits": 3.0,
+        "title": "THEORY AND PRACTICE OF NEGOTIATION ",
+        "instructor": "AN JUNSEONG",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천112"
+    },
+    {
+        "id": "17aeffbd-02b3-528d-85b1-d99189ab5690",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6048-01-00",
+        "credits": 3.0,
+        "title": "Economics of Climate Change ",
+        "instructor": "KIM YONG-GUN",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천111"
+    },
+    {
+        "id": "1c464481-c42c-5b27-9723-66831121fa31",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6049-01-00",
+        "credits": 3.0,
+        "title": "Public Finance and Public Policy ",
+        "instructor": "SON WONIK",
+        "times_str": "Thu4,5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "f0aaab17-e862-5b70-98c0-be7a90bad3eb",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISF6052-01-00",
+        "credits": 3.0,
+        "title": "Global Finance and Corporate Governance ",
+        "instructor": "RHEE NAM UH",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "새천702"
+    },
+    {
+        "id": "a65afdf8-0968-57ea-85f9-7efffb093eb4",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISK6017-01-00",
+        "credits": 3.0,
+        "title": "Understanding Korean Society through Popular Music ",
+        "instructor": "LEE KEEWOONG",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천B205"
+    },
+    {
+        "id": "a7aae459-b4ce-5550-9783-fe8f4041073e",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISK6019-01-00",
+        "credits": 3.0,
+        "title": "North Korean society: politics, economy and culture ",
+        "instructor": "KIM HEE",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천701"
+    },
+    {
+        "id": "0184a9f0-f2e5-5f22-b70d-6b785cb2e17c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISK6132-01-00",
+        "credits": 3.0,
+        "title": "History of Korean Religion ",
+        "instructor": "Wong Hayoung Christopher",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "ed24a0f0-11bc-5efb-ab88-ca62370386f7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISK6136-01-00",
+        "credits": 3.0,
+        "title": "Gender from Antiquity to Today ",
+        "instructor": "Wong Hayoung Christopher",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "새천202"
+    },
+    {
+        "id": "c6274c4b-6866-5465-941e-46c85e06875a",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "ISM6018-01-00",
+        "credits": 3.0,
+        "title": "Innovation and Corporate Transformation ",
+        "instructor": "CHUNG YUNHO",
+        "times_str": "Mon4,5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "새천111"
+    },
+    {
+        "id": "9998b67c-1613-54c0-924c-c683afeb04fe",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KOR8822-01-00",
+        "credits": 3.0,
+        "title": "GENDERING POSTCOLONIAL AESTHETICS ",
+        "instructor": "Baek Moon Im",
+        "times_str": "Tue4,5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu311"
+    },
+    {
+        "id": "12bbe021-2919-5a84-899e-a59f7ad19372",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KOS7302-01-00",
+        "credits": 3.0,
+        "title": "KOREAN POPULAR CULTURE AND MEDIA ",
+        "instructor": null,
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BYH N613"
+    },
+    {
+        "id": "c84b791d-8655-504e-b7de-2ba8c11caff5",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KOS7507-01-00",
+        "credits": 3.0,
+        "title": "STUDIES ON TEACHING KOREAN LANGUAGE SPEAKING AND WRITING ",
+        "instructor": null,
+        "times_str": "Mon2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH N613"
+    },
+    {
+        "id": "fa13b0e5-c0b7-55aa-b055-5c37742008a9",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KOS7809-01-00",
+        "credits": 3.0,
+        "title": "SHAMANISM AND FOLK RELIGION IN KOREA ",
+        "instructor": null,
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BYH N613"
+    },
+    {
+        "id": "fea9ac06-2b9f-5382-a4d2-1a9ef817673e",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KUS6540-01-00",
+        "credits": 3.0,
+        "title": "KOREAN REUNIFICATION AND INTERNATIONAL RELATIONS ",
+        "instructor": "CHA Jung-Mi",
+        "times_str": "Wed11,12,13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "KDJL 3F"
+    },
+    {
+        "id": "3ecd13c4-f54b-51a0-a358-191efaefd828",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "KUS8090-01-00",
+        "credits": 3.0,
+        "title": "NORTH KOREAN SECURITY STRATEGY ",
+        "instructor": "BOO SEUNG-CHAN",
+        "times_str": "Thu11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "KDJL 3F"
+    },
+    {
+        "id": "b8619712-726c-5a7f-82c9-b44cf6777f21",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "LAW7607-01-00",
+        "credits": 3.0,
+        "title": "LAW OF SOCIAL WELFARE ",
+        "instructor": "Lee Sang Yoon",
+        "times_str": "Fri11,12,13",
+        "times": {
+            "4": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "GBH512"
+    },
+    {
+        "id": "d223d752-d879-5916-8053-ca87619d1ae9",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT6010-01-00",
+        "credits": 3.0,
+        "title": "SET THEORY I ",
+        "instructor": "KIM BYUNGHAN",
+        "times_str": "Tue4,Thu3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e459d658-ca65-504a-b902-f42975a5f2b4",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT6053-01-00",
+        "credits": 3.0,
+        "title": "INTRODUTION TO ALGEBRAIC VARIETIES ",
+        "instructor": "Choi Sung Rak",
+        "times_str": "Tue4,5,Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "SciH254"
+    },
+    {
+        "id": "2dd991b7-93e6-538e-bb26-dd28eefdaaf5",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT6250-01-00",
+        "credits": 3.0,
+        "title": "ALGEBRA II ",
+        "instructor": "Seo Soogil",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH262"
+    },
+    {
+        "id": "9c517502-b3e1-56b0-b7d0-89825a03a402",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT6450-01-00",
+        "credits": 3.0,
+        "title": "REAL ANALYSIS II ",
+        "instructor": "Kang Kyungkeun",
+        "times_str": "Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SciH262"
+    },
+    {
+        "id": "c8c5f284-2e71-5f03-98b7-cf0a8528bec2",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT6460-01-00",
+        "credits": 3.0,
+        "title": "PARTIAL DIFFERENTIAL EQUATION II ",
+        "instructor": "Choi Young-Pil",
+        "times_str": "Mon6,7,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SciH254"
+    },
+    {
+        "id": "01495dbb-1898-505f-adfa-a87c5e05e36a",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT8007-01-00",
+        "credits": 3.0,
+        "title": "RIEMANNIAN GEOMETRY ",
+        "instructor": "Hong Hansol",
+        "times_str": "Mon3,Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH254"
+    },
+    {
+        "id": "857bf20e-3370-5bd3-a142-edc123d8fda6",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MAT8270-01-00",
+        "credits": 3.0,
+        "title": "TOPICS IN ANALYTIC NUMBER THEORY I ",
+        "instructor": "Sohn, Jaebum",
+        "times_str": "Tue2,3,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "SciH262"
+    },
+    {
+        "id": "ea13fa36-326f-5e87-b82a-6350e80219c7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5010-01-00",
+        "credits": 3.0,
+        "title": "NONLINEAR ACOUSTICS ",
+        "instructor": "Ohm Won Suk",
+        "times_str": "Tue3,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHD602"
+    },
+    {
+        "id": "93e86c32-1ae4-5012-82ac-aa07d09ff936",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5020-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED THERMODYNAMICS ",
+        "instructor": "Hong Jongsup",
+        "times_str": "Mon7,8,Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "EngHD601"
+    },
+    {
+        "id": "d4228a22-f20c-5f58-bdb0-80ece40c930a",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5021-01-00",
+        "credits": 3.0,
+        "title": "BIOMEDICAL OPTICAL IMAGING ",
+        "instructor": "Joo Chulmin",
+        "times_str": "Mon8,Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "EngHC031"
+    },
+    {
+        "id": "0ebc122f-acf9-5fb9-b07b-8cd8331cd46a",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5028-01-00",
+        "credits": 3.0,
+        "title": "ATOMISTIC SIMULATIONS OF MATERIALS ",
+        "instructor": "KANG Keon Wook",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHA681"
+    },
+    {
+        "id": "ecef4a7f-d868-524d-b608-7ffb70f35e8d",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5054-01-00",
+        "credits": 3.0,
+        "title": "SIGNALS AND SYSTEMS ",
+        "instructor": "YOON JUN YOUNG",
+        "times_str": "Tue2,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "EngHC031"
+    },
+    {
+        "id": "cbb1c72e-460d-57cb-b1ca-8d2d859a6fb3",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU5480-01-00",
+        "credits": 3.0,
+        "title": "BIO-ANALYTICAL SYSTEMS ",
+        "instructor": "Jung Hyo il",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "EngHD602"
+    },
+    {
+        "id": "8e8a4c67-3f14-57c3-ab61-c4c09aade82a",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6007-01-00",
+        "credits": 3.0,
+        "title": "BASIC SEMICONDUTOR ",
+        "instructor": "Jun Seong Chan",
+        "times_str": "Mon7,Wed5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHD602"
+    },
+    {
+        "id": "75899e32-ff8d-577a-aed3-0e9acfdca3ef",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6060-01-00",
+        "credits": 3.0,
+        "title": "MOLECULAR GAS DYNAMICS ",
+        "instructor": "Song Soonho",
+        "times_str": "Mon5,6/Wed3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "EngHD602/EngHD601"
+    },
+    {
+        "id": "84e479ba-b66c-5459-9a5e-d9e899cef10f",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6080-01-00",
+        "credits": 3.0,
+        "title": "MECHANICS OF MICROSYSTEMS ",
+        "instructor": "Kim, Jongbaeg",
+        "times_str": "Mon2,Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "EngHD601"
+    },
+    {
+        "id": "239d1e04-7385-58fb-a6aa-4bf91969733c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6101-01-00",
+        "credits": 3.0,
+        "title": "MECHANICAL-ELECTRIC DEVICE DESIGN ",
+        "instructor": "Yoo, Jeonghoon",
+        "times_str": "Mon2,Wed2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "EngHC031"
+    },
+    {
+        "id": "d152ab6a-f532-5e2a-bf58-661e5df8dc1c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6231-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO SOLID STATE PHYSICS ",
+        "instructor": "Kim Kyoungsik",
+        "times_str": "Mon5,6,Wed1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "EngHC031"
+    },
+    {
+        "id": "f4266f17-97c2-5a16-9c86-6c49cbf618d1",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6450-01-00",
+        "credits": 3.0,
+        "title": "SPECIAL TOPICS IN CONTACT MECHANICS ",
+        "instructor": "Jang, Yong Hoon",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "EngHA681"
+    },
+    {
+        "id": "9cbfa1c0-81d6-5929-bcca-ec786b23c3b8",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6505-01-00",
+        "credits": 3.0,
+        "title": "OPTIMAL CONTROL AND REINFORCEMENT LEARNING ",
+        "instructor": "Choi Jongeun",
+        "times_str": "Tue5,6,Thu3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "EngHA681"
+    },
+    {
+        "id": "c3177002-1587-5e12-8e3d-00021ae9f14c",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU6630-01-00",
+        "credits": 3.0,
+        "title": "NANOTRIBOLOGY ",
+        "instructor": "Kim, Dae Eun",
+        "times_str": "Tue3,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "EngHD601"
+    },
+    {
+        "id": "98023e27-dd64-5308-a707-f7073a176f06",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU7300-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF TURBULENT FLOW ",
+        "instructor": "Lee, Chang Hoon",
+        "times_str": "Tue5,6,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "EngHD602"
+    },
+    {
+        "id": "8df7f260-3acb-5531-ba6a-be5308c81806",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "MEU8350-01-00",
+        "credits": 3.0,
+        "title": "NONLINERCONTROL ",
+        "instructor": "Yang, Hyun Seok",
+        "times_str": "Mon2,Wed7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "EngHD602"
+    },
+    {
+        "id": "4162893c-3385-5933-9bd7-269213ebce30",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "PHY5102-01-00",
+        "credits": 3.0,
+        "title": "MATHEMATICAL PHYSICS II ",
+        "instructor": "LEE, SU HOUNG",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH352"
+    },
+    {
+        "id": "bc106ab6-ee4e-5969-8ebd-244e73864f41",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "PHY6060-01-00",
+        "credits": 3.0,
+        "title": "STATISTICAL MECHANICS ",
+        "instructor": "Moon, Kyungsun",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SciH352"
+    },
+    {
+        "id": "14e53d6f-9c11-5c18-92bb-88f49da61a35",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "POL5188-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE POLITICS ",
+        "instructor": "Jin Young Jae",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "YHH301"
+    },
+    {
+        "id": "81c3ceed-bb33-5731-89df-5a1d677dcdf8",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "POL7140-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED METHOD OF EMPIRICAL RESEARCH ",
+        "instructor": "Woo Byungwon",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "YHH106"
+    },
+    {
+        "id": "1cc6f2f7-9c52-5774-976a-ab5b169a4eab",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "POL8132-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR IN JAPANESE POLITICS ",
+        "instructor": "KIM SANG JOON",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "YHH301"
+    },
+    {
+        "id": "d53cdd79-e81e-58fc-816a-b60853d94a39",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "RUS8107-01-00",
+        "credits": 3.0,
+        "title": "RUSSIAN FORMALISM ",
+        "instructor": "Choi, Gunn Young",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "WDH215"
+    },
+    {
+        "id": "480fe781-b3e5-562b-9f5d-03075d6fa8fe",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "SOC7654-01-00",
+        "credits": 3.0,
+        "title": "COLLECTIVE BEHAVIOR AND SOCIAL MOVEMENT ",
+        "instructor": "Choi Jaehoon",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "WDH319"
+    },
+    {
+        "id": "1dd3eacc-b0b9-5714-a553-3c8c24034abb",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "SOC8886-01-00",
+        "credits": 3.0,
+        "title": "GLOBALIZATION, MIGRATION AND TRANSNATIONALISM ",
+        "instructor": "LEE JIYEON",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "WDH319"
+    },
+    {
+        "id": "0bba9791-2ad1-5ee3-96fc-6c65397156bd",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "STA6110-01-00",
+        "credits": 3.0,
+        "title": "LINEAR MODEL ",
+        "instructor": "Lee, Hakbae",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "DWHM112"
+    },
+    {
+        "id": "08bb5986-f3a1-54f7-b0ab-497de078d3d7",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "STA6220-01-00",
+        "credits": 3.0,
+        "title": "RELIABILITY AND SURVIVAL DATA ANALYSIS 1 ",
+        "instructor": "Kang Sangwook",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "DWHM537"
+    },
+    {
+        "id": "853cfc9b-b45a-55c1-a4c8-fd410ed92d1b",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "YJD7414-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE CORPORATE LAW AND GOVERNANCE ",
+        "instructor": "Kim, Joon Gi",
+        "times_str": "Mon8,9,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "광B106"
+    },
+    {
+        "id": "24de1541-6404-5a88-b0b7-bf15cb93b837",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "0",
+        "classification": "General Education Elective",
+        "code": "YJD7811-01-00",
+        "credits": 3.0,
+        "title": "LAW AND POLITICS IN KOREA ",
+        "instructor": "Hahm Chaihark",
+        "times_str": "Mon8,9,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "광B109"
+    },
+    {
+        "id": "6c7391d3-134d-5e1a-9ad2-a92468d005aa",
+        "department": "Study Abroad Course",
+        "major": "Graduate",
+        "year": "9",
+        "classification": "General Education Elective",
+        "code": "SOC8895-01-00",
+        "credits": 3.0,
+        "title": "GOVERNANCE AND SOCIAL NETWORK ANALYSIS ",
+        "instructor": "Youm Yoosik",
+        "times_str": "Thu5,6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BilHall103"
+    },
+    {
+        "id": "f6f169b2-7daf-5627-97a4-d2832f1db34e",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1001-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 1) ",
+        "instructor": "Joe In Ok",
+        "times_str": "Mon1,2,3,4,Tue1,2,3,4,Wed1,2,3,4,Thu1,2,3,4,Fri1,2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "KLI4F-1"
+    },
+    {
+        "id": "28956a30-3c0a-507a-9ade-bd24ca7b0be6",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1001-02-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 1) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-1"
+    },
+    {
+        "id": "1966d215-1b97-5ff7-bf3f-d6278c8fc5e8",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1002-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 2) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-2"
+    },
+    {
+        "id": "f6b3ec57-e153-59a6-a24e-f4f959c5d276",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1003-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 3) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-3"
+    },
+    {
+        "id": "646d19a0-2eb3-5ae8-b180-76e9f18247e1",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1004-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 4) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-4"
+    },
+    {
+        "id": "208d7fe7-96cd-533f-8ee6-43cce8d0a7d2",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1005-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 5) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-5"
+    },
+    {
+        "id": "404f8c55-a013-5515-962d-d0e15cbe96d5",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "University College Elective",
+        "code": "KLI1006-01-00",
+        "credits": 6.0,
+        "title": "INTENSIVE KOREAN LANGUAGE (LEVEL 6) ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Mon8,9,Tue8,9,Wed8,9,Thu8,9,Fri8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "KLI4F-6"
+    },
+    {
+        "id": "54d1c517-452b-553a-8ef7-975b8e594b54",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1011-01-00",
+        "credits": 3.0,
+        "title": "BASIC KOREAN I ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Tue6,7,Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "KLI4F-1"
+    },
+    {
+        "id": "fa52abcb-36d5-53ec-a9a3-70d2c59e2a74",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1012-01-00",
+        "credits": 3.0,
+        "title": "BASIC KOREAN II ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Tue6,7,Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "KLI4F-2"
+    },
+    {
+        "id": "b15adedb-f882-5115-a8ff-edf40afbe99e",
+        "department": "Study Abroad Course",
+        "major": "Korean Language",
+        "year": "0",
+        "classification": "Electives",
+        "code": "IEE1013-01-00",
+        "credits": 3.0,
+        "title": "BASIC KOREAN III ",
+        "instructor": "JEONG YEO HOON",
+        "times_str": "Tue6,7,Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "KLI4F-3"
+    }
+]

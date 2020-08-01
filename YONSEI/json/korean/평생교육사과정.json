@@ -1,0 +1,187 @@
+﻿[
+    {
+        "id": "e4980e30-78f0-58e1-bd33-d21662f66d8d",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP2001-01-00",
+        "credits": 3.0,
+        "title": "평생교육론 ",
+        "instructor": "구유정",
+        "times_str": "수2,3/금2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교614"
+    },
+    {
+        "id": "6244612d-0f93-5138-95b7-5d93ea29345b",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP2002-01-00",
+        "credits": 3.0,
+        "title": "평생교육경영론 ",
+        "instructor": "전수빈",
+        "times_str": "월6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "교601"
+    },
+    {
+        "id": "4d6288b0-fa8a-59f1-8761-867135e096c3",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP2006-01-00",
+        "credits": 3.0,
+        "title": "평생교육방법론 ",
+        "instructor": "이지영",
+        "times_str": "수9/금2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "3f341ff2-5767-5dd9-a27b-0a7fc4e99485",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP2007-01-00",
+        "credits": 3.0,
+        "title": "평생교육프로그램개발론 ",
+        "instructor": "이현경",
+        "times_str": "월9/목10,11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "교601/동영상콘텐츠"
+    },
+    {
+        "id": "9cf7c6d2-fa59-5972-851a-add7fd82a374",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP3002-01-00",
+        "credits": 3.0,
+        "title": "여성교육론 ",
+        "instructor": "구유정",
+        "times_str": "수1/금3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인/교517"
+    },
+    {
+        "id": "ba89c557-1fd9-524a-b2df-e5ffc339c296",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP3004-01-00",
+        "credits": 3.0,
+        "title": "기업교육론 ",
+        "instructor": "장지현",
+        "times_str": "목5/목6,7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "36148eb2-ee63-5a3a-af7b-d98c27aa0f08",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP3005-01-00",
+        "credits": 3.0,
+        "title": "직업진로설계 ",
+        "instructor": "장지현",
+        "times_str": "화3/화4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/동영상콘텐츠"
+    },
+    {
+        "id": "451a8d47-13c2-5493-964d-26ade38eddb8",
+        "department": "평생교육사과정",
+        "major": "평생교육사과정",
+        "year": "0",
+        "classification": "일반",
+        "code": "LEP4001-01-00",
+        "credits": 3.0,
+        "title": "평생교육실습 ",
+        "instructor": "장원섭",
+        "times_str": null,
+        "times": null,
+        "location": null
+    }
+]

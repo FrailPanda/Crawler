@@ -1,0 +1,86 @@
+﻿[
+    {
+        "id": "87aac812-f9e5-5ca4-acf5-b83519c11a67",
+        "department": "COMMON",
+        "major": "START UP & FIELD STUDY",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "U0019-01-00",
+        "credits": 3.0,
+        "title": "START UP 106:STARTUP INSIGHTⅠ(DOMESTIC) ",
+        "instructor": "SOHN, HONG GYOO/KIM YOUNGTAE",
+        "times_str": "Wed1,2,3/Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "7e7b1b61-edf6-51da-abf1-bfc9040a2d23",
+        "department": "COMMON",
+        "major": "START UP & FIELD STUDY",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "U0020-01-00",
+        "credits": 3.0,
+        "title": "START UP 108: TECHNICAL & STARTUP TREND ",
+        "instructor": "SOHN, HONG GYOO/KIM NAMSOO",
+        "times_str": "Thu1,2,3/Thu1,2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "f5f73c6c-f000-537e-8fae-fe06b74aec9f",
+        "department": "COMMON",
+        "major": "START UP & FIELD STUDY",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "U0021-01-00",
+        "credits": 3.0,
+        "title": "START UP 306: STARTUP LEVEL-UP ",
+        "instructor": "SOHN, HONG GYOO/KIM YOUNGTAE",
+        "times_str": "Mon6,7,8/Mon6,7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "535ce19e-688f-55e3-9814-39b94037706f",
+        "department": "COMMON",
+        "major": "START UP & FIELD STUDY",
+        "year": "2,3,4",
+        "classification": "Electives",
+        "code": "U0022-01-00",
+        "credits": 3.0,
+        "title": "START UP 408: STARTUP GLOBAL SELLING ",
+        "instructor": "SOHN, HONG GYOO/KIM YOUNGTAE",
+        "times_str": "Tue6,7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BYH S106"
+    }
+]

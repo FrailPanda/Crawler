@@ -1,0 +1,507 @@
+﻿[
+    {
+        "id": "b5030473-b14e-5ba0-98e3-3dfd2df4dcc3",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "THE1003-01-00",
+        "credits": 1.0,
+        "title": "FIELD EDUCATION ",
+        "instructor": "Hong Koog-Pyoung",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "82b9372d-abec-58fa-995c-31e6e5b93809",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "THE1205-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO YONSEI THEOLOGY ",
+        "instructor": "Hong Koog-Pyoung",
+        "times_str": "Wed4,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                },
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1fc9eefb-e303-59df-b1e4-f75ed76a35b5",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "THE2015-01-00",
+        "credits": 3.0,
+        "title": "SOCIETY AND PRACTICE ",
+        "instructor": "Kwon Soo-Young",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "TheoH105/Realtime online lecture"
+    },
+    {
+        "id": "09119e7c-2bc6-58fe-85b7-f679ed4039fb",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "THE2016-01-00",
+        "credits": 3.0,
+        "title": "CULTURE AND IMAGINATION ",
+        "instructor": "Kaunda Chammah Judex",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "TheoH105/Realtime online lecture"
+    },
+    {
+        "id": "cb0aaead-4166-5771-9d19-3d54339370c9",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "THE2009-01-00",
+        "credits": 3.0,
+        "title": "CHRISTIAN COUNSELING: INTEGRATING THEORY & PRACTICE ",
+        "instructor": "CHU HEE YEON",
+        "times_str": "Tue8/Tue9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH103"
+    },
+    {
+        "id": "a5dd1f23-e174-5987-b645-03dc83ebd3a4",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "THE2914-01-00",
+        "credits": 3.0,
+        "title": "ECOLOGY AND PSYCHOTHERAPY ",
+        "instructor": "Lee Hunju",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH103"
+    },
+    {
+        "id": "b10dae12-12e3-5f83-98e4-d9481d748d47",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "2,3,4",
+        "classification": "Major Elective",
+        "code": "THE3917-01-00",
+        "credits": 3.0,
+        "title": "THEOLOGICAL GIANTS IN MODERN THEOLOGY ",
+        "instructor": "Sohn Hohyun",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "TheoH101/Realtime online lecture"
+    },
+    {
+        "id": "29eee740-ced4-566e-9c70-1534c615e714",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3502-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL ETHICS ",
+        "instructor": "PARK JAE KYUNG",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "TheoHB103/Realtime online lecture"
+    },
+    {
+        "id": "c303c2e7-50bb-5b08-bbe3-02699ec9b1dd",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3601-01-00",
+        "credits": 3.0,
+        "title": "CHRISTIAN EDUCATION ",
+        "instructor": "LEE YUN SUK",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "TheoH103/Realtime online lecture"
+    },
+    {
+        "id": "d3d3b796-bbab-5de1-bb71-3f776ed86591",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3911-01-00",
+        "credits": 3.0,
+        "title": "INTERPRETING KETHUBIM:SEEKING DEEPER MEANINGS OF LIFE AND SUFFERING ",
+        "instructor": "Hong Koog-Pyoung",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH101"
+    },
+    {
+        "id": "cb1968d2-350c-5263-8ada-a1e75fdf325d",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3932-01-00",
+        "credits": 3.0,
+        "title": "CRITICAL SOCIOLOGY OF CHRISTIAN EDUCATION ",
+        "instructor": "Yoo Eunju",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH101"
+    },
+    {
+        "id": "99f22110-e62c-51ce-a9b8-3354cd65750d",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3934-01-00",
+        "credits": 3.0,
+        "title": "JESUS, MEMORY & TRADITION ",
+        "instructor": "HAN CHUL HEUM",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c1634aba-2a23-582e-aac4-55e296196248",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3943-01-00",
+        "credits": 3.0,
+        "title": "WORLD CHURCH HISTORY 2 ",
+        "instructor": "Park Hyun Suk",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH101"
+    },
+    {
+        "id": "167eb13a-1727-5053-9d61-ca01967f3b2a",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3946-01-00",
+        "credits": 3.0,
+        "title": "ENCOUNTER OF ECOLOGY AND THEOLOGY ",
+        "instructor": "PARK ILJOON",
+        "times_str": "Wed5/Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "TheoH103/Realtime online lecture"
+    },
+    {
+        "id": "e08b0a26-83fc-544a-9870-255711c7b1ed",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE3955-01-00",
+        "credits": 3.0,
+        "title": "PAUL'S LIFE AND POLITICAL THEOLOGY ",
+        "instructor": "Jeong Bok Hee",
+        "times_str": "Mon6/Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/TheoH104"
+    },
+    {
+        "id": "695b6f47-1504-52c4-85d2-b9e83a1fb36f",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE4916-01-00",
+        "credits": 3.0,
+        "title": "CARE, COUNSELING AND COACHING ",
+        "instructor": "WI SEOHYUN",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "TheoH103/Realtime online lecture"
+    },
+    {
+        "id": "097f5647-3c7b-55d4-86f6-6ef9d0bd6790",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE4918-01-00",
+        "credits": 3.0,
+        "title": "THEOLOGICAL THINKING AND CREATIVITY ",
+        "instructor": "Kim Sang Keun",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "TheoB104"
+    },
+    {
+        "id": "a8d37fe6-721a-5458-9fca-07c5eba8a933",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE4921-01-00",
+        "credits": 3.0,
+        "title": "ZEN BUDDHISM AND CHRISTIANITY ",
+        "instructor": "Park Wook Joo",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "TheoH103/Pre-recorded lecture"
+    },
+    {
+        "id": "4a6cc052-6eb9-53a6-910a-218fcbc25078",
+        "department": "College of Theology",
+        "major": "Theology",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "THE4925-01-00",
+        "credits": 3.0,
+        "title": "OLD TESTAMENT THEOLOGY FROM TODAY'S PERSPECTIVE ",
+        "instructor": "KIM JU HWAN",
+        "times_str": "Wed7/Fri8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "TheoH101/Realtime online lecture"
+    }
+]

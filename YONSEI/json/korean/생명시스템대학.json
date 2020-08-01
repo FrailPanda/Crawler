@@ -1,0 +1,1503 @@
+﻿[
+    {
+        "id": "53724444-062d-5e99-b94f-b43208914237",
+        "department": "생명시스템대학",
+        "major": "생명시스템공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "LSB3101-01-00",
+        "credits": 3.0,
+        "title": "생화학(1) ",
+        "instructor": "송재환,하상준",
+        "times_str": "화5,6,목5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "21a84ba6-2a11-5b26-b8cf-6fcae939eba0",
+        "department": "생명시스템대학",
+        "major": "생명시스템공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "LSB3101-02-00",
+        "credits": 3.0,
+        "title": "생화학(1) ",
+        "instructor": "권호정",
+        "times_str": "수6,7/목6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/공B001"
+    },
+    {
+        "id": "e5f3efbd-9fc8-5021-851a-f1dc632f7df6",
+        "department": "생명시스템대학",
+        "major": "생명시스템공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "LSB3102-01-00",
+        "credits": 3.0,
+        "title": "생화학(2) ",
+        "instructor": "김대원,고혁완",
+        "times_str": "월7,8,수6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "da1a6c47-32bb-5fa5-9b37-0477eb74a5d5",
+        "department": "생명시스템대학",
+        "major": "생명시스템공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "LSB3102-02-00",
+        "credits": 3.0,
+        "title": "생화학(2) ",
+        "instructor": "노재석,송재환",
+        "times_str": "월2/수7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과S321"
+    },
+    {
+        "id": "5807b157-5a36-5e8d-8900-fbc743def9d6",
+        "department": "생명시스템대학",
+        "major": "생명시스템공통",
+        "year": "2",
+        "classification": "전필",
+        "code": "LSB3202-01-00",
+        "credits": 3.0,
+        "title": "세포생물학(1) ",
+        "instructor": "박현우,이승택",
+        "times_str": "월3,목2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "908458b2-26d7-5685-a77f-dd93a13ef3c0",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "BIO3712-01-00",
+        "credits": 3.0,
+        "title": "분자생물학 ",
+        "instructor": "양성욱,박보연",
+        "times_str": "수2,3,금1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c5d402c1-4dc5-5233-b39a-27e8922406f8",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "BIO3715-01-00",
+        "credits": 3.0,
+        "title": "분자생화학 ",
+        "instructor": "조현수,정광철",
+        "times_str": "화3,4/목6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/과B133"
+    },
+    {
+        "id": "12ea1e3d-93e8-5703-b0bd-d84b0af7077a",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIO2503-01-00",
+        "credits": 2.0,
+        "title": "현대생명과학연구세미나 ",
+        "instructor": "김지현",
+        "times_str": "금2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "39b2e7fd-ac85-5b75-93b5-4ae550380808",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIO3502-01-00",
+        "credits": 3.0,
+        "title": "시스템생물학실험(1) ",
+        "instructor": "조현수,김지현",
+        "times_str": "화11,12,13,목11,12,13",
+        "times": {
+            "1": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과SB202"
+    },
+    {
+        "id": "868bb03e-4c26-57fb-afc4-5f7dd9f02ff3",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIO3503-01-00",
+        "credits": 3.0,
+        "title": "세포생물학(2) ",
+        "instructor": "정광철,정인권",
+        "times_str": "월2/수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "과S118B/실시간온라인"
+    },
+    {
+        "id": "88c519e2-03bc-56a8-84d5-52c2caa80d5f",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BIO3718-01-00",
+        "credits": 3.0,
+        "title": "조직학 ",
+        "instructor": "오영준",
+        "times_str": "목8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "814dfe4a-ae9f-53e6-8976-21f8aaf05fe1",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CHE3110-YY-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9ecdfcff-285a-5587-a2eb-f1ed455372d9",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BIO3101-01-00",
+        "credits": 3.0,
+        "title": "발생학 ",
+        "instructor": "최광민",
+        "times_str": "월5,6,수1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5c7b0fa9-8666-554a-bde3-2e4ffed0cba9",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BIO3112-01-00",
+        "credits": 3.0,
+        "title": "동물생리학 ",
+        "instructor": "오영준,이태호",
+        "times_str": "금6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠"
+    },
+    {
+        "id": "aa340797-718a-5792-bce4-ba8535e34d20",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BIO3106-01-00",
+        "credits": 3.0,
+        "title": "식물발생분화학 ",
+        "instructor": "이명민,배현숙",
+        "times_str": "화2,3,목7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "5ca47561-faee-5fb6-bfd2-d57b745c98ac",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BIO3113-01-00",
+        "credits": 3.0,
+        "title": "시스템생물학실험(3) ",
+        "instructor": "김우택,배현숙",
+        "times_str": "월11,12,13,수11,12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과SB203"
+    },
+    {
+        "id": "a6f86851-7d53-5d6e-bf65-b6e4f2abf685",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BIO3714-01-00",
+        "credits": 3.0,
+        "title": "환경독성학분석 ",
+        "instructor": "브룩스사뮤엘캐롤",
+        "times_str": "화5,6,목4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c141ece1-a2eb-5ac7-bcf4-531d272857ab",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BIO3716-01-00",
+        "credits": 3.0,
+        "title": "생체방어시스템 ",
+        "instructor": "박보연,김지현",
+        "times_str": "월8,수7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "8f8b5f68-0968-5c61-9411-c4ca17e45dcd",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIO4104-01-00",
+        "credits": 3.0,
+        "title": "세균학 ",
+        "instructor": "김지현",
+        "times_str": "화5,6,목6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과S118B"
+    },
+    {
+        "id": "ac3417c1-120a-5450-af50-d8d5c42f01bd",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIO4108-01-00",
+        "credits": 3.0,
+        "title": "분자암생물학 ",
+        "instructor": "정인권",
+        "times_str": "화2,3,목3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "f74371f1-4a09-52dc-9c4a-c4003c61bcef",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIO4913-01-00",
+        "credits": 3.0,
+        "title": "시스템생물학실험(4) ",
+        "instructor": "정인권,박보연,조현수",
+        "times_str": "토1,2,3,4,5,6",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과SB215"
+    },
+    {
+        "id": "6027ba21-d7d1-50a5-8136-1c0dab378013",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIO4915-01-00",
+        "credits": 3.0,
+        "title": "진화학 ",
+        "instructor": "이태호,최광민",
+        "times_str": "월2,3/수3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠/실시간온라인"
+    },
+    {
+        "id": "b06e2359-5c6d-5aa9-baaa-1a6545159b5b",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BIO4917-01-00",
+        "credits": 3.0,
+        "title": "후성유전학입문 ",
+        "instructor": "조면행",
+        "times_str": "월6,7/월6,7,수8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "과S118B/실시간온라인"
+    },
+    {
+        "id": "bbc3d5f3-4233-5ff2-98f2-704b64472696",
+        "department": "생명시스템대학",
+        "major": "시스템생물학전공",
+        "year": "4",
+        "classification": "교직",
+        "code": "TTP3813-01-00",
+        "credits": 3.0,
+        "title": "과학교재연구및지도법 ",
+        "instructor": "박태윤",
+        "times_str": "화7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "과S118B"
+    },
+    {
+        "id": "67dc7488-9780-5ded-a583-2587a9d26179",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BCH2001-01-00",
+        "credits": 1.0,
+        "title": "주니어세미나(생화학연구기법및분석법2) ",
+        "instructor": "송재환",
+        "times_str": "월5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "c9d9c3ee-a5f9-5ab0-8e89-a44abf53baa8",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BCH3107-01-00",
+        "credits": 3.0,
+        "title": "생화학실험(2) ",
+        "instructor": "박현우",
+        "times_str": "월8,9,10,11,12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "9d0acffa-5134-5ea0-aff8-2fd169103658",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BCH3107-02-00",
+        "credits": 3.0,
+        "title": "생화학실험(2) ",
+        "instructor": "노재석,김영준",
+        "times_str": "화8,9,10,11,12,13",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "1f16a70f-ab5c-53ad-8157-35daae40c04b",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BCH3107-03-00",
+        "credits": 3.0,
+        "title": "생화학실험(2) ",
+        "instructor": "고혁완,하상준",
+        "times_str": "수8,9,10,11,12,13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "189d2531-0590-5355-829d-5980f30935ca",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BCH3107-04-00",
+        "credits": 3.0,
+        "title": "생화학실험(2) ",
+        "instructor": "김대원",
+        "times_str": "목8,9,10,11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "814dfe4a-ae9f-53e6-8976-21f8aaf05fe1",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "CHE3110-YY-00",
+        "credits": 3.0,
+        "title": "유기화학(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e70a95bd-e0f0-5274-b4b1-d9d0008a3d8d",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BCH3103-01-00",
+        "credits": 3.0,
+        "title": "생체물리화학 ",
+        "instructor": "이원태",
+        "times_str": "화7,8/목6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과S321"
+    },
+    {
+        "id": "3ad3150f-12b5-530e-9309-9894d975162d",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BCH4101-01-00",
+        "credits": 3.0,
+        "title": "생화학과제실험(1) ",
+        "instructor": "이원태",
+        "times_str": "토1,2,3,4,5,6",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "3b6d1c46-5249-5cc3-9e52-62da37a792a3",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BCH4102-01-00",
+        "credits": 3.0,
+        "title": "생화학과제실험(2) ",
+        "instructor": "이승택",
+        "times_str": "토7,8,9,10,11,12",
+        "times": {
+            "5": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "과S437"
+    },
+    {
+        "id": "dd0fdf1a-f842-5d78-93c4-487219798518",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BCH3104-01-00",
+        "credits": 3.0,
+        "title": "분자생리학 ",
+        "instructor": "이한웅",
+        "times_str": "월6,7/수2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "과S321/동영상콘텐츠"
+    },
+    {
+        "id": "6d1167ea-5b51-5dca-927e-60d61cb38218",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "3,4",
+        "classification": "전선",
+        "code": "BCH3123-01-00",
+        "credits": 3.0,
+        "title": "신경과학 ",
+        "instructor": "고혁완",
+        "times_str": "화2,3/목2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인/과S321"
+    },
+    {
+        "id": "739b5ec4-dfa5-5775-8c61-6d93a018937c",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BCH3113-01-00",
+        "credits": 3.0,
+        "title": "발생생화학 ",
+        "instructor": "송기원,김대원",
+        "times_str": "월2,수6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "b6310c02-8d54-5b60-9767-7eeab2aaf9ac",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BCH3122-01-00",
+        "credits": 3.0,
+        "title": "병리생화학 ",
+        "instructor": "하상준",
+        "times_str": "화9,목7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "e7873392-2132-5d49-ac76-bd6e5c3fd56b",
+        "department": "생명시스템대학",
+        "major": "생화학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BCH4113-01-00",
+        "credits": 3.0,
+        "title": "암유전체학 ",
+        "instructor": "김영준,노재석",
+        "times_str": "월8,9,수9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "ca008ab8-2a8a-5682-a20d-910623cf5271",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BTE2703-01-01",
+        "credits": 3.0,
+        "title": "생명공학정보처리 ",
+        "instructor": "최상민",
+        "times_str": "화2,3(수4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(공A577)"
+    },
+    {
+        "id": "4b97c709-a433-508c-94c2-13e11dd90776",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전기",
+        "code": "BTE2703-01-02",
+        "credits": 3.0,
+        "title": "생명공학정보처리 ",
+        "instructor": "최상민",
+        "times_str": "화2,3(금4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "동영상콘텐츠(공A577)"
+    },
+    {
+        "id": "79c9b726-10da-5cfc-9f1c-5241b1972a79",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전필",
+        "code": "BTE2201-01-00",
+        "credits": 3.0,
+        "title": "생물유기화학 ",
+        "instructor": "한균희",
+        "times_str": "월6,7/목8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공A428"
+    },
+    {
+        "id": "126c194a-2fb4-51c5-97e6-e53d74c1287c",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2402-01-00",
+        "credits": 3.0,
+        "title": "응용미생물학 ",
+        "instructor": "반용선",
+        "times_str": "화7,수1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "공B040"
+    },
+    {
+        "id": "0765e580-dd91-52c4-8367-ad672f5eefbb",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2601-01-00",
+        "credits": 3.0,
+        "title": "분자생명공학기초실험 ",
+        "instructor": "반용선,이경태",
+        "times_str": "월9,10,11,12,13,14",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "공B607"
+    },
+    {
+        "id": "25a65064-f93f-5183-97b3-dccd5c4aad00",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2601-02-00",
+        "credits": 3.0,
+        "title": "분자생명공학기초실험 ",
+        "instructor": "변상균",
+        "times_str": "화9,10,11,12,13,14",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "공B607"
+    },
+    {
+        "id": "5bf6d951-bb1c-54c0-a577-0cde0709c670",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2601-03-00",
+        "credits": 3.0,
+        "title": "분자생명공학기초실험 ",
+        "instructor": "정형일",
+        "times_str": "수9,10,11,12,13,14",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "공B607"
+    },
+    {
+        "id": "fcf32a6c-f666-5c1e-9a7d-0fb53ef42112",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2601-04-00",
+        "credits": 3.0,
+        "title": "분자생명공학기초실험 ",
+        "instructor": "최강열",
+        "times_str": "목9,10,11,12,13,14",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "공B607"
+    },
+    {
+        "id": "28f816fb-b2f6-560a-99cc-8e865cf5deac",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2601-05-00",
+        "credits": 3.0,
+        "title": "분자생명공학기초실험 ",
+        "instructor": "한균희",
+        "times_str": "금9,10,11,12,13,14",
+        "times": {
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 23.0
+                }
+            ]
+        },
+        "location": "공B607"
+    },
+    {
+        "id": "35916b6c-a9b1-58c3-86a7-7d5ec6f8df89",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "2",
+        "classification": "전선",
+        "code": "BTE2702-01-00",
+        "credits": 3.0,
+        "title": "유전학분석 ",
+        "instructor": "소더홈존",
+        "times_str": "월1,2,목1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "99738051-1d33-5f31-9a3e-035a12c21205",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BTE3102-01-00",
+        "credits": 3.0,
+        "title": "분자생물학 ",
+        "instructor": "최강열",
+        "times_str": "수1,2/목5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공B001"
+    },
+    {
+        "id": "fd2d29f4-dbd0-5b84-9821-1405aace6a4e",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "3",
+        "classification": "전필",
+        "code": "BTE3202-01-00",
+        "credits": 3.0,
+        "title": "바이오공정공학 ",
+        "instructor": "신종식",
+        "times_str": "수3,금1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "24b5e667-ced5-5293-9d68-c12d24c30ab3",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BTE3403-01-00",
+        "credits": 3.0,
+        "title": "면역학 ",
+        "instructor": "이상규",
+        "times_str": "화5,6,수5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "공B001"
+    },
+    {
+        "id": "b9d9be86-9630-58f9-82af-a0f872e7e3b6",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BTE3602-01-00",
+        "credits": 3.0,
+        "title": "생명공학전공실험(1) ",
+        "instructor": "이인석",
+        "times_str": "토4,5,6,7,8,9",
+        "times": {
+            "5": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "공A577"
+    },
+    {
+        "id": "5be50930-3bd3-5fe7-a308-345933acbefa",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "3",
+        "classification": "전선",
+        "code": "BTE3609-01-00",
+        "credits": 3.0,
+        "title": "나노의생명공학 ",
+        "instructor": "정형일",
+        "times_str": "화3/목2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공B001"
+    },
+    {
+        "id": "21baa309-7180-5f1e-823e-91555067dced",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4404-01-00",
+        "credits": 3.0,
+        "title": "분자설계및실습 ",
+        "instructor": "노경태",
+        "times_str": "수2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "실시간온라인"
+    },
+    {
+        "id": "68956f69-aed1-53d3-b839-5ace9f46ab8e",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4408-01-00",
+        "credits": 3.0,
+        "title": "바이오식품산업공학 ",
+        "instructor": "황재관",
+        "times_str": "월9/수8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공B001"
+    },
+    {
+        "id": "cd813af6-efb0-59b3-a616-17d17af77a93",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4602-01-00",
+        "credits": 3.0,
+        "title": "생명공학창의설계(2) ",
+        "instructor": "노경태",
+        "times_str": "토1,2,3",
+        "times": {
+            "5": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "공A577"
+    },
+    {
+        "id": "73eec53d-8fea-5074-b8b4-338ea4f2e026",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4603-01-00",
+        "credits": 3.0,
+        "title": "기능유전체학 ",
+        "instructor": "이인석",
+        "times_str": "화1,2/목1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "공B001/실시간온라인"
+    },
+    {
+        "id": "13842058-e4c2-58ce-b1ac-01108721e816",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4609-01-00",
+        "credits": 3.0,
+        "title": "세포조직공학개론 ",
+        "instructor": "조승우",
+        "times_str": "월2,3/수7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "공B001/실시간온라인"
+    },
+    {
+        "id": "e158f80d-d2bc-535b-967c-3757fec0dc67",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4611-01-00",
+        "credits": 3.0,
+        "title": "바이오폴리머개론 ",
+        "instructor": "노영훈",
+        "times_str": "월7/목8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "공B001/동영상콘텐츠"
+    },
+    {
+        "id": "5a5257a8-124a-527b-b81a-5f1859469d47",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4612-01-00",
+        "credits": 3.0,
+        "title": "식품발효공학 ",
+        "instructor": "이동우",
+        "times_str": "화7/목6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "실시간온라인/공A577"
+    },
+    {
+        "id": "762e0b0b-9e48-5672-a9b1-eb7e51f6abb7",
+        "department": "생명시스템대학",
+        "major": "생명공학전공",
+        "year": "4",
+        "classification": "전선",
+        "code": "BTE4613-01-00",
+        "credits": 3.0,
+        "title": "건강기능식품학 ",
+        "instructor": "변상균",
+        "times_str": "월8,화5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "공A577"
+    }
+]

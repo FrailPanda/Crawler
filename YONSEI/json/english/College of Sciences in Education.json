@@ -1,0 +1,2913 @@
+﻿[
+    {
+        "id": "486efd9f-4751-5dd8-8e25-4ad9cc2fc9e8",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "EDU2002-01-00",
+        "credits": 3.0,
+        "title": "EDUCATION FOR TOMORROW ",
+        "instructor": "Kim Hye-Sook/Lee Myung-Geun/Chang, Wonsup/LEE GUEMIN/Hwang Keumjoong/Pak Soon-Yong/Seo Young Seok/Hong Won Pyo/Kim Sung won/Oh Seok Young/Lee Moosung/Ryoo Ji Hoon",
+        "times_str": "Fri6,7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b6099161-f53c-5a09-9321-39b2eeefb970",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "EDU2003-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "PARK Jong Hwa",
+        "times_str": "Thu10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Edu516"
+    },
+    {
+        "id": "1223ac51-6e5f-5bf9-9d55-5073b1da1c96",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "TTP2008-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(1) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "593f891e-895f-5c1f-9177-a0a0eef5fd6a",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "TTP2009-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(2) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cbcbd47b-8693-559d-a9c8-66c06bc69b10",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "EDU2107-01-00",
+        "credits": 3.0,
+        "title": "SOCIOLOGY OF EDUCATION ",
+        "instructor": "Park DaeKwon",
+        "times_str": "Tue2/Thu3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu517/Pre-recorded lecture"
+    },
+    {
+        "id": "2575e29a-a8f5-5d2f-bba1-0abd11a12967",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "EDU2109-01-00",
+        "credits": 3.0,
+        "title": "ICT-BASED EDUCATION ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "57dc7e1e-88ed-5601-88ef-f2977f78fb35",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "EDU2113-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO EDUCATIONAL ADMINISTRATION ",
+        "instructor": "Kim Hye-Sook",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu517/Pre-recorded lecture"
+    },
+    {
+        "id": "ed6986d9-d639-5513-b72d-6d07f70c7c6a",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "EDU2125-01-00",
+        "credits": 3.0,
+        "title": "HISTORY OF WESTERN EDUCATION ",
+        "instructor": "Lee Sang O",
+        "times_str": "Wed4,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Edu606"
+    },
+    {
+        "id": "a461d739-5837-5690-bce8-646f84171afe",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3144-01-00",
+        "credits": 2.0,
+        "title": "LOGICS AND ESSAY-WRITING IN EDUCATION ",
+        "instructor": "LEE SEONGMI",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "a751b2c7-410b-559f-818e-2f2535b5ee87",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3103-01-00",
+        "credits": 3.0,
+        "title": "MODELS OF TEACHING ",
+        "instructor": "Hong Won Pyo",
+        "times_str": "Tue4,5/Thu5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Edu614/Realtime online lecture"
+    },
+    {
+        "id": "4e655d1c-68df-53ea-a68b-0d76442b6b99",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3112-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE EDUCATION ",
+        "instructor": "Kim Sung won",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu601"
+    },
+    {
+        "id": "6cf3989a-b085-5e7e-8c20-ce6d19c00ca3",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3131-01-00",
+        "credits": 3.0,
+        "title": "HUMAN DEVELOPMENT AND EDUCATION ",
+        "instructor": "Song Soo Ji",
+        "times_str": "Thu1,Fri3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "173c4c8b-872e-5853-ae01-3dc295c9eee6",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3133-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF EDUCATIONAL EVALUTION ",
+        "instructor": "LEE GUEMIN",
+        "times_str": "Tue8,Thu7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "97216ef3-a305-536e-9590-a0dcec066892",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3136-01-00",
+        "credits": 3.0,
+        "title": "ANTHROPOLOGICAL STUDIES IN EDUCATION ",
+        "instructor": "Pak Soon-Yong",
+        "times_str": "Wed2,3/Fri2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Edu517/Pre-recorded lecture"
+    },
+    {
+        "id": "d732f8b2-cbc8-54a3-a738-ea7b170a5950",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3137-01-00",
+        "credits": 3.0,
+        "title": "COMPARATIVE CULTURAL UNDERSTANDING OF EDUCATION ",
+        "instructor": "Park Aileen",
+        "times_str": "Tue10,11/Thu10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Edu601"
+    },
+    {
+        "id": "6e6cb967-ad6f-59d6-977c-b53797827758",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "EDU3167-01-00",
+        "credits": 3.0,
+        "title": "EDUCATIONAL STATISTICS II ",
+        "instructor": "Ryoo Ji Hoon",
+        "times_str": "Tue6,7/Thu9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu603/Pre-recorded lecture"
+    },
+    {
+        "id": "db9f2535-d9a8-55b7-8756-a0bbe34ba070",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "TTP4007-01-00",
+        "credits": 1.0,
+        "title": "EDUCATIONAL FIELD RESEARCH ",
+        "instructor": "goh Rae Eok",
+        "times_str": "Wed10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "bb9495f9-062f-5fb8-9e6d-8a05825cc358",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4117-01-00",
+        "credits": 3.0,
+        "title": "PRACTICISM OF HRD ",
+        "instructor": "Chang, Wonsup",
+        "times_str": "Mon5,6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Edu519"
+    },
+    {
+        "id": "4677a97d-1f84-5d72-b193-3beeaec676ca",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4118-01-00",
+        "credits": 3.0,
+        "title": "SEMINAR ON COUNSELING PSYCHOLOGY ",
+        "instructor": "Seo Young Seok",
+        "times_str": "Mon2,3,Wed1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Edu601"
+    },
+    {
+        "id": "8685853f-b1b7-50a4-b497-14d6b36931e6",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4121-01-00",
+        "credits": 3.0,
+        "title": "EDUCATION FOR INTERNATIONAL UNDERSTANDING ",
+        "instructor": "Lee Moosung",
+        "times_str": "Wed2,3/Thu3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Edu606/Realtime online lecture"
+    },
+    {
+        "id": "fc1a0b81-eac1-5a08-b972-7250ecb138e0",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4124-01-00",
+        "credits": 3.0,
+        "title": "HRD AND ADULT EDUCATION ",
+        "instructor": "Oh Seok Young",
+        "times_str": "Tue6,7/Thu6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu614"
+    },
+    {
+        "id": "72d15a15-0b0d-5e85-a1e1-e1a0dd78b72f",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4127-01-00",
+        "credits": 3.0,
+        "title": "STUDIES IN MAUM EDUCATION ",
+        "instructor": "Hwang Keumjoong",
+        "times_str": "Mon6/Wed6,7",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Edu614"
+    },
+    {
+        "id": "fdb48622-e5bd-57f6-8a5c-06291194ad04",
+        "department": "College of Sciences in Education",
+        "major": "Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "EDU4134-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF INSTRUCTIONAL DESIGN INTO PRACTICE ",
+        "instructor": "Lee Myung-Geun",
+        "times_str": "Mon8,9,Wed9/Mon8,9,Wed9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu516/Realtime online lecture"
+    },
+    {
+        "id": "ca5ba3ac-568d-5cce-a7a1-7e7dbe11900c",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "PED2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "PAIK IL YOUNG",
+        "times_str": "Mon5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "a73b6855-b328-5f5a-8de5-241d0e1ef33f",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "PED2001-02-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Suh Sang-Hoon",
+        "times_str": "Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "41b4c809-0eb4-575a-8018-b7da3c19ac4c",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "PED2001-03-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Lee Sae Yong",
+        "times_str": "Fri6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "b562f982-f132-5531-969c-ccb1f253e597",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PED1101-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN SWIMMING (1) ",
+        "instructor": "WOO SUNGWON",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "d0c66d76-68a4-532d-9079-f6d9d8423b19",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PED1101-02-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN SWIMMING (1) ",
+        "instructor": "Yook, Dong Won",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC(Swimming Pool)"
+    },
+    {
+        "id": "9b3cbccc-efb7-5f87-8207-d04179627d73",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PED1109-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLE OF PHYSIC EDUCATION ",
+        "instructor": "Yoon Yeo Tak/OH TAE HAN",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "56854ecc-7244-51bd-b898-e7e73ec4691a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PED2202-01-00",
+        "credits": 3.0,
+        "title": "EXERCISE PHYSIOLOGY I ",
+        "instructor": "PAIK IL YOUNG/Suh Sang-Hoon",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "305bd82e-6986-52fd-a2e6-b4b023be069f",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "PED2202-02-00",
+        "credits": 3.0,
+        "title": "EXERCISE PHYSIOLOGY I ",
+        "instructor": "Kim YuSik/Cho Suyoun",
+        "times_str": "Mon3,4,5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "49af627b-7e63-54a2-9264-2129baea8ccb",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "PED1105-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN BADMINTON ",
+        "instructor": "JI YOUNG CHOI",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "c943c06f-ecd7-5356-97cc-b766ba4fc56f",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "PED2107-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN TENNIS II ",
+        "instructor": "PAIK IL YOUNG",
+        "times_str": "Tue3,4(Tue3,4)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Tennis Court (Clay)(Spo109)"
+    },
+    {
+        "id": "76c89680-b958-5dea-a9e4-ec2a5c6b2a6c",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "PED1804-01-00",
+        "credits": 3.0,
+        "title": "INSTRUCTION IN CARDIOPULMONARY RESUSCITATION(CPR) ",
+        "instructor": "Cho Suyoun",
+        "times_str": "Mon11,12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "f57b1acf-686f-5db3-9220-901aaff4ce9a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "PED1107-01-00",
+        "credits": 1.0,
+        "title": "PHYSICAL FITNESS(1) ",
+        "instructor": "Suh Sang-Hoon",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e612ab56-60f4-5dcf-831f-18ebab1631b6",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "PED4204-01-00",
+        "credits": 3.0,
+        "title": "SPORTS BIOMECHANICS(2) ",
+        "instructor": "Lee Hae Dong",
+        "times_str": "Mon2,3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "7ff7bc2d-3168-5a5a-9560-0fcffc91f73c",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "PED4204-02-00",
+        "credits": 3.0,
+        "title": "SPORTS BIOMECHANICS(2) ",
+        "instructor": "Moon gonsung",
+        "times_str": "Mon2,3/Mon4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo108/Pre-recorded lecture"
+    },
+    {
+        "id": "1b6a9ac1-d795-5372-a986-5cd0857c768a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Choi KyungSu",
+        "times_str": "Thu7",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "4e51bbfc-9929-5180-85f5-9ca02d3fc39a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "SON NARAE",
+        "times_str": "Tue1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "87a6cce0-448b-5313-99a1-3a176a13be10",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Jang Youngjin",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "9277d20c-1c7c-579a-ac51-af1022a9fcd7",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Park SangHoon",
+        "times_str": "Thu2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "c210bb03-2987-5820-9325-f7f48d834694",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-05-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Kim Byonghun",
+        "times_str": "Fri3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "b5fa6ef8-afb9-518a-892a-166e1be05d4a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-06-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "WOO SUNGWON",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "a8dbdf9c-3e75-5996-bc67-95face3c55da",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-07-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "lee inje",
+        "times_str": "Tue1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "85de4f63-0ba2-5416-a0ea-542e71fbb84e",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-08-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "GEE JUNHEE",
+        "times_str": "Thu9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Seminar Room. Athletic Dormitory"
+    },
+    {
+        "id": "56c6b64d-e978-56ea-b4f4-99fd6e722226",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-09-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Park Byung Jun",
+        "times_str": "Tue5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "ee15326d-425c-5bc9-a21a-ad1ae70ec84a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-10-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "RYOO HYUNJI",
+        "times_str": "Tue2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "0f6751ac-3943-56bb-86ed-13b4a0668d69",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-11-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Kim GeonWoo",
+        "times_str": "Wed10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "19f26f94-4522-50bb-bbfa-9bc879fca7d6",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-12-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE TAE-HYUNG",
+        "times_str": "Tue2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "dfcce087-b82d-5866-9007-bca8dc55d8e8",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-13-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Kim Min Jin",
+        "times_str": "Wed9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "7f899d25-3423-5e37-ae61-a8bd8f1fd4df",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-14-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIMM DAE-EUN",
+        "times_str": "Fri3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "a5965596-f7ed-55bb-8cce-0c2fbd3922d6",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-15-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "JEONG KEUN YOUNG",
+        "times_str": "Mon4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "c2423090-4b59-5977-b2c5-890b37b09957",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2002-16-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "OH TAE HAN",
+        "times_str": "Mon6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Seminar Room. Athletic Dormitory"
+    },
+    {
+        "id": "acf70be2-cea3-52a2-aa4f-c905ef2f91e1",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2101-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN BASKETBALL II ",
+        "instructor": "CHOI JESANG",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC"
+    },
+    {
+        "id": "c0ba995c-87b9-5420-8854-a6132d4238bb",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2106-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN GYMNASTICS II ",
+        "instructor": "JI YOUNG CHOI",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "10a674e0-e356-51b0-ad7a-ce074b25ae00",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2808-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN YOGA ",
+        "instructor": "PROST MARTINE THERESE",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "bb88ca9c-442a-580b-8e7e-39000d5bec5a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2204-01-00",
+        "credits": 3.0,
+        "title": "ANATOMICAL KINESIOLOGY ",
+        "instructor": "Lee Hae Dong",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Spo315"
+    },
+    {
+        "id": "7b78cb45-ec60-5427-ae3a-bc8f646e17f1",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2206-01-00",
+        "credits": 3.0,
+        "title": "EXERCISE PRESCRIPTION ",
+        "instructor": "PAIK IL YOUNG/LEE TAE-HYUNG",
+        "times_str": "Wed2,3,Thu1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "2be183d5-6eed-597a-8af5-41682fd7aa67",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2502-01-00",
+        "credits": 3.0,
+        "title": "PSYCHOLOGY OF EDUCATION ",
+        "instructor": "Song Soo Ji",
+        "times_str": "Fri5,6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "a47b4a09-b04c-5e96-8484-8b30a03111e8",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2503-01-00",
+        "credits": 3.0,
+        "title": "ED PHILOSOPHY & HIS OF ED ",
+        "instructor": "Lee Won Jae",
+        "times_str": "Wed6,7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "3b314fb1-75ce-56b0-abe6-1813a3c0d0fc",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2802-01-00",
+        "credits": 3.0,
+        "title": "INSTRUCTION IN TRAINING PRACTICE(1) ",
+        "instructor": "CHOI JESANG",
+        "times_str": "Wed11,12/Wed13",
+        "times": {
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Seminar Room. Athletic Dormitory/Pre-recorded lecture"
+    },
+    {
+        "id": "aa787189-088f-52be-82c6-2b78da9a4f39",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2805-01-00",
+        "credits": 3.0,
+        "title": "PRACTICUM: PHYSICAL THERAPY ",
+        "instructor": "KIMM DAE-EUN",
+        "times_str": "Fri11,12,13",
+        "times": {
+            "4": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Seminar Room. Athletic Dormitory"
+    },
+    {
+        "id": "7f5662e4-bc23-5e51-a5e0-11153688c3fd",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "PED2805-02-00",
+        "credits": 3.0,
+        "title": "PRACTICUM: PHYSICAL THERAPY ",
+        "instructor": "JO YONG JAE",
+        "times_str": "Thu11/Thu12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Spo109/Pre-recorded lecture"
+    },
+    {
+        "id": "6db4ee43-db03-5575-a377-0d84fd1e0312",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Basic",
+        "code": "PED2108-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN TRACK & FIELD II ",
+        "instructor": "LEE BYUNGGOO",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "95f7e222-68ae-5c67-8d22-e3deaf433205",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Basic",
+        "code": "PED4806-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN GOLF (1) ",
+        "instructor": "PARK WAN YONG",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "90ac692d-5c69-5cc8-a069-948a0ca5d297",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Basic",
+        "code": "PED4806-02-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN GOLF (1) ",
+        "instructor": "LEE KWANG HO",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "0be057c3-f1fe-50aa-b73f-c86f0b7bed1f",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED2102-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN VOLLEYBALL II ",
+        "instructor": "Choi Seangbae",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC(Gymnastic Floor)"
+    },
+    {
+        "id": "766065dc-4219-582e-a653-ee75d517703c",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3809-01-00",
+        "credits": 1.0,
+        "title": "THERAPEUTIC REHABILITATION LAB ",
+        "instructor": "Jeong Hee Seong",
+        "times_str": "Fri7,8(Fri7,8)",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "(Spo(Fitness Center))"
+    },
+    {
+        "id": "593f891e-895f-5c1f-9177-a0a0eef5fd6a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "TTP2009-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(2) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "90780e07-8706-5e33-bc64-efeba6466d63",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3509-01-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO SPECIAL EDUCATION ",
+        "instructor": "Park Jae Beom",
+        "times_str": "Thu11,12",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "5b7a58f9-dc36-5271-80d3-5c9449854972",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3808-01-00",
+        "credits": 2.0,
+        "title": "EDUCATIONAL EVALUATION ",
+        "instructor": "Kim Jooah",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "3d2abe28-903e-5222-b49a-14fc197a3a89",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3208-01-00",
+        "credits": 3.0,
+        "title": "THERAPEUTIC REHABILITATION ",
+        "instructor": "Lee Sae Yong",
+        "times_str": "Mon5,6,Fri5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "d7cc189c-3187-54ff-a373-6fa4676d3a6d",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3210-01-00",
+        "credits": 3.0,
+        "title": "CURRICULUMS IN PHYSICAL EDUCATION ",
+        "instructor": "Lee, Han Joo",
+        "times_str": "Thu3,4(Thu3,4)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo315(PEC)"
+    },
+    {
+        "id": "5577a124-12ea-5648-893d-6cc1f2c63bfe",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED3503-01-00",
+        "credits": 3.0,
+        "title": "EDUCATIONAL SOCIETY ",
+        "instructor": "Bahng Jaeim",
+        "times_str": "Wed2,3/Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/PEC104"
+    },
+    {
+        "id": "0d53da45-121b-527c-ab95-e09293a0e421",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED4206-01-00",
+        "credits": 3.0,
+        "title": "MOTOR LEARNING AND CONTROL ",
+        "instructor": "Yook, Dong Won",
+        "times_str": "Tue5,6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "bee8645b-b3c5-5d41-989d-0ba187df5821",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "PED4206-02-00",
+        "credits": 3.0,
+        "title": "MOTOR LEARNING AND CONTROL ",
+        "instructor": "Yook, Dong Won",
+        "times_str": "Tue10,11,12",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 21.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "ec1353e7-4d4e-5f8c-a35f-940bae9ea956",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "PED1111-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN SOCCER ",
+        "instructor": "OH TAE HAN",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Athletic Field"
+    },
+    {
+        "id": "11d20e6f-4d28-5057-833b-ca2dba3d6ab3",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "PED1111-02-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN SOCCER ",
+        "instructor": "OH TAE HAN",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Athletic Field"
+    },
+    {
+        "id": "437cccb8-70ed-567b-83b6-68db169cd37a",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "PED1115-01-00",
+        "credits": 1.0,
+        "title": "TEACHING METHODS IN KOREAN TRADITIONAL DANCE ",
+        "instructor": "Gwak jungwoon",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PED(Dance Studio)"
+    },
+    {
+        "id": "5737c78a-3d26-54aa-b269-1e2be7998e35",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "PED4201-01-00",
+        "credits": 3.0,
+        "title": "COMPREHENSIVE SKILL TEST ",
+        "instructor": null,
+        "times_str": "Wed7,8,9(Wed7,8,9(Wed7,8,9)",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Athletic Field(PEC(Swimming Pool)(PEC(Gymnastic Floor))"
+    },
+    {
+        "id": "1223ac51-6e5f-5bf9-9d55-5073b1da1c96",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "TTP2008-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE IN EDUCATION(1) ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "db9f2535-d9a8-55b7-8756-a0bbe34ba070",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "TTP4007-01-00",
+        "credits": 1.0,
+        "title": "EDUCATIONAL FIELD RESEARCH ",
+        "instructor": "goh Rae Eok",
+        "times_str": "Wed10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "cfaebc0e-47af-5616-b761-e26344228fa5",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PED4207-01-00",
+        "credits": 3.0,
+        "title": "PHYSICAL EDUCATION METHODS ",
+        "instructor": "Lee, Han Joo/LEE KYUNG SOO",
+        "times_str": "Thu8,9,10(Thu8,9,10)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Spo302(SpoB04(Ball Game))"
+    },
+    {
+        "id": "ec418175-5d37-5d59-9e58-db41cd47cbcd",
+        "department": "College of Sciences in Education",
+        "major": "Physical Education",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "PED4207-02-00",
+        "credits": 3.0,
+        "title": "PHYSICAL EDUCATION METHODS ",
+        "instructor": "Lee, Han Joo/KIM WOO YOUNG",
+        "times_str": "Tue8/Tue9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/PEC"
+    },
+    {
+        "id": "dd82b944-0d69-51cf-8c0b-92f1bbe26c48",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "SLS1104-01-00",
+        "credits": 1.0,
+        "title": "SWIMMING(1) ",
+        "instructor": "Yong-Jin Yoon",
+        "times_str": "Thu7,8(Thu7,8)",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo108(PEC(Swimming Pool))"
+    },
+    {
+        "id": "d368400e-3d94-58da-b487-2e797c9e47fd",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "SLS1201-01-00",
+        "credits": 3.0,
+        "title": "INTRO. TO SPORT INDUSTRY STUDIES ",
+        "instructor": "Chin Ji Hyoung",
+        "times_str": "Thu11/Thu12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "PEC104/Pre-recorded lecture"
+    },
+    {
+        "id": "0ba32bb1-161e-5e2b-80a6-d621e41665ef",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "SLS1115-01-00",
+        "credits": 1.0,
+        "title": "BADMINTON ",
+        "instructor": "LEE SEJOONG",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "c9193ee4-9975-5c77-b214-c2f2d7542c5d",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "SLS2106-01-00",
+        "credits": 1.0,
+        "title": "TAEKWONDO II ",
+        "instructor": "Cho, Kwang Min",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "55fbcdab-8a4e-59c5-a6d6-40313a9853a3",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Heo Jinmoo",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "9e51fd10-dc49-5093-97c5-26077ade60d7",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "CHOI MYUNGJIN",
+        "times_str": "Mon6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "0748efe5-6ee5-5487-95ac-56bb4f7a9307",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Chun Sung Bum",
+        "times_str": "Tue4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "e008eee4-ffe7-5d83-9f84-170878cb6cb7",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Hong Sunghyun",
+        "times_str": "Tue6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "8397d598-2807-5fd5-8190-2d710ab73a1c",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "BAE JAEYOON",
+        "times_str": "Thu9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "5c66c8cb-5ec4-544e-a4dc-3daa34a23356",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-05-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE Kipyo",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "6caeea45-d0e4-55e8-84f2-0f90ba1c30bf",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-06-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Park ji yeon",
+        "times_str": "Fri3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "4c3f84ee-5057-5530-9e0e-37652096c5db",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-07-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "OH JUNG HEUI",
+        "times_str": "Thu5",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "c2dc5edf-280a-56bc-898e-b181b7993730",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-08-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Lee jeongil",
+        "times_str": "Thu4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo109"
+    },
+    {
+        "id": "a184fafa-acfa-5bf2-b693-982e7f6dd695",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-09-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Byun Hyun",
+        "times_str": "Tue7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "f18df1b1-649b-5b8f-b65a-92b79cc1fe74",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-10-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Lee Yoongu",
+        "times_str": "Tue2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "b619f6ac-dc5f-5b75-be35-34accc53a8c2",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-11-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Park Kwang Beom",
+        "times_str": "Wed2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "3a751241-6d4e-5af7-a769-6829c917056d",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-12-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Kim Sueyeon",
+        "times_str": "Wed1",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "30659e42-c5ef-5053-9a5d-0cb37e23aa99",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-13-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE MINSEOK",
+        "times_str": "Thu2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "1bb1727a-0701-51f2-8b6c-c0507d9747c6",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-14-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "Byeon Jiyong",
+        "times_str": "Mon5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "PEC104"
+    },
+    {
+        "id": "5c95c874-e466-5182-b933-a12008211aa4",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-15-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "JUNG KYUNG HWAN",
+        "times_str": "Tue1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "cf97223b-cfaf-57c7-b439-14ad2d6efaa7",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2002-16-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "LEE ROK BIT",
+        "times_str": "Fri7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Spo108"
+    },
+    {
+        "id": "fa882730-75e2-5980-82f8-96b728b694d3",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2102-01-00",
+        "credits": 1.0,
+        "title": "JUDO II ",
+        "instructor": "MA YOON SUNG",
+        "times_str": "Mon7,8(Mon7,8)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "300ee889-509b-5ffe-af27-e3527e7d2f60",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2114-01-00",
+        "credits": 1.0,
+        "title": "GOLF(2) ",
+        "instructor": "Cho Won duk",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Golf Course"
+    },
+    {
+        "id": "85ec0d14-e113-5045-9a41-6ea0457e2422",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2122-01-00",
+        "credits": 1.0,
+        "title": "HORSE RIDING(2) ",
+        "instructor": "Lee Won Il",
+        "times_str": "Sat8,9(Fri8,9)",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Spo108(Outside Lecture)"
+    },
+    {
+        "id": "706d95e8-a6a1-53a4-a24d-570b09507f0d",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2131-01-00",
+        "credits": 1.0,
+        "title": "BODY BUILDING(2) ",
+        "instructor": "Justin Y. Jeon",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Spo(Fitness Center)"
+    },
+    {
+        "id": "bbcdff8b-4491-5320-844d-ac5b24e8d3ab",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2151-01-00",
+        "credits": 1.0,
+        "title": "PILATES(1) ",
+        "instructor": "Yang Hyejoo",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB14"
+    },
+    {
+        "id": "c1992486-3e88-5678-8a01-aff72268d0cd",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2161-01-00",
+        "credits": 1.0,
+        "title": "FUTSAL(1) ",
+        "instructor": "KANG HEEYEOB",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "4b481ed5-d6b3-5b77-ad39-146881cfdc7b",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2181-01-00",
+        "credits": 1.0,
+        "title": "PICKLEBALL(1) ",
+        "instructor": "Heo Jinmoo",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "7745f2e6-b340-54be-82b2-21fff417b5bd",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2182-01-00",
+        "credits": 1.0,
+        "title": "PICKLEBALL(2) ",
+        "instructor": "Heo Jinmoo",
+        "times_str": "Tue6,7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "SpoB04(Ball Game)"
+    },
+    {
+        "id": "207e14af-7c9d-57fc-959b-aa7ec100c643",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS2230-01-00",
+        "credits": 1.0,
+        "title": "HARMONY DANCE ",
+        "instructor": "Kim Sueyeon",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo107"
+    },
+    {
+        "id": "8103c3b8-9cab-54e9-91f9-253c3401e1c8",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS1202-01-00",
+        "credits": 3.0,
+        "title": "SPORTS ADMINISTRATION & MANAGEMENT ",
+        "instructor": "Cho, Kwang Min",
+        "times_str": "Wed8,9,Thu8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Spo315"
+    },
+    {
+        "id": "7b3fad15-d7ae-592d-b794-7270714e48f0",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "SLS1202-02-00",
+        "credits": 3.0,
+        "title": "SPORTS ADMINISTRATION & MANAGEMENT ",
+        "instructor": "Cho, Kwang Min",
+        "times_str": "Thu11,12,13",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "Seminar Room. Athletic Dormitory"
+    },
+    {
+        "id": "96eea7ea-ddea-5202-ab62-40da099a3b33",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Basic",
+        "code": "SLS4102-01-00",
+        "credits": 1.0,
+        "title": "COMPREHENSIVE SKILL TEST ",
+        "instructor": "WON, Young-Shin/Yong-Jin Yoon/Justin Y. Jeon/Han Jee hoon",
+        "times_str": "Fri5,6(Fri5,6(Fri5,6(Fri5,6)",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo302(Spo(Fitness Center)(PEC(Swimming Pool)(Spo107)"
+    },
+    {
+        "id": "e22b8087-2321-5143-8a23-163690c98a11",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS1114-01-00",
+        "credits": 1.0,
+        "title": "TENNIS(2) ",
+        "instructor": "Kim Jin Sung",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Tennis Court (Clay)"
+    },
+    {
+        "id": "eb2fb714-7ef1-5b9a-8e02-81b47e28cc1b",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS2116-01-00",
+        "credits": 1.0,
+        "title": "YACHT ",
+        "instructor": "Yong-Jin Yoon",
+        "times_str": "Sat5,6",
+        "times": {
+            "5": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Outside Lecture"
+    },
+    {
+        "id": "853904a4-697e-5352-9071-a04aca2837c1",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS2171-01-00",
+        "credits": 1.0,
+        "title": "FIRST AID AND CARDIOPULMONARY RESUSCITATION ",
+        "instructor": "LEE MI KYUNG",
+        "times_str": "Tue5,6(Tue5,6)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Spo315(Spo107)"
+    },
+    {
+        "id": "b0dad9e9-a39b-52bc-acd1-34946cd481c9",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS2211-01-00",
+        "credits": 1.0,
+        "title": "BASEBALL(2) ",
+        "instructor": "PARK KWANGHO",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Baseball Field"
+    },
+    {
+        "id": "ee01556d-500e-5e0e-aadf-59c3aa06243b",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS3204-01-00",
+        "credits": 3.0,
+        "title": "THEORY OF LEISURE STUDIES ",
+        "instructor": "Lee, Chul Won/LEE MINSEOK",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "240b1cc5-25c5-502b-b3d8-aff9867ea263",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS3311-01-00",
+        "credits": 3.0,
+        "title": "EVENT PLANNING AND OPERATIONS ",
+        "instructor": "Heo Jinmoo/LEE ROK BIT",
+        "times_str": "Tue3,4,5(Tue3,4,5)",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Spo108(SpoB04(Ball Game))"
+    },
+    {
+        "id": "9a587ebc-2e12-5a3f-a179-557cf366994c",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS3401-01-00",
+        "credits": 3.0,
+        "title": "SPONSORSHIP-LINKED SPORT MARKETING ",
+        "instructor": "Lee Joon Sung",
+        "times_str": "Tue3,4,5",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "b51f54a8-597f-5dc3-b7f8-3b0c804d2783",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "SLS4206-01-00",
+        "credits": 3.0,
+        "title": "RESEARCH METHODOLOGY IN SPORT INDUSTRY STUDIES ",
+        "instructor": "Yong-Jin Yoon",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Spo302"
+    },
+    {
+        "id": "16220c9f-fae0-56a3-85fe-a887cbf65c4c",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "SLS4222-01-00",
+        "credits": 3.0,
+        "title": "SPORT COMMUNICATION ",
+        "instructor": "WON, Young-Shin/KIM JIHOON",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Spo315"
+    },
+    {
+        "id": "66597dd2-c8e3-5c30-97fa-4ac3f4ca9cd3",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "SLS2107-01-00",
+        "credits": 1.0,
+        "title": "SELF-DEFENSE ",
+        "instructor": "MA YOON SUNG",
+        "times_str": "Mon5,6(Mon5,6)",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "SpoB12(SpoB11(Taekwondo studio))"
+    },
+    {
+        "id": "6fa5edc0-c23f-5139-b73f-44c1a22fe668",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Basic",
+        "code": "SLS4202-01-00",
+        "credits": 1.0,
+        "title": "SPORT INDUSTRY STUDIES PRACTICUM ",
+        "instructor": "Yong-Jin Yoon",
+        "times_str": "Sat3,4",
+        "times": {
+            "5": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "PEC207"
+    },
+    {
+        "id": "1c8ab32a-b9ba-5e8d-a00f-fb007b39d9a8",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4001-01-00",
+        "credits": 3.0,
+        "title": "COMPETITION ANALYSIS AND EVALUATION ",
+        "instructor": "Chin Ji Hyoung",
+        "times_str": "Mon11/Mon12,13",
+        "times": {
+            "0": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "PEC104/Pre-recorded lecture"
+    },
+    {
+        "id": "362f07b7-3685-54c2-9496-481addbcfef1",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4004-01-00",
+        "credits": 3.0,
+        "title": "COACH'S ETHICS ",
+        "instructor": "Chin Ji Hyoung",
+        "times_str": "Tue11/Tue12,13",
+        "times": {
+            "1": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 22.0
+                }
+            ]
+        },
+        "location": "PEC104/Pre-recorded lecture"
+    },
+    {
+        "id": "fb3ba0a7-b9f0-5fda-b742-11c867a34556",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4212-01-00",
+        "credits": 3.0,
+        "title": "SPORT SERVICE OPERATION AND DELIVERY ",
+        "instructor": "Park Sanghyun",
+        "times_str": "Fri2,3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Spo315"
+    },
+    {
+        "id": "4a1b802e-f2e8-5467-ad0b-69c922576aeb",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4215-01-00",
+        "credits": 3.0,
+        "title": "NATURE AND SPORT EDUCATION ",
+        "instructor": "LEE SEJOONG",
+        "times_str": "Mon6,7/Sat2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Spo109"
+    },
+    {
+        "id": "011bfaef-a973-56d5-b710-c603445ff841",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4215-02-00",
+        "credits": 3.0,
+        "title": "NATURE AND SPORT EDUCATION ",
+        "instructor": "Yeo, In Sung",
+        "times_str": "Tue5,6/Sat3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/PEC104"
+    },
+    {
+        "id": "dba967d8-efb8-5192-9e68-6df388e3ab72",
+        "department": "College of Sciences in Education",
+        "major": "Sport Industry Studies",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "SLS4223-01-00",
+        "credits": 3.0,
+        "title": "THEORY AND PRACTICE OF EXCERCISE MEDICINE FOR CHRONIC DISEASE ",
+        "instructor": "Justin Y. Jeon",
+        "times_str": "Tue3/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Spo315"
+    }
+]

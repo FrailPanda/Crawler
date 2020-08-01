@@ -1,0 +1,4166 @@
+﻿[
+    {
+        "id": "86ac6e88-1110-5570-938d-92b30cbafdc5",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1202-01-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (2) ",
+        "instructor": "Lee Hae Mi",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "10e92ab9-92d2-577d-8493-f84dfd48579b",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1202-02-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (2) ",
+        "instructor": "Byon Hyunjoo",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "f0df268a-f9bc-5b9e-b669-c7705fd76d5b",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1202-03-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (2) ",
+        "instructor": "Oh Yeseung",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "01b72af5-0ff5-550e-8102-6af6d7a27a5a",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1202-04-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (2) ",
+        "instructor": "AHN CHRISTINA HAISUNG",
+        "times_str": "Fri3,4/Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lectureMus102/"
+    },
+    {
+        "id": "c55aa24a-edcf-5bcb-bc4b-516e0b877c12",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1204-01-00",
+        "credits": 2.0,
+        "title": "HARMONICS(2) ",
+        "instructor": "JANG BOMI",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b05d8e11-2f45-584d-a8f1-5f989f14acf2",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1204-02-00",
+        "credits": 2.0,
+        "title": "HARMONICS(2) ",
+        "instructor": "Song Moo Kyoung",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "971bb061-112c-5c2d-8ad0-c548679803eb",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1204-03-00",
+        "credits": 2.0,
+        "title": "HARMONICS(2) ",
+        "instructor": "YOON KYUIL",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "58013bb8-9c08-5c1d-acd8-3cf59fe44a9a",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "1",
+        "classification": "Major Basic",
+        "code": "CMP1204-04-00",
+        "credits": 2.0,
+        "title": "HARMONICS(2) ",
+        "instructor": "Song Moo Kyoung",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "72d8c282-019b-52ab-9bc4-cc3b2e037c1c",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2202-01-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (4) ",
+        "instructor": "Lee Hae Mi",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "394cec91-ed58-5a7c-9f4e-7ce6b8f1b738",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2202-02-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (4) ",
+        "instructor": "Byon Hyunjoo",
+        "times_str": "Thu3,4/Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lectureMus426/"
+    },
+    {
+        "id": "290b7363-79bf-59d0-9e59-8a18bc1bb468",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2202-03-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (4) ",
+        "instructor": "Oh Yeseung",
+        "times_str": "Tue3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "20471d63-e9b8-5f03-83e1-719ccb5f4db8",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2202-04-00",
+        "credits": 2.0,
+        "title": "SIGHT SINGING & EAR TRAINING (4) ",
+        "instructor": "AHN CHRISTINA HAISUNG",
+        "times_str": "Fri5,6/Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lectureMus413/"
+    },
+    {
+        "id": "f071dfb6-9552-5148-9bc5-dd97d04aedb6",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2204-01-00",
+        "credits": 2.0,
+        "title": "HARMONICS(4) ",
+        "instructor": "JANG BOMI",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "b9c1920d-a078-5b50-9ce6-bfd12afc7bd0",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2204-02-00",
+        "credits": 2.0,
+        "title": "HARMONICS(4) ",
+        "instructor": "Song Moo Kyoung",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "b64f477d-d1e5-5ee2-ac18-268a4b7c5613",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2204-03-00",
+        "credits": 2.0,
+        "title": "HARMONICS(4) ",
+        "instructor": "Hong Seunghee",
+        "times_str": "Thu5/Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus103/Pre-recorded lecture"
+    },
+    {
+        "id": "fb2fa947-484c-5023-b175-e7ee4ec3c191",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "CMP2204-04-00",
+        "credits": 2.0,
+        "title": "HARMONICS(4) ",
+        "instructor": "Rhie, Hongseok",
+        "times_str": "Tue7,8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5160467f-2d78-58e3-b1c9-119db3a11822",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CMP2206-01-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(2) ",
+        "instructor": "Kang Yongsik",
+        "times_str": "Tue1,2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "96555eea-acc2-5278-ab9a-cbe126e4a417",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CMP2206-02-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(2) ",
+        "instructor": "KIM HYUN JOO",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f8108150-3723-506c-b862-ca7825ae0a1e",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "CMP2206-03-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(2) ",
+        "instructor": "KIM HYUN JOO",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6def5cca-ea51-5b58-ab31-98d562a3a2cf",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3202-01-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(4) ",
+        "instructor": "Yeon Sang-Chun",
+        "times_str": "Fri3,4",
+        "times": {
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8c7e9e3c-7bc5-5f92-9ea8-a22676c33dc2",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3202-02-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(4) ",
+        "instructor": "Oh yun rok",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5b870cdc-2aad-505a-adf8-2d5dadd89155",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3202-03-00",
+        "credits": 2.0,
+        "title": "HISTORY OF MUSIC(4) ",
+        "instructor": "Yeon Sang-Chun",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "4e2256d4-d70a-543d-89e4-a3ff1ce5a52c",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3204-01-00",
+        "credits": 3.0,
+        "title": "FORM & ANALYSIS ",
+        "instructor": "Sul Sookyung",
+        "times_str": "Wed2,3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "27b2f916-aaed-5c97-9f1c-b6b8e266fd96",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3204-02-00",
+        "credits": 3.0,
+        "title": "FORM & ANALYSIS ",
+        "instructor": "Lee Eunjae",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "26ab3170-fcb9-5b1e-a3f7-e3aabbbd6697",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3204-03-00",
+        "credits": 3.0,
+        "title": "FORM & ANALYSIS ",
+        "instructor": "Song Moo Kyoung",
+        "times_str": "Wed6,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "dc3799ed-20a4-5761-8e95-7bea780a56cc",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CMP3213-01-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO ORCHESTRATION ",
+        "instructor": "CHUNG Seongyup",
+        "times_str": "Fri7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "49d990c5-8ea3-5eac-963e-8827e1987cb5",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "MSC3001-01-00",
+        "credits": 2.0,
+        "title": "MASTER CLASS ",
+        "instructor": "Yoo, Yungwook",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d54202c6-1451-5753-8032-7fb36f601e98",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3816-01-00",
+        "credits": 2.0,
+        "title": "RES & TEACHING METH TO MUSIC ",
+        "instructor": "kin Sunmie",
+        "times_str": "Wed9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "abc654f6-0f5e-5453-9219-57104403aa3a",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "4",
+        "classification": "Teacher Training Program",
+        "code": "TTP3823-01-00",
+        "credits": 3.0,
+        "title": "MUSIC ED CURRICULUM ",
+        "instructor": "kin Sunmie",
+        "times_str": "Mon10,11,Wed11",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "e52e7b68-69d0-5e04-b6ce-252eaa447a6a",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "9",
+        "classification": "Major Requisite",
+        "code": "CHM1207-01-00",
+        "credits": 3.0,
+        "title": "CHORUS(SYMPHONY CHOIR) ",
+        "instructor": "JI HYUN CHUNG",
+        "times_str": "Mon7,8/Wed3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus103/Mus211"
+    },
+    {
+        "id": "cb3961f7-888a-540f-a92a-6d8465f2eec7",
+        "department": "College of Music",
+        "major": "Music Common",
+        "year": "9",
+        "classification": "Major Requisite",
+        "code": "CHM1208-01-00",
+        "credits": 3.0,
+        "title": "CHORUS(CONCERT CHOIR) ",
+        "instructor": "Kim Bomi",
+        "times_str": "Wed7,8,Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "5bab313f-5040-5954-b2f3-ad06cde7caf2",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Kim Bomi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "94c54df3-5027-5532-958a-7770c07c9fe8",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-02-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Shin Dong-ill",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ec93997c-6a8d-5148-b424-12d11b2dbbe4",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-03-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KANG HAN MI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d69b2671-57df-571b-8d0b-788faaa253e0",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-04-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KOO MIN AH",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eee46988-e3f0-5bb6-82ff-0e353270aaa0",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-05-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "GU SANG GIL",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9d7cb0c-55cd-5cbb-855f-3ed5dc425f63",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-06-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "NAM Ae Shell",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "52746e56-be15-53c7-8126-59f94f1d1564",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-07-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "PARK OK JOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b19f1d56-54a6-5bbd-a7a3-82e3067f7f26",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-08-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "OH SEEUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7ce9171d-58c8-5fbc-88c2-2ec7187a74e1",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-09-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "LEE EUNWOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3b4c2a51-63f9-5af8-88c2-075cd336ab89",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-10-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Lee Juhee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e9bc893-1811-513e-9e80-2585b692bd75",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-11-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Yoo Jin Ah",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9a49441-788f-5c05-a66c-78569ea81ed8",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-12-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Park Hyewon",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "30707637-53d5-5b9a-b2a6-3e14f3ade8cb",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-13-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KIM HYUN JUNG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7ab08207-155c-5d70-ae6f-855d2c44da26",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-14-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Choi Ji-yoen",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4762a480-77ad-5ef6-8ae6-ad810f69cfad",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-15-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KIM DAEKWANG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "79c0d3f9-dda8-5be4-af58-7990b1fcdfb5",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-16-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Jang Minhye",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9633d786-9ff1-5d05-8d43-2c80c6296ede",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-17-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "CHO HYUNJIN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4230e471-f304-5790-abc7-0cfe93f29846",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-18-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "JI HYUN CHUNG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ed066597-3fe1-5aeb-ae7e-c79d4c5550a7",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-19-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "song hyung bin",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d11c398-3b6e-522e-b8df-b26833d5a515",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-20-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "OH JIN HYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0fe9ae07-d2ed-5554-8cb5-c310dfd07ac4",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-21-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Jung Junsik",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "13b5ce48-7913-5325-ab60-354bc9837c63",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-22-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Choi Hyekyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1bdfed2d-d7ec-54f1-a5b7-33564a6d0d9f",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CHM1101-23-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "099153d4-e1bf-59e1-a413-a580c05ababe",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "CHM1209-01-00",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO CHURCH MUSIC(2) ",
+        "instructor": "Yoo Jin Ah",
+        "times_str": "Wed1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "bac6517f-3354-5962-a04f-e68ad93b6314",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CHM2202-01-00",
+        "credits": 2.0,
+        "title": "ORGAN IMPROVISATION(2) ",
+        "instructor": "PARK Su-One",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus333"
+    },
+    {
+        "id": "6918807f-1a23-5048-8103-26ec2c93dc34",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CHM2203-01-00",
+        "credits": 2.0,
+        "title": "ORGAN CONSTRUCTION ",
+        "instructor": "KIM HYERIM",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus415"
+    },
+    {
+        "id": "57302c11-bd52-5cf1-89aa-edd4dcca8f56",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BSP3210-01-00",
+        "credits": 2.0,
+        "title": "ART SONG(2) ",
+        "instructor": "LEE HYUN SEOP",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus426"
+    },
+    {
+        "id": "b3efa062-cef7-5c2a-af4a-8d07cc2cc476",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CHM2207-01-00",
+        "credits": 2.0,
+        "title": "ORGAN IMPROVICATION(4) ",
+        "instructor": "PARK Su-One",
+        "times_str": "Wed7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus333"
+    },
+    {
+        "id": "8e1e1d08-2888-5e77-a472-4c651b82b4e1",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CHM3219-01-00",
+        "credits": 2.0,
+        "title": "SCORE READING(2) ",
+        "instructor": "Jang Minhye",
+        "times_str": "Wed9,10",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8d85ee6b-58b9-5ff0-bae2-6b8dd2864e87",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "CHM3204-01-00",
+        "credits": 2.0,
+        "title": "ORGAN LITERATURE(2) ",
+        "instructor": "Choi Ji-yoen",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus140"
+    },
+    {
+        "id": "db768952-f08b-5552-808c-fa13b20d8b8b",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "CHM4202-01-00",
+        "credits": 3.0,
+        "title": "WORSHIP & MUSIC ",
+        "instructor": "Baek Jung Jin",
+        "times_str": "Mon5,6,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "64623e5f-2d7b-5511-8697-34e493f4e22e",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CHM4223-01-00",
+        "credits": 2.0,
+        "title": "CHORAL LITERATURE(2) ",
+        "instructor": "Choi Nakki",
+        "times_str": "Fri5,6/Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus102/Realtime online lecture"
+    },
+    {
+        "id": "9e20bf10-7141-571f-9b59-9393abef582b",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM2653-01-00",
+        "credits": 1.0,
+        "title": "CHURCH MUSIC CHOIR ",
+        "instructor": "CHO HYUNJIN",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "e513f308-c622-5876-a48d-12b4a8855724",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM2654-01-00",
+        "credits": 2.0,
+        "title": "CHORAL MUSIC ANALYSIS ",
+        "instructor": "Jung Insu",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus413"
+    },
+    {
+        "id": "c162d277-05b5-5071-8225-5ca3ea178452",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM2655-01-00",
+        "credits": 2.0,
+        "title": "CHORAL CONDUCTING CLASS ",
+        "instructor": "Jang Minhye",
+        "times_str": "Tue10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e9ceed20-9bea-548b-a413-fcf58120e987",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM4217-01-00",
+        "credits": 2.0,
+        "title": "CHORAL CONDUCTING ",
+        "instructor": "KIM DAEKWANG",
+        "times_str": "Fri7/Fri8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Mus102"
+    },
+    {
+        "id": "71ca2d50-2943-55e0-8a09-2174ba91a893",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM4219-01-00",
+        "credits": 2.0,
+        "title": "ORGAN MINOR(2) ",
+        "instructor": "KIM HYUN JUNG",
+        "times_str": "Mon3/Mon4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus333"
+    },
+    {
+        "id": "42ff46be-984d-577a-955d-6349ecbc6079",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "CHM4221-01-00",
+        "credits": 2.0,
+        "title": "ORGAN MINOR(4) ",
+        "instructor": "Park Hyewon",
+        "times_str": "Mon3/Mon4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus333"
+    },
+    {
+        "id": "e26f3278-1c9a-5ee4-8bc1-66cd31932c59",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3233-01-00",
+        "credits": 3.0,
+        "title": "HARPSICHORD CLASS(2) ",
+        "instructor": "CHO SUNGYUN",
+        "times_str": "Wed9,10/Fri6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus322"
+    },
+    {
+        "id": "1ab39d0d-a776-5783-9539-f2cd3a5db860",
+        "department": "College of Music",
+        "major": "Church Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP4205-01-00",
+        "credits": 3.0,
+        "title": "PERFORMANCE OF BAROQUE MUSIC(2) ",
+        "instructor": "CHO SUNGYUN",
+        "times_str": "Tue10/Wed5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus322"
+    },
+    {
+        "id": "ebe1a77d-951b-5705-a9c7-0b9efe3fdeea",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "La, Kyung Hye",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a40a62b7-9b49-53eb-964d-c323f718a95d",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-02-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Kang Moolim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c0b4595a-db65-5aa4-9b54-39f70f1d4138",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-03-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "CHANG HYUNJOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3549f88e-2e4e-5f5e-b3e0-395d6375c0c8",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-04-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Moon Haewon",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e8cea87-83dd-5b6b-a2ec-ef06b7e4f217",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-05-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "YANG JUNMO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c37a711e-f7c9-5fd0-a7e1-c8bbc79acf2e",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-06-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KIM, Kwan Dong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "690aba28-36c3-50a0-8990-22c011247210",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-07-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "KIM JONG HONG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17f912aa-00e9-5304-b856-43ba949dc603",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-08-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "OH JIN HYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "79470638-e147-5785-bf47-9d04a26763c8",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-09-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Park Myeongsook",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7b3b661d-ff6b-5baf-a7bc-dd1f01d4753c",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-10-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "PARK SANG HEE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e969fc3c-f9ae-5354-a7e5-c28581d911aa",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-11-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "PARK EUN YONG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1630c7a5-572e-5da5-9406-82b85bfff6ac",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-12-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Seong YoonJoo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "46de27af-515c-56a1-8ff5-d71ed6af64d5",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-13-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Jung Junsik",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "712ca416-15a2-5c89-859a-4a8d20447a2d",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-14-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "JUNG JAEYOON",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c06ca373-1356-52e1-bc75-26abe9842ba3",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-15-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "cho chang hu",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9b6b76ba-734d-574a-84a8-b784f7e67e9b",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-16-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "choi kongseok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a221e6cc-6d37-56bb-858f-88986a200b21",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-17-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Choi SaeJoung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "aa898665-ab8b-59b3-9f4c-d911de6264e4",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-18-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Choi Byunghyuk",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e01a157e-3fab-5030-a3c1-2767d424a443",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "VOM1101-19-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC ",
+        "instructor": "Choi Hyekyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "db4a4887-7da7-564d-9e09-95c8bacbb445",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "VOM4222-01-00",
+        "credits": 3.0,
+        "title": "OPERA ACTING CLASS(2) ",
+        "instructor": "JANG JAE HO/RA YEAMI",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "642ed50e-55a6-595f-9777-b0efb076316a",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "VOM2213-01-00",
+        "credits": 1.0,
+        "title": "INTERNATIONAL PHONETIC ALPHABET ",
+        "instructor": "Kim Munhee",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "37c70596-6be8-5da5-87a2-44960e474d06",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "VOM1204-01-00",
+        "credits": 1.0,
+        "title": "GERMAN DICTION(2) ",
+        "instructor": "cho chang hu",
+        "times_str": "Fri7/Fri8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus141/Pre-recorded lecture"
+    },
+    {
+        "id": "fc50da11-b5f6-5114-941e-0241b9c90219",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "VOM1206-01-00",
+        "credits": 1.0,
+        "title": "ITALIAN DICTION(2) ",
+        "instructor": "Seong YoonJoo",
+        "times_str": "Thu5/Thu6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Mus404"
+    },
+    {
+        "id": "691c91de-45a2-54a3-b62e-c081a8839c12",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "VOM2210-01-00",
+        "credits": 2.0,
+        "title": "ITALIAN SONG CLASS(2) ",
+        "instructor": "CHANG HYUNJOO",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "32c6978c-62f2-5246-b6ed-ff13d8dea38d",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "VOM2206-01-00",
+        "credits": 1.0,
+        "title": "FRENCH DICTION(2) ",
+        "instructor": "KIM YUNJUNG",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus117"
+    },
+    {
+        "id": "d9a3833b-2c63-5f16-8686-eedf67eefa8c",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "VOM2208-01-00",
+        "credits": 1.0,
+        "title": "ENGLISH DICTION(2) ",
+        "instructor": "Kim Munhee",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus141"
+    },
+    {
+        "id": "ed0e0cff-1df1-5ed5-8d90-6ab009d1982c",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "VOM3211-01-00",
+        "credits": 1.0,
+        "title": "PHONETICS ",
+        "instructor": "KIM YOUNAH",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b2d3c6d4-0553-590a-a0f5-b9e059d970df",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "VOM3202-01-00",
+        "credits": 2.0,
+        "title": "GERMAN LIED CLASS(2) ",
+        "instructor": "YANG JUNMO",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "76892091-04a1-510d-bb81-3950235291eb",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "VOM3204-01-00",
+        "credits": 2.0,
+        "title": "FRENCH SONG CLASS(2) ",
+        "instructor": "KIM YUNJUNG",
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus117"
+    },
+    {
+        "id": "480a0168-3f95-5112-8e38-fb8824e6816b",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "VOM3213-01-00",
+        "credits": 2.0,
+        "title": "ENGLISH SONG CLASS(2) ",
+        "instructor": "Moon Haewon",
+        "times_str": "Fri7,8",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Mus426"
+    },
+    {
+        "id": "c376c1fc-7893-5ba9-a65b-db963cce1651",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "VOM4223-01-00",
+        "credits": 3.0,
+        "title": "OPERA ENSEMBLE CLASS(2) ",
+        "instructor": "La, Kyung Hye/CHO JANGHOON/RA YEAMI",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus103"
+    },
+    {
+        "id": "cec07306-b601-594b-a881-641b8d28e39c",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "VOM3210-01-00",
+        "credits": 2.0,
+        "title": "VOCAL LITERATURE(2) ",
+        "instructor": "Park Kyunghee",
+        "times_str": "Tue5/Tue6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus426/Pre-recorded lecture"
+    },
+    {
+        "id": "299175ee-e8b8-5e10-9a59-b9cb9a8bc3e0",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "VOM4225-01-00",
+        "credits": 2.0,
+        "title": "KOREA SONG CLASS(2) ",
+        "instructor": "Kang Moolim/Kim So Gang",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "99ad1745-67ae-5c44-98a0-f2c1ccf145d3",
+        "department": "College of Music",
+        "major": "Vocal Music",
+        "year": "9",
+        "classification": "Major Requisite",
+        "code": "VOM1102-01-00",
+        "credits": 2.0,
+        "title": "VERITAS CHOIR ",
+        "instructor": "Min In-Gi",
+        "times_str": "Mon7,8,Fri5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus211"
+    },
+    {
+        "id": "4d98fdb0-d33e-5e87-b104-1196de979f90",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2119-01-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(PIANO) ",
+        "instructor": "AN JUNGAH",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "16214b5c-96a7-510e-a4d4-cb646c60e684",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2119-02-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(PIANO) ",
+        "instructor": "Lee Jinyoung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4fc6d0f0-ae91-524b-8dee-18b4470eaa34",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Yoo, Yungwook",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fb108aac-0b46-57f7-b3f0-4606cd43bb86",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-02-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "KIM Youngho",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6418bf0a-e9de-560a-87d6-8ce55faf19b9",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-03-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "KIM, Keum Bong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cbb40295-2144-5e46-9135-5c0b035ab7d1",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-04-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "HAN YOUNG-LAN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "74e0abc5-b32a-513c-9302-060368926814",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-05-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Park Chong Whun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8299df89-a507-5a6c-a705-ae25af637422",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-06-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Petr Ovcharov",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8e909edf-abbb-5146-af46-bad92418d1f7",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-07-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "HAN YOO-KYUNG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0913375a-d475-5d06-a39e-2c17ee4b0d9c",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-08-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "PARK JINAH",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6de18b07-0344-5510-a3bb-d059e4466a0c",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-09-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Choi Lira",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "20120137-a741-5d28-a89a-4ddd8c611f26",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-10-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Lee Jung Eun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "496d135d-7836-587b-9da0-b67605f344de",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-11-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Seong Bokyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5ee47cac-48bd-553a-a96d-03c301c368d0",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-12-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Choue HeeYoun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "aaeed8de-483c-5b1a-af61-34ebe8925b30",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-13-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "LIM HO-YEUL",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "06917a7b-928c-5a3a-8353-99c2fe45fdfe",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-14-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Jang Ji Yi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "84b091f7-017c-5da4-a14c-5214646e6f6a",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-15-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "An Jongdo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d1d582e1-6948-5024-8809-7b7e0d0c81eb",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-16-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "HWANGBO Young",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3d8cbb91-be3c-5049-aa02-59f692aeee69",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-17-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Kang Hye-ryung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8d3dca4b-435b-50c2-9187-33f7836d0de7",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-18-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Jang Juyeon",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "51942ad9-df4a-535d-9b69-0f628ad1957e",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-19-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Wee Eun Young",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "554de49d-b8f0-5bba-a49d-a6ec73f6d98c",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-20-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Oh Yoonah",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e2fa503f-1891-5ed7-a94e-8198cbe3c46f",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-21-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "Shin Myeong jin",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6906cf25-e19e-583b-bcc3-9662a1e20e3e",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-22-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "CHO YUN-SOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17b869aa-9e7b-51f1-bda2-7a4eb592cc5f",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-23-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": "KIM DA-HAE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ccda03c4-f702-5162-9046-9005d70dc2f1",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-24-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2c49d663-a003-56e5-a648-38c557d00260",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-25-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8a69677b-577a-592b-a0f9-d30a1c6c2668",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1101-26-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(PIANO) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d5839c1-1a58-5814-9500-721def20ddaa",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP2207-01-00",
+        "credits": 2.0,
+        "title": "PIANO MINOR ",
+        "instructor": "Maeng Eunji",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus309"
+    },
+    {
+        "id": "005a0e2d-5c3e-55a6-a524-b846af86c200",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP2207-02-00",
+        "credits": 2.0,
+        "title": "PIANO MINOR ",
+        "instructor": "Kang Woo Hee",
+        "times_str": "Thu3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus141"
+    },
+    {
+        "id": "3456fb97-c71b-5483-8be6-a463d07ff9aa",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "BSP2202-01-00",
+        "credits": 3.0,
+        "title": "KEYBOARD HARMONY (2) ",
+        "instructor": "HAN KYUNG-EUN",
+        "times_str": "Tue2,3,4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus103"
+    },
+    {
+        "id": "f766a4f9-db22-5e29-a8ce-541a79d04092",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BSP2204-01-00",
+        "credits": 3.0,
+        "title": "KEYBOARD HARMONY (4) ",
+        "instructor": "HWANG YUN HA",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "6d8e6e34-a03f-506b-bb3d-2d163fc9b4b0",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "BSP3202-01-00",
+        "credits": 3.0,
+        "title": "PIANO LITERATURE(2) ",
+        "instructor": "SONG MINJU",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus413"
+    },
+    {
+        "id": "6d0f1d07-72b1-5507-b41f-54a740b6366b",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BSP4201-01-00",
+        "credits": 3.0,
+        "title": "PIANO LITERATURE(4) ",
+        "instructor": "Yoo Hee Jung",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus413"
+    },
+    {
+        "id": "3ab4be48-68a6-569c-bcb8-3bdc9e19d4e6",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BSP3206-01-00",
+        "credits": 3.0,
+        "title": "PIANO PEDAGOGY(2) ",
+        "instructor": "CHUNG HoJean",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus102"
+    },
+    {
+        "id": "71fbc852-d270-56d3-811f-01cc75143fbe",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BSP3204-01-00",
+        "credits": 3.0,
+        "title": "PIANO ACCOMPANYING (2) ",
+        "instructor": "KIM JIEUN",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus140"
+    },
+    {
+        "id": "846babf6-aeaf-5ce2-baa3-634d560a095b",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP1123-01-00",
+        "credits": 2.0,
+        "title": "20TH CENTURY PIANO MUSIC(2) ",
+        "instructor": "Lim Sooyeon",
+        "times_str": "Fri6,7",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Mus404"
+    },
+    {
+        "id": "a8c7123d-3ea8-5d67-a705-bbc9e3bbd653",
+        "department": "College of Music",
+        "major": "Piano",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3225-01-00",
+        "credits": 2.0,
+        "title": "PIANO PERFORMENS(2) ",
+        "instructor": "HAN YOO-KYUNG",
+        "times_str": "Wed5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus201"
+    },
+    {
+        "id": "b512583c-abc2-537f-83aa-0f403371b541",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-01-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "Kim Dooyoung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d52a04e6-1c1f-5cab-ae4e-58018052d114",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-02-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "kim yong-sik",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4793460e-bf23-5dab-9eb0-f3f00e5790d6",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-03-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "kim hyun gi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b7f72e9e-a892-552a-9252-da7734aad540",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-04-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "Jang Woolee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8c9ecf69-bfc9-5c60-a1ba-954bc688ce66",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-05-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "cho myung hee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ce080231-09b1-5dc7-8852-9b2b8b7e4bd4",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2209-06-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE(STRING) ",
+        "instructor": "cha minjeong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "097d3102-99c4-56e3-b749-ffbf82fe2c08",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2210-01-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE ",
+        "instructor": "JUNG SEONGYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c97ac0da-97a1-5a9c-a314-75fc1a57a9a4",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2210-02-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE ",
+        "instructor": "BYEON GYURI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8641b854-de3d-5bd4-a5ac-a85ccb877cb7",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2210-03-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE ",
+        "instructor": "KIM SANGIL",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6241b7f8-fc98-5cd8-9d7c-33ecb1fab0c8",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2210-04-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE ",
+        "instructor": "LEE HEESUK",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bfe17c13-f257-5987-87d4-e71e82fe7d91",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP2210-05-00",
+        "credits": 2.0,
+        "title": "CHAMBER ENSEMBLE ",
+        "instructor": "Lee Cheol-Woong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7beeed0f-612e-5410-ab2b-7dd8a501b1ca",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM HYUNA",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "77971495-7e0e-535e-bff2-d2437278aaa2",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-02-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "CHO YOUNG MI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "00d91b58-5336-548d-8c8a-c8b52c910162",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-03-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Kim YOULEE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fb1583ac-7095-5b5e-b7fe-4afc74668709",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-04-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM JANE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eb221df7-699d-5063-8c52-8c8f76d5f136",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-05-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM HYUNNAM",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "032846d2-f6df-5bc9-9cef-56497d94f9a4",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-06-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Yoon Donghwan",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9f054ff-0876-5763-be6f-3e6836c36a60",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-07-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Lee Minkyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f158bf59-7402-5e6a-8e0c-53b9af11b33b",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-08-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE YUNUI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "47e9dd76-9aea-5f9f-9859-2f852930bb55",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-09-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "CHO EUNJU",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "86a6933f-a069-5f48-93df-7e00b9cb4013",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-10-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Han Yunji",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "85973c6f-f6ab-53c4-b49b-8caf496b5c3e",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-11-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM SANG JIN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "caa12cd1-a6d9-50ec-8a28-e9040d122db3",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-12-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Lee Eun Sook",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d9b4f53e-a690-5eb4-97ca-c168fb609b3d",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-13-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Lee Hanna",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e3c86c76-a3c6-560d-a84a-1fbe8ed42c37",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-14-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Cho Young-Chang",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "91953bd9-f5ee-5d02-8c2e-4493e014c8a0",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-15-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Yang Sung-Won",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "19ac9d04-f7f0-5aba-9ef9-53f1ce1fb889",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-16-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Shin Ji sook",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "baead8c1-6a39-5af7-a8a4-d766b9b6051b",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-17-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Won Jinkyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8a9cf03b-92b8-53c0-8d6e-8b91f460c890",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-18-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE JUNGRAN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5cb1c850-fd41-502f-92ba-74a302eaa399",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-19-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE HYUNJI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "612bfb8a-e9a4-5ff1-8b05-f258067e2f69",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-20-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "CHOI JUNG EUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2b8b029e-4095-543b-8b68-30862b0ec17e",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-21-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "SEO Min-soo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "329cc261-1a09-5576-b8fb-bfa0356fc2ef",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-22-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE SEOG-WEON",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8565c1e9-1abd-5595-9b8f-9645de872809",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-23-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE Young Soo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8cfb5330-481e-55aa-98bb-b1d317f2df4f",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-24-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE Chang Hyung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8f5574e2-c7d0-5e4f-8198-a0dedb32d5da",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-25-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIL JEONGEUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "90d9e757-39d1-5009-9d61-b889dbaa3b19",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-26-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Cho Minjung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7c7a4abc-cb8c-5aad-ac36-03cfe9749991",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-27-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Lee Cheol-Woong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3c41beee-9576-5d05-9466-0340f66150a7",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-28-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Cho Sung Hyun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "89fc926d-20af-5d60-9f9e-c7f84e458ed0",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-29-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Park Hyuncheong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fc5f7d4a-a36e-53dc-a2dd-3fee54b0a8bf",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-30-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE ESTHER",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a6efb369-53ce-5a79-b1f3-84e1a11f1138",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-31-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE JOOHEE",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "667201ed-894e-5d5a-b1ce-1804bd12039e",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-32-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "YOON JIYONG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a3a004ef-0120-57a8-87b5-5d2aa0de8438",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-33-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "YOON JIWON",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ed2eef30-d8ff-59b0-a3a4-d65c694c7dff",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-34-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM MINJO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b3bdc229-8823-5961-af2b-9c63df2f4388",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-35-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE YONGGEN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1483165f-6079-5da8-a455-2fecbec4b453",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-36-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE CHOONGHEON",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4d08d333-f7da-54b6-bb11-6a76a5eb39eb",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-37-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LIM MYOUNGJIN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ce06823d-0bba-5f66-9b40-1ccc5299dae1",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-38-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE MINHO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "254fef89-939c-5ed8-a0e3-b51961540a70",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-39-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE SEUNGDONG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1d8cecf9-9687-5e27-b7f7-f69f5b86e4aa",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-40-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM KIBUM",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "57e497ac-cb9d-56f7-b194-522a5189d2f8",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-41-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM BYUNGHO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a1df6466-3cd7-5e1a-8bc4-0cb18148e074",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-42-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM WANSUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c20c2e55-ca8c-5f5f-a166-cb54c0d5ea08",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-43-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "LEE EUNGWOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f5c1f729-394a-59c4-bf1b-5b4de0d2a7a5",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-44-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "CHOI HONGHYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6d897b73-cfce-54a7-98ed-52452818283a",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-45-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM SAMJOONG",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a8ad8ebf-1185-5c9d-ab8d-ccd0fa58b79e",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-46-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "KIM KYUNGSOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f8baa8c9-e3d4-53a6-a764-731f00bd4d76",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-47-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "YIN YUJIN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cb633609-ebb4-59e4-84e5-bfd253e3d78f",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-48-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Ko Kwansoo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d830a9ad-911c-5d25-bce6-1013dd145b4a",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "BSP1121-49-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(ORCHESTRA) ",
+        "instructor": "Park Juntae",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5ad0d926-962e-59e4-b3cc-681a6f8fe163",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP1117-01-00",
+        "credits": 1.0,
+        "title": "ORCHESTRA WORKSHOP FOR WIND INSTRUMENT ",
+        "instructor": "KIM KYONGA",
+        "times_str": "Tue10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "7892148d-671b-5b52-8cdf-b9a2d37c5c7a",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3223-01-00",
+        "credits": 1.0,
+        "title": "PERFORMANCE OF CONTEMPORARY MUSIC(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5222156e-b003-5642-8f00-0da6290ddb58",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-01-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "LEE CHEOLHO",
+        "times_str": "Sat3,4",
+        "times": {
+            "5": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus103"
+    },
+    {
+        "id": "62dcf8ed-1415-559a-992f-adf1e9b9ea54",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-02-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "JANG HYUNJIN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "86b21099-f3e6-54b9-9d31-25632d765aa8",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-03-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "HWANG SOOEUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1e9d8fbd-1d8e-59b0-aee8-56e4bcbb4ca4",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-04-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "KIM MINA",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "33ade623-20e3-5a63-bcfc-0673777e9683",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-05-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "JUNG SEONGYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b27c94dd-afb3-59d7-9a73-0789e643eecf",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-06-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "JOO JANGHYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8857547b-0a4f-52c1-8531-f1e4d691449e",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-07-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "KYOUNG HONGSOO",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b5fa4b03-5241-5a56-8634-2cbd9574ca48",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-08-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": "CHOI HONGHYUN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "48f9d337-c32f-5913-933a-7f3f9f47daee",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-09-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9e128d5a-d160-5018-87fb-c93edd419a9c",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "0",
+        "classification": "Major Elective",
+        "code": "BSP3224-10-00",
+        "credits": 1.0,
+        "title": "SPECIAL INSTRUMENT PERFORMANCE SEMINAR ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c97bab30-3899-5526-9405-1eb53569240c",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "2",
+        "classification": "Major Requisite",
+        "code": "BSP2211-01-00",
+        "credits": 3.0,
+        "title": "YONSEISYMPHONYORCHESTRA ",
+        "instructor": "HWANG MEENA",
+        "times_str": "Tue7,8,9,Fri7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus201"
+    },
+    {
+        "id": "64c06330-8194-547f-8b36-37c4ae83f49d",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "BSP4208-01-00",
+        "credits": 1.0,
+        "title": "ORCHESTRA REPATORI SEMINER(WINDS)(2) ",
+        "instructor": "Kim Yoon Hee/AHN HYEJOON/HAN SEUNGHWA/JUNG SEONGYUN/KIM YONHWA/PARK CHANYU/KIM YOUNGMIN/KYOUNG HONGSOO/HONG Tae Kyung",
+        "times_str": "Fri1,2",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Mus141"
+    },
+    {
+        "id": "99e5ebfa-3611-5d32-aaa5-8056567b32aa",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BSP4209-01-00",
+        "credits": 3.0,
+        "title": "YONSEIPHILHARMONICORCHESTRA ",
+        "instructor": "Choi Soo-Yeoul",
+        "times_str": "Mon7,8,9,Thu7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus201"
+    },
+    {
+        "id": "463575a3-5421-54db-a8ab-308d99650037",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP1118-01-00",
+        "credits": 1.0,
+        "title": "BRASS-WIND ENSEMBLE ",
+        "instructor": "Lee Cheol-Woong",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus201"
+    },
+    {
+        "id": "3688b631-9077-5445-a4e1-f2c247931d8f",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP1119-01-00",
+        "credits": 1.0,
+        "title": "STRING ENSEMBLE ",
+        "instructor": "KIM SANG JIN",
+        "times_str": "Wed8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus201"
+    },
+    {
+        "id": "e4d7867c-576c-597b-b99f-0051900cc92a",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP1125-01-00",
+        "credits": 1.0,
+        "title": "VOCALISM ",
+        "instructor": "Song Yoon jin",
+        "times_str": "Wed3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus140"
+    },
+    {
+        "id": "fb383afe-4a33-55db-9698-6c71a048d4a3",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3212-01-00",
+        "credits": 2.0,
+        "title": "ORCHESTRAL CONDUCTING II ",
+        "instructor": "CHO JANGHOON",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus117"
+    },
+    {
+        "id": "4a23dc0c-b16a-5376-8862-0b698249d4f2",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3216-01-00",
+        "credits": 3.0,
+        "title": "CONTEMPORARY ENSEMBLE(2) ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eecf76a3-e511-51b5-be6e-b5164b5f74bf",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3226-01-00",
+        "credits": 3.0,
+        "title": "WIND LITERATURE ",
+        "instructor": "Kim Yoon Hee",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Mus413"
+    },
+    {
+        "id": "7e08b339-30ed-5c54-a3c2-bd56352deae8",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP3235-01-00",
+        "credits": 3.0,
+        "title": "STRING LITERATURE(2) ",
+        "instructor": "Jang Hyeri",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Mus102"
+    },
+    {
+        "id": "1ab39d0d-a776-5783-9539-f2cd3a5db860",
+        "department": "College of Music",
+        "major": "Instrumental Music",
+        "year": "9",
+        "classification": "Major Elective",
+        "code": "BSP4205-01-00",
+        "credits": 3.0,
+        "title": "PERFORMANCE OF BAROQUE MUSIC(2) ",
+        "instructor": "CHO SUNGYUN",
+        "times_str": "Tue10/Wed5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus322"
+    },
+    {
+        "id": "b21d5e4b-ef4c-5291-91c0-0352a3d590bd",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-01-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Beomseok Yoo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "40d1ba6a-b135-5df2-a7ae-22504b98ae8a",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-02-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Chong Jong Yeoul",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ae6ccd3e-5e9c-5bf0-901d-abc246105504",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-03-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "YUN Sung Hyun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e232f660-a273-57b7-8a49-29e3868baa62",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-04-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Lim Jiesun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7a0d17ca-853e-5219-a509-88af6f4b3c1f",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-05-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Rhie, Hongseok",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4096a175-285c-533c-88f7-9aa4417d1582",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-06-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Kang Jong Hee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "282d3223-0c24-501d-8f9f-76f2980bc703",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-07-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Ahn Sang Mi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "40440b60-2d3e-59ba-b835-ce90db1aa982",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-08-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "LEE EUNJI",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "00e7bd99-f880-5e2d-8ddb-558b0c49228e",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-09-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Chung Saehoon",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f3ac49c1-a4f7-5bbb-b525-8fcd474631b4",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-10-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Chun Yie Eun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b4fb7797-8b19-582d-9eb1-fdb8a4ee56a0",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "0",
+        "classification": "Major Requisite",
+        "code": "CMP1101-11-00",
+        "credits": 3.0,
+        "title": "APPLIED MUSIC(COMPOSITION) ",
+        "instructor": "Park Jisoo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bc4c881a-944f-5df9-8309-7a0d4fb67935",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "1",
+        "classification": "Major Requisite",
+        "code": "CMP1206-01-00",
+        "credits": 2.0,
+        "title": "INSTRUMENTS(2) ",
+        "instructor": "CHUNG Seongyup",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "4422bd9b-df2d-5691-b6dd-8747528b1031",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "CMP2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "Chong Jong Yeoul",
+        "times_str": "Wed5",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "Mus140"
+    },
+    {
+        "id": "df5c917b-e7af-504b-8d15-611bd629a8dc",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP3211-01-00",
+        "credits": 3.0,
+        "title": "INTRO TO KOR TRADITIONAL MUSIC ",
+        "instructor": "Lee Jung-hee",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "f77a2e25-17e0-580e-a036-ead578c7ebc4",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "3",
+        "classification": "Major Requisite",
+        "code": "CMP4205-01-00",
+        "credits": 3.0,
+        "title": "20TH-CENTURY MUSIC LITERATURE ",
+        "instructor": "Beomseok Yoo",
+        "times_str": "Tue2/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Mus404/Realtime online lecture"
+    },
+    {
+        "id": "311f7af2-fa49-58f8-a68e-0ef792d6fb09",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CMP3210-01-00",
+        "credits": 2.0,
+        "title": "ELECTRONIC MUSIC(2) ",
+        "instructor": "Kim Hyojoo",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "dd59a1d8-89a1-5081-be42-df2d6e595e44",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "3",
+        "classification": "Major Elective",
+        "code": "CMP3214-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED COUNTERPOINT ",
+        "instructor": "LEE Sang-In",
+        "times_str": "Tue3/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Mus309"
+    },
+    {
+        "id": "f627696d-8136-5425-b0b2-f16cfe88657d",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "4",
+        "classification": "Major Requisite",
+        "code": "CMP4208-01-00",
+        "credits": 3.0,
+        "title": "COMPOSITION SEMINAR ",
+        "instructor": "Chong Jong Yeoul",
+        "times_str": "Tue3,4/Wed2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Mus413"
+    },
+    {
+        "id": "3fad735d-8da3-5d76-9cc1-ddc1fea07481",
+        "department": "College of Music",
+        "major": "Music Composition",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "CMP4209-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED ORCHESTRATION ",
+        "instructor": "LEE Sang-In",
+        "times_str": "Tue7,8/Thu2",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Mus103"
+    }
+]

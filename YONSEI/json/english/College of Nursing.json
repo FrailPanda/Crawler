@@ -1,0 +1,753 @@
+﻿[
+    {
+        "id": "8f84c2da-f443-56c1-9ad9-4d3cfe9bae00",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Basic",
+        "code": "NUR2012-01-01",
+        "credits": 1.0,
+        "title": "PRACTICUM : HEALTH ASSESSMENT ",
+        "instructor": "JiYeon Choi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "499ba84b-0aca-5397-b1b9-3d559370648d",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Basic",
+        "code": "NUR2006-01-00",
+        "credits": 2.0,
+        "title": "PHARMACOLOGY ",
+        "instructor": "SangHui Chu",
+        "times_str": "Mon2,3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "13ebc598-80a3-5188-b5a6-adf746a7be72",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Basic",
+        "code": "NUR2013-01-00",
+        "credits": 3.0,
+        "title": "PATHOPHYSIOLOGY ",
+        "instructor": "Hyangkyu Lee",
+        "times_str": "Thu5,6,Fri2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "9dc7d744-14b2-537b-a956-132a156eedc5",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR2024-01-01",
+        "credits": 2.0,
+        "title": "INTRODUCTION TO CLINICAL NURSING PRACTICE II ",
+        "instructor": "JuHee Lee/Jiyeon Lee/Young Man Kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "65af8717-b499-5659-8e8d-ebe74444e314",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR2025-01-00",
+        "credits": 2.0,
+        "title": "HEALTH ASSESSMENT ",
+        "instructor": "JiYeon Choi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc2ed1ab-36ca-5423-b2b8-3d4f56e06089",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR2026-01-00",
+        "credits": 3.0,
+        "title": "HEALTH PROMOTION AND EDUCATION ",
+        "instructor": "Gwang Suk Kim",
+        "times_str": "Mon5,6,Fri4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Nur104"
+    },
+    {
+        "id": "b0718208-7494-5494-8adf-f3b6aa95c719",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR2026-02-00",
+        "credits": 3.0,
+        "title": "HEALTH PROMOTION AND EDUCATION ",
+        "instructor": null,
+        "times_str": "Mon5,6,Thu1",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "908f2e51-73fb-55fb-89b9-9a2d0b0c6268",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR5113-01-00",
+        "credits": 0.5,
+        "title": "CHAPEL I ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c95ac6ab-cdc8-54ef-be62-b3d33d27261d",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR4008-01-00",
+        "credits": 2.0,
+        "title": "GERONTOLOGICAL NURSING ",
+        "instructor": "Eun Hee Cho",
+        "times_str": "Fri8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5300217f-de45-5c85-852b-5aa7da6c943d",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR4121-01-00",
+        "credits": 2.0,
+        "title": "NURSING & INFORMATICS ",
+        "instructor": "MONA CHOI",
+        "times_str": "Fri8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "a4be8fe9-f7b2-5f09-91f9-2e0b6da9647d",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR4123-01-00",
+        "credits": 2.0,
+        "title": "UNIFICATION AND NURSING ",
+        "instructor": "SangHui Chu",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Nur412"
+    },
+    {
+        "id": "a62a22e2-62d2-5ef1-9e48-a96add3b51e5",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR4202-01-00",
+        "credits": 2.0,
+        "title": "WOMAN`S HEALTH ",
+        "instructor": "KIM Sue",
+        "times_str": "Mon7,8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "cbced18f-a2b7-5227-941c-54cf81ebb5ed",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR5116-01-00",
+        "credits": 3.0,
+        "title": "STUDY AND METHOD OF SCHOOL HEALTH TEACHING MATERIALS ",
+        "instructor": "Kayoung Lee",
+        "times_str": "Mon7,8,9",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Exploration"
+    },
+    {
+        "id": "5fffd3b6-beeb-5090-b475-9c6930d028b0",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Electives",
+        "code": "NUR2112-01-00",
+        "credits": 0.0,
+        "title": "COMMUNITY SERVICE ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2ecf5ba2-febd-57b4-b4cc-9d6c631bcd88",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3006-01-00",
+        "credits": 2.0,
+        "title": "NURSING IV ",
+        "instructor": "sunah kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d8f5afc1-b56a-5a89-8632-bd0dc831cc3a",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3114-01-00",
+        "credits": 3.0,
+        "title": "COMMUNITY HEALTH NURSING ",
+        "instructor": "Kyung Hee Lee/Kayoung Lee",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "2eec9b5f-b7f6-5daf-865e-d1d038466c74",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3114-02-00",
+        "credits": 3.0,
+        "title": "COMMUNITY HEALTH NURSING ",
+        "instructor": "Kyung Hee Lee/Kayoung Lee",
+        "times_str": "Thu5,6",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Nur411"
+    },
+    {
+        "id": "f37c6da7-f637-5ceb-8a8a-fbb7411929ee",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3102-01-00",
+        "credits": 4.0,
+        "title": "NURSING II ",
+        "instructor": "MONA CHOI/Eui Geum Oh/EUN KYOUNG CHOI/Young Man Kim",
+        "times_str": "Thu2,3,Fri2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "0ed59048-4585-5dd1-8c19-c57bbd44a673",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3102-02-00",
+        "credits": 4.0,
+        "title": "NURSING II ",
+        "instructor": "MONA CHOI/Eui Geum Oh/EUN KYOUNG CHOI/Young Man Kim",
+        "times_str": "Thu2,3,Fri2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Nur411"
+    },
+    {
+        "id": "7dd168a3-9a98-51d2-993e-ac65d713ef52",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR3013-01-01",
+        "credits": 6.0,
+        "title": "INTEGRATED NURSING PRACTICUM II ",
+        "instructor": "Hee Jung Kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e1cd00db-ffb2-530b-b247-1c04f950c580",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR5011-01-00",
+        "credits": 0.0,
+        "title": "COMPLEHENSIVE EXAMINATION ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d85ac550-026e-5e95-80ad-5e399021c7e5",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4031-01-00",
+        "credits": 2.0,
+        "title": "CLINICAL REASONING ",
+        "instructor": "JuHee Lee",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "63eeab27-a6e6-580c-9035-dd3c20f245b5",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4031-02-00",
+        "credits": 2.0,
+        "title": "CLINICAL REASONING ",
+        "instructor": null,
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "7330f3cf-57df-5135-8a6e-c353426b9fd5",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4031-03-00",
+        "credits": 2.0,
+        "title": "CLINICAL REASONING ",
+        "instructor": null,
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "38d63a5f-e92c-5f10-83b1-5d44bee60443",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4031-04-00",
+        "credits": 2.0,
+        "title": "CLINICAL REASONING ",
+        "instructor": null,
+        "times_str": "Mon5,6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "107869dd-e707-5b89-8b9d-f36f8dbf8de7",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4115-01-01",
+        "credits": 2.0,
+        "title": "LEADERSHIP DEVELOPMENT ",
+        "instructor": "Seung Eun Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d1dc9c56-f3b2-5347-9535-f7c05303f452",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4118-01-00",
+        "credits": 2.0,
+        "title": "NURSING ETHICS AND LAW ",
+        "instructor": "Sanghee Kim/SUNJOO KANG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Nur103"
+    },
+    {
+        "id": "5db481aa-1f02-5590-b1e2-1f79f5e7c948",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4118-02-00",
+        "credits": 2.0,
+        "title": "NURSING ETHICS AND LAW ",
+        "instructor": "Sanghee Kim/SUNJOO KANG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Nur411"
+    },
+    {
+        "id": "3a17444a-8ecb-50cb-884f-fb540985c78a",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4119-01-00",
+        "credits": 2.0,
+        "title": "STATISTICS ",
+        "instructor": "Jiyeon Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "584cd20c-73f5-5c47-98d1-99ecc8b1973f",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4119-02-00",
+        "credits": 2.0,
+        "title": "STATISTICS ",
+        "instructor": "Jiyeon Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a972b985-e0f3-5c0d-8973-182f42a486e2",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4119-03-00",
+        "credits": 2.0,
+        "title": "STATISTICS ",
+        "instructor": "Jiyeon Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dea8eb77-4654-5e3e-becf-ad605f82a103",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4119-04-00",
+        "credits": 2.0,
+        "title": "STATISTICS ",
+        "instructor": "Jiyeon Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "14aae4f5-668d-53a9-8e84-a36363ebea1d",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4006-01-01",
+        "credits": 6.0,
+        "title": "INTEGRATED NURSING PRACTICUM III ",
+        "instructor": "Yeon Soo Jang",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d5dbaf1f-ae93-5b13-8679-c1eed317fe11",
+        "department": "College of Nursing",
+        "major": "Nursing",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR4201-01-01",
+        "credits": 6.0,
+        "title": "INTEGRATED NURSING PRACTICUM IV ",
+        "instructor": "Yeon Soo Jang",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d189be2e-7394-50e6-b1e4-a38bda9d73b9",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "General Education Requisite",
+        "code": "NUR9421-01-00",
+        "credits": 3.0,
+        "title": "LAW & ECONOMIC LIFE ",
+        "instructor": "Cho Chae Young",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "06530389-be28-5734-be06-2edf63cab66c",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR9414-01-00",
+        "credits": 2.0,
+        "title": "MENTAL HEALTH PROBLEMS & NURSING MANAGEMENT ",
+        "instructor": "오인옥",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2bb89305-49c0-5266-86f5-f9bf16ad419b",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR9422-01-00",
+        "credits": 3.0,
+        "title": "COMMUNITY HEALTH & NURSING MANAGEMENT ",
+        "instructor": "Kayoung Lee",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f0d49940-6aa8-518b-9846-8c95e99a5d07",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Requisite",
+        "code": "NUR9426-01-00",
+        "credits": 3.0,
+        "title": "NURSING & MANAGEMENT ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "17a9e7fd-12b7-5300-9828-5aadfdcfaa96",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR9501-01-00",
+        "credits": 3.0,
+        "title": "HEALTH ASSESSMENT ",
+        "instructor": "JiYeon Choi",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7d0c3ebb-e8ce-5161-bdd8-11ffaeae07a5",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR9504-01-00",
+        "credits": 3.0,
+        "title": "STATISTICS ",
+        "instructor": "Young Man Kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cf5a2fae-ebea-53a5-a498-2774c171009b",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Major Elective",
+        "code": "NUR9505-01-00",
+        "credits": 3.0,
+        "title": "HEALTH POLICY & INTERNATIONAL NURSING ",
+        "instructor": "JEONG SOOK PARK",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "64eb4bc8-c4cb-51a3-84b3-3ebda0035f69",
+        "department": "College of Nursing",
+        "major": "Nursing(RN-BSN)",
+        "year": null,
+        "classification": "Electives",
+        "code": "NUR9300-01-00",
+        "credits": 0.0,
+        "title": "CHAPEL ",
+        "instructor": null,
+        "times_str": null,
+        "times": null,
+        "location": null
+    }
+]

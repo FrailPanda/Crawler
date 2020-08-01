@@ -1,0 +1,2813 @@
+﻿[
+    {
+        "id": "b9296239-2982-51ae-a3d9-5ce4f19d825e",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "1",
+        "classification": "Major Elective",
+        "code": "BIZ2126-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF BUSINESS FOR INNOVATION AND ENTREPRENEURSHIP ",
+        "instructor": "Jung Dongil",
+        "times_str": "Thu2,3,4",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1aa0e0a2-6f5e-5299-9cc5-5a81d1235a99",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-01-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "Sohn, Sungkyu",
+        "times_str": "Tue1,Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BizH102"
+    },
+    {
+        "id": "094c36ab-b133-5901-98b1-bdd7d4417b53",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-02-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "Choi, Won W.",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "ac903f51-d2b6-5cce-a170-44c68127eab5",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-03-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "Guiral Andres",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "2d01eb14-76b7-554c-b045-7408b0a49b7c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-04-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "Kim Jonghwan",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizH103/Pre-recorded lecture"
+    },
+    {
+        "id": "3a88fae8-5ea8-5505-ba0f-13bdd33dd72c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-05-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "PARK JU HYOUNG",
+        "times_str": "Wed3/Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizHB201/Pre-recorded lecture"
+    },
+    {
+        "id": "638212f0-df85-5e1f-8f2b-6e9f453180f1",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1101-06-00",
+        "credits": 3.0,
+        "title": "PRINCIPLES OF ACCOUNTING ",
+        "instructor": "PARK JU HYOUNG",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizHB201/Pre-recorded lecture"
+    },
+    {
+        "id": "24b47383-15a4-5e81-b3f7-540f929d02fa",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-01-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "SHIN, DONG YOUB",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "BizH103"
+    },
+    {
+        "id": "e7eaae95-2a49-563c-a888-f920a693222c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-02-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "Oh Hongseok",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "a8fb433a-ecdb-5c0b-bbd8-ab8e25a63575",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-03-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "CHANG, EUNMI",
+        "times_str": "Mon9,10/Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizH101"
+    },
+    {
+        "id": "7448cf57-16a6-5643-ab5e-827759e2e2ef",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-04-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "Lee Ki Yeong",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3f830adf-8283-544d-944e-c16fb8ef8fe0",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-05-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "Do Boram",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "e9041d0a-3426-51da-b035-04d285adb10a",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ1102-06-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL BEHAVIOR ",
+        "instructor": "Do Boram",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "1dd8fb7a-7305-5df1-9a3a-8ee60541ee7e",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-01-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "KU Bon Il",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BizH101"
+    },
+    {
+        "id": "c47fe5a1-a366-5f5e-b18c-8dc6775483ef",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-02-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "YON, Kang Heum",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "5f89234e-72eb-573d-981e-0223eab7cd88",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-03-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "YON, Kang Heum",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "becc6cf4-7ba9-5a92-971d-d8238bf82393",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-04-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "Shin, Jhinyoung",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BizH103"
+    },
+    {
+        "id": "d48d3a88-334d-5cb5-8012-6eae47fa09dd",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-05-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "Park Sae Yeul",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizH102"
+    },
+    {
+        "id": "6a09732c-f6d0-52eb-b135-334704dd6238",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2119-06-00",
+        "credits": 3.0,
+        "title": "FINANCIAL MANAGEMENT ",
+        "instructor": "KIM KIBEOM",
+        "times_str": "Mon9,10,Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizH103"
+    },
+    {
+        "id": "940ed113-ec2b-553e-a68f-4444d197a288",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2120-01-00",
+        "credits": 3.0,
+        "title": "MARKETING ",
+        "instructor": "Kim Youngchan",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizH101"
+    },
+    {
+        "id": "ec51619b-e8fa-5e0b-8402-ec5ce2da6dd2",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2120-02-00",
+        "credits": 3.0,
+        "title": "MARKETING ",
+        "instructor": "Chang Sue Ryung",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "BizHB204"
+    },
+    {
+        "id": "52dc6153-48fc-53f2-a1f9-7706c3c460b3",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2120-03-00",
+        "credits": 3.0,
+        "title": "MARKETING ",
+        "instructor": "Ko Min Jeong",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizH104"
+    },
+    {
+        "id": "770a51d9-73af-5d82-9654-f1b2f8835217",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2120-04-00",
+        "credits": 3.0,
+        "title": "MARKETING ",
+        "instructor": "Ko Min Jeong",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizH104"
+    },
+    {
+        "id": "15862c68-1b4e-5413-8a72-966e84c9d791",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2120-05-00",
+        "credits": 3.0,
+        "title": "MARKETING ",
+        "instructor": "Lee Luri",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizHB204"
+    },
+    {
+        "id": "60033570-f713-5c34-a506-c9f9dfd49b2c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-01-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "Hur Dae Sik",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizH102"
+    },
+    {
+        "id": "a7ffcb6a-1809-5122-b9b9-4d6b7d041bcd",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-02-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "Min Soon Hong",
+        "times_str": "Tue2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "056f316a-1c94-5b4c-8dec-0fd202957feb",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-03-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "Min Soon Hong",
+        "times_str": "Thu2,3",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "0e84c0ec-f4b5-50da-bd12-21daef183d57",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-04-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "Park Seung Jae",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB204"
+    },
+    {
+        "id": "969b8501-7f7d-5880-9707-10a5257cf13a",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-05-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "LEE INHO",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "3b8ef1b9-470f-5905-9fc1-ef7796912f96",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2121-06-00",
+        "credits": 3.0,
+        "title": "PRODUCTION & OPERATIONS MANAGEMENT ",
+        "instructor": "Shin Jaeho",
+        "times_str": "Wed7,Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "5f8a346c-5366-5ab6-a754-0900d677c112",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-01-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Kim Hak Jin",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8b524b41-bf38-5ec9-be10-1e444a62a611",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-02-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Park Sunju",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB201"
+    },
+    {
+        "id": "dac8aebe-b211-5405-80bd-a7da6d916a11",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-03-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Kim Seongmoon",
+        "times_str": "Tue2,3,Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "95c8b352-4c47-5927-9e63-cac53181f38b",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-04-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Yerim Chung",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB101"
+    },
+    {
+        "id": "044c69e0-df48-55e7-ac01-f1887d6ca7f8",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-05-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Yerim Chung",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB101"
+    },
+    {
+        "id": "61a41edf-7022-5fce-9074-ba7ff17d2151",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Basic",
+        "code": "BIZ2122-06-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT SCIENCE ",
+        "instructor": "Soh Seung Bum",
+        "times_str": "Wed7/Fri7,8",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizHB208/Realtime online lecture"
+    },
+    {
+        "id": "02eacea3-cfe6-5219-9f6f-98d830513682",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2001-01-00",
+        "credits": 1.0,
+        "title": "JUNIOR SEMINAR ",
+        "instructor": "SHIN HYUN HAN",
+        "times_str": "Fri9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB223"
+    },
+    {
+        "id": "27f41e75-ef52-5aae-865f-9db3d50ed4b9",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2003-01-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KANG JIHOON",
+        "times_str": "Wed3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3147b0cb-f05e-5bcf-9ef5-bd010bd0142d",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2003-02-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM JUNGWOON",
+        "times_str": "Mon5",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ]
+        },
+        "location": "BizHB223"
+    },
+    {
+        "id": "453a4226-3fbb-55f7-8f99-7946d3b97f42",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2003-03-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "KIM YEONGWOOK",
+        "times_str": "Mon4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizHB223"
+    },
+    {
+        "id": "17b6a6d6-62af-593c-bd74-838d62f9b516",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2003-04-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "PARK JU HYOUNG",
+        "times_str": "Wed4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizHB223"
+    },
+    {
+        "id": "26877066-49e2-522d-97cf-84743261e57f",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2003-05-00",
+        "credits": 1.0,
+        "title": "UNDERGRADUATE TUTORIAL SEMINAR ",
+        "instructor": "PARK JIYOUNG",
+        "times_str": "Tue3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "9bbd9dfd-516a-53cf-a788-7e36419a1925",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "2",
+        "classification": "Major Elective",
+        "code": "BIZ2125-01-00",
+        "credits": 3.0,
+        "title": "NEW TRENDS IN BUSINESS ENVIORNMENT: DIGITAL REVOLUTION & SOCIAL CHANGE ",
+        "instructor": "Lee seungyong",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB204"
+    },
+    {
+        "id": "abd4c331-7226-5212-b077-6901b42fee1c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3108-01-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ACCOUNTING ",
+        "instructor": "Sohn, Sungkyu",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizH102"
+    },
+    {
+        "id": "eceac076-8f94-501a-8b23-d9b38972fdf3",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3108-02-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ACCOUNTING ",
+        "instructor": "Lee Kyung Tae",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "139e7201-1f6b-552b-b0d0-72e1b2eab582",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3108-03-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ACCOUNTING ",
+        "instructor": "Lee Kyung Tae",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8f0b15c9-878e-5a44-9a97-720e989e7b57",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3108-04-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ACCOUNTING ",
+        "instructor": "Moon Doocheol",
+        "times_str": "Mon1,2/Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB202"
+    },
+    {
+        "id": "54c484e1-1b11-59c5-b7e1-bab53cf7f5b9",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3108-05-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ACCOUNTING ",
+        "instructor": "Dae-Hee Yoon",
+        "times_str": "Tue8,9,Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "b429acd3-4f17-57d2-9d05-67893b33f3ec",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-01-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "KWON, Ku-Hyuk",
+        "times_str": "Tue5,6/Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizH101/Pre-recorded lecture"
+    },
+    {
+        "id": "7459e6d1-6f34-5009-b509-553e37a2f724",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-02-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "PARK KYUNGMIN",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB203/Pre-recorded lecture"
+    },
+    {
+        "id": "5cea9a10-96fb-5a60-a063-827265dcacbd",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-03-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "PARK KYUNGMIN",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizHB203/Pre-recorded lecture"
+    },
+    {
+        "id": "3648c3b5-7319-5e39-97bd-f1e47b9b3548",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-04-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "Kim Ji-hyun",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB201"
+    },
+    {
+        "id": "856da276-0136-5971-8c6d-42e361543cf3",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-05-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "Kim Bo Kyung",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizH104"
+    },
+    {
+        "id": "37d9669e-bd6b-5d1b-a977-84d88fdb1b26",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3147-06-00",
+        "credits": 3.0,
+        "title": "STRATEGIC MANAGEMENT ",
+        "instructor": "Chun Kyungmi",
+        "times_str": "Mon9,10,Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/Pre-recorded lecture"
+    },
+    {
+        "id": "e8a00294-52b1-542a-a773-e43928c10047",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3189-01-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT INFORMATION SYSTEMS ",
+        "instructor": "LEE, HO GEUN",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizH102"
+    },
+    {
+        "id": "7799b119-64db-59b1-be88-510516bad5b4",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3189-02-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT INFORMATION SYSTEMS ",
+        "instructor": "Suh, Kil Soo",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "BizHB101/Pre-recorded lecture"
+    },
+    {
+        "id": "cf7cb4d9-40df-5b33-bef1-f7593cf1554e",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3189-03-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT INFORMATION SYSTEMS ",
+        "instructor": "IM IL",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "f69eb5f2-15fe-5c74-a75e-5cdbbb9f1529",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3189-04-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT INFORMATION SYSTEMS ",
+        "instructor": "IM IL",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "af5324cc-21be-5099-a0d8-5839a13dd0ef",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Requisite",
+        "code": "BIZ3189-05-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT INFORMATION SYSTEMS ",
+        "instructor": "Kim Seung Hyun",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "100b3055-31d7-5255-9348-badb8d921c8a",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ2113-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS MATHEMATICS I ",
+        "instructor": "Soh Seung Bum",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB202"
+    },
+    {
+        "id": "b35ecdfa-ce9a-5bd2-9963-1e1b74f0d103",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3105-01-00",
+        "credits": 3.0,
+        "title": "CORPORATION LAW ",
+        "instructor": "Moon Sangil",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "4af0fb36-a6b2-51b7-a4c7-83b491522f2f",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3105-02-00",
+        "credits": 3.0,
+        "title": "CORPORATION LAW ",
+        "instructor": "Kim Udon",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "0db0d41b-eaec-5259-97f9-4710355d25c9",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3107-01-00",
+        "credits": 3.0,
+        "title": "CORPORATE TAX LAW ",
+        "instructor": "이승원",
+        "times_str": "Fri1,2,3",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "fbadbbfb-c231-5c2d-83cf-e03c31a08c55",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3109-01-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE ACCOUNTING(1) ",
+        "instructor": "KIM SOOIN",
+        "times_str": "Tue1/Thu2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "BizHB201/Pre-recorded lecture"
+    },
+    {
+        "id": "6bb334d0-b54f-5cbd-8404-847525dcfebc",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3109-02-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE ACCOUNTING(1) ",
+        "instructor": "KIM SOOIN",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB202/Pre-recorded lecture"
+    },
+    {
+        "id": "e39471af-6d7e-5ffd-b775-b07bc6f4a487",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3110-01-00",
+        "credits": 3.0,
+        "title": "COST ACCOUNTING ",
+        "instructor": "Moon Doocheol",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB202"
+    },
+    {
+        "id": "faff62cb-8ee7-5fdf-b22b-c51360a0be3e",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3119-01-00",
+        "credits": 3.0,
+        "title": "CORPORATE FINANCE ",
+        "instructor": "Shin, Jhinyoung",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/BizH103"
+    },
+    {
+        "id": "57f543c2-6fba-5a4b-b1d0-c48e00adf11b",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3119-02-00",
+        "credits": 3.0,
+        "title": "CORPORATE FINANCE ",
+        "instructor": "Lee Jiyoon",
+        "times_str": "Tue7/Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB205"
+    },
+    {
+        "id": "39c5f9d3-57a5-51b8-a4d7-be9e12fa143f",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3120-01-00",
+        "credits": 3.0,
+        "title": "INVESTMENT THEORY ",
+        "instructor": "KU Bon Il",
+        "times_str": "Tue2,3/Thu1",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ]
+        },
+        "location": "BizH101/Pre-recorded lecture"
+    },
+    {
+        "id": "93f12268-5d13-5cbf-8147-20d35cb74fec",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3120-02-00",
+        "credits": 3.0,
+        "title": "INVESTMENT THEORY ",
+        "instructor": "Hahn Jaehoon",
+        "times_str": "Mon8,9,10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizHB101"
+    },
+    {
+        "id": "eef7bae3-349d-5884-912c-50a3adb3e3d4",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3125-01-00",
+        "credits": 3.0,
+        "title": "INSURANCE COMPANY OPERATIONS ",
+        "instructor": "Kim, Jeong Dong",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BizH101"
+    },
+    {
+        "id": "73fc79b8-be1b-507d-8522-2b541401afae",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3125-02-00",
+        "credits": 3.0,
+        "title": "INSURANCE COMPANY OPERATIONS ",
+        "instructor": "Kim, Jeong Dong",
+        "times_str": "Mon5,6,Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizH101"
+    },
+    {
+        "id": "09c90755-89d9-508f-9a59-fbe9ef0e85d9",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3126-01-00",
+        "credits": 3.0,
+        "title": "CONSUMER BEHAVIOR ",
+        "instructor": "PARK SE-BUM/JEONG NAN HEE",
+        "times_str": "Mon3,4,Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f954d5e1-2719-56c9-a063-2ad5922c86c7",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3126-02-00",
+        "credits": 3.0,
+        "title": "CONSUMER BEHAVIOR ",
+        "instructor": "Kim Byung Kyu",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "21a16764-9bc5-5ddb-9adf-8d136c1de5f1",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3134-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MANAGEMENT ",
+        "instructor": "Soonkyoo Choe",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizH101/Realtime online lecture"
+    },
+    {
+        "id": "cf496a40-3062-55f3-8506-e8351a6320bf",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3134-02-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MANAGEMENT ",
+        "instructor": "Pak Yong Suhk",
+        "times_str": "Mon3,4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c60f410b-ab80-5269-bf57-29f53618be2c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3134-03-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MANAGEMENT ",
+        "instructor": "Kwak Jooyoung",
+        "times_str": "Tue2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "dbd0a503-3276-5561-9565-706c3b87082e",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3134-04-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MANAGEMENT ",
+        "instructor": "Soonkyoo Choe",
+        "times_str": "Mon7,8/Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizH101/Realtime online lecture"
+    },
+    {
+        "id": "2b8505f7-c087-5714-9a55-ddb8063ac9b8",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3135-01-00",
+        "credits": 3.0,
+        "title": "INTERNATIONAL MAKETING ",
+        "instructor": "PARK, YOUNG RYEOL",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizH104"
+    },
+    {
+        "id": "83d97ae3-9402-5fa2-b634-30a425cb361c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3136-01-00",
+        "credits": 3.0,
+        "title": "HUMAN RESOURCE MANAGEMENT ",
+        "instructor": "Lee Jiman",
+        "times_str": "Mon3,4/Wed4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB101"
+    },
+    {
+        "id": "2ff01ce1-aca3-5964-8792-9de064a0d136",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3136-02-00",
+        "credits": 3.0,
+        "title": "HUMAN RESOURCE MANAGEMENT ",
+        "instructor": "Hyuntak Roh",
+        "times_str": "Wed5,Fri5,6",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 14.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "04189342-c873-5bea-a8dc-18b6fc5a2eed",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3136-03-00",
+        "credits": 3.0,
+        "title": "HUMAN RESOURCE MANAGEMENT ",
+        "instructor": "Ryou Yeejeong",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB205/Realtime online lecture"
+    },
+    {
+        "id": "304756c7-83a5-5c87-b0f4-de919cdfe03b",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3148-01-00",
+        "credits": 3.0,
+        "title": "LABOR-MANAGEMENT RELATIONS ",
+        "instructor": "Lee Jiman",
+        "times_str": "Mon5,6/Wed6",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB101"
+    },
+    {
+        "id": "5b8fa07f-90d6-561e-bcb4-6230b5c64ef4",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3155-01-00",
+        "credits": 3.0,
+        "title": "INTERMEDIATE ACCOUNTING(2) ",
+        "instructor": "JEE EUN SANG",
+        "times_str": "Fri7,8,9",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "663bafe9-e7ab-5a75-92af-b3175873363c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3158-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS COMMUNICATION ",
+        "instructor": "Lee Tae-hee",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "d1db659d-bb69-5805-9323-d5fc28fb4e16",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3162-01-00",
+        "credits": 3.0,
+        "title": "MONEY AND BANKING ",
+        "instructor": "KANG, KEE YOUN",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "8ae26910-f55c-54b5-95fb-8f4cc21a02d6",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3175-01-00",
+        "credits": 3.0,
+        "title": "CORPORATION AND ITS LEGAL ENVIRONMENT ",
+        "instructor": "Kim Hyungjin",
+        "times_str": "Wed1,2,3",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "5863bdec-5ddb-5ad6-a93a-23a0b0f605f6",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3197-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS ",
+        "instructor": "Bang Youngsok",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "BizHB208"
+    },
+    {
+        "id": "25a823ad-4ef4-58c1-9e17-3023278b9497",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3198-01-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO BUSINESS PROGRAMMING ",
+        "instructor": "Choi HanByeol",
+        "times_str": "Wed1,Fri1,2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 10.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "3e5d76c8-25ea-5123-aac9-ea91c2889746",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ3198-02-00",
+        "credits": 3.0,
+        "title": "INTRODUCTION TO BUSINESS PROGRAMMING ",
+        "instructor": "Choi HanByeol",
+        "times_str": "Wed3,Fri3,4",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture"
+    },
+    {
+        "id": "51195cad-370d-58d1-9ee7-ba8d798dbfc0",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4115-01-00",
+        "credits": 3.0,
+        "title": "AUDITING ",
+        "instructor": "Lee Ho Young",
+        "times_str": "Thu6,7,8",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizHB204"
+    },
+    {
+        "id": "7e4d80f6-8b06-5d9e-9ef3-d007a7e13dac",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4116-01-00",
+        "credits": 3.0,
+        "title": "ADVANCED ACCOUNTING ",
+        "instructor": "CHOI BYUNGCHUL",
+        "times_str": "Mon9,10/Wed10",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "finish_time": 19.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizHB204/Pre-recorded lecture"
+    },
+    {
+        "id": "4e27df58-8a8f-5b0a-be04-6814eac5d817",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4122-01-00",
+        "credits": 3.0,
+        "title": "FUTURES AND OPTIONS ",
+        "instructor": "Park Dojoon",
+        "times_str": "Tue5,6,Thu4",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "dae1a9d6-6edd-5e31-8b51-ac91839e463d",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4123-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS ANALYSIS AND VALUATION ",
+        "instructor": "Chang, Jinho",
+        "times_str": "Tue2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "c5c91bdb-298a-5576-acb7-f003e3368ccf",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4129-01-00",
+        "credits": 3.0,
+        "title": "RELATIONSHIP MARKETING ",
+        "instructor": "Lee Dongjin",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "BizH104"
+    },
+    {
+        "id": "4f98f243-04ac-5499-a864-88d19a6bd9ca",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4139-01-00",
+        "credits": 3.0,
+        "title": "DATA-BASED DECISION MAKING ",
+        "instructor": "Kim Hak Jin",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "366f34ba-1108-5c92-a6dc-16d9bb99fad3",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4147-01-00",
+        "credits": 3.0,
+        "title": "DECISION MAKING UNDER UNCERTAINTY ",
+        "instructor": "Kim Seongmoon/YANG JI HYE",
+        "times_str": "Mon1,2,Wed2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Pre-recorded lecture/Realtime online lecture"
+    },
+    {
+        "id": "3f3cf9cd-5f45-537f-95db-bccd798c4b06",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4148-01-00",
+        "credits": 3.0,
+        "title": "MANAGING IN EMERGING MARKETS ",
+        "instructor": "Pak Yong Suhk",
+        "times_str": "Mon1,2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 11.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "3e1e2496-8d39-50ff-a1d2-0ee2811b4f4b",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4150-01-00",
+        "credits": 3.0,
+        "title": "PROJECT MANAGEMENT ",
+        "instructor": "Im Kun Shin",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizHB205"
+    },
+    {
+        "id": "36967b17-fb6d-57d6-8691-adfb5134886f",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4151-01-00",
+        "credits": 3.0,
+        "title": "M&A AND RESTRUCTURING ",
+        "instructor": "Chang, Jinho",
+        "times_str": "Tue5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "7a9c9b7b-5e93-52ab-a0fe-f395709a18c1",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4157-01-00",
+        "credits": 3.0,
+        "title": "YSB LEADERS FORUM ",
+        "instructor": "Suh, Kil Soo/YANG JUNG MI",
+        "times_str": "Tue8,9,10",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizH103"
+    },
+    {
+        "id": "0a39d18e-8128-5a88-9eb6-fbe424707d40",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4159-01-00",
+        "credits": 3.0,
+        "title": "MANAGEMENT ETHICS AND SUSTAINABILITY MANAGEMENT FORUM ",
+        "instructor": "Lee Ho Young/Min Soon Hong",
+        "times_str": "Wed5,6,7",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BizHB204"
+    },
+    {
+        "id": "9a0303b6-83a0-5550-a5d0-1e73e77957b7",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4167-01-00",
+        "credits": 3.0,
+        "title": "SERVICE DESIGN ",
+        "instructor": "Kim Jin Woo",
+        "times_str": "Thu8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizH102"
+    },
+    {
+        "id": "f5d025a7-3a97-5d5b-840d-f36f802df498",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4180-01-00",
+        "credits": 3.0,
+        "title": "ORGANIZATIONAL LEARNING: OPPORTUNITY AND TRAP ",
+        "instructor": "Rhee Mooweon",
+        "times_str": "Mon7,8,Wed8",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 17.0
+                }
+            ]
+        },
+        "location": "BizH102"
+    },
+    {
+        "id": "7211695e-3b64-5256-b81c-f7909b8ee304",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4183-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY: A PSYCHOLOGICAL APPROACH ",
+        "instructor": "Guiral Andres",
+        "times_str": "Tue4,Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "BizHB203"
+    },
+    {
+        "id": "29c9422b-0447-56ee-b0f7-75d9abc5e2b1",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4183-02-00",
+        "credits": 3.0,
+        "title": "BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY: A PSYCHOLOGICAL APPROACH ",
+        "instructor": "Guiral Andres",
+        "times_str": "Tue7,Thu8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB203"
+    },
+    {
+        "id": "102a379c-2864-5ed2-ab39-cbfb0423c0a5",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4189-01-00",
+        "credits": 3.0,
+        "title": "BUSINESS NEGOTIATIONS ",
+        "instructor": "PARK Hun Joon",
+        "times_str": "Tue1,2,3",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "finish_time": 12.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "f15a37bf-be7e-5328-be92-f12666b27b34",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4190-01-00",
+        "credits": 3.0,
+        "title": "START UP 401: START UP CONSULTING-UCAN ",
+        "instructor": "PARK KYUNGMIN",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB202"
+    },
+    {
+        "id": "ee8d1ed7-d539-5292-8f3c-d5fda0886d69",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4194-01-00",
+        "credits": 3.0,
+        "title": "DATA MINING FOR BUSINESS ANALYTICS ",
+        "instructor": "SON JAI YEOL",
+        "times_str": "Tue4/Thu5,6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "finish_time": 13.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture/BizHB208"
+    },
+    {
+        "id": "aca3c07f-c843-5ce7-9503-c12d86f5a94c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "3,4",
+        "classification": "Major Elective",
+        "code": "BIZ4197-01-00",
+        "credits": 3.0,
+        "title": "CONSTANT CREATIVE INNOVATIONS AND THE 21ST CENTURY MANAGEMENT ",
+        "instructor": "SHIN, DONG YOUB",
+        "times_str": "Thu8,9,10",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 19.0
+                }
+            ]
+        },
+        "location": "BizH103"
+    },
+    {
+        "id": "a9459759-392b-542f-8502-41f682aee98c",
+        "department": "College of Business",
+        "major": "Business Administration",
+        "year": "4",
+        "classification": "Major Elective",
+        "code": "BIZ4177-01-00",
+        "credits": 3.0,
+        "title": "MARKETING STRATEGY MODEL ",
+        "instructor": "Choi Jeonghye",
+        "times_str": "Tue7,8,9",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "BizHB208"
+    }
+]

@@ -1,0 +1,260 @@
+﻿[
+    {
+        "id": "e934226f-b6ac-5574-9ff3-7ad1904894ec",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI1175-01-00",
+        "credits": 1.0,
+        "title": "THE SPIRIT OF YONSEI & HUMAN RIGHTS ",
+        "instructor": "PARK Kyung Ja",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8fe065c6-9e49-5ca6-8e24-27541a9b77ce",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-01-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Park, Joonhong",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "357d4c3e-b2ed-5d1a-b5ff-3c6ddc2a4d45",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-02-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Chun, Heoung Jae",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "534e6dfa-600f-5670-9133-daecb0c6affe",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-03-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Hong Won Pyo",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d23658c5-edcf-52d3-9468-5f1a04b85b46",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-06-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Lee Dae Sung",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cacebf5a-3e59-5e47-9dc0-ebcee293b57f",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-07-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Nah Jeong Eun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dc65d3e4-178b-5c2d-93a6-7fa008db4dbf",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-09-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Jeong, Chong Hun",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2e7b4957-742e-5b02-8f38-90ecbb043195",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI2001-13-00",
+        "credits": 1.0,
+        "title": "VOLUNTEER SERVICE ",
+        "instructor": "Dong Hwan Kim",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "3c3d171f-472b-5057-927f-02b49797ee3c",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCJ1135-01-00",
+        "credits": 1.0,
+        "title": "YONSEI UNIVERSITY CHOIR(LAB CHOIR) ",
+        "instructor": "JI HYUN CHUNG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus117"
+    },
+    {
+        "id": "a410599c-fbf1-5173-a259-bbffbb5905a0",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCJ1135-02-00",
+        "credits": 1.0,
+        "title": "YONSEI UNIVERSITY CHOIR(LAB CHOIR) ",
+        "instructor": "KIM DAEKWANG",
+        "times_str": "Fri5,6",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "finish_time": 15.0
+                }
+            ]
+        },
+        "location": "Mus103"
+    },
+    {
+        "id": "7a635d59-a16d-5541-b0a3-5ae7057cdf11",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCR1016-01-00",
+        "credits": 1.0,
+        "title": "LIFE ACADEMY ",
+        "instructor": "Nam Seok In",
+        "times_str": "Tue10,11",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.0,
+                    "finish_time": 20.0
+                }
+            ]
+        },
+        "location": "APZH108"
+    },
+    {
+        "id": "ab0a6168-9fcc-539e-a809-04e88c0a552f",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI1167-01-00",
+        "credits": 3.0,
+        "title": "SOCIAL INNOVATION & CSR ",
+        "instructor": "KIM DO-YOUNH",
+        "times_str": "Tue8,9/Thu7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "finish_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 16.0
+                }
+            ]
+        },
+        "location": "BYH S208/Realtime online lecture"
+    },
+    {
+        "id": "4c6a6969-0d50-548d-a074-e22f5c9f66a3",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI1176-01-00",
+        "credits": 3.0,
+        "title": "SCIO-SCIENTIFIC ISSUES BY CONVERGENCE EDUCATION APPROACH ",
+        "instructor": "BAEK YOON SU",
+        "times_str": "Wed7,8,9",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Realtime online lecture"
+    },
+    {
+        "id": "845d046e-2866-5767-a79b-8711b23f3a74",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI1177-01-00",
+        "credits": 3.0,
+        "title": "UNDERSTANDING SUSTAINABLE DEVELOPMENT WITH BKM ",
+        "instructor": "KIM SO YOON/Park, Joonhong/PARK TAE IN",
+        "times_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "873779a7-1ff6-5af5-a440-780620c57aeb",
+        "department": "Basic Education(2019~)",
+        "major": "Self Elective",
+        "year": null,
+        "classification": "Basic Education",
+        "code": "UCI1183-01-00",
+        "credits": 3.0,
+        "title": "TRANSDISCIPLINARY TEAMWORK FOR SOCIAL PROBLEM SOLVING ",
+        "instructor": "Song In Han",
+        "times_str": "Thu7,8,9",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "finish_time": 18.0
+                }
+            ]
+        },
+        "location": "Edu403"
+    }
+]
