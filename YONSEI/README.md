@@ -63,3 +63,8 @@ check_~~~.py는 작업이 맞게 되었는지 체크하는 용도
 9. split_csv_into_groups.py
     - 7, 8의 결과물을 단과대학 별로 그룹화
     - english_output.csv 처리할 때, 'Supplementary Term'는 무시했음
+    
+    <br><br>
+    # 2020.08.04 수정
+    1. csv2json.py, csv2json_en.py - 딕셔너리 키값, 변수명을 "finish_time"에서 "end_time"으로 수정
+    2. .json upload
