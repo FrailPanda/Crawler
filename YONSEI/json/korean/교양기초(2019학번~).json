@@ -98,13 +98,13 @@
             "0": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ],
             "2": [
                 {
                     "start_time": 16.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ]
         },
@@ -125,7 +125,7 @@
             "1": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 16.0
+                    "end_time": 16.0
                 }
             ]
         },
@@ -146,13 +146,13 @@
             "2": [
                 {
                     "start_time": 9.0,
-                    "finish_time": 10.0
+                    "end_time": 10.0
                 }
             ],
             "4": [
                 {
                     "start_time": 9.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ]
         },
@@ -173,13 +173,13 @@
             "0": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ],
             "2": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ]
         },
@@ -200,13 +200,13 @@
             "0": [
                 {
                     "start_time": 13.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ],
             "2": [
                 {
                     "start_time": 14.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ]
         },
@@ -227,13 +227,13 @@
             "0": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ],
             "2": [
                 {
                     "start_time": 16.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ]
         },
@@ -254,13 +254,13 @@
             "1": [
                 {
                     "start_time": 13.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ],
             "3": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ]
         },
@@ -281,13 +281,13 @@
             "1": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 16.0
+                    "end_time": 16.0
                 }
             ],
             "3": [
                 {
                     "start_time": 16.0,
-                    "finish_time": 18.0
+                    "end_time": 18.0
                 }
             ]
         },
@@ -308,13 +308,13 @@
             "2": [
                 {
                     "start_time": 9.0,
-                    "finish_time": 10.0
+                    "end_time": 10.0
                 }
             ],
             "4": [
                 {
                     "start_time": 9.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ]
         },
@@ -335,13 +335,13 @@
             "2": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 12.0
+                    "end_time": 12.0
                 }
             ],
             "4": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ]
         },
@@ -362,13 +362,13 @@
             "1": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ],
             "3": [
                 {
                     "start_time": 13.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ]
         },
@@ -389,13 +389,13 @@
             "1": [
                 {
                     "start_time": 13.0,
-                    "finish_time": 14.0
+                    "end_time": 14.0
                 }
             ],
             "3": [
                 {
                     "start_time": 13.0,
-                    "finish_time": 14.0
+                    "end_time": 14.0
                 }
             ]
         },
@@ -416,13 +416,13 @@
             "0": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ],
             "2": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ]
         },
@@ -443,13 +443,13 @@
             "1": [
                 {
                     "start_time": 14.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ],
             "3": [
                 {
                     "start_time": 14.0,
-                    "finish_time": 15.0
+                    "end_time": 15.0
                 }
             ]
         },
@@ -470,13 +470,13 @@
             "0": [
                 {
                     "start_time": 10.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ],
             "2": [
                 {
                     "start_time": 10.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ]
         },
@@ -497,13 +497,13 @@
             "0": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 16.0
+                    "end_time": 16.0
                 }
             ],
             "2": [
                 {
                     "start_time": 15.0,
-                    "finish_time": 16.0
+                    "end_time": 16.0
                 }
             ]
         },
@@ -524,13 +524,13 @@
             "1": [
                 {
                     "start_time": 10.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ],
             "3": [
                 {
                     "start_time": 10.0,
-                    "finish_time": 11.0
+                    "end_time": 11.0
                 }
             ]
         },
@@ -551,13 +551,13 @@
             "1": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 12.0
+                    "end_time": 12.0
                 }
             ],
             "3": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 12.0
+                    "end_time": 12.0
                 }
             ]
         },
@@ -578,13 +578,13 @@
             "0": [
                 {
                     "start_time": 16.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ],
             "2": [
                 {
                     "start_time": 16.0,
-                    "finish_time": 17.0
+                    "end_time": 17.0
                 }
             ]
         },
@@ -605,13 +605,13 @@
             "1": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ],
             "3": [
                 {
                     "start_time": 12.0,
-                    "finish_time": 13.0
+                    "end_time": 13.0
                 }
             ]
         },
@@ -632,7 +632,7 @@
             "0": [
                 {
                     "start_time": 11.0,
-                    "finish_time": 12.0
+                    "end_time": 12.0
                 }
             ]
         },

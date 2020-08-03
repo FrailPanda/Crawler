@@ -156,9 +156,9 @@ def time_str2json_1(temp_list):
 
         time = []
         start_time = float(int(element[1])+8)
-        finish_time = float(int(element[-1])+9)
+        end_time = float(int(element[-1])+9)
 
-        time.append({"start_time" : start_time, "finish_time" : finish_time})
+        time.append({"start_time" : start_time, "end_time" : end_time})
 
         result[element[0]] = time
 
@@ -200,9 +200,9 @@ def time_str2json_2(temp_list) :
 
         for e in time_list :
             start_time = float(int(e[0]) + 8)
-            finish_time = float(int(e[-1]) + 9)
+            end_time = float(int(e[-1]) + 9)
 
-            time.append({"start_time": start_time, "finish_time": finish_time})
+            time.append({"start_time": start_time, "end_time": end_time})
 
         result[element[0]] = time
 
