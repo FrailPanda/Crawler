@@ -7,7 +7,7 @@ import time
 import csv
 
 # Setting
-f = open('./csv/korean/korean_output.csv', 'w', encoding='utf-8-sig', newline='')
+f = open('./xlsx/korean/korean_output.xlsx', 'w', encoding='utf-8-sig', newline='')
 wr = csv.writer(f)
 
 driver = webdriver.Chrome('C:\chromedriver_win32\chromedriver.exe')
@@ -45,7 +45,7 @@ column_categories = ['', None, None, '학년', '종별', '단위', '학정번호
 # None -> '' change
 column_categories = ['' if v is None else v for v in column_categories]
 
-# 1, 2 열에 학부대학, 소분류를 삽입하여 csv 작성
+# 1, 2 열에 학부대학, 소분류를 삽입하여 xlsx 작성
 column_categories[0:0] = ["학부대학", "소분류"]
 wr.writerow(column_categories)
 
@@ -154,7 +154,7 @@ for college_option in college_options:
                                 href = element_a.get_attribute("href")
                                 text = element_a.text
 
-                                # 추후 csv 파일에서 슬라이싱 예정
+                                # 추후 xlsx 파일에서 슬라이싱 예정
                                 result_info.append(href + ", " + text)
 
                             # href가 없는 경우(폐강, 기타 등) -> div.text만 append()
@@ -169,7 +169,7 @@ for college_option in college_options:
                     # 콘솔에 logging -> 문제점 찾기 쉬움
                     print(cnt, result_info)
 
-                    # 학부대학, 학과(소분류) 삽입하여 csv 작성
+                    # 학부대학, 학과(소분류) 삽입하여 xlsx 작성
                     result_info[0:0] = [college_option.text, dept_option.text]
                     wr.writerow(result_info)
 
@@ -183,7 +183,7 @@ for college_option in college_options:
 
 time.sleep(1)
 
-# csv 작성 종료
+# xlsx 작성 종료
 f.close()
 
 # webdriver 종료
