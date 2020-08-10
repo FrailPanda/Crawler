@@ -2,35 +2,23 @@ import xlrd
 import uuid
 import simplejson as json
 
-# 카테고리 분류는 다음 링크를 참조했습니다.
-# http://www.sogang.ac.kr/admin/index.html
-
-# 연계전공 카테고리에서 '일본문화전공', '동아시아학전공'은 제외.
-# 아래 링크에서는 '일본문화전공'과 '동아시아학 전공'이 연계전공으로 분류되어 있음
-# https://www.sogang.ac.kr/bachelor/haksa/course01.html
-
-# '아트&테크놀로지 전공'은 통폐합 된 '지식융합미디어학부'로 분류했습니다.
-# '커뮤니케이션학 전공'은 통폐합 된 '지식융합미디어학부'로 분류했습니다.
-
-# 종별(전필, 전선, 기교 등)의 분류가 없어서 일괄 null 처리 하였습니다.(대학요람 참조하는 방안으로 확인됨)
-
-category1 = ["국제인문학부", "사회과학부", "지식융합학부", "지식융합미디어학부", "자연과학부", "공학부", "경제학부", "경영학부", "커뮤니케이션학부", "연계전공"]
+category1 = ["School of Humanities", "School of Social Sciences", "School of Intergrated Knowledge", "School of Media, Arts and Science", "School of Natural Sciences", "School of Engineering", "School of Economics", "Sogang Business School", "School of Communication", "Interdisciplinary Programs"]
 category2 = [
-    ["국어국문학전공", "사학전공", "철학전공", "종교학전공", "영미어문전공", "미국문화전공", "유럽문화전공", "독일문화전공", "프랑스문화전공", "중국문화전공", "일본문화전공"],
-    ["사회학전공", "정치외교학전공", "심리학전공"],
-    ["국제한국학전공", "아트&테크놀로지전공"],
-    ["신문방송학전공", "미디어&엔터테인먼트전공", "아트&테크놀로지전공", "글로벌한국학전공"],
-    ["수학전공", "물리학전공", "화학전공", "생명과학전공"],
-    ["전자공학전공", "화공생명공학전공", "컴퓨터공학전공", "기계공학전공"],
-    ["경제학전공"],
-    ["경영학전공"],
-    ["커뮤니케이션학전공"],
-    ["교육문화연계전공", "공공인재 연계전공", "여성학 연계전공", "정치학/경제학/철학 연계전공", "스포츠미디어 연계전공", "바이오융합기술 연계전공", "스타트업연계전공", "융합소프트웨어연계전공", "한국발전과국제개발협력연계전공", "빅데이터사이언스연계전공", "인공지능연계전공", "한국사회문화연계전공"]
+    ["Korean Language and Literature", "History", "Philosophy", "Religious Studies", "British and American Language and Litera", "American Cultures", "European Languages and Cultures", "German Culture", "French Culture", "Chinese Culture", "Japanese Culture"],
+    ["Sociology", "Political Science", "Psychology"],
+    ["Korean Studies in English", "Art & Technology"],
+    ["Journalism and Strategic Communication", "Media & Entertainment", "Art & Technology", "Global Korean Studies"],
+    ["Mathematics", "Physics", "Chemistry", "Life Science"],
+    ["Electronic Engineering", "Chemical and Biomolecular Engineering", "Computer Engineering", "Mechanical Engineering"],
+    ["Economics"],
+    ["Business Administration"],
+    ["Communications"],
+    ["Education Culture", "Public Leadership", "Gender Studies", "PEP(Political Science, Economics and Philosophy", "Sports Media", "Department of Biomedical Engineering", "Innovative Startup", "Convergence Software", "Korean development and International dev", "Big Data Science", "Artificial Intelligence", "Korean Society and Culture"]
 ]
 
-date_list = ["월", "화", "수", "목", "금", "토", "일"]
+date_list = ["MO", "TU", "WE", "TH", "FR", "SA", "SU"]
 
-wb = xlrd.open_workbook('../xlsx/개설교과목정보(한글).xlsx')
+wb = xlrd.open_workbook('../xlsx/개설교과목정보(영문)_누락수정.xlsx')
 sh = wb.sheet_by_index(0)
 
 data_list = []
@@ -40,11 +28,11 @@ cnt = 0
 def find_department(major):
     department = ''
 
-    if major == '전인교육원':
-        return '전인교육원'
+    if major == 'School of General Education':
+        return 'School of General Education'
 
-    if major == '아트&테크놀로지전공':
-        return '지식융합미디어학부'
+    if major == 'Art & Technology' or major == 'Art&Technology':
+        return 'School of Media, Arts and Science'
 
     if major in category1 :
         return major
@@ -53,12 +41,17 @@ def find_department(major):
         if major in li :
             department = category1[category2.index(li)]
 
+    if department == '':
+        print(cnt)
+
     return department
 
 def convert_year(year):
-    year = year.replace("전학년", "")
-    year = year.replace("학년", "")
+    year = year.replace("All grade(s)", "")
+    year = year.replace(" grade(s)", "")
+    year = year.replace(" grade(", "")
 
+    #print(year)
     if year == '' :
         return None
     else :
@@ -157,5 +150,5 @@ for row_num in range(1, sh.nrows):
 
 j = json.dumps(data_list, ensure_ascii=False, indent=4)
 
-with open('../json/result_ko.json', 'w', encoding='UTF-8-sig') as f:
+with open('../json/result_en.json', 'w', encoding='UTF-8-sig') as f:
     f.write(j)
