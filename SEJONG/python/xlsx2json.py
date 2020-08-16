@@ -20,6 +20,20 @@ def check_null_value(item):
     else:
         return item
 
+def convert_time_str2english(time):
+    if time == None:
+        return None
+
+    time = time.replace("월", "Mon")
+    time = time.replace("화", "Tue")
+    time = time.replace("수", "Wed")
+    time = time.replace("목", "Thu")
+    time = time.replace("금", "Fri")
+    time = time.replace("토", "Sat")
+    time = time.replace("일", "Sun")
+
+    return time
+
 def convert_location(location):
     if location == '':
         return None
@@ -174,7 +188,7 @@ for row_num in range(1, sh.nrows):
     dic['location'] = convert_location(row_values[13])
 
     # time_str
-    dic['time_str'] = check_null_value(row_values[12])
+    dic['time_str'] = convert_time_str2english(check_null_value(row_values[12]))
 
     # times
     dic['times'] = convert_time_str2dict(row_values[12])
