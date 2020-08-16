@@ -6,14 +6,18 @@ def major_name_nomalization(name):
     name = name.split()
     result = ''
 
-    del name[0]
-    del name[0]
-
     for n in name :
         result = result + n + " "
 
-    result = result.split("(")
-    result = result[1][:-2]
+    temp_result = ''
+    temp_cnt = 3
+    while True :
+        if result[-temp_cnt] == '(':
+            break
+        temp_result += result[-temp_cnt]
+        temp_cnt += 1
+
+    result = temp_result[::-1]
     return result
 
 # Setting
@@ -31,6 +35,10 @@ cnt = 0
 
 header = ["전공", "영역", "학수번호", "과목명", "교수명", "이수구분", "학년", "학점", "강의시간/강의실"]
 wr.writerow(header)
+
+# 글로벌캠퍼스 선택
+driver.find_element_by_xpath('/html/body/div/form/div[1]/table/tbody/tr[3]/td/label[2]').click()
+time.sleep(3)
 
 # 전공 선택
 driver.find_element_by_xpath("/html/body/div/form/div[1]/table/tbody/tr[4]/th").click()
@@ -86,6 +94,7 @@ for option in range(len(major_options)) :
         # 강의시간/강의실
         result_list.append(td[14].text)
 
+        print(result_list)
         wr.writerow(result_list)
 
     cnt += 1
@@ -147,6 +156,7 @@ for option in range(len(major_options)) :
         # 강의시간/강의실
         result_list.append(td[14].text)
 
+        print(result_list)
         wr.writerow(result_list)
 
     cnt += 1
