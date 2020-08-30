@@ -1,287 +1,1193 @@
 ﻿[
     {
-        "id": "c22e3ed3-13af-4a35-8423-c84deb0600ab",
+        "id": "5f61ff4e-bf01-4761-9fc3-d60bb2182e20",
         "code": "2150571701",
-        "instructor": "Jay"
+        "instructor": "Jay",
+        "department": "College of Business Administration",
+        "major": "Business Administration",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "12207",
+        "time_str": "월 09:00-10:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ]
+        }
     },
     {
-        "id": "97139159-67b6-4c51-9324-218905be082e",
+        "id": "7c60a530-c4fd-43ab-aa66-2192bcd48556",
         "code": "2150571702",
-        "instructor": "Jay"
+        "instructor": "Jay",
+        "department": "College of Business Administration",
+        "major": "Business Administration",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "12207",
+        "time_str": "목 10:30-11:45",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "1086ae2c-47c5-4d14-83a7-05f52fb04c20",
+        "id": "6460f9ce-0d8f-4d60-8fc1-648716e18868",
         "code": "2150371603",
-        "instructor": "김용덕"
+        "instructor": "김용덕",
+        "department": "College of Business Administration",
+        "major": "Business Administration",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31207",
+        "time_str": "화 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "3304e2a2-49b6-4e26-9459-bc9f2be2446d",
+        "id": "5ae95970-98a7-4227-8bd6-3a4184a740e6",
         "code": "2150338201",
-        "instructor": "Jay"
+        "instructor": "Jay",
+        "department": "College of Business Administration",
+        "major": "Business Administration",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "12207",
+        "time_str": "목 09:00-10:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ]
+        }
     },
     {
-        "id": "e7735350-3272-4d68-9176-d0304d095670",
+        "id": "cbd6cb2c-96fd-4eed-bc84-efc91eec951c",
         "code": "2150626401",
-        "instructor": "Eric"
+        "instructor": "Eric",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "1",
+        "credits": 3.0,
+        "location": "11407",
+        "time_str": "화 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "a8bef790-a17a-4ae6-9c41-18ee53c76a5d",
+        "id": "d4ba0396-e49f-4c27-a458-71ebba4a3440",
         "code": "2150626402",
-        "instructor": "Eric"
+        "instructor": "Eric",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "1",
+        "credits": 3.0,
+        "location": "11407",
+        "time_str": "화 13:30-14:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "0341237a-cebb-4f38-ac5d-9edd7309c4ed",
+        "id": "7f59fb8d-0e8b-4e6c-82be-dacdc519572b",
         "code": "5023312101",
-        "instructor": "Christophe"
+        "instructor": "Christophe",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "20304",
+        "time_str": "목 09:00-10:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ]
+        }
     },
     {
-        "id": "3df16c59-17f7-4af7-af6f-28d3821b3252",
+        "id": "8980aed6-3f7b-4bdd-897c-6ef63ca6165d",
         "code": "5024478001",
-        "instructor": "이상현"
+        "instructor": "이상현",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "11404",
+        "time_str": "화 13:30-14:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "c6cf246c-802d-4aa5-aea4-e83957fe2f13",
+        "id": "44435b51-1be4-4e24-82bc-20e1217896bc",
         "code": "5024477801",
-        "instructor": "Eric"
+        "instructor": "Eric",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "11410",
+        "time_str": "수 13:30-14:45",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "0b436461-cc18-4966-a117-0bec964bed99",
+        "id": "b1dc55d5-d800-4e56-a1ae-4123eea3f0e8",
         "code": "2150645201",
-        "instructor": "엄태진"
+        "instructor": "엄태진",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "11404",
+        "time_str": "목 13:30-14:45",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "f31d3c44-e83b-4c8f-8c9c-e8b3bb48958c",
+        "id": "52a37e4e-c820-4b30-9f66-e68a393e9aa1",
         "code": "2150552401",
-        "instructor": "Eric"
+        "instructor": "Eric",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "20304",
+        "time_str": "월 13:30-14:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "bd88f0ad-37ed-4680-b0af-bee09ea32449",
+        "id": "1a23351b-9316-477a-8a93-7efa8c7790ae",
         "code": "2150554901",
-        "instructor": "Christophe"
+        "instructor": "Christophe",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "20304",
+        "time_str": "목 10:30-11:45",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "b9536a9d-bbb1-4e21-8206-a63b6fa09622",
+        "id": "63c9171b-207b-4f5f-a22f-7010cbdb5397",
         "code": "2150048401",
-        "instructor": "Christophe"
+        "instructor": "Christophe",
+        "department": "College of Law",
+        "major": "Global Law",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "20304",
+        "time_str": "목 12:00-13:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "0fe8b783-96a1-4fab-9fdf-3fe8f52102ba",
+        "id": "bf3ab007-fc89-49c7-a081-46a628581d1e",
         "code": "5022192801",
-        "instructor": "윤준성"
+        "instructor": "윤준성",
+        "department": "College of Information Technology",
+        "major": "Global Media",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "",
+        "times": {}
     },
     {
-        "id": "a6bd1e4c-dc84-4f08-a84d-2c814be66b21",
+        "id": "6a362407-b830-4b98-8668-876c6f121750",
         "code": "2150353501",
-        "instructor": "김인선"
+        "instructor": "김인선",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31201",
+        "time_str": "화 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "0f57862d-9aae-4875-9098-78abd0888fb9",
+        "id": "d01e07ef-8e4d-4f5a-b9a4-9a81b29d737f",
         "code": "2150353502",
-        "instructor": "김인선"
+        "instructor": "김인선",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "20204",
+        "time_str": "화 13:30-14:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "f0939d38-b11e-4502-9e97-0dcbcb055f2f",
+        "id": "282a9569-5d6b-46cb-a7d9-799b24998590",
         "code": "2150405201",
-        "instructor": "최혜린"
+        "instructor": "최혜린",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "31110",
+        "time_str": "월 10:30-11:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "232e5082-ed29-430a-80ea-327720c91832",
+        "id": "01fc532b-dfff-41da-8e44-2180bb1f337d",
         "code": "2150569001",
-        "instructor": "이병문"
+        "instructor": "이병문",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31201",
+        "time_str": "목 10:30-11:45",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "f8cb74a8-84b7-4e6d-a1db-e5216e90497c",
+        "id": "a4ffc0bf-d151-4d59-9b66-6471e39e48f8",
         "code": "2150405401",
-        "instructor": "정지윤"
+        "instructor": "정지윤",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31317",
+        "time_str": "화 목 09:00-10:15",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ]
+        }
     },
     {
-        "id": "a9d0d71d-74ac-4f4e-9088-3d86efb63c49",
+        "id": "54ed2e1f-e299-4629-88fd-cf996a1678d5",
         "code": "2150405402",
-        "instructor": "정지윤"
+        "instructor": "정지윤",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31317",
+        "time_str": "화 목 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "23a933e6-3c26-4b85-b6ed-64361cde696d",
+        "id": "eb433bfb-4be0-4fa7-b2d2-d7f1a09788c4",
         "code": "2150692702",
-        "instructor": "박정준"
+        "instructor": "박정준",
+        "department": "College of Economics & International Commerce",
+        "major": "Global Commerce",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31211",
+        "time_str": "월 10:30-11:45 월 12:00-13:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                },
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "d27c0925-944b-4926-97a8-28942d959315",
+        "id": "2a3d7083-8b97-43ef-b333-ef641f83d5ab",
         "code": "2150426801",
-        "instructor": "Doris"
+        "instructor": "Doris",
+        "department": "College of Natural Sciences",
+        "major": "Physics",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "12311",
+        "time_str": "월 10:30-11:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "947011c3-8afa-4f9f-a182-52d4d1607c78",
+        "id": "9e3b6532-c850-4cb1-ab3a-a48dd595c9fa",
         "code": "2150580401",
-        "instructor": "Doris"
+        "instructor": "Doris",
+        "department": "College of Natural Sciences",
+        "major": "Physics",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "12311",
+        "time_str": "수 09:00-10:15",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                }
+            ]
+        }
     },
     {
-        "id": "8ffede96-e033-4306-bbbb-e4b526b6a700",
+        "id": "447e3701-a229-4163-be76-2af9b5ef806c",
         "code": "2150673801",
-        "instructor": "정성희"
+        "instructor": "정성희",
+        "department": "Baird University College",
+        "major": "Baird College",
+        "classification": null,
+        "year": "ALL",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "월 15:00-16:15 금 16:30-17:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.5,
+                    "end_time": 17.75
+                }
+            ]
+        }
     },
     {
-        "id": "107afb9b-a330-401d-9a08-c66543fc5b81",
+        "id": "8a10a536-292d-4fe3-a6f0-ec3cfc4227ae",
         "code": "2150673802",
-        "instructor": "정성희"
+        "instructor": "정성희",
+        "department": "Baird University College",
+        "major": "Baird College",
+        "classification": null,
+        "year": "ALL",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "화 금 15:00-16:15",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "c0af6c18-c5b5-4e7a-a4b9-130c0bec896f",
+        "id": "6293d858-878f-4ef4-9032-6edebf9b4d06",
         "code": "2150303733",
-        "instructor": "성신형"
+        "instructor": "성신형",
+        "department": "Baird University College",
+        "major": "Baird College",
+        "classification": null,
+        "year": "ALL",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "",
+        "times": {}
     },
     {
-        "id": "e19670ab-688a-4a69-a28d-234ed62df785",
+        "id": "b0461639-570b-403a-a000-a094db6a1f27",
         "code": "2150483601",
-        "instructor": "조문수"
+        "instructor": "조문수",
+        "department": "College of Engineering",
+        "major": "Industrial & Information Systems Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "050116",
+        "time_str": "월 12:00-13:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "193c2a77-c182-40b6-b726-567faf6323ac",
+        "id": "93a6b163-319a-47eb-a1da-7bde2a4cd788",
         "code": "2150483602",
-        "instructor": "조문수"
+        "instructor": "조문수",
+        "department": "College of Engineering",
+        "major": "Industrial & Information Systems Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "050113",
+        "time_str": "화 12:00-13:15",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "e462790a-815e-4e92-8e07-7b6930274bea",
+        "id": "819ac5ec-fe19-4e32-9ccc-e0cf30d5ebef",
         "code": "2150053201",
-        "instructor": "김수동"
+        "instructor": "김수동",
+        "department": "College of Information Technology",
+        "major": "Software Engineering",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "21304",
+        "time_str": "화 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "f444fab0-7888-45e6-b326-d18f0aead39c",
+        "id": "80452d40-3e63-4761-a2d2-651ec2585de2",
         "code": "2150151001",
-        "instructor": "송윤정"
+        "instructor": "송윤정",
+        "department": "College of Natural Sciences",
+        "major": "Mathematics",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "31316",
+        "time_str": "월 12:00-13:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "3093eedc-982e-4f93-a916-f54f43d76fe5",
+        "id": "7f3a7774-26f9-4fb3-8900-a8f09cad8378",
         "code": "2150199401",
-        "instructor": "송윤정"
+        "instructor": "송윤정",
+        "department": "College of Natural Sciences",
+        "major": "Mathematics",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31316",
+        "time_str": "금 12:00-13:15",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "c10ea59a-9dde-427b-b776-eb9ea1fcdae4",
+        "id": "d615cac0-36a5-47a9-92e6-3485c88cb960",
         "code": "2150020601",
-        "instructor": "송윤정"
+        "instructor": "송윤정",
+        "department": "College of Natural Sciences",
+        "major": "Mathematics",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "31316",
+        "time_str": "수 12:00-13:15",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "c885d1c2-00bc-4c36-b9b7-e1427bfe4f4a",
+        "id": "d47b94f7-22d8-4017-8b9a-370204864814",
         "code": "2150466401",
-        "instructor": "박웅기"
+        "instructor": "박웅기",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "12329/12526",
+        "time_str": "화 09:00-10:15 화 10:30-11:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "c4f4e9fd-62df-4615-937f-0d3d2b574300",
+        "id": "91e2a6e9-4521-4ee9-ab98-9b123afa19b6",
         "code": "2150545401",
-        "instructor": "박웅기"
+        "instructor": "박웅기",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "12329/12526",
+        "time_str": "월 09:00-10:15 월 10:30-11:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "b3038c1a-4873-4349-8b01-e356283fc04e",
+        "id": "4b4d0414-cfdb-473f-9ad1-bea7b397d389",
         "code": "2150466402",
-        "instructor": "박웅기"
+        "instructor": "박웅기",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "12329/12526",
+        "time_str": "금 13:30-14:45 금 15:00-16:15",
+        "times": {
+            "4": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                },
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "e03c340b-e6ef-4350-8d9b-ff6cd1db0b31",
+        "id": "17ee615c-d858-42b6-a286-997517725e50",
         "code": "2150619201",
-        "instructor": "김진섭"
+        "instructor": "김진섭",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "",
+        "times": {}
     },
     {
-        "id": "ec0189f3-da41-42b0-85bb-6b53a1ed770c",
+        "id": "6a76a615-33a1-4743-a1b7-fd4208c36343",
         "code": "2150545402",
-        "instructor": "박웅기"
+        "instructor": "박웅기",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "12209/12526",
+        "time_str": "목 13:30-14:45 목 15:00-16:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                },
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "9a67f884-9f03-422e-8895-12a230e9a9ac",
+        "id": "b913a936-ce4c-4c75-9d71-ecf7c2fb226b",
         "code": "2150619401",
-        "instructor": "김진섭"
+        "instructor": "김진섭",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "",
+        "times": {}
     },
     {
-        "id": "c11c10cc-8bc9-449f-89a9-b274e8384e84",
+        "id": "8d9d371a-a7d3-4907-b559-c8ccae2d0157",
         "code": "2150619402",
-        "instructor": "김진섭"
+        "instructor": "김진섭",
+        "department": "College of Social Sciences",
+        "major": "Mass Communication",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": null,
+        "time_str": "",
+        "times": {}
     },
     {
-        "id": "8e0bf554-088d-4870-a364-a708942478db",
+        "id": "84f75da5-1ddf-47b8-989e-63ac6a342e0f",
         "code": "2150569101",
-        "instructor": "James"
+        "instructor": "James",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "07402",
+        "time_str": "화 13:30-14:45",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "7f6ab741-2295-4b5c-bb99-e2fced2009d3",
+        "id": "121dc584-34a5-4557-9c4a-bfd236e913c0",
         "code": "2150542703",
-        "instructor": "Michelle"
+        "instructor": "Michelle",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "3",
+        "credits": 2.0,
+        "location": "07403",
+        "time_str": "목 16:30-17:20 목 17:30-18:20",
+        "times": {
+            "3": [
+                {
+                    "start_time": 16.5,
+                    "end_time": 17.33
+                },
+                {
+                    "start_time": 17.5,
+                    "end_time": 18.33
+                }
+            ]
+        }
     },
     {
-        "id": "fca3dc96-288e-47db-bdc6-d867d7ada9e6",
+        "id": "4d2c91d8-c1a9-45ef-aff1-46a8b449b445",
         "code": "2150529302",
-        "instructor": "James"
+        "instructor": "James",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "2",
+        "credits": 2.0,
+        "location": "07402",
+        "time_str": "월 13:30-14:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.33
+                }
+            ]
+        }
     },
     {
-        "id": "7f712281-3a05-4192-8bb3-c1816e1de6c2",
+        "id": "e18f8e5e-7f5d-450d-9cb6-ee78ab9efb04",
         "code": "2150542701",
-        "instructor": "Michelle"
+        "instructor": "Michelle",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "3",
+        "credits": 2.0,
+        "location": "07403",
+        "time_str": "목 10:30-11:20 목 11:30-12:20",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.33
+                },
+                {
+                    "start_time": 11.5,
+                    "end_time": 12.33
+                }
+            ]
+        }
     },
     {
-        "id": "4970b990-23c0-4fb2-ad4b-f4606146094a",
+        "id": "fb0b578a-39c2-4c98-a354-ff46ba38675a",
         "code": "2150529301",
-        "instructor": "James"
+        "instructor": "James",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "2",
+        "credits": 2.0,
+        "location": "07402",
+        "time_str": "월 12:00-12:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 12.83
+                }
+            ]
+        }
     },
     {
-        "id": "7bfb6063-2dde-4072-9df6-8d6c5e5a978f",
+        "id": "e8cd25a1-40b1-4d0d-849e-8d119e2fba15",
         "code": "2150529303",
-        "instructor": "James"
+        "instructor": "James",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "2",
+        "credits": 2.0,
+        "location": "07402",
+        "time_str": "화 12:00-12:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 12.83
+                }
+            ]
+        }
     },
     {
-        "id": "978ee1da-53ec-48ee-9f93-17c3f262b1ff",
+        "id": "5a178ef6-4d4e-4e8e-b84d-607766de73ec",
         "code": "2150542702",
-        "instructor": "Michelle"
+        "instructor": "Michelle",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "3",
+        "credits": 2.0,
+        "location": "07403",
+        "time_str": "목 13:30-14:20 목 14:30-15:20",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.33
+                },
+                {
+                    "start_time": 14.5,
+                    "end_time": 15.33
+                }
+            ]
+        }
     },
     {
-        "id": "34e509db-f4dc-49ca-a37d-c664260530be",
+        "id": "6342be4e-6e85-4173-be7a-ba31bbbafd09",
         "code": "2150665601",
-        "instructor": "Michelle"
+        "instructor": "Michelle",
+        "department": "College of Humanities",
+        "major": "English Language & Literature",
+        "classification": null,
+        "year": "ALL",
+        "credits": 3.0,
+        "location": "07403",
+        "time_str": "화 12:00-13:15 금 12:00-13:15",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "ea5bdb7b-31ff-43c8-a3d4-d64d8dede3f4",
+        "id": "ced4c241-f134-4782-87fc-558c8bbeb529",
         "code": "2150197003",
-        "instructor": "Ashraf"
+        "instructor": "Ashraf",
+        "department": "College of Engineering",
+        "major": "Electrical Engineering",
+        "classification": null,
+        "year": "2",
+        "credits": 3.0,
+        "location": "03208",
+        "time_str": "목 15:00-16:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "aa8e44d5-e658-4558-9d47-c20fab92a091",
+        "id": "a67738f0-9ed1-4149-b30e-b3e0d0d5de9f",
         "code": "2150536802",
-        "instructor": "유광복"
+        "instructor": "유광복",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in IT Convergence",
+        "classification": null,
+        "year": "1",
+        "credits": 3.0,
+        "location": "03111/05B109",
+        "time_str": "월 12:00-13:15 목 16:30-17:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.5,
+                    "end_time": 17.75
+                }
+            ]
+        }
     },
     {
-        "id": "83966fb1-0808-4c52-8584-1bfddb774065",
+        "id": "b3f82e42-99b8-4328-bdbe-63ef05289d4d",
         "code": "2150536803",
-        "instructor": "유광복"
+        "instructor": "유광복",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in IT Convergence",
+        "classification": null,
+        "year": "1",
+        "credits": 3.0,
+        "location": "03111/03314",
+        "time_str": "월 13:30-14:45 목 15:00-16:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "54cae01d-b6f4-46b3-ad2c-bf4061cb58c9",
+        "id": "1fa9e97d-c19d-495c-9a3c-a69201462869",
         "code": "2150349401",
-        "instructor": "박재영"
+        "instructor": "박재영",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in Electronic Engineering",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "050102",
+        "time_str": "월 13:30-14:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     },
     {
-        "id": "1488bcf2-3ec1-4370-8faa-5c4e62187843",
+        "id": "d0473e94-e46d-41ba-aef8-2eb7f4998036",
         "code": "2150557601",
-        "instructor": "유광복"
+        "instructor": "유광복",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in Electronic Engineering",
+        "classification": null,
+        "year": "4",
+        "credits": 3.0,
+        "location": "20405",
+        "time_str": "수 12:00-13:15",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "296c2258-d97e-4e91-90fb-b376e8d55836",
+        "id": "a57ec7f6-adf3-46ec-ba7e-68f645982130",
         "code": "2150189701",
-        "instructor": "유광복"
+        "instructor": "유광복",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in Electronic Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "20405",
+        "time_str": "목 12:00-13:15",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                }
+            ]
+        }
     },
     {
-        "id": "3c0db126-cbae-4151-81f3-547e3914e876",
+        "id": "0ac33a39-a4f7-4cb7-8e8c-4167d3050ce0",
         "code": "2150025002",
-        "instructor": "박재영"
+        "instructor": "박재영",
+        "department": "College of Information Technology",
+        "major": "School of Electronic and Information Engineering, Major in Electronic Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "050102",
+        "time_str": "월 15:00-16:15",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.25
+                }
+            ]
+        }
     },
     {
-        "id": "c8c8e5c2-e9d9-460a-a3cd-5d9cea1fee5d",
+        "id": "039ea237-a503-4f17-9951-5a753ea69df6",
         "code": "2150609101",
-        "instructor": "최봉준"
+        "instructor": "최봉준",
+        "department": "College of Information Technology",
+        "major": "Computer Science and Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "21201",
+        "time_str": "수 09:00-10:15 수 10:30-11:45",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "79bba333-b2ee-43d3-b3d8-abaf3d4cb75c",
+        "id": "e3e7f0c4-b025-4f76-8575-d138c0e7dcbf",
         "code": "2150630801",
-        "instructor": "최봉준"
+        "instructor": "최봉준",
+        "department": "College of Information Technology",
+        "major": "Computer Science and Engineering",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "21201",
+        "time_str": "월 09:00-10:15 월 10:30-11:45",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.25
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.75
+                }
+            ]
+        }
     },
     {
-        "id": "97123d95-063a-46a3-bb05-8472c5b25948",
+        "id": "a75b4095-5167-47b7-b502-d7b31f6c8e94",
         "code": "2150544901",
-        "instructor": "최성우"
+        "instructor": "최성우",
+        "department": "College of Social Sciences",
+        "major": "Lifelong Education",
+        "classification": null,
+        "year": "3",
+        "credits": 3.0,
+        "location": "12427",
+        "time_str": "목 12:00-13:15 목 13:30-14:45",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.25
+                },
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.75
+                }
+            ]
+        }
     }
 ]

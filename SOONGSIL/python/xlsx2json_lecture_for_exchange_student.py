@@ -1,35 +1,8 @@
-from timestr2dict import time_dict
+from soongsil_modules import time_dict, convert_time, convert_location
 
 import simplejson as json
 import uuid
 import xlrd
-
-def convert_location(time):
-    result = ''
-    time = time.split()
-
-    temp = []
-    for element in time :
-        if '(' in element :
-            temp.append(element[1:-1])
-
-    if len(temp) == 1:
-        result = temp[0].split('-')[0]
-        if result is not '':
-            return result
-        else :
-            return None
-
-    for element in temp:
-        element = element.split('-')[0]
-        if element == '':
-            continue
-        result = result + element + '/'
-
-    if result == '':
-        return None
-    else :
-        return result[:-1]
 
 def init():
     wb = xlrd.open_workbook('../xlsx/2020-2_20200814.xlsx')
@@ -67,16 +40,17 @@ def init():
         dic['year'] = None
 
         # credits
-        dic['credits'] = 3.0
+        dic['credits'] = float(row_value[2])
 
         # location
         dic['location'] = convert_location(row_value[6])
 
         # times_str
-        dic['times_str'] = row_value[6]
+        dic['times_str'] = convert_time(row_value[6])
 
         # times
-        #
+        dic['times'] = time_dict(row_value[6])
+
 
         data_list.append(dic)
 

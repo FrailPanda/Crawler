@@ -7,7 +7,7 @@ import time
 import csv
 
 # Setting
-f = open('./xlsx/korean/korean_output.csv', 'w', encoding='utf-8-sig', newline='')
+f = open('./xlsx/korean/korean_output.xlsx', 'w', encoding='utf-8-sig', newline='')
 wr = csv.writer(f)
 
 driver = webdriver.Chrome('C:\chromedriver_win32\chromedriver.exe')
