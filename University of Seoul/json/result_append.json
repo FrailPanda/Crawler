@@ -1,0 +1,2222 @@
+﻿[
+    {
+        "id": "f1f5c1a2-e2d7-44f0-84de-3fee86cd8c97",
+        "code": "41644-01",
+        "instructor": "마크 브로사",
+        "department": "도시과학대학",
+        "title": "Architectural Design Ⅳ",
+        "major": "Architecture",
+        "classification": "전공필수",
+        "year": "3",
+        "credits": 6.0,
+        "time_str": "화06,07,08,09,10/건축설계실6, 금06,07,08,09,10/건축설계실6",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ]
+        },
+        "location": "건축설계실6"
+    },
+    {
+        "id": "65870d7f-5dfc-4dea-9784-a694d7b29da2",
+        "code": "41644-02",
+        "instructor": "이호락",
+        "department": "도시과학대학",
+        "title": "Architectural Design Ⅳ",
+        "major": "Architecture",
+        "classification": "전공필수",
+        "year": "3",
+        "credits": 6.0,
+        "time_str": "화06,07,08,09,10/건축설계실7, 금06,07,08,09,10/건축설계실7",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ]
+        },
+        "location": "건축설계실7"
+    },
+    {
+        "id": "5b8b610a-5e11-4a06-b7ca-999f037b7b8c",
+        "code": "41644-03",
+        "instructor": "장수정",
+        "department": "도시과학대학",
+        "title": "Architectural Design Ⅳ",
+        "major": "Architecture",
+        "classification": "전공필수",
+        "year": "3",
+        "credits": 6.0,
+        "time_str": "화06,07,08,09,10/건축설계실8, 금06,07,08,09,10/건축설계실8",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 19.0
+                }
+            ]
+        },
+        "location": "건축설계실8"
+    },
+    {
+        "id": "9b26e679-969e-4b84-9337-47d184578930",
+        "code": "41623-01",
+        "instructor": "유혜란",
+        "department": "도시과학대학",
+        "title": "Design and Structure",
+        "major": "Architecture",
+        "classification": "전공필수",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "월02,03,04/3-207/208",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "3-207/208"
+    },
+    {
+        "id": "7239fce5-6ffd-4195-97bf-b0e1b44cb20c",
+        "code": "41648-01",
+        "instructor": "송인호",
+        "department": "도시과학대학",
+        "title": "Architectural Design VII",
+        "major": "Architecture",
+        "classification": "전공선택",
+        "year": "5",
+        "credits": 4.0,
+        "time_str": "월06,07,08,09/건축설계실2, 목06,07,08,09/건축설계실2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "건축설계실2"
+    },
+    {
+        "id": "4891eaa4-7ef2-4017-8936-388789b7cfc9",
+        "code": "41648-02",
+        "instructor": "김성홍",
+        "department": "도시과학대학",
+        "title": "Architectural Design VII",
+        "major": "Architecture",
+        "classification": "전공선택",
+        "year": "5",
+        "credits": 4.0,
+        "time_str": "월06,07,08,09/건축설계실3, 목06,07,08,09/건축설계실3",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "건축설계실3"
+    },
+    {
+        "id": "84526175-ff54-4562-8451-8979ce2ac87d",
+        "code": "41648-03",
+        "instructor": "김소라",
+        "department": "도시과학대학",
+        "title": "Architectural Design VII",
+        "major": "Architecture",
+        "classification": "전공선택",
+        "year": "5",
+        "credits": 4.0,
+        "time_str": "월06,07,08,09/건축설계실4, 목06,07,08,09/건축설계실4",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "건축설계실4"
+    },
+    {
+        "id": "b9c34e2a-cf52-45eb-b3c8-1cecc3fbbce2",
+        "code": "27002-01",
+        "instructor": "박종찬",
+        "department": "경영대학",
+        "title": "Accounting Principles",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월02,03,04/33-1209",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-1209"
+    },
+    {
+        "id": "8e684743-1d2b-4755-bafc-1d47d34b5ceb",
+        "code": "27002-02",
+        "instructor": "김종겸",
+        "department": "경영대학",
+        "title": "Accounting Principles",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화02,03,04/33-B107",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B107"
+    },
+    {
+        "id": "8b30d1cb-06c6-43db-aa6a-569e9bfde50b",
+        "code": "27002-03",
+        "instructor": "정주렴",
+        "department": "경영대학",
+        "title": "Accounting Principles",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월06,07,08/33-B111",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B111"
+    },
+    {
+        "id": "dec9b024-cd56-402a-a1cf-cf52a610d537",
+        "code": "27002-04",
+        "instructor": "임석식",
+        "department": "경영대학",
+        "title": "Accounting Principles",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월02,03,04/33-B112",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "5096133a-3958-4e21-8768-8b8527c6c9b6",
+        "code": "27002-05",
+        "instructor": "이세중",
+        "department": "경영대학",
+        "title": "Accounting Principles",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목06,07,08/33-B107",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B107"
+    },
+    {
+        "id": "6e7300b1-89de-419c-bfe7-b76cf5a6e708",
+        "code": "27102-01",
+        "instructor": "송지희",
+        "department": "경영대학",
+        "title": "Consumer Behavior",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "화07,08,09/33-B106",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "33-B106"
+    },
+    {
+        "id": "73f2d5df-1e87-434e-ae92-fea2830c384a",
+        "code": "27102-02",
+        "instructor": "황인석",
+        "department": "경영대학",
+        "title": "Consumer Behavior",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "목02,03,04/33-B202",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "f73a19d2-9669-48d1-8ddf-876690e5fce7",
+        "code": "27102-03",
+        "instructor": "송지희",
+        "department": "경영대학",
+        "title": "Consumer Behavior",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "토05,06,07/33-B202",
+        "times": {
+            "5": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "659794e3-11e4-4c00-b38f-2f63c4e832a6",
+        "code": "27301-01",
+        "instructor": "박종원",
+        "department": "경영대학",
+        "title": "Financial Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화06,07,08/33-B202",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "48ffaaf1-9ae2-4fef-a1c3-903d76a4caa0",
+        "code": "27301-02",
+        "instructor": "박종원",
+        "department": "경영대학",
+        "title": "Financial Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목06,07,08/33-B202",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "551dd772-0c7d-4613-8c47-21df1be9b3eb",
+        "code": "27301-03",
+        "instructor": "정병욱",
+        "department": "경영대학",
+        "title": "Financial Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월07,08,09/33-B112",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "2a2479c7-6f3a-4f35-ae28-3fdb80acdeaf",
+        "code": "27302-01",
+        "instructor": "김정민",
+        "department": "경영대학",
+        "title": "Investment Theory",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "목02,03,04/33-B110",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B110"
+    },
+    {
+        "id": "e3616474-0ece-4403-81d9-c9964f11efd6",
+        "code": "27302-02",
+        "instructor": "김정민",
+        "department": "경영대학",
+        "title": "Investment Theory",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "목06,07,08/33-406",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-406"
+    },
+    {
+        "id": "8fa44407-0050-45be-bdbd-9849a4e1659a",
+        "code": "27906-01",
+        "instructor": "정창영",
+        "department": "경영대학",
+        "title": "Global Business",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화02,03,04/33-B112",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "3214bd86-eb81-4f71-99d9-9161d9f36d46",
+        "code": "27906-02",
+        "instructor": "정창영",
+        "department": "경영대학",
+        "title": "Global Business",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목02,03,04/33-B112",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "1c32c53a-9693-47ae-b2cb-46d649ba31da",
+        "code": "27906-03",
+        "instructor": "표민찬",
+        "department": "경영대학",
+        "title": "Global Business",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월06,07,08/33-B105",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B105"
+    },
+    {
+        "id": "8595baae-db12-439e-92c0-a6977e4a174e",
+        "code": "27906-04",
+        "instructor": "김자영",
+        "department": "경영대학",
+        "title": "Global Business",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화02,03,04/33-B106",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B106"
+    },
+    {
+        "id": "e04cf37c-74c3-48bc-9f2a-445843d83493",
+        "code": "27907-01",
+        "instructor": "정창영",
+        "department": "경영대학",
+        "title": "Global Financial",
+        "major": "Business Administration",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "금02,03,04/33-B112",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "b3c20663-08a9-4a7d-93a8-e586962fd96a",
+        "code": "27407-01",
+        "instructor": "류준열",
+        "department": "경영대학",
+        "title": "Human Resource Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월02,03,04/33-B202",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "a1625379-1a18-4521-9de3-4a1ebbc59d94",
+        "code": "27407-02",
+        "instructor": "류준열",
+        "department": "경영대학",
+        "title": "Human Resource Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월06,07,08/33-B202",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B202"
+    },
+    {
+        "id": "8d0d76c7-5bc6-4f23-a62d-5bb87ec1b049",
+        "code": "27407-03",
+        "instructor": "이춘우",
+        "department": "경영대학",
+        "title": "Human Resource Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화01,02,03/33-B203",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "33-B203"
+    },
+    {
+        "id": "ad277c70-d45c-4ace-bccc-e898b11ad362",
+        "code": "27407-04",
+        "instructor": "장재규",
+        "department": "경영대학",
+        "title": "Human Resource Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수06,07,08/33-B105",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "33-B105"
+    },
+    {
+        "id": "fa358074-6a31-4f3e-914b-5b1c0ab20a9e",
+        "code": "27105-01",
+        "instructor": "",
+        "department": "경영대학",
+        "title": "Marketing Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월02,03,04/33-B106",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B106"
+    },
+    {
+        "id": "b1224c37-3f53-4825-9578-8d3e9b7a1cad",
+        "code": "27105-02",
+        "instructor": "황인석",
+        "department": "경영대학",
+        "title": "Marketing Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수02,03,04/33-B112",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B112"
+    },
+    {
+        "id": "cc7e8091-cbd1-4301-8da9-6b3e660696c6",
+        "code": "27105-03",
+        "instructor": "홍중완",
+        "department": "경영대학",
+        "title": "Marketing Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수01,02,03/33-B203",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "33-B203"
+    },
+    {
+        "id": "7732104b-8403-4c7d-928d-8cdef3b4f9e2",
+        "code": "27105-04",
+        "instructor": "허다경",
+        "department": "경영대학",
+        "title": "Marketing Management",
+        "major": "Business Administration",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목02,03,04/33-B107",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B107"
+    },
+    {
+        "id": "630fee1b-3fda-4cba-aedd-a8ca92bac9af",
+        "code": "65048-01",
+        "instructor": "강설금",
+        "department": "인문대학",
+        "title": "Chinese Conversation in Advanced Level 2",
+        "major": "Chinese Language and Culture",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "월02,03,04/5-301-2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "5-301-2"
+    },
+    {
+        "id": "f6108926-4f7e-4f74-b0f7-914fa29c2716",
+        "code": "65029-01",
+        "instructor": "강설금",
+        "department": "인문대학",
+        "title": "Current Issues on Contemporary China",
+        "major": "Chinese Language and Culture",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "월08,09/5-301-2, 수05/5-301-2",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "5-301-2"
+    },
+    {
+        "id": "69b46be2-328f-4445-ab04-72ad01ba2347",
+        "code": "65064-01",
+        "instructor": "강설금",
+        "department": "인문대학",
+        "title": "Chinese Conversation in Intermediate Level Ⅱ",
+        "major": "Chinese Language and Culture",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목02,03,04/5-301-2",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "5-301-2"
+    },
+    {
+        "id": "725390d6-db78-4da5-9b3a-02fd86d303ea",
+        "code": "71002-01",
+        "instructor": "김성환",
+        "department": "공과대학",
+        "title": "C Programming Language",
+        "major": "Computer Science and Engineering",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화01,02/19-326/327, 금05,06/19-326/327",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "19-326/327"
+    },
+    {
+        "id": "465610fb-e7f4-44d9-b926-24ada4bac2d4",
+        "code": "71002-02",
+        "instructor": "김성환",
+        "department": "공과대학",
+        "title": "C Programming Language",
+        "major": "Computer Science and Engineering",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화05,06/19-326/327, 금08,09/19-326/327",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-326/327"
+    },
+    {
+        "id": "b16c4234-a4b0-45d4-b9dd-9718b607be03",
+        "code": "71002-03",
+        "instructor": "김성환",
+        "department": "공과대학",
+        "title": "C Programming Language",
+        "major": "Computer Science and Engineering",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화08,09/19-326/327, 금01,02/19-326/327",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.0
+                }
+            ]
+        },
+        "location": "19-326/327"
+    },
+    {
+        "id": "46e6f6fa-e825-4f9b-8ac7-7edbc3f2e50f",
+        "code": "28004-01",
+        "instructor": "최경욱",
+        "department": "정경대학",
+        "title": "Macroconomics",
+        "major": "Economics",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화07,08,09/33-B104",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "33-B104"
+    },
+    {
+        "id": "3acf1a46-89f4-43c7-a73a-f0be385c71e1",
+        "code": "28004-02",
+        "instructor": "정용국",
+        "department": "정경대학",
+        "title": "Macroconomics",
+        "major": "Economics",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목01,02,03/33-B104",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "33-B104"
+    },
+    {
+        "id": "d5edc0e3-d0b3-4c18-a6e7-8fa2c311a0c8",
+        "code": "28133-01",
+        "instructor": "김진용",
+        "department": "정경대학",
+        "title": "Financial Economics",
+        "major": "Economics",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "월02,03,04/33-B104",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B104"
+    },
+    {
+        "id": "5831d531-be02-45fa-8655-4fc6178778d7",
+        "code": "28144-01",
+        "instructor": "",
+        "department": "정경대학",
+        "title": "Advanced Microeconomics",
+        "major": "Economics",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "월03,04/33-B101, 수04/33-B101",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "end_time": 13.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "33-B101"
+    },
+    {
+        "id": "9f4a433a-163a-4066-9c4e-72c40aa3a6f3",
+        "code": "40087-01",
+        "instructor": "최병기",
+        "department": "공과대학",
+        "title": "Artificial intelligence",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "목01,02,03/19-B114/115",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "19-B114/115"
+    },
+    {
+        "id": "cce0608b-ff86-41ee-ac9e-9c916f868454",
+        "code": "35092-01",
+        "instructor": "김영길",
+        "department": "공과대학",
+        "title": "Digital communication",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "금07,08,09/19-B114/115",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-B114/115"
+    },
+    {
+        "id": "d776770d-f6a3-45e5-9d4a-44356bec9667",
+        "code": "35092-02",
+        "instructor": "장석진",
+        "department": "공과대학",
+        "title": "Digital communication",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "화07,08,09/19-227",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-227"
+    },
+    {
+        "id": "a4b1f953-abd8-464e-ad7e-34a994b57bce",
+        "code": "40070-01",
+        "instructor": "김용한",
+        "department": "공과대학",
+        "title": "Digital signal processing",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "화02,03/19-B114/115, 금05/19-B114/115",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 12.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "19-B114/115"
+    },
+    {
+        "id": "e292fd98-44a9-4274-b227-b553f85a628a",
+        "code": "40070-02",
+        "instructor": "장석진",
+        "department": "공과대학",
+        "title": "Digital signal processing",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "수07,08,09/19-227",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-227"
+    },
+    {
+        "id": "fd6a89c8-a43e-44d7-ac39-74bfe7a3c6e3",
+        "code": "40070-03",
+        "instructor": "김인철",
+        "department": "공과대학",
+        "title": "Digital signal processing",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "화05,06/19-227, 금05/19-227",
+        "times": {
+            "1": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "19-227"
+    },
+    {
+        "id": "ef549046-6feb-4169-981d-70dd74af2199",
+        "code": "40059-01",
+        "instructor": "천창률",
+        "department": "공과대학",
+        "title": "Electromagnetic Field 1",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월07,08,09/19-B114/115",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-B114/115"
+    },
+    {
+        "id": "06934431-4be2-4fd3-8e8b-2512a70136e1",
+        "code": "40059-02",
+        "instructor": "김철한",
+        "department": "공과대학",
+        "title": "Electromagnetic Field 1",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월02,03,04/19-108/109",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "19-108/109"
+    },
+    {
+        "id": "b515edc3-3edf-4f02-bff3-77909106ef61",
+        "code": "30010-04",
+        "instructor": "안도열",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수07,08,09/19-B114/115",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "19-B114/115"
+    },
+    {
+        "id": "04e737c0-ba65-4c5c-bc05-b8a36c2d48b8",
+        "code": "30010-05",
+        "instructor": "김현우",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목01,02,03/19-B108",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "19-B108"
+    },
+    {
+        "id": "dc677076-d50c-444d-854a-2b1c6510ae2d",
+        "code": "30010-08",
+        "instructor": "김효",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목05,06/11-501/502, 금03/11-501/502",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 11.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "11-501/502"
+    },
+    {
+        "id": "aa74b9d5-af62-4faf-bdb7-ea87d272f690",
+        "code": "30010-03",
+        "instructor": "남궁정일",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수01,02,03/14-414/415",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "14-414/415"
+    },
+    {
+        "id": "6367dbc8-0296-4157-81cd-489879880750",
+        "code": "30010-09",
+        "instructor": "남궁정일",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수05,06,07/14-316/317",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "14-316/317"
+    },
+    {
+        "id": "678d4717-f73b-4bd8-8468-bef2b79e2fc0",
+        "code": "30010-02",
+        "instructor": "박지영",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수02,03,04/37-나601",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "37-나601"
+    },
+    {
+        "id": "bd3e0e31-331d-4057-bacf-e485845f70d6",
+        "code": "30010-01",
+        "instructor": "김대홍",
+        "department": "공과대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수02,03,04/3-303/304",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "3-303/304"
+    },
+    {
+        "id": "464dd6cf-b1e7-45cd-a519-7762e4ba5688",
+        "code": "30010-06",
+        "instructor": "윤미",
+        "department": "도시과학대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "금01,02,03/4-411~412",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "4-411~412"
+    },
+    {
+        "id": "0259779d-4c25-4b3b-88e8-d999b54b572c",
+        "code": "30010-07",
+        "instructor": "윤미",
+        "department": "도시과학대학",
+        "title": "engineering mathematicsⅡ",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "금04,05,06/4-411~412",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "4-411~412"
+    },
+    {
+        "id": "7943f375-abae-49e3-b2a0-84e9e1146c04",
+        "code": "30033-01",
+        "instructor": "이용우",
+        "department": "공과대학",
+        "title": "Computer Networks",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "4",
+        "credits": 3.0,
+        "time_str": "수05,06/19-104/105, 목04/19-104/105",
+        "times": {
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "19-104/105"
+    },
+    {
+        "id": "9878bdde-24a3-4211-924f-04996c886146",
+        "code": "30033-02",
+        "instructor": "이용우",
+        "department": "공과대학",
+        "title": "Computer Networks",
+        "major": "Electrical and Computer Engineering",
+        "classification": "전공선택",
+        "year": "4",
+        "credits": 3.0,
+        "time_str": "수08,09/19-104/105, 목06/19-104/105",
+        "times": {
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "19-104/105"
+    },
+    {
+        "id": "709963e0-f19c-49cc-ae44-177eccb356fb",
+        "code": "51068-01",
+        "instructor": "강선미",
+        "department": "인문대학",
+        "title": "English Phonetics",
+        "major": "English Language and Literature",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "수06,07,08/5-310-2",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "5-310-2"
+    },
+    {
+        "id": "fc6ae23e-4ada-4377-be73-b705c52460ab",
+        "code": "51083-01",
+        "instructor": "임자연",
+        "department": "인문대학",
+        "title": "English as a Global Language",
+        "major": "English Language and Literature",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화02,03,04/5-309",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "5-309"
+    },
+    {
+        "id": "3d91ac62-93c9-41c3-abf3-f004d68652cb",
+        "code": "51201-01",
+        "instructor": "Aaron Jones",
+        "department": "인문대학",
+        "title": "English Presentation and Discussion",
+        "major": "English Language and Literature",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "목05,06,07/5-202",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "5-202"
+    },
+    {
+        "id": "9b5615c2-49d3-452c-9444-b62c6676a188",
+        "code": "51071-01",
+        "instructor": "홍수민",
+        "department": "인문대학",
+        "title": "English Syntax",
+        "major": "English Language and Literature",
+        "classification": "전공선택",
+        "year": "3/4",
+        "credits": 3.0,
+        "time_str": "목05,06/5-308, 금04/5-308",
+        "times": {
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.0
+                }
+            ]
+        },
+        "location": "5-308"
+    },
+    {
+        "id": "4d21d0af-9eb0-49d6-8fc0-59cd7f586c4b",
+        "code": "85037-01",
+        "instructor": "이강재",
+        "department": "도시과학대학",
+        "title": "Geographic Information SystemⅠ",
+        "major": "Geoinformatics",
+        "classification": "전공필수",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월02,03/15-501/502, 수02,03/15-607/608",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 12.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "15-501/502, 15-607/608"
+    },
+    {
+        "id": "c76b10db-770c-474a-b825-262a84a48960",
+        "code": "85872-01",
+        "instructor": "권재현",
+        "department": "도시과학대학",
+        "title": "Global Navigation Satellite System (GNSS) II",
+        "major": "Geoinformatics",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "월05,06/15-605/606, 화02,03/15-605/606",
+        "times": {
+            "0": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "15-605/606"
+    },
+    {
+        "id": "cf4de3a4-e502-4e8e-a353-965069abe939",
+        "code": "90001-01",
+        "instructor": "강병헌",
+        "department": "국제교육원(학사)",
+        "title": "Special Topics in Korean Studies",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "수04,05,06/1-208",
+        "times": {
+            "2": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "113318da-7f82-4225-aa9d-5d93f82882a3",
+        "code": "90002-01",
+        "instructor": "강병헌",
+        "department": "국제교육원(학사)",
+        "title": "Korean History",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "금07,08,09/1-208",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "a528a8e0-da1c-4f73-8bd0-57e14dd22694",
+        "code": "90003-01",
+        "instructor": "강병헌",
+        "department": "국제교육원(학사)",
+        "title": "Korean Tradition and Culture",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목04,05,06/1-208",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "d69c5049-d7cd-4a62-a5be-e5e5154e48dd",
+        "code": "90004-01",
+        "instructor": "이병하",
+        "department": "국제교육원(학사)",
+        "title": "Korean Politics and Society",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월07,08,09/1-208",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "8bebf7e7-da1e-498c-85a0-2f6edb6b2164",
+        "code": "90006-01",
+        "instructor": "장원호",
+        "department": "국제교육원(학사)",
+        "title": "Mass Media and Popular Culture in Korean",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목07,08,09/1-208",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "c36251a9-8530-4b30-8bab-1849254f13bb",
+        "code": "90007-01",
+        "instructor": "이주헌",
+        "department": "국제교육원(학사)",
+        "title": "Korea and Globalization",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화07,08,09/1-208",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "64d9eca5-c848-4f65-b3fa-2668a7c2eee3",
+        "code": "90009-01",
+        "instructor": "강병헌",
+        "department": "국제교육원(학사)",
+        "title": "East Asian History",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화04,05,06/1-208",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "8e5a0fa5-f983-4ce8-8f0e-e0c4fd56af93",
+        "code": "90010-01",
+        "instructor": "강병헌",
+        "department": "국제교육원(학사)",
+        "title": "Economic Development in East Asia",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월04,05,06/1-208",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "a2c9d97a-3e0a-4717-80d1-6548565faedf",
+        "code": "90203-01",
+        "instructor": "박준",
+        "department": "국제교육원(학사)",
+        "title": "Urban Economics and policy",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목01,02,03/1-208",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "7f16f4c5-0185-4433-86b8-2d8aa695d1e8",
+        "code": "90205-01",
+        "instructor": "황지환",
+        "department": "국제교육원(학사)",
+        "title": "Politics and Diplomacy of the two Koreas",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "수07,08,09/1-208",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "14000a05-ce40-4f26-bf41-d1941119624f",
+        "code": "90206-01",
+        "instructor": "김융기",
+        "department": "국제교육원(학사)",
+        "title": "Special Topics in Global Business",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목07,08,09/1-210",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-210"
+    },
+    {
+        "id": "e27fd752-a887-40c7-877a-b9b2f7e77b73",
+        "code": "90207-01",
+        "instructor": "김융기",
+        "department": "국제교육원(학사)",
+        "title": "Global Marketing Management",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "금01,02,03/1-210",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "1-210"
+    },
+    {
+        "id": "07cd98c6-9537-4bf4-9249-11cf78d744ca",
+        "code": "90210-01",
+        "instructor": "이주경",
+        "department": "국제교육원(학사)",
+        "title": "Pronunciation of Korean and its Application",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "화06,07,08/1-306",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "1-306"
+    },
+    {
+        "id": "d02e87dc-ef88-4ba6-b887-87ca53d5d107",
+        "code": "90211-01",
+        "instructor": "박정원",
+        "department": "국제교육원(학사)",
+        "title": "Introduction to International Law",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "금01,02,03/1-208",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 12.0
+                }
+            ]
+        },
+        "location": "1-208"
+    },
+    {
+        "id": "3324bec9-60cc-44d5-9504-d9fa9c7ec2fb",
+        "code": "90214-01",
+        "instructor": "진주연",
+        "department": "국제교육원(학사)",
+        "title": "Lifetime Physical Activity I",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "목04,05,06/1-210",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "1-210"
+    },
+    {
+        "id": "9df95fa0-b943-4c9f-9edb-5d3c0b98d594",
+        "code": "90217-01",
+        "instructor": "김융기",
+        "department": "국제교육원(학사)",
+        "title": "Special Issues in Business and Financial Accounting",
+        "major": "IICE",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "수07,08,09/1-210",
+        "times": {
+            "2": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "1-210"
+    },
+    {
+        "id": "814cce7c-9828-4ddd-99b7-455d39689b65",
+        "code": "53404-01",
+        "instructor": "배우성",
+        "department": "인문대학",
+        "title": "Korean History in English",
+        "major": "Korean History",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월06,07,08/5-430",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "5-430"
+    },
+    {
+        "id": "69984020-e7d7-4ef7-a43f-1be1a7d92eba",
+        "code": "39103-01",
+        "instructor": "홍완식",
+        "department": "공과대학",
+        "title": "Engineering and Computer II",
+        "major": "Materials Science and Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월09/4-230, 목05,06/4-230",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 15.0
+                }
+            ]
+        },
+        "location": "4-230"
+    },
+    {
+        "id": "c0b15d1d-04e9-43d4-8e66-54bca2d0e759",
+        "code": "39103-02",
+        "instructor": "홍완식",
+        "department": "공과대학",
+        "title": "Engineering and Computer II",
+        "major": "Materials Science and Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "월07/4-230, 목08,09/4-230",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "4-230"
+    },
+    {
+        "id": "ade49f0b-2950-4337-8edb-5f7eed5d1b79",
+        "code": "39067-01",
+        "instructor": "정재필",
+        "department": "공과대학",
+        "title": "Metallic Materials",
+        "major": "Materials Science and Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "월03,06/14-613, 수05/14-613",
+        "times": {
+            "0": [
+                {
+                    "start_time": 11.0,
+                    "end_time": 15.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 13.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "14-613"
+    },
+    {
+        "id": "b17e2dfa-c7d1-4d1f-9230-0c4e3f8f821c",
+        "code": "39053-01",
+        "instructor": "정재필",
+        "department": "공과대학",
+        "title": "Mechanical Metallurgy",
+        "major": "Materials Science and Engineering",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "월07,08/14-613, 수09/14-613",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 17.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "14-613"
+    },
+    {
+        "id": "05e76bd9-ca23-4c09-bced-23c9a13e657c",
+        "code": "39044-01",
+        "instructor": "홍완식",
+        "department": "공과대학",
+        "title": "Thermodynamics of Materials",
+        "major": "Materials Science and Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화04/37-나602, 금06,07/37-나602",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.0
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "37-나602"
+    },
+    {
+        "id": "19a7e556-78d1-4911-8412-82b3d7638c0b",
+        "code": "38007-01",
+        "instructor": "권원태",
+        "department": "공과대학",
+        "title": "Manufacturing Process",
+        "major": "Mechanical and Information Engineering",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화08,09/14-316/317, 수08,09/14-414/415",
+        "times": {
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "14-414/415, 14-316/317"
+    },
+    {
+        "id": "a5aaec9c-75f0-4c20-88e1-d029da7f79a6",
+        "code": "45040-01",
+        "instructor": "정재일",
+        "department": "자연과학대학",
+        "title": "Physics and Computer II",
+        "major": "Physics",
+        "classification": "전공선택",
+        "year": "1",
+        "credits": 3.0,
+        "time_str": "월08,09/14-110/111, 화08,09/14-110/111",
+        "times": {
+            "0": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 16.0,
+                    "end_time": 18.0
+                }
+            ]
+        },
+        "location": "14-110/111"
+    },
+    {
+        "id": "70137503-eee8-4dbb-b253-88a60bcba3ff",
+        "code": "45117-01",
+        "instructor": "이상훈",
+        "department": "자연과학대학",
+        "title": "Visualization and Physics",
+        "major": "Physics",
+        "classification": "전공선택",
+        "year": "3",
+        "credits": 3.0,
+        "time_str": "화04,05/14-110/111, 목04,05/14-110/111",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 14.0
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "14-110/111"
+    },
+    {
+        "id": "5d86e3a3-9a44-4327-be7c-186f44e4ea31",
+        "code": "63011-01",
+        "instructor": "진주연",
+        "department": "예술체육대학",
+        "title": "Introduction to Adapted Physical Activity",
+        "major": "Sport Science",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화03,04,05/20-205/206",
+        "times": {
+            "1": [
+                {
+                    "start_time": 11.0,
+                    "end_time": 14.0
+                }
+            ]
+        },
+        "location": "20-205/206"
+    },
+    {
+        "id": "f740d8e7-57e4-4349-8b8f-2505657213d8",
+        "code": "11008-01",
+        "instructor": "",
+        "department": "도시과학대학",
+        "title": "Urban Planning",
+        "major": "Urban Administration",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "목06,07,08/3-305/306",
+        "times": {
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "3-305/306"
+    },
+    {
+        "id": "4cb02b48-53fe-4cd6-8c3d-5bd0f1e76659",
+        "code": "11013-01",
+        "instructor": "제이슨 코박스",
+        "department": "도시과학대학",
+        "title": "Urban Redevelopment",
+        "major": "Urban Administration",
+        "classification": "전공선택",
+        "year": "2",
+        "credits": 3.0,
+        "time_str": "화06,07,08/3-305/306",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "3-305/306"
+    },
+    {
+        "id": "1de0151b-4004-43c4-acc0-55eb277d791f",
+        "code": "41875-01",
+        "instructor": "김정빈",
+        "department": "도시과학대학",
+        "title": "Fundamentals of Urban Design Ⅱ Studio",
+        "major": "Urban Planning and Design",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 4.0,
+        "time_str": "수02,03,04,05,06,07/6-106/107",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "6-106/107"
+    },
+    {
+        "id": "bed3b2b0-5a8c-4974-a600-9200db6f5377",
+        "code": "41875-02",
+        "instructor": "한은지",
+        "department": "도시과학대학",
+        "title": "Fundamentals of Urban Design Ⅱ Studio",
+        "major": "Urban Planning and Design",
+        "classification": "전공필수",
+        "year": "1",
+        "credits": 4.0,
+        "time_str": "수02,03,04,05,06,07/6-105",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 16.0
+                }
+            ]
+        },
+        "location": "6-105"
+    }
+]
