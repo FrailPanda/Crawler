@@ -1,8 +1,8 @@
 ﻿[
     {
-        "id": "7d27e0a2-5919-4ec9-8839-9040db2f6776",
+        "id": "4621943a-a9e9-4e30-b44b-8932f27b4ffa",
         "code": "2150632802",
-        "title": "Baird College",
+        "title": "Global Issues",
         "instructor": "Gregory",
         "department": "Baird College",
         "major": "Baird College",
@@ -21,9 +21,9 @@
         }
     },
     {
-        "id": "09c1dcab-eac3-4596-b231-b6455b6cc380",
+        "id": "cd317aec-84e7-4c82-bb21-92d05d5692ae",
         "code": "2150625901",
-        "title": "Baird College",
+        "title": "The History of Korea",
         "instructor": "신지영",
         "department": "Baird College",
         "major": "Baird College",
@@ -48,9 +48,9 @@
         }
     },
     {
-        "id": "42785f33-afc1-4997-aaa2-caaa2a71011b",
+        "id": "d31be4e1-4f61-40d2-b2cf-a25e419389d6",
         "code": "2150623701",
-        "title": "Baird College",
+        "title": "Korean Arts & Culture",
         "instructor": "송영숙",
         "department": "Baird College",
         "major": "Baird College",
@@ -69,9 +69,9 @@
         }
     },
     {
-        "id": "91e2274d-49d5-4d4d-b1ff-93e2f4cbfe58",
+        "id": "97b3af3d-99a7-4700-9129-11b9f15551be",
         "code": "2150623801",
-        "title": "Baird College",
+        "title": "Politics in East Asian",
         "instructor": "송영숙",
         "department": "Baird College",
         "major": "Baird College",
@@ -90,9 +90,9 @@
         }
     },
     {
-        "id": "896f0493-043e-4750-9e5d-56c935203abb",
+        "id": "5dc168da-5969-4d73-aa55-ec692b8b2ba1",
         "code": "2150664001",
-        "title": "Baird College",
+        "title": "Politics,Society,Culture of North Korea",
         "instructor": "최용섭",
         "department": "Baird College",
         "major": "Baird College",
@@ -117,9 +117,9 @@
         }
     },
     {
-        "id": "ffcc8d28-ae19-496b-8163-b694d49fd959",
+        "id": "69e158a7-1adb-4e2d-ae0e-827c33ce9b76",
         "code": "2150632901",
-        "title": "Baird College",
+        "title": "A Global Perspective on Product Promotion",
         "instructor": "Jay",
         "department": "Baird College",
         "major": "Baird College",
@@ -144,9 +144,9 @@
         }
     },
     {
-        "id": "1be322c1-e643-4465-bd0d-163492fbe32b",
+        "id": "f2bb31ab-8d94-401d-a40c-8b1cd67aa8cf",
         "code": "2150664101",
-        "title": "Baird College",
+        "title": "Understanding of Korea, China&Japan",
         "instructor": "최용섭",
         "department": "Baird College",
         "major": "Baird College",
@@ -171,9 +171,9 @@
         }
     },
     {
-        "id": "cc617a90-d545-423d-9bfd-a9bb23c2bfea",
+        "id": "0b1ac132-4a57-4045-bab0-22b9c2d831bd",
         "code": "2150622301",
-        "title": "Baird College",
+        "title": "Introduction to Korean Language1",
         "instructor": "나원주",
         "department": "Baird College",
         "major": "Baird College",
@@ -196,9 +196,9 @@
         }
     },
     {
-        "id": "92bd273d-08dc-4f23-b6e7-5c7ef6ee3cbf",
+        "id": "46e08bce-b89a-4f40-92b8-b36962db485d",
         "code": "2150622302",
-        "title": "Baird College",
+        "title": "Introduction to Korean Language1",
         "instructor": "나원주",
         "department": "Baird College",
         "major": "Baird College",
@@ -221,9 +221,9 @@
         }
     },
     {
-        "id": "54075927-eafc-4573-942a-860ead01e52f",
+        "id": "39609fc9-d6a7-4990-82fe-72d1727a9d01",
         "code": "2150622401",
-        "title": "Baird College",
+        "title": "Introduction to Korean Language2",
         "instructor": "이지야",
         "department": "Baird College",
         "major": "Baird College",
@@ -242,9 +242,9 @@
         }
     },
     {
-        "id": "e852bcf9-b98b-46e3-acf7-d4c0168712b2",
+        "id": "687afa4c-07df-4263-9403-167b1f47951b",
         "code": "2150622501",
-        "title": "Baird College",
+        "title": "Introduction to Korean Language3",
         "instructor": "이지야",
         "department": "Baird College",
         "major": "Baird College",

@@ -33,6 +33,9 @@ def init():
         # major
         dic['major'] = row_value[3]
 
+        # title
+        dic['title'] = row_value[5]
+
         # classification
         dic['classification'] = None
 

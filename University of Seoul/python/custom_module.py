@@ -37,7 +37,6 @@ def time_dict(time):
     for i in range(len(temp)):
         if temp[i]:
             result[str(i)] = temp[i]
-    print(result)
     return result
 
 def convert_location(time):

@@ -32,6 +32,9 @@ def init():
         # department
         dic['department'] = row_value[1]
 
+        # title
+        dic['title'] = row_value[9]
+
         # major
         dic['major'] = row_value[2]
 
@@ -47,7 +50,6 @@ def init():
         # time_str
         dic['time_str'] = check_null_value(row_value[18])
 
-        print(dic['time_str'])
         # times
         dic['times'] = custom_module.time_dict(dic['time_str'])
 
@@ -57,20 +59,7 @@ def init():
         data_list.append(dic)
 
 
-    # crawler 부분 추가
-    wb = xlrd.open_workbook('../xlsx/output.csv')
-    sh = wb.sheet_by_index(0)
-
-    data_list = []
-
-    for row_num in range(1, sh.nrows):
-        row_value = sh.row_values(row_num)
-
-        dic = {}
-
-
     j = json.dumps(data_list, ensure_ascii=False, indent=4)
-
 
     with open('../json/result.json', 'w', encoding='UTF-8-sig') as f:
         f.write(j)
