@@ -1,0 +1,5671 @@
+﻿[
+    {
+        "id": "2f1031cd-b43a-4d67-a8a0-39db2d565691",
+        "instructor": "Young-Seon Lee",
+        "department": "AMS Major Courses",
+        "title": "Applied Calculus I",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "556904c3-619c-4a86-a55e-d4a8d7f073b0",
+        "instructor": "Tan Cao",
+        "department": "AMS Major Courses",
+        "title": "Applied Calculus II",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "b886501f-0869-4add-8bee-7319edce1c3e",
+        "instructor": "Kazem Mahdavi",
+        "department": "AMS Major Courses",
+        "title": "Applied Linear Algebra",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "97ddf822-0d0c-4a0a-9c09-23d28c26573a",
+        "instructor": "Kazem Mahdavi",
+        "department": "AMS Major Courses",
+        "title": "Applied Calculus III",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 15:30~16:50/RECF 13:30~14:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 13.5,
+                    "end_time": 14.38
+                }
+            ]
+        },
+        "location": "C103/S.R"
+    },
+    {
+        "id": "51ec9d3f-3d5e-46e2-9795-5d848f43e26b",
+        "instructor": "Suil O",
+        "department": "AMS Major Courses",
+        "title": "Finite Mathematical Structures",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "5118c9aa-df45-4f12-a97c-61c828a7f928",
+        "instructor": "MYOUNGSHIC JHUN",
+        "department": "AMS Major Courses",
+        "title": "Survey of Probability and Stat",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "7cbcb1f2-25ac-4eba-a484-a1d400374bd4",
+        "instructor": "CHANGSOON PARK",
+        "department": "AMS Major Courses",
+        "title": "Regression Analysis",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "adc1fb6b-42d9-459b-9173-8ac9b79b92f5",
+        "instructor": "Ky Tran",
+        "department": "AMS Major Courses",
+        "title": "Financial Mathematics",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "565e0f73-418c-42df-94df-e3baa40535de",
+        "instructor": "Tan Cao",
+        "department": "AMS Major Courses",
+        "title": "Applied Calculus IV: Diff Equ",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 14:0~15:20/RECF 14:30~15:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 14.5,
+                    "end_time": 15.38
+                }
+            ]
+        },
+        "location": "A211/A211"
+    },
+    {
+        "id": "5c2d2180-4b30-4aac-943b-907064dbeb35",
+        "instructor": "Hyunwook Koh",
+        "department": "AMS Major Courses",
+        "title": "Statistical Laboratory",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B205"
+    },
+    {
+        "id": "0e8c2454-b05a-407a-8217-8639cec29c8e",
+        "instructor": "MYOUNGSHIC JHUN",
+        "department": "AMS Major Courses",
+        "title": "Mathematical Statistics",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A312"
+    },
+    {
+        "id": "830826cf-3c16-4af1-b582-5455dab40135",
+        "instructor": "MYOUNGSHIC JHUN",
+        "department": "AMS Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "195b418f-36d0-441c-9bbe-02ef82340785",
+        "instructor": "MYOUNGSHIC JHUN",
+        "department": "AMS Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ef2a3b4e-294d-4adc-bd42-2414e040cec1",
+        "instructor": "MYOUNGSHIC JHUN",
+        "department": "AMS Major Courses",
+        "title": "Research in Applied Mathematic",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fa9552a1-a7a9-4714-9806-351887f4dce6",
+        "instructor": "Kazem Mahdavi",
+        "department": "AMS Major Courses",
+        "title": "Research in Applied Mathematic",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c0ed0ada-69be-483f-9f06-bc0416b62936",
+        "instructor": "Tan Cao",
+        "department": "AMS Major Courses",
+        "title": "Research in Applied Mathematic",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9e0c6495-6f26-4b0c-91a9-f9090e7e29f0",
+        "instructor": "Suil O",
+        "department": "AMS Major Courses",
+        "title": "Research in Applied Mathematic",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "430caecc-df31-4631-9b3e-bd77a43cbff0",
+        "instructor": "Ky Tran",
+        "department": "AMS Major Courses",
+        "title": "Introduction to Probability",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20/W 15:30~16:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                },
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.38
+                }
+            ]
+        },
+        "location": "B206/B206"
+    },
+    {
+        "id": "5da05edc-eac4-4888-902b-10da55b02e5a",
+        "instructor": "Kazem Mahdavi",
+        "department": "AMS Major Courses",
+        "title": "Analytical Methods for Applied Mathematics and Statistics",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20/W 10:30~11:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.38
+                }
+            ]
+        },
+        "location": "B206/B206"
+    },
+    {
+        "id": "215a6981-d5b7-4ec8-87a9-5a4cad40b615",
+        "instructor": "Hyunwook Koh",
+        "department": "AMS Major Courses",
+        "title": "Data Analysis I",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A312"
+    },
+    {
+        "id": "51adfee5-e916-423f-a120-28035f2a9a26",
+        "instructor": "CHANGSOON PARK",
+        "department": "AMS Major Courses",
+        "title": "Design of Experiments",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B206"
+    },
+    {
+        "id": "34305318-d9b1-4b11-b1aa-9be33580193a",
+        "instructor": "TBA",
+        "department": "AMS Major Courses",
+        "title": "Research",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d49dab3e-452a-4544-94e7-16f8b4bd2584",
+        "instructor": "TBA",
+        "department": "AMS Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ed8dd7b3-0e5b-4785-b8da-59b3638b5919",
+        "instructor": "TBA",
+        "department": "AMS Major Courses",
+        "title": "Dissertation off Campus Intern",
+        "major": "AMS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c7e91fd1-e141-4c02-b6fc-c62d87f21053",
+        "instructor": "Jeehong Kim",
+        "department": "BUS Major Courses",
+        "title": "Financial Accounting",
+        "major": "ACC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "b07019ec-fe76-4d64-b671-ecc313f941b5",
+        "instructor": "Wonn-Oh Jung",
+        "department": "BUS Major Courses",
+        "title": "Financial Accounting (for non-major students)",
+        "major": "ACC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TH 12:30~15:20",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "fa933867-16fd-41a2-b639-8223fff6fdb3",
+        "instructor": "Jaeyeong Lee",
+        "department": "BUS Major Courses",
+        "title": "Intro to Business Statistics",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:0~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.0,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "abc48dee-985e-45a4-85c6-539a20fe3607",
+        "instructor": "Seungwook Kim",
+        "department": "BUS Major Courses",
+        "title": "Intro to Business Statistics (for non-major students)",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "S.T"
+    },
+    {
+        "id": "1f9acf55-c27b-4882-abc6-e6f39307924f",
+        "instructor": "Chungseung Lee",
+        "department": "BUS Major Courses",
+        "title": "Intro to Decision Sciences",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "c9571d1b-a065-4e83-b76c-172bf60a64d1",
+        "instructor": "Tae Hee Lee",
+        "department": "BUS Major Courses",
+        "title": "Business Communications",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "W 14:0~16:50",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "13494cf0-8be8-4d02-a88f-1fdded3a0f21",
+        "instructor": "Chih-mao Hsieh",
+        "department": "BUS Major Courses",
+        "title": "Organizational Behavior",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "57ed0e40-90ac-4da3-a7b5-2f77a10e0b3c",
+        "instructor": "Joung Hwa Choi",
+        "department": "BUS Major Courses",
+        "title": "Principles of Finance",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "43d1cae5-bd6c-4482-a496-61322e4f344e",
+        "instructor": "Seth Huang",
+        "department": "BUS Major Courses",
+        "title": "International Finance",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "87ebf65b-edcd-49ca-843e-76bf092c5807",
+        "instructor": "Chungseung Lee",
+        "department": "BUS Major Courses",
+        "title": "Operations Management",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "4c0929fb-be3b-4831-bb03-44f4129d2a1e",
+        "instructor": "Sungjoon Nam",
+        "department": "BUS Major Courses",
+        "title": "Principles of Marketing",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "6a0e188b-9b2a-4f6f-9033-c8f88439e377",
+        "instructor": "Sungjoon Nam",
+        "department": "BUS Major Courses",
+        "title": "Principles of Marketing (for non-major students)",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "1049b161-86fe-44dc-82e5-0535178a88d0",
+        "instructor": "Chih-mao Hsieh",
+        "department": "BUS Major Courses",
+        "title": "Entrepreneurship",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "665a7b22-7519-4269-a213-a49e1735549d",
+        "instructor": "Seth Huang",
+        "department": "BUS Major Courses",
+        "title": "Investment Analysis",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "15a759bc-b163-4431-9c0f-9add23349fab",
+        "instructor": "Sungjoon Nam",
+        "department": "BUS Major Courses",
+        "title": "Marketing Research",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "2e658a47-7d6a-475f-bb57-8cdcd3ec0e77",
+        "instructor": "Young-Won Ha",
+        "department": "BUS Major Courses",
+        "title": "Consumer Behavior",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "4fa5b05c-2151-41d6-b718-2fe7142ed03a",
+        "instructor": "In-Ki Joo",
+        "department": "BUS Major Courses",
+        "title": "Business Ethics",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TH 10:30~13:20",
+        "times": {
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 13.33
+                }
+            ]
+        },
+        "location": "A211"
+    },
+    {
+        "id": "e6ffad73-e550-407e-a1ed-ecb8e74d778b",
+        "instructor": "Kyung Ku Kim",
+        "department": "BUS Major Courses",
+        "title": "Marketing Strategy",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B204"
+    },
+    {
+        "id": "b09f87ef-83ef-41ff-880e-0a9a50fa0f2e",
+        "instructor": "Jaeyeong Lee",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "768c6fb2-f802-4f5d-9cd6-0be8a3a1b0a1",
+        "instructor": "Chih-mao Hsieh",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b3ced3e7-088a-4c9c-bcb7-6b90b5b3d734",
+        "instructor": "Jeehong Kim",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "cdb85476-eaa4-4a3d-82ce-110d8a722d6b",
+        "instructor": "Joung Hwa Choi",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b666b3b9-cb83-43bc-81bc-ffee26064b65",
+        "instructor": "Wonn-Oh Jung",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4db94adc-0ec6-4d41-870a-2ab479e362b4",
+        "instructor": "Seungwook Kim",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f40cda5d-4e24-4f07-a67d-7a7f64cccb64",
+        "instructor": "Young-Won Ha",
+        "department": "BUS Major Courses",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "822e5088-fd0c-4390-ae84-a5a887ae48cb",
+        "instructor": "Jeehong Kim",
+        "department": "BUS Major Courses",
+        "title": "Internship",
+        "major": "BUS",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f7fd23e4-0110-4b1e-b260-7e9d1c0593ab",
+        "instructor": "Alexander Kuhn",
+        "department": "CSE Major Courses",
+        "title": "Computer Science Principles",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20/M 12:30~13:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "C103/C103"
+    },
+    {
+        "id": "58998bd0-73a4-4e95-ab4e-9dd39cdd3e00",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Computer Science Principles",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20/M 12:30~13:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "C105/C105"
+    },
+    {
+        "id": "d941a064-51ee-4e60-b949-5093ad20bc76",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Intro to Web Dsgn & Programmg",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "9169e78e-ccbf-4e02-82ea-960f7c797028",
+        "instructor": "Antonino Mione",
+        "department": "CSE Major Courses",
+        "title": "Intro to Object-Oriented Prog",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 14:0~15:20/TUTH 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "C103/C103"
+    },
+    {
+        "id": "c02f41ec-3119-4a94-afe4-73e1372818f4",
+        "instructor": "Alexander Kuhn",
+        "department": "CSE Major Courses",
+        "title": "Intro to Object-Oriented Prog",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 14:0~15:20/TUTH 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "C107/C107"
+    },
+    {
+        "id": "717a1658-a654-40e0-b8c3-5eff567b53d8",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Data Structures",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 14:0~15:20/RECW 14:0~14:53",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 14.88
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "S.R/S.R"
+    },
+    {
+        "id": "8cc2eb6d-85e5-4e8b-8237-9b952d255aeb",
+        "instructor": "Chi Him Wong",
+        "department": "CSE Major Courses",
+        "title": "Foundations of Comp Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 15:30~16:50/RECW 10:30~11:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                },
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.38
+                }
+            ]
+        },
+        "location": "B207/B207"
+    },
+    {
+        "id": "bcb16a12-42d4-4411-a3ee-8cca15a9c1a5",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Programming Abstractions",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 14:0~15:20/RECW 14:0~14:53",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 14.88
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B207/B207"
+    },
+    {
+        "id": "5f12c28f-1b55-45a8-9275-edb3e83e97bc",
+        "instructor": "AMOS OMONDI",
+        "department": "CSE Major Courses",
+        "title": "Systems Fundamentals I",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 10:30~11:50/RECM 12:30~13:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "S.R/S.R"
+    },
+    {
+        "id": "b29a604f-c3fd-4430-aaba-33f837941e5c",
+        "instructor": "AMOS OMONDI",
+        "department": "CSE Major Courses",
+        "title": "Technical Communications",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "b7095da0-7234-477e-bb29-639e0112085e",
+        "instructor": "Chi Him Wong",
+        "department": "CSE Major Courses",
+        "title": "Intro to Theory of Computation",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "1d3edc04-e28d-4663-a618-bd3f03948cfa",
+        "instructor": "Antonino Mione",
+        "department": "CSE Major Courses",
+        "title": "Compiler Design",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "5016d8c9-27cf-433b-a7f9-c1646d2d3e29",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Operating Systems",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "e001985f-482a-49a1-a512-ce1e3e1b8bfd",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Computer Networks",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "22b6aa1f-4a5b-4f53-946e-3d3853923a89",
+        "instructor": "Antonino Mione",
+        "department": "CSE Major Courses",
+        "title": "Software Development",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "0e9bce68-35e5-4371-8796-0934d1ec439d",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Systems Fundamentals II",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "3c1b8bad-8be3-4fed-a410-f887841dc170",
+        "instructor": "Seung Soo Park",
+        "department": "CSE Major Courses",
+        "title": "Artificial Intelligence",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "eaf29884-dae5-4db1-a8f4-cb124a8019d6",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Machine Learning",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "f2ce8fed-6ab6-453c-8dbd-8d10fc91517d",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Analysis of Algorithms",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "e4da775e-2267-4c1c-9451-b296799cb7ba",
+        "instructor": "Alexander Kuhn",
+        "department": "CSE Major Courses",
+        "title": "Software Engineering",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B204"
+    },
+    {
+        "id": "aa985db6-8624-453d-8ace-9b21e6c1ded9",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9699e8ea-8e61-4339-bd9b-1e13b784d88f",
+        "instructor": "Antonino Mione",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e056b306-b859-4ec4-8321-48ad3eca4aa9",
+        "instructor": "Alexander Kuhn",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ea1961c8-7560-40ee-820d-50c0d856dd15",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "111b93fa-5273-452e-9882-aaeb0b13c48f",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5e0d2035-eedb-487c-8eff-f7fffd3474b8",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "27d6c542-3166-43b8-8e7b-aa916f4427b1",
+        "instructor": "Chi Him Wong",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "759bc088-4669-432b-b492-5922f9e8db2b",
+        "instructor": "AMOS OMONDI",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4492f4a1-12e3-4331-94a6-3ec94a92c974",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Undergrad Teaching Practicum",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "47c1d4be-205d-41ae-bdcb-b47b92d9dd2b",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7b2f4b93-d7c8-4e76-8e27-674044cf7bd5",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "643c5f91-542d-418a-98b8-bd86ce1e7256",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fa4f8080-85bc-4ba5-abc1-16418badabaf",
+        "instructor": "AMOS OMONDI",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "50e6adc6-4676-476c-bc11-d6321604e46e",
+        "instructor": "Chi Him Wong",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f4de9e67-b532-4455-93e5-905f88ab9a46",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7056e6a4-b30f-44eb-adac-d39f354d3afc",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b85d5886-7bd6-4d26-a9d0-bef6afc4192d",
+        "instructor": "Antonino Mione",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "132f5132-be24-4595-a275-7b7292f3be2f",
+        "instructor": "Alexander Kuhn",
+        "department": "CSE Major Courses",
+        "title": "Research in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e573a01c-d2b8-4dcd-b10b-a0ba821524f4",
+        "instructor": "AMOS OMONDI",
+        "department": "CSE Major Courses",
+        "title": "Compiler Design",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "27321654-d725-4594-9243-f8484e5af7d8",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Operating Systems",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "a927bf50-a048-4d33-af88-86e60c6b6869",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Special Project in Computer Sc",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ec79209e-236b-49fb-b7a8-bcf197af79c8",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Advanced Project in Computer S",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "929b12ea-c0f8-4249-95d6-c5dab8ec08fa",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Advanced Project in Computer S",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b09db72c-873d-4c31-9c05-b8d36538c23c",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Advanced Project in Computer S",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "99d0cdd4-5dfb-4eca-9c1e-34d7ca2b5eff",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Artificial Intelligence",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "afa5610d-b60a-4c8d-ad47-8bc5bb17d99f",
+        "instructor": "Seung Soo Park",
+        "department": "CSE Major Courses",
+        "title": "Logic in Computer Science",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B204"
+    },
+    {
+        "id": "4407e855-8b12-4228-b2ed-419cc5becd66",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Independent Study in Comp Sci",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1422758d-3d09-4f07-a340-466161a89b58",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Independent Study in Comp Sci",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "390fc6fc-7487-4f85-8d1a-f93472c31948",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "MS Internship Prog Off-Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "13e7a1e1-6760-44b4-bdc8-25984bff10f8",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "M.S. Thesis Research",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "bc0bdb4e-1f03-447d-824e-5914662697c0",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Research in Modern Computer Science (Seminar)",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 14:0~15:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B206"
+    },
+    {
+        "id": "028a8775-bec1-4581-a4c8-e047feaf7a75",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Seminar in Databases",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "TU 18:30~19:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.5,
+                    "end_time": 19.83
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "1b8ab6fa-8281-4a48-9048-1cccc4baa0ad",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Seminar in Artificial Intelligence",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "TU 18:30~19:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.5,
+                    "end_time": 19.83
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "717a14ce-98a8-4108-918e-34562917d942",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Seminar in Operating Systems",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "TU 18:30~19:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.5,
+                    "end_time": 19.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "2104e848-923f-4bc6-bf3d-8d91af058e52",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Sem on Mobile and Wireless Net",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "TU 18:30~19:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 18.5,
+                    "end_time": 19.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "841c2f63-774b-44af-837e-d84e757cd06d",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "PhD Internship Proj Off-Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "387a56c3-e16e-43fa-8148-5f862738537d",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Practicum in Teaching",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c5c1c722-2f42-4cc7-a451-fd2fb2f47200",
+        "instructor": "PRAVIN PAWAR",
+        "department": "CSE Major Courses",
+        "title": "Practicum in Teaching",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "e2c9bb8b-166f-4d40-a285-6bf44475efd7",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "7de6518f-d80c-4cb9-8df8-6dc43ac37a96",
+        "instructor": "YoungMin Kwon",
+        "department": "CSE Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "169ee72c-0589-4903-a921-832912127524",
+        "instructor": "Jihoon Ryoo",
+        "department": "CSE Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1da89d60-67b6-473c-9aa6-f1fd7688ab32",
+        "instructor": "Byungkon Kang",
+        "department": "CSE Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4424bfd6-d5ce-4216-988d-100d784af779",
+        "instructor": "Arthur Lee",
+        "department": "CSE Major Courses",
+        "title": "Dissertation off Campus Domest",
+        "major": "CSE",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b2771741-5941-45c6-a7ef-ff519fdec17e",
+        "instructor": "Maurice Bess",
+        "department": "TS Major Courses",
+        "title": "Designing, Producing & Presenting Multimedia Projects",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B314, A314"
+    },
+    {
+        "id": "6a5fcb5a-542d-4c21-8938-efc8e9a35b20",
+        "instructor": "Joseph Cabuay",
+        "department": "TS Major Courses",
+        "title": "Decision-making",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "ebf74b4b-6b89-492f-b442-866aa9a170d5",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Decision-making",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "3aa0b1e1-499f-4bf2-9bed-e3d6c056166b",
+        "instructor": "Anthony Pennings",
+        "department": "TS Major Courses",
+        "title": "Intro to Sci, Tech,Soc Studies",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "cef3cf42-5d42-4770-b064-2dd20b27adae",
+        "instructor": "Neal Dreamson",
+        "department": "TS Major Courses",
+        "title": "Intro to Tech Design",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "660a254e-3d79-4ff1-977c-844538859be9",
+        "instructor": "Anthony Pennings",
+        "department": "TS Major Courses",
+        "title": "ICT for Development",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "S.T"
+    },
+    {
+        "id": "8356f79d-0306-4b8c-829b-8977a730b790",
+        "instructor": "Clovia Hamilton",
+        "department": "TS Major Courses",
+        "title": "Fundmtls of Indstrl Engnrng",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "e64ad2bc-af50-4ecb-8b24-e6a2b4d438df",
+        "instructor": "Gerad Stokes",
+        "department": "TS Major Courses",
+        "title": "Energy, Environment, & People",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "9e1c2759-4b0e-460a-8b0b-a000ba5926ca",
+        "instructor": "Joseph Cabuay",
+        "department": "TS Major Courses",
+        "title": "Communication for Engr & Sci",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 12:30~15:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "07c98d48-20a2-4dcf-be26-55b982fae1d0",
+        "instructor": "Clovia Hamilton",
+        "department": "TS Major Courses",
+        "title": "App Software for Info Mgt",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A313"
+    },
+    {
+        "id": "18114cef-f854-4244-9062-bc3f5ec39f54",
+        "instructor": "Maurice Bess",
+        "department": "TS Major Courses",
+        "title": "Design of Computer Games",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A211"
+    },
+    {
+        "id": "ac22f774-2f2e-4b1b-8bee-09e2a3ca5edf",
+        "instructor": "Anthony Pennings",
+        "department": "TS Major Courses",
+        "title": "Communication Tech Systems",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "4a5c728a-df5b-4139-bcc4-6fa4db516fc1",
+        "instructor": "Joseph Cabuay",
+        "department": "TS Major Courses",
+        "title": "Management for Engineers",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "94dd54f7-7850-4282-b842-602b1f61a5d4",
+        "instructor": "Jang Lee",
+        "department": "TS Major Courses",
+        "title": "Marketing for Engineers",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "2866a283-cb99-4752-999c-820f6e08d9af",
+        "instructor": "Clovia Hamilton",
+        "department": "TS Major Courses",
+        "title": "Engineering Ethics",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 15:30~18:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "ac53e8eb-e617-45a0-b701-47dd00d4a239",
+        "instructor": "Suzana Brown",
+        "department": "TS Major Courses",
+        "title": "How to Build a Startup",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "8ff8601d-7382-47c3-9dec-ce45ac603804",
+        "instructor": "Kyung Ku Kim",
+        "department": "TS Major Courses",
+        "title": "Data Sci Management",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "8797eb6b-2a10-4815-8fde-8717688c91b3",
+        "instructor": "Sira Maliphol",
+        "department": "TS Major Courses",
+        "title": "Mobile Revolution",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "6ec97c54-a938-4ebc-ba9d-dbc869b9d881",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Technology Assessment",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "d009d742-70a5-4fe1-84a6-8806756a9d41",
+        "instructor": "Jin-sang Lee",
+        "department": "TS Major Courses",
+        "title": "Engineering Economics",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "531bd2ac-7dca-4bfa-8253-e9e57a844af5",
+        "instructor": "Jang Lee",
+        "department": "TS Major Courses",
+        "title": "Project Management",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "3ef0619a-db0f-4976-9d75-52f46c7c95f0",
+        "instructor": "Sira Maliphol",
+        "department": "TS Major Courses",
+        "title": "Interdis Rsch Methods",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "23c74d96-4173-4d1c-aa19-d4ca42ac8c65",
+        "instructor": "Neal Dreamson",
+        "department": "TS Major Courses",
+        "title": "Interdis Senior Project",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "972b005c-5492-4c7b-838b-f18b56daaf5a",
+        "instructor": "James Larson",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6837ca8f-c058-4509-9c67-36cd1c679bee",
+        "instructor": "Anthony Pennings",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "976ff555-5e74-4d84-852c-a67d8bc86a82",
+        "instructor": "Suzana Brown",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5e853718-7e31-4d4a-80c6-37aecdf8e6c9",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "db552a46-bec6-4e1e-8552-6c6c66995dfe",
+        "instructor": "Johng-Ihl Lee",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "5e22dbae-f719-4f04-8260-8059e4031039",
+        "instructor": "Jangik Lee",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "20c5d991-86d7-4eb1-9ec5-992ef1fcd262",
+        "instructor": "Joseph Cabuay",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "88b909c8-84b4-4a55-8c5c-91c86bf37213",
+        "instructor": "Jin-sang Lee",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "eed57c08-6b02-4f82-9109-5db54524c7b5",
+        "instructor": "Clovia Hamilton",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9aeae8a5-ac6c-4d0c-bd51-1791eb10c1fe",
+        "instructor": "Neal Dreamson",
+        "department": "TS Major Courses",
+        "title": "Research in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "9916d30b-28da-448c-b98a-f92c26dd60c8",
+        "instructor": "James Larson",
+        "department": "TS Major Courses",
+        "title": "Digital tech in disaster risk",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TH 19:0~21:50",
+        "times": {
+            "3": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "18a41b6b-62a0-4590-a291-96015d47e3a3",
+        "instructor": "Suzana Brown",
+        "department": "TS Major Courses",
+        "title": "Heurist &Quant Decision Making",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 19:0~21:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "681c85ee-d7cd-4eb4-9020-ec12a6d1de21",
+        "instructor": "Gerad Stokes",
+        "department": "TS Major Courses",
+        "title": "National Energy Decision",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TU 19:0~21:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "64da0073-57e8-48bd-bcf0-984c14549ce3",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Independent Study in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "53c094da-5a11-43ee-a6cb-e007dae3b638",
+        "instructor": "Sunwoo Lee",
+        "department": "TS Major Courses",
+        "title": "Engineering Economics",
+        "major": "EMP",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "W 19:0~21:50",
+        "times": {
+            "2": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "231b66d2-a472-4ba5-9778-0b94c01a9a97",
+        "instructor": "Young-Geun Lee",
+        "department": "TS Major Courses",
+        "title": "Quality and Value Management",
+        "major": "EMP",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 19:0~21:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 19.0,
+                    "end_time": 21.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "c4f4c3b0-7868-4b97-9dd4-030ebb398f84",
+        "instructor": "Anthony Pennings",
+        "department": "TS Major Courses",
+        "title": "Internship in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a6184d5a-3670-4c26-8a78-fdc93ac2a194",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Internship in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "373440d7-63c3-4e5b-8379-6cf27177ad1b",
+        "instructor": "Jangik Lee",
+        "department": "TS Major Courses",
+        "title": "Internship in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "30125f0e-a3cf-4134-8892-3e8d5535a271",
+        "instructor": "Jin-sang Lee",
+        "department": "TS Major Courses",
+        "title": "Internship in Technology and Society",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c1851b75-fff9-4bd1-ad41-d03b31dadc16",
+        "instructor": "James Larson",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1e2a92f4-0102-44ac-8f8e-7fcb5cd35236",
+        "instructor": "Gerad Stokes",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "64543169-94ad-4205-8edd-59b9dace7313",
+        "instructor": "Suzana Brown",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "25b53b01-4c48-4a7b-9f88-da09de225e1a",
+        "instructor": "Mark Whitaker",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "2074ad44-6e55-4271-9c54-0d959b63d15b",
+        "instructor": "Jin-sang Lee",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "f364257e-6217-4a5a-aade-90727c481503",
+        "instructor": "Clovia Hamilton",
+        "department": "TS Major Courses",
+        "title": "Directed Study",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0076f9f6-5027-475a-b3d4-7183fff59fbc",
+        "instructor": "James Larson",
+        "department": "TS Major Courses",
+        "title": "Dissertation Research on Campus",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "8af66891-bbae-4346-a711-28d12213237f",
+        "instructor": "Jin-sang Lee",
+        "department": "TS Major Courses",
+        "title": "Dissertation Research on Campus",
+        "major": "EST",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "4f0f7bf6-d58c-4d98-8b94-b2684c0fcb82",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Freshman Design Innovation",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "4b484796-4a49-4e87-bb30-69c0d064a535",
+        "instructor": "Jong Jin Park",
+        "department": "MEC Major Courses",
+        "title": "Eng Graphics and CAD",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A313"
+    },
+    {
+        "id": "9e284a5e-e120-49c5-94f7-91a9365ca400",
+        "instructor": "Cornelius Bradter",
+        "department": "MEC Major Courses",
+        "title": "Practical Electronics Mechanical Engineers",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B313"
+    },
+    {
+        "id": "92d1033d-2b9d-4595-9614-1055ffcacf3d",
+        "instructor": "Si Won Hwang",
+        "department": "MEC Major Courses",
+        "title": "Modern Machining Practices",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "TH 12:0~13:50",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.0,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "B1093-1"
+    },
+    {
+        "id": "ffb2ff19-eec7-4c3d-b3cb-df8a3894abe1",
+        "instructor": "Jong Jin Park",
+        "department": "MEC Major Courses",
+        "title": "Engineering Statics",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20/TU 13:0~13:53",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                },
+                {
+                    "start_time": 13.0,
+                    "end_time": 13.88
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B104/B104"
+    },
+    {
+        "id": "f9b4bdfd-79c5-4210-8668-f99b2524cff5",
+        "instructor": "Jongseong Choi",
+        "department": "MEC Major Courses",
+        "title": "Thermodynamics",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B204"
+    },
+    {
+        "id": "d7981009-3491-4338-a0e3-bd66af0a5794",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Introduction to Machine Design",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "9ab617a8-a6f1-42d8-b56b-36a88505a34c",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Instrumentation and Solids Lab",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 2.0,
+        "time_str": "W 14:0~17:0",
+        "times": {
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 17.0
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "1c647fa0-d34f-4e4f-bf2f-0c9d7ad4d557",
+        "instructor": "Oh Yang Kwon",
+        "department": "MEC Major Courses",
+        "title": "Num Methods Eng Des Anal",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "528728b5-1d69-490e-afe9-679d91660b56",
+        "instructor": "Min Yang Yang",
+        "department": "MEC Major Courses",
+        "title": "Manufacturing Processes",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "5d44364a-e26e-4efe-bb44-552265ffff8b",
+        "instructor": "Hamid Hefazi",
+        "department": "MEC Major Courses",
+        "title": "Intro to Fluid Mechanic",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20/RECM 12:30~13:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ],
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B313/B313"
+    },
+    {
+        "id": "729599d2-f703-4ad9-8831-c6fdb3ad85aa",
+        "instructor": "Seung Bok Choi",
+        "department": "MEC Major Courses",
+        "title": "Mechanical Vibrations",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 9:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "0ba77b6c-9d12-4ae6-a917-5bc19598418d",
+        "instructor": "Gun Woong Bahng",
+        "department": "MEC Major Courses",
+        "title": "Thermal System Design",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B205"
+    },
+    {
+        "id": "a8a043b7-a7f3-42de-8bc1-55d8d4bfc860",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Mechanical Engnrng Design II",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B204"
+    },
+    {
+        "id": "ed6d4d58-e7f5-4434-8f1c-a6e0a1f35176",
+        "instructor": "Cornelius Bradter",
+        "department": "MEC Major Courses",
+        "title": "Undergraduate Teaching Practicum",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a48d8262-f006-42bc-902c-aff4a31ef1d7",
+        "instructor": "Hamid Hefazi",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "a243218e-d5e9-44c1-b2d2-ec69f31578c8",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "125d0be4-2864-48af-a464-29daeaf9452d",
+        "instructor": "Gun Woong Bahng",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "af97b6fd-d146-4a63-b959-2777598298d4",
+        "instructor": "Bruce W. Jo",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "74e6f00c-9613-4456-8f6f-d389f5592903",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "767f516a-0e57-43f4-9028-2d90d8ad36f2",
+        "instructor": "Min Yang Yang",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "d710713f-a173-452d-b22b-a082d3de1705",
+        "instructor": "Jongseong Choi",
+        "department": "MEC Major Courses",
+        "title": "Research in Mechanical Engnrng",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "76ccc01f-b514-484d-b34b-d78fe88a8936",
+        "instructor": "Joon Sik Lee",
+        "department": "MEC Major Courses",
+        "title": "Conv Heat Transfer and Exchang",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 9:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "c52920dd-66bd-489b-b9f4-fb663b10b1e7",
+        "instructor": "George Whealen",
+        "department": "MEC Major Courses",
+        "title": "Mathematical Methods I",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "2ca933f3-5479-48c3-a7b2-ea07f813b8fe",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Elasticity",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "9af0388b-dd27-44d9-95b0-9bb0c5696a08",
+        "instructor": "Bruce W. Jo",
+        "department": "MEC Major Courses",
+        "title": "Advanced Dynamics",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "158358b9-8b42-4be6-8be6-31b42cd56beb",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Projects in Mechanical Engineering",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "6807d3b9-2706-4665-94a9-baa512a1a514",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Projects in Mechanical Engineering",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "58dc2716-74e5-4800-87ff-c0f1f2f42149",
+        "instructor": "Hamid Hefazi",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b6b02f14-313d-4b48-8a39-f477db7080cb",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "806d1bf3-f621-4404-bf75-0e4742301315",
+        "instructor": "Gun Woong Bahng",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1b21cc63-02df-4f53-bce0-a122e50d0aac",
+        "instructor": "Bruce W. Jo",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "48cc94e9-5fe2-4869-9080-223aa8cdd3d0",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "c9b65425-ca3d-4d6b-b6e3-9b4bb5c82dbe",
+        "instructor": "Min Yang Yang",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "04e6064d-f570-4679-b2cd-fe5cd3074c33",
+        "instructor": "Jongseong Choi",
+        "department": "MEC Major Courses",
+        "title": "Research",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "03f97b5a-8146-47b4-bd97-6e724da693a2",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Mechanical Engineering Seminar",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": 0.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "051cce32-4f01-495a-a459-5d5e1a993858",
+        "instructor": "Hamid Hefazi",
+        "department": "MEC Major Courses",
+        "title": "Practicum in Teaching II",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "1633fce8-9bc2-46b7-b05f-d04ff97370f7",
+        "instructor": "Hamid Hefazi",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "dace58fd-7b30-4213-9b93-3e25b9affa0e",
+        "instructor": "Eugene Pak",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "b9f8df8c-7cc5-46b1-80b5-b2336cb1aec1",
+        "instructor": "Gun Woong Bahng",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "727defbf-df80-41a7-92ab-cd32b3cd3635",
+        "instructor": "Bruce W. Jo",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "fa095ecd-9dea-4d64-91c3-8ccec7a2051d",
+        "instructor": "Changwoon Han",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "ab5c9621-8a1a-4d8e-88bf-f9266fee12a3",
+        "instructor": "Min Yang Yang",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "0055efd5-6ee5-4bf3-ad01-b78f40091526",
+        "instructor": "Jongseong Choi",
+        "department": "MEC Major Courses",
+        "title": "Dissertation Resrch on Campus",
+        "major": "MEC",
+        "classification": null,
+        "year": null,
+        "credits": null,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "99ffc971-db14-4de5-a58f-fe5590eba054",
+        "instructor": "Hoonyoung Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Weather and Climate",
+        "major": "ATM",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 12:30~15:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "54e45e30-2c21-42c7-be24-5f7a63ccb034",
+        "instructor": "John Eimes",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Organisms to Ecosystems",
+        "major": "BIO",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "M 17:0~19:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 19.83
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "340c565e-b95f-47a7-8ea1-3563b495a3b2",
+        "instructor": "Sunghyun Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Career Planning",
+        "major": "CAR",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "W 11:0~11:53",
+        "times": {
+            "2": [
+                {
+                    "start_time": 11.0,
+                    "end_time": 11.88
+                }
+            ]
+        },
+        "location": "A312"
+    },
+    {
+        "id": "81dd45fe-b13e-4c90-ad16-92cb5b6ae96c",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "cd5110f8-4f6f-4a88-99b6-72650f4ea68d",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RECM 18:30~19:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 18.5,
+                    "end_time": 19.38
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "0f8f9577-e399-4cc3-a2a5-a0f610ba3a94",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "85d70c79-cedc-49f6-8f80-d2c51d7b55cd",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RETU 17:0~17:53",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 17.88
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "cc263bda-880e-4c52-808a-9057117b7c38",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "935bce0d-d722-4578-bc98-45ad66b7c351",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese I",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RETH 9:30~10:23",
+        "times": {
+            "3": [
+                {
+                    "start_time": 9.5,
+                    "end_time": 10.38
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "f812757d-e2c3-41c3-8e19-3bd8c423dc78",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese II",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "51ce312e-141d-4521-97bf-968054afa8f5",
+        "instructor": "Mengyang Jia",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Chinese II",
+        "major": "CHI",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RECM 10:30~11:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.38
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "4d4f6285-a042-4222-93a3-7a0e2fef0f7a",
+        "instructor": "Joung Hwa Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introduction to Economics",
+        "major": "ECO",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "c399e404-5fb6-46f7-8b2f-6b5d6a3e6d78",
+        "instructor": "Joung Hwa Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introduction to Economics",
+        "major": "ECO",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RETH 15:30~16:23",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.38
+                }
+            ]
+        },
+        "location": "Online"
+    },
+    {
+        "id": "75304d3e-040c-4bde-a9d7-2bba5d70b1fc",
+        "instructor": "Joung Hwa Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introduction to Economics",
+        "major": "ECO",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 17:0~18:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "55f630bf-6043-4b3c-8d8c-27ca20c29a16",
+        "instructor": "Joung Hwa Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introduction to Economics",
+        "major": "ECO",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RECF 12:30~13:23",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "a3f43997-fc21-4b02-b863-339191964fe5",
+        "instructor": "Joung Hwa Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Undergrad Teachng Practicum I",
+        "major": "ECO",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": null,
+        "times": null,
+        "location": null
+    },
+    {
+        "id": "310bbb2e-de69-456c-a5df-cf5f3511b455",
+        "instructor": "Woong Moo Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Engineering Introduction to the Solid State",
+        "major": "ESG",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "e552c2e5-f91b-4b94-ad64-4b6aac9f351b",
+        "instructor": "Woong Moo Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Engineering Introduction to the Solid State",
+        "major": "ESG",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RECM 12:30~13:23",
+        "times": {
+            "0": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "e118bb24-0148-4729-9c48-0c85e2616a2a",
+        "instructor": "Oh Yang Kwon",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Materials Sci I: Struct & Prop",
+        "major": "ESG",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "130c7d9e-9cbb-4916-823b-20a745461faf",
+        "instructor": "Oh Yang Kwon",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Materials Sci I: Struct & Prop",
+        "major": "ESG",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RETU 9:30~10:23",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.5,
+                    "end_time": 10.38
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "5b90d827-74e2-4d08-ba53-db4cfccb4374",
+        "instructor": "Sun Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introduction to Film Composition: How Movies Say What They Mean",
+        "major": "FLM",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 12:30~15:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "72bbd111-4609-481d-add9-22969442621b",
+        "instructor": "Jung Hun Seo",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "The Earth",
+        "major": "GEO",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 12:30~15:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "0fef71f9-7640-4071-bad9-b773d28102fb",
+        "instructor": "Donald Bellomy",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "American History to 1877",
+        "major": "HIS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:23",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.38
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.38
+                }
+            ]
+        },
+        "location": "S.T"
+    },
+    {
+        "id": "8b86d0af-dead-4e99-954d-597fee99f96c",
+        "instructor": "Donald Bellomy",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "American History to 1877",
+        "major": "HIS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TH 12:30~13:23",
+        "times": {
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "d1abd8fc-d774-41b0-921b-ffcb4b320a5c",
+        "instructor": "Donald Bellomy",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Sci, Tech, Med in West Civ I",
+        "major": "HIS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "d530fe3e-e54f-483d-82f7-e449f9513fbf",
+        "instructor": "Hea Hur",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Korean II",
+        "major": "KOR",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "B314"
+    },
+    {
+        "id": "413fdbb6-e85e-48ee-acce-8b467326955b",
+        "instructor": "Hea Hur",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Elementary Korean II",
+        "major": "KOR",
+        "classification": null,
+        "year": null,
+        "credits": 4.0,
+        "time_str": "RETH 17:0~17:53",
+        "times": {
+            "3": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 17.88
+                }
+            ]
+        },
+        "location": "B314"
+    },
+    {
+        "id": "fa79d4c8-ce01-443c-9215-616e622f14a4",
+        "instructor": "Koksuk seo",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Heritage Korean",
+        "major": "KOR",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "M 9:0~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "6fed785a-9c5b-42f9-9643-1238a7952842",
+        "instructor": "Sang Hee Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Proficiency Algebra",
+        "major": "MAP",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B104"
+    },
+    {
+        "id": "640c0d69-a6c6-4bac-a244-990c32097a55",
+        "instructor": "Jaeyeong Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Overview of Calculus with Appl",
+        "major": "MAT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.83
+                }
+            ]
+        },
+        "location": "C107"
+    },
+    {
+        "id": "0c6fe3d0-2a73-43ee-a422-4953847b0849",
+        "instructor": "Jaeyeong Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Overview of Calculus with Appl",
+        "major": "MAT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RECF 12:30~13:23",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "B203"
+    },
+    {
+        "id": "99bb9360-1b30-4cdb-b9ed-9834b5cd6b75",
+        "instructor": "Young-Seon Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Precalculus",
+        "major": "MAT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 17:0~18:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 17.0,
+                    "end_time": 18.33
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "abdba33c-8816-420c-ae5f-4b8cd44c9406",
+        "instructor": "Young-Seon Lee",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Precalculus",
+        "major": "MAT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RECF 12:30~13:23",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "99b0d1fb-d400-4414-a965-04d8b759c1c6",
+        "instructor": "Suil O",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Logic, Language and Proof",
+        "major": "MAT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A312"
+    },
+    {
+        "id": "366b266d-1343-4899-8bfc-27076c3f7f1f",
+        "instructor": "Soojin Kim",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Music Cultures of the World",
+        "major": "MUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TU 9:30~12:30",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.5,
+                    "end_time": 12.5
+                }
+            ]
+        },
+        "location": "S.T"
+    },
+    {
+        "id": "32bc6088-a717-4301-a82f-d293d02833f7",
+        "instructor": "Baye Diouf",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics I",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "3310c77a-b755-42b1-b671-b86813a77b49",
+        "instructor": "Baye Diouf",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics I",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RECW 9:30~10:23",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.5,
+                    "end_time": 10.38
+                }
+            ]
+        },
+        "location": "B103"
+    },
+    {
+        "id": "0181f0c4-3860-47d3-8688-db14f7c03e7b",
+        "instructor": "Baye Diouf",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics II",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "B207"
+    },
+    {
+        "id": "f0cff075-4933-4b16-9105-74b96ae00969",
+        "instructor": "Baye Diouf",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics II",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RECW 10:30~11:23",
+        "times": {
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.38
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "e9aab29c-b018-4484-9806-743908ccc2e0",
+        "instructor": "Aaron Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics Laboratory I",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "F 10:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 10.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C303"
+    },
+    {
+        "id": "17819864-902a-4b8d-9ee6-937ce0efd2dd",
+        "instructor": "Aaron Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics Laboratory I",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "F 12:30~14:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 14.33
+                }
+            ]
+        },
+        "location": "C303"
+    },
+    {
+        "id": "91ed8fdf-9a6a-4939-b946-93f7e050dd21",
+        "instructor": "Aaron Park",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Classical Physics Lab II",
+        "major": "PHY",
+        "classification": null,
+        "year": null,
+        "credits": 1.0,
+        "time_str": "F 14:30~16:20",
+        "times": {
+            "4": [
+                {
+                    "start_time": 14.5,
+                    "end_time": 16.33
+                }
+            ]
+        },
+        "location": "C303"
+    },
+    {
+        "id": "7ace55c4-2671-4079-8f77-6e11086138a3",
+        "instructor": "Won Geun Choi",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "World Politics",
+        "major": "POL",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "W 9:0~11:50",
+        "times": {
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C105"
+    },
+    {
+        "id": "345a067b-3d27-4140-b011-eb97d40dbcc6",
+        "instructor": "Jung-Min Hong",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intro to American Government",
+        "major": "POL",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 9:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "C103"
+    },
+    {
+        "id": "d77cae6e-6ee0-4216-9b4d-e5dfe9682c96",
+        "instructor": "Juhyun Woo",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Sociology of Gender",
+        "major": "SOC",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 9:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B105"
+    },
+    {
+        "id": "09869536-84de-4a0b-9fa6-ab1c31495bc1",
+        "instructor": "Young June Kwon",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Economics and Sustainability",
+        "major": "SUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 12:30~13:23",
+        "times": {
+            "1": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 12.5,
+                    "end_time": 13.38
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "dcb59ebe-f135-411b-9365-20b6c61c3335",
+        "instructor": "Young June Kwon",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Economics and Sustainability",
+        "major": "SUS",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "RETH 15:30~16:23",
+        "times": {
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.38
+                }
+            ]
+        },
+        "location": "S.R"
+    },
+    {
+        "id": "babf45b9-1f93-461e-83e9-e864388ec41b",
+        "instructor": "Hyun-ju Kim",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "High Intermediate Writing",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "58fc6f97-3944-4ec0-80d2-b0e95eb2e32f",
+        "instructor": "Hyun-ju Kim",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "High Intermediate Writing",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "583a0ff2-9a0f-49db-8aad-8e0a82d89c30",
+        "instructor": "Hyun-ju Kim",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "High Intermediate Writing",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "fd14e10e-3cfb-4a2b-be11-f0d6c4086a65",
+        "instructor": "Josalyn Knapic",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 9:0~10:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "4baf5cf6-6281-401d-84ff-be7f9b58fd6b",
+        "instructor": "Josalyn Knapic",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "74ac5af5-fa83-4fb5-884c-dfea6b839f15",
+        "instructor": "Josalyn Knapic",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 14:0~15:20",
+        "times": {
+            "0": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "bf94c563-9479-4c56-8dd9-8b890191423c",
+        "instructor": "Rachel Ewing",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 15:30~16:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "c780dbe7-1924-4ef9-a2e9-44520c71197a",
+        "instructor": "Josalyn Knapic",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "de6df42e-5ece-4969-9744-e5bb35a31fb4",
+        "instructor": "Gary Sasala",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Advanced Writing Academic Eng",
+        "major": "WAE",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A704"
+    },
+    {
+        "id": "ccb5f9bf-4db5-465a-8240-9af709d64ade",
+        "instructor": "Andrew Lasher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "MW 10:30~11:50",
+        "times": {
+            "0": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "2": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B313"
+    },
+    {
+        "id": "e0be902a-f2e9-4172-bd74-97a23ebe4b4a",
+        "instructor": "Timothy Fletcher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "265158e3-529f-4e27-b9e3-f0397d231d98",
+        "instructor": "Andrew Lasher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "b24cbf9a-ac2d-4b08-a5ec-869272c28a3d",
+        "instructor": "Andrew Lasher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "75179497-57da-44cb-b3ca-74c4ef28e0e2",
+        "instructor": "Andrew Schenck",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A114"
+    },
+    {
+        "id": "575b1b45-af0e-400e-bc04-84d9947bfa30",
+        "instructor": "Andrew Schenck",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Introductory Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 15:30~16:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 15.5,
+                    "end_time": 16.83
+                }
+            ]
+        },
+        "location": "A117"
+    },
+    {
+        "id": "208b39de-af1f-40c4-bb44-43a5a737055f",
+        "instructor": "ALEXANDER GREVETT",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "c42b6f12-ccc8-4630-be51-4295cd92de93",
+        "instructor": "Timothy Fletcher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 10:30~11:50",
+        "times": {
+            "1": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 10.5,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B206"
+    },
+    {
+        "id": "034217de-a9cf-46ef-8e4d-dcdc3437bff7",
+        "instructor": "ALEXANDER GREVETT",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A312"
+    },
+    {
+        "id": "28bb4bb1-bf08-45e2-b694-4003ddc29360",
+        "instructor": "Timothy Fletcher",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 14:0~15:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 14.0,
+                    "end_time": 15.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "1d220946-7ee2-4966-9d71-cba00536f9af",
+        "instructor": "ALEXANDER GREVETT",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Intermediate Writing Workshop",
+        "major": "WRT",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "TUTH 9:0~10:20",
+        "times": {
+            "1": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 10.33
+                }
+            ]
+        },
+        "location": "A116"
+    },
+    {
+        "id": "187d2018-c7e2-477f-b0de-0612f3c6da2e",
+        "instructor": "Juhyun Woo",
+        "department": "Faculty of Sciences and Humanities Course",
+        "title": "Sociology of Gender",
+        "major": "WST",
+        "classification": null,
+        "year": null,
+        "credits": 3.0,
+        "time_str": "F 9:0~11:50",
+        "times": {
+            "4": [
+                {
+                    "start_time": 9.0,
+                    "end_time": 11.83
+                }
+            ]
+        },
+        "location": "B105"
+    }
+]
