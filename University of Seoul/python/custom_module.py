@@ -1,3 +1,16 @@
+def translate(time_str):
+    if not time_str :
+        return None
+
+    time_str = time_str.replace("월", "Mon ")
+    time_str = time_str.replace("화", "Tue ")
+    time_str = time_str.replace("수", "Wed ")
+    time_str = time_str.replace("목", "Thu ")
+    time_str = time_str.replace("금", "Fri ")
+    time_str = time_str.replace("토", "Sat ")
+
+    return time_str
+
 def time_dict(time):
     if time is None :
         return None

@@ -33,6 +33,19 @@ def time_dict(time):
     return dic
 
 
+def translate(time):
+    if time is None :
+        return None
+
+    time = time.replace("월", "Mon")
+    time = time.replace("화", "Tue")
+    time = time.replace("수", "Wed")
+    time = time.replace("목", "Thu")
+    time = time.replace("금", "Fri")
+    time = time.replace("토", "Sat")
+
+    return time
+
 def convert_time(time):
     if time is None:
         return None

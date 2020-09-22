@@ -1,4 +1,4 @@
-from soongsil_modules import time_dict, convert_time, convert_location
+from soongsil_modules import time_dict, convert_time, convert_location, translate
 
 import simplejson as json
 import uuid
@@ -49,7 +49,7 @@ def init():
         dic['location'] = convert_location(row_value[6])
 
         # times_str
-        dic['times_str'] = convert_time(row_value[6])
+        dic['times_str'] = translate(convert_time(row_value[6]))
 
         # times
         dic['times'] = time_dict(row_value[6])

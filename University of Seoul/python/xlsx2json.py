@@ -48,13 +48,13 @@ def init():
         dic['credits'] = float(row_value[11])
 
         # time_str
-        dic['time_str'] = check_null_value(row_value[18])
+        dic['time_str'] = custom_module.translate(check_null_value(row_value[18]))
 
         # times
-        dic['times'] = custom_module.time_dict(dic['time_str'])
+        dic['times'] = custom_module.time_dict(check_null_value(row_value[18]))
 
         # location
-        dic['location'] = custom_module.convert_location(dic['time_str'])
+        dic['location'] = custom_module.convert_location(check_null_value(row_value[18]))
 
         data_list.append(dic)
 

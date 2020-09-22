@@ -1,6 +1,6 @@
 ﻿[
     {
-        "id": "4621943a-a9e9-4e30-b44b-8932f27b4ffa",
+        "id": "ad85a8e0-613b-43dc-92f6-0ce09bca5563",
         "code": "2150632802",
         "title": "Global Issues",
         "instructor": "Gregory",
@@ -10,7 +10,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "월 10:00-11:15",
+        "times_str": "Mon 10:00-11:15",
         "times": {
             "0": [
                 {
@@ -21,7 +21,7 @@
         }
     },
     {
-        "id": "cd317aec-84e7-4c82-bb21-92d05d5692ae",
+        "id": "f38cb3f8-3cd5-4b31-b644-6e5f27631857",
         "code": "2150625901",
         "title": "The History of Korea",
         "instructor": "신지영",
@@ -31,7 +31,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "화 목 09:00-10:15",
+        "times_str": "Tue Thu 09:00-10:15",
         "times": {
             "1": [
                 {
@@ -48,7 +48,7 @@
         }
     },
     {
-        "id": "d31be4e1-4f61-40d2-b2cf-a25e419389d6",
+        "id": "c7d8ef77-cd21-42e1-8581-5887b4a51a7e",
         "code": "2150623701",
         "title": "Korean Arts & Culture",
         "instructor": "송영숙",
@@ -58,7 +58,7 @@
         "year": null,
         "credits": 3.0,
         "location": "20202",
-        "times_str": "화 15:00-16:15",
+        "times_str": "Tue 15:00-16:15",
         "times": {
             "1": [
                 {
@@ -69,7 +69,7 @@
         }
     },
     {
-        "id": "97b3af3d-99a7-4700-9129-11b9f15551be",
+        "id": "97236d39-a838-417a-ad18-e07dacba5d3b",
         "code": "2150623801",
         "title": "Politics in East Asian",
         "instructor": "송영숙",
@@ -79,7 +79,7 @@
         "year": null,
         "credits": 3.0,
         "location": "20303",
-        "times_str": "화 16:30-17:45",
+        "times_str": "Tue 16:30-17:45",
         "times": {
             "1": [
                 {
@@ -90,7 +90,7 @@
         }
     },
     {
-        "id": "5dc168da-5969-4d73-aa55-ec692b8b2ba1",
+        "id": "af5fd616-d8a4-4e4a-bb4d-ac25f96e01e4",
         "code": "2150664001",
         "title": "Politics,Society,Culture of North Korea",
         "instructor": "최용섭",
@@ -100,7 +100,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "월 수 15:00-16:15",
+        "times_str": "Mon Wed 15:00-16:15",
         "times": {
             "0": [
                 {
@@ -117,7 +117,7 @@
         }
     },
     {
-        "id": "69e158a7-1adb-4e2d-ae0e-827c33ce9b76",
+        "id": "ddc8bd69-3e59-4e51-af38-4927791684a7",
         "code": "2150632901",
         "title": "A Global Perspective on Product Promotion",
         "instructor": "Jay",
@@ -127,7 +127,7 @@
         "year": null,
         "credits": 3.0,
         "location": "20202/20501",
-        "times_str": "월 15:00-16:15 수 15:00-16:15",
+        "times_str": "Mon 15:00-16:15 Wed 15:00-16:15",
         "times": {
             "0": [
                 {
@@ -144,7 +144,7 @@
         }
     },
     {
-        "id": "f2bb31ab-8d94-401d-a40c-8b1cd67aa8cf",
+        "id": "bc857198-6e56-42e7-9e8f-f187ec07ad1d",
         "code": "2150664101",
         "title": "Understanding of Korea, China&Japan",
         "instructor": "최용섭",
@@ -154,7 +154,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "월 수 16:30-17:45",
+        "times_str": "Mon Wed 16:30-17:45",
         "times": {
             "0": [
                 {
@@ -171,7 +171,7 @@
         }
     },
     {
-        "id": "0b1ac132-4a57-4045-bab0-22b9c2d831bd",
+        "id": "bcb5f547-812f-4577-b34b-4779824f7e21",
         "code": "2150622301",
         "title": "Introduction to Korean Language1",
         "instructor": "나원주",
@@ -181,7 +181,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "월 18:00-19:15 월 19:30-20:45",
+        "times_str": "Mon 18:00-19:15 Mon 19:30-20:45",
         "times": {
             "0": [
                 {
@@ -196,7 +196,7 @@
         }
     },
     {
-        "id": "46e08bce-b89a-4f40-92b8-b36962db485d",
+        "id": "41eb18ac-da20-48f6-82f0-2f766fbb65cf",
         "code": "2150622302",
         "title": "Introduction to Korean Language1",
         "instructor": "나원주",
@@ -206,7 +206,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "수 18:00-19:15 수 19:30-20:45",
+        "times_str": "Wed 18:00-19:15 Wed 19:30-20:45",
         "times": {
             "2": [
                 {
@@ -221,7 +221,7 @@
         }
     },
     {
-        "id": "39609fc9-d6a7-4990-82fe-72d1727a9d01",
+        "id": "4ae80947-6bdd-4387-bc05-2b22d3724fe9",
         "code": "2150622401",
         "title": "Introduction to Korean Language2",
         "instructor": "이지야",
@@ -231,7 +231,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "월 18:00-19:15",
+        "times_str": "Mon 18:00-19:15",
         "times": {
             "0": [
                 {
@@ -242,7 +242,7 @@
         }
     },
     {
-        "id": "687afa4c-07df-4263-9403-167b1f47951b",
+        "id": "b2f76287-d3da-44b7-88c1-c2e49a1ccb9a",
         "code": "2150622501",
         "title": "Introduction to Korean Language3",
         "instructor": "이지야",
@@ -252,7 +252,7 @@
         "year": null,
         "credits": 3.0,
         "location": null,
-        "times_str": "수 18:00-19:15 수 19:30-20:45",
+        "times_str": "Wed 18:00-19:15 Wed 19:30-20:45",
         "times": {
             "2": [
                 {

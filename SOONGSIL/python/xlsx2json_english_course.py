@@ -1,4 +1,4 @@
-from soongsil_modules import time_dict, convert_department_en, convert_year, convert_location, convert_time
+from soongsil_modules import time_dict, convert_department_en, convert_year, convert_location, convert_time, translate
 
 import simplejson as json
 import uuid
@@ -46,10 +46,10 @@ def init():
         dic['location'] = convert_location(row_value[7])
 
         # time_str
-        dic['time_str'] = convert_time(row_value[7])
+        dic['time_str'] = translate(convert_time(row_value[7]))
 
         # times
-        dic['times'] = time_dict(dic['time_str'])
+        dic['times'] = time_dict(convert_time(row_value[7]))
 
         data_list.append(dic)
 
