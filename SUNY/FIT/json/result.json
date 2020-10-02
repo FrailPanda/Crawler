@@ -1,6 +1,6 @@
 ﻿[
     {
-        "id": "4552d327-05f5-4b83-8364-1675f19d29e3",
+        "id": "1db84788-47bb-48a2-8b0f-52714ef61837",
         "instructor": "Bonkuk Koo",
         "department": "Fashion Design",
         "title": "DESIGN STUDIO I - INTRODUCTION TO DRAPING",
@@ -8,7 +8,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "R 13:10~17:0",
+        "times_str": "R 13:10~17:0",
         "times": {
             "3": [
                 {
@@ -20,7 +20,7 @@
         "location": "C703/C706/C708"
     },
     {
-        "id": "bc451605-1381-45a6-8a42-873eddb55302",
+        "id": "7e23f9c3-03ad-4b14-9251-ceaf9cd349ea",
         "instructor": "Eunsol Lee",
         "department": "Fashion Design",
         "title": "MATERIALS AND CONSTURCTION",
@@ -28,7 +28,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "T 13:10~17:0",
+        "times_str": "T 13:10~17:0",
         "times": {
             "1": [
                 {
@@ -40,7 +40,7 @@
         "location": "C703/C706/C708"
     },
     {
-        "id": "0af74299-bd9d-413a-8947-9a07752250c3",
+        "id": "72eed4cf-1867-40ce-957c-4650e5f1da88",
         "instructor": "Leonard Bess",
         "department": "Fashion Design",
         "title": "DESIGN STUDIO III - STRUCTURED DRAPING",
@@ -48,7 +48,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "M 13:10~16:0/W 14:10~17:0",
+        "times_str": "M 13:10~16:0/W 14:10~17:0",
         "times": {
             "0": [
                 {
@@ -66,7 +66,7 @@
         "location": "C703/C706/C708"
     },
     {
-        "id": "ef436971-31f4-450d-952c-72981c33943e",
+        "id": "d8c18373-5628-4dc2-9b64-0af271d0a422",
         "instructor": "Bonkuk Koo",
         "department": "Fashion Design",
         "title": "APPAREL DESIGN STUDIO - PATTERN MAKING",
@@ -74,7 +74,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 9:10~12:0",
+        "times_str": "TR 9:10~12:0",
         "times": {
             "1": [
                 {
@@ -92,7 +92,7 @@
         "location": "C703/C706/C708"
     },
     {
-        "id": "7022c1d5-96a1-4577-bf13-e6a72f842873",
+        "id": "80c38d70-fb33-4c49-8575-bb1521dd5c54",
         "instructor": "Deborah Won",
         "department": "Fashion Design",
         "title": "VISUAL DESIGN CONCEPTS I",
@@ -100,7 +100,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "MW 10:10~12:0",
+        "times_str": "MW 10:10~12:0",
         "times": {
             "0": [
                 {
@@ -118,7 +118,7 @@
         "location": "C728"
     },
     {
-        "id": "b19d1a0e-7d84-4d06-b986-c8398d37cfab",
+        "id": "42add5d7-99cf-442e-aeea-2871a5a7a0d8",
         "instructor": "Sukyung Kang",
         "department": "Fashion Design",
         "title": "DIGITAL DESIGN STUDIO",
@@ -126,7 +126,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 9:10~12:0",
+        "times_str": "TR 9:10~12:0",
         "times": {
             "1": [
                 {
@@ -144,7 +144,7 @@
         "location": "A314"
     },
     {
-        "id": "9524c1f7-ad39-4160-9ff7-324304ffea2c",
+        "id": "c5f880ad-5715-4ceb-b04e-2b89bc00489f",
         "instructor": "Goeun Cho",
         "department": "Fashion Design",
         "title": "VISUAL DESIGN CONCEPTS III",
@@ -152,7 +152,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "T 13:10~17:0",
+        "times_str": "T 13:10~17:0",
         "times": {
             "1": [
                 {
@@ -164,7 +164,7 @@
         "location": "C728"
     },
     {
-        "id": "ca6dd7e9-acd1-43d5-8f6a-3b4635f5e9a4",
+        "id": "d0b2cd66-8d1f-4d48-aa4b-27f02d4c6fea",
         "instructor": "Sukyung Kang",
         "department": "Fashion Design",
         "title": "DIGITAL DESIGN: FLATS AND FLOATS",
@@ -172,7 +172,7 @@
         "classification": null,
         "year": null,
         "credits": 1.5,
-        "time_str": "R 13:10~16:0",
+        "times_str": "R 13:10~16:0",
         "times": {
             "3": [
                 {
@@ -184,7 +184,7 @@
         "location": "A314"
     },
     {
-        "id": "4c22af05-4740-47d5-9fb5-bde91dc23772",
+        "id": "3f09454c-40d0-4249-b4a6-72b5bf0631f6",
         "instructor": "Yeunho Yang",
         "department": "Fashion Design",
         "title": "DIGITAL DESIGN: FLATS AND FLOATS",
@@ -192,7 +192,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "M 13:10~17:0",
+        "times_str": "M 13:10~17:0",
         "times": {
             "0": [
                 {
@@ -204,7 +204,7 @@
         "location": "C308/C504"
     },
     {
-        "id": "5d9a82de-c21b-445a-be16-09ea57f9f230",
+        "id": "e3d8a469-9a1f-432d-b11f-d8a1da4a3818",
         "instructor": "Taijoon Kwon",
         "department": "Fashion Business Management",
         "title": "ADVERTISING AND PROMOTION",
@@ -212,7 +212,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "M 13:10~16:0",
+        "times_str": "M 13:10~16:0",
         "times": {
             "0": [
                 {
@@ -224,7 +224,7 @@
         "location": "C506"
     },
     {
-        "id": "47c327ee-e131-44cc-83ea-1902c8b26ed7",
+        "id": "00e4ac0d-0f40-410e-b01b-1e364c84cec2",
         "instructor": "Dong Hoo Kim",
         "department": "Fashion Business Management",
         "title": "ADVERTISING AND PROMOTION",
@@ -232,7 +232,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "F 13:10~16:0",
+        "times_str": "F 13:10~16:0",
         "times": {
             "4": [
                 {
@@ -244,7 +244,7 @@
         "location": "C506"
     },
     {
-        "id": "be957d91-c49a-4116-9a6c-7d50e90c0680",
+        "id": "c9b52a97-fd84-480e-b1eb-396d8be51a4d",
         "instructor": "Goeun Cho",
         "department": "Fashion Business Management",
         "title": "FASHION ART AND DESIGN",
@@ -252,7 +252,7 @@
         "classification": null,
         "year": null,
         "credits": 1.5,
-        "time_str": "T 10:10~12:0",
+        "times_str": "T 10:10~12:0",
         "times": {
             "1": [
                 {
@@ -264,7 +264,7 @@
         "location": "C728"
     },
     {
-        "id": "498a08ec-d503-43b6-a879-0883ed56369d",
+        "id": "065780b2-ae4a-42ab-a02e-33b66b8142ee",
         "instructor": "Hye Joo Lee",
         "department": "Fashion Business Management",
         "title": "INTRO TO THE FASHION INDUSTRY",
@@ -272,7 +272,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 10:40~12:0",
+        "times_str": "TR 10:40~12:0",
         "times": {
             "1": [
                 {
@@ -290,7 +290,7 @@
         "location": "C506"
     },
     {
-        "id": "53994026-efa5-4e39-a369-82366cd3b0c1",
+        "id": "2df9b653-c08c-4311-a0f6-b3b415516681",
         "instructor": "Kyeung Ah Lee",
         "department": "Fashion Business Management",
         "title": "INTRO TO THE FASHION INDUSTRY",
@@ -298,7 +298,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 14:40~16:0",
+        "times_str": "TR 14:40~16:0",
         "times": {
             "1": [
                 {
@@ -316,7 +316,7 @@
         "location": "C506"
     },
     {
-        "id": "23f40807-db75-4c58-a917-ca2731ca094d",
+        "id": "43262482-2015-4b77-a6cd-86dd2ca276d1",
         "instructor": "Hyeyeon Jeong",
         "department": "Fashion Business Management",
         "title": "FASHION BUSINESS PRACTICES",
@@ -324,7 +324,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 9:10~10:30",
+        "times_str": "TR 9:10~10:30",
         "times": {
             "1": [
                 {
@@ -342,7 +342,7 @@
         "location": "C506"
     },
     {
-        "id": "1c7681a0-da24-474f-8c56-bcbb48bf2815",
+        "id": "67583b6f-6de2-47c1-9084-d58c6664960a",
         "instructor": "Victoria Kim",
         "department": "Fashion Business Management",
         "title": "FASHION BUSINESS PRACTICES",
@@ -350,7 +350,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 13:10~14:30",
+        "times_str": "TR 13:10~14:30",
         "times": {
             "1": [
                 {
@@ -368,7 +368,7 @@
         "location": "C506"
     },
     {
-        "id": "0f89d0f0-aa08-494e-a781-d722093463b3",
+        "id": "5e5f052d-8d40-41fe-bd8e-386e1fef2c36",
         "instructor": "Hyeyeon Jeong",
         "department": "Fashion Business Management",
         "title": "PRODUCT KNOWLEDGE FOR MERCHANDISING",
@@ -376,7 +376,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "T 13:10~16:0",
+        "times_str": "T 13:10~16:0",
         "times": {
             "1": [
                 {
@@ -388,7 +388,7 @@
         "location": "C504"
     },
     {
-        "id": "188a05a1-d750-48e0-8ec1-551515d66e57",
+        "id": "d4436e30-4d65-4806-a591-dd2e8832f201",
         "instructor": "Sanghee Lee",
         "department": "Fashion Business Management",
         "title": "CREATIVE FASHION PRESENTATIONS",
@@ -396,7 +396,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "M 13:10~16:0",
+        "times_str": "M 13:10~16:0",
         "times": {
             "0": [
                 {
@@ -408,7 +408,7 @@
         "location": "A314/B104"
     },
     {
-        "id": "684a1062-04d3-4d04-a7e4-899ae6f08162",
+        "id": "5ca28a23-16f4-4af2-89c7-a40dfe292396",
         "instructor": "Hyojung Suk",
         "department": "Fashion Business Management",
         "title": "MERCHANDISING MATH APPLICATIONS",
@@ -416,7 +416,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "MW 9:10~10:30",
+        "times_str": "MW 9:10~10:30",
         "times": {
             "0": [
                 {
@@ -434,7 +434,7 @@
         "location": "C506"
     },
     {
-        "id": "2bd7b37f-1929-46aa-9063-ef40fe42f483",
+        "id": "4d8f5a1f-b9a2-40eb-916c-bedd717530e8",
         "instructor": "Hyojung Suk",
         "department": "Fashion Business Management",
         "title": "MERCHANDISING MATH APPLICATIONS",
@@ -442,7 +442,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "MW 10:40~12:0",
+        "times_str": "MW 10:40~12:0",
         "times": {
             "0": [
                 {
@@ -460,7 +460,7 @@
         "location": "C506"
     },
     {
-        "id": "db1c4976-5ac7-40ba-a49b-f7df2e018dcd",
+        "id": "e1aab125-699a-4e11-a6d0-1af1eab56350",
         "instructor": "Sunghee Kim",
         "department": "Fashion Business Management",
         "title": "EXCEL FOR BUSINESS",
@@ -468,7 +468,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "WF 9:10~10:30",
+        "times_str": "WF 9:10~10:30",
         "times": {
             "2": [
                 {
@@ -486,7 +486,7 @@
         "location": "A115"
     },
     {
-        "id": "1c230d5b-56c6-4359-b61a-21830feccb0f",
+        "id": "a52ab8be-d054-4aae-b68f-8c8d085700f3",
         "instructor": "Sunghee Kim",
         "department": "Fashion Business Management",
         "title": "EXCEL FOR BUSINESS",
@@ -494,7 +494,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "WF 10:40~12:0",
+        "times_str": "WF 10:40~12:0",
         "times": {
             "2": [
                 {
@@ -512,7 +512,7 @@
         "location": "A115"
     },
     {
-        "id": "b956fd9e-4764-4d1f-b2e0-fb5f84d7c81d",
+        "id": "1472cb13-bd56-4b93-8358-a805779d836f",
         "instructor": "Linda Kim",
         "department": "Fashion Business Management",
         "title": "TEXTILE COLOR FUNDAMENTALS",
@@ -520,7 +520,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "T 9:10~12:0",
+        "times_str": "T 9:10~12:0",
         "times": {
             "1": [
                 {
@@ -532,7 +532,7 @@
         "location": "C726"
     },
     {
-        "id": "d43c89eb-8dc1-4a4f-974b-298c8be8a2f4",
+        "id": "edf5a67d-6266-43f9-a49d-1190df564c73",
         "instructor": "Timothy Fletcher",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH COMPOSITION",
@@ -540,7 +540,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 17:10~18:30",
+        "times_str": "TR 17:10~18:30",
         "times": {
             "1": [
                 {
@@ -558,7 +558,7 @@
         "location": "B205"
     },
     {
-        "id": "4a43fafe-9779-4905-acfe-0d3d135de925",
+        "id": "bab69878-5674-4459-ada7-49175cbba2a2",
         "instructor": "Alex Grevett",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH COMPOSITION",
@@ -566,7 +566,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 17:10~18:30",
+        "times_str": "TR 17:10~18:30",
         "times": {
             "1": [
                 {
@@ -584,7 +584,7 @@
         "location": "C504"
     },
     {
-        "id": "8e144149-c693-4a95-a23c-4ad30d32a5e5",
+        "id": "c8c793b5-a2a1-420b-91dd-e0d2d95c42a0",
         "instructor": "Andrew Schenck",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "SHORT FICTION",
@@ -592,7 +592,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "TR 17:10~18:30",
+        "times_str": "TR 17:10~18:30",
         "times": {
             "1": [
                 {
@@ -610,7 +610,7 @@
         "location": "C506"
     },
     {
-        "id": "e10e617a-978f-4e46-bea5-fc1a00875a8f",
+        "id": "5724beb3-b025-446d-b268-ba212607bbc7",
         "instructor": "Andrew Schenck",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "SHORT FICTION",
@@ -618,7 +618,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "MW 9:10~10:30",
+        "times_str": "MW 9:10~10:30",
         "times": {
             "0": [
                 {
@@ -636,7 +636,7 @@
         "location": "C504"
     },
     {
-        "id": "c06d36bb-3cec-4ac9-8aab-01a6d7660c89",
+        "id": "5269fd78-1a2c-41be-ac8a-dea0cd83c550",
         "instructor": "Gary Sasala",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH AS A SECOND LANGUAGE WORKSHOP",
@@ -644,7 +644,7 @@
         "classification": null,
         "year": null,
         "credits": 1.0,
-        "time_str": "M 8:40~10:0/R 17:10~18:30",
+        "times_str": "M 8:40~10:0/R 17:10~18:30",
         "times": {
             "0": [
                 {
@@ -662,7 +662,7 @@
         "location": "B204"
     },
     {
-        "id": "e1efcbea-90ae-46c0-aa9e-3f42f5be635b",
+        "id": "aa8f1199-ffe4-4c52-a783-1573a226948b",
         "instructor": "Gary Sasala",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH AS A SECOND LANGUAGE WORKSHOP",
@@ -670,7 +670,7 @@
         "classification": null,
         "year": null,
         "credits": 1.0,
-        "time_str": "T 17:10~18:30/F 18:10~19:30",
+        "times_str": "T 17:10~18:30/F 18:10~19:30",
         "times": {
             "1": [
                 {
@@ -688,7 +688,7 @@
         "location": "B204"
     },
     {
-        "id": "8c1fdef0-7f2b-4174-b1c1-6a07772f2ea3",
+        "id": "3389b011-d8e8-4a37-8310-169e8213af9b",
         "instructor": "Gary Sasala",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH AS A SECOND LANGUAGE",
@@ -696,7 +696,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "W 17:10~19:0",
+        "times_str": "W 17:10~19:0",
         "times": {
             "2": [
                 {
@@ -708,7 +708,7 @@
         "location": "C504"
     },
     {
-        "id": "5964577b-ebd0-4f68-aab9-c8eeccc4eb76",
+        "id": "06fdd114-9afb-4647-bef5-6a34f2ff3cbb",
         "instructor": "Gary Sasala",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ENGLISH AS A SECOND LANGUAGE",
@@ -716,7 +716,7 @@
         "classification": null,
         "year": null,
         "credits": 2.0,
-        "time_str": "M 10:10~12:0",
+        "times_str": "M 10:10~12:0",
         "times": {
             "0": [
                 {
@@ -728,7 +728,7 @@
         "location": "B207"
     },
     {
-        "id": "a353e633-11fa-45e8-a372-578d1e9d8710",
+        "id": "e54ad12d-4b87-4e8c-a5ef-80ef0b0465ed",
         "instructor": "Sun Park",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "INTRODUCTION TO FILM",
@@ -736,7 +736,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "M 17:10~19:0/W 15:10~17:0",
+        "times_str": "M 17:10~19:0/W 15:10~17:0",
         "times": {
             "0": [
                 {
@@ -754,7 +754,7 @@
         "location": "Seminar Room"
     },
     {
-        "id": "d12a7bd3-9c87-42f4-8787-ae751a4aa4df",
+        "id": "676b58d9-7aca-405c-86e7-576a6059ee76",
         "instructor": "Yookyoung Choi",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "HISTORY OF WESTERN ART & CIVILIZATION",
@@ -762,7 +762,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "F 13:10~16:0",
+        "times_str": "F 13:10~16:0",
         "times": {
             "4": [
                 {
@@ -774,7 +774,7 @@
         "location": "C107"
     },
     {
-        "id": "6b1ea5c5-4202-4f13-af22-5120c7b08c72",
+        "id": "0afff038-1b31-40a5-9098-effd895f51e1",
         "instructor": "Donald Bellomy",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "U.S. HISTORY: CIVIL WAR-PRESENT",
@@ -782,7 +782,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "F 9:10~12:0",
+        "times_str": "F 9:10~12:0",
         "times": {
             "4": [
                 {
@@ -794,7 +794,7 @@
         "location": "C506"
     },
     {
-        "id": "2a7f64cc-e87c-40e7-87d5-9ad836442082",
+        "id": "ef755b73-bbc2-4843-88d8-f2b4bc48e147",
         "instructor": "Sunghee Kim",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "BASIC MATHEMATICS",
@@ -802,7 +802,7 @@
         "classification": null,
         "year": null,
         "credits": 4.0,
-        "time_str": "W 14:10~16:0/F 16:10~18:0",
+        "times_str": "W 14:10~16:0/F 16:10~18:0",
         "times": {
             "2": [
                 {
@@ -820,7 +820,7 @@
         "location": "C504"
     },
     {
-        "id": "a402faa3-d2c9-4546-9c69-fb0268fb85fb",
+        "id": "bac17850-d211-4a5e-a9a4-fb2d1885b18d",
         "instructor": "Sehwan Yoo",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "GEOMETRY AND THE ART OF DESIGN",
@@ -828,7 +828,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "MW 10:40~12:0",
+        "times_str": "MW 10:40~12:0",
         "times": {
             "0": [
                 {
@@ -846,7 +846,7 @@
         "location": "C504"
     },
     {
-        "id": "1ac63a5b-b7e2-4cb6-9c1f-a6c6572afdde",
+        "id": "80481c91-476d-41f6-99e6-c71a5596addc",
         "instructor": "Gerald Stokes",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "ECOLOGY AND ENVIRONMENTAL PROBLEMS",
@@ -854,7 +854,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "MW 17:10~18:30",
+        "times_str": "MW 17:10~18:30",
         "times": {
             "0": [
                 {
@@ -872,7 +872,7 @@
         "location": "Small Theater"
     },
     {
-        "id": "ed2ff862-4560-45e0-8a95-56a872585a65",
+        "id": "eb1c6e24-11cd-471c-b7ed-99cfa696f437",
         "instructor": "Jaehun Shim",
         "department": "Faculty of Sciences and Humanities Courses (FIT)",
         "title": "MACROECONOMICS",
@@ -880,7 +880,7 @@
         "classification": null,
         "year": null,
         "credits": 3.0,
-        "time_str": "W 12:10~15:0",
+        "times_str": "W 12:10~15:0",
         "times": {
             "2": [
                 {

@@ -45,8 +45,8 @@ def init():
         # location
         dic['location'] = convert_location(row_value[7])
 
-        # time_str
-        dic['time_str'] = translate(convert_time(row_value[7]))
+        # times_str
+        dic['times_str'] = translate(convert_time(row_value[7]))
 
         # times
         dic['times'] = time_dict(convert_time(row_value[7]))

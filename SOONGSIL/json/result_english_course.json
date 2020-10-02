@@ -1,6 +1,6 @@
 ﻿[
     {
-        "id": "21a01511-342b-49e6-87a0-3260ec6d3913",
+        "id": "eb49b9b0-5aff-4522-9e64-327017218c96",
         "code": "2150571701",
         "instructor": "Jay",
         "department": "College of Business Administration",
@@ -10,7 +10,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "12207",
-        "time_str": "Mon 09:00-10:15",
+        "times_str": "Mon 09:00-10:15",
         "times": {
             "0": [
                 {
@@ -21,7 +21,7 @@
         }
     },
     {
-        "id": "ed9bbdec-250a-4729-803f-ecdc33f02b95",
+        "id": "df82e796-0129-46f0-a56c-37e4bd87ccc1",
         "code": "2150571702",
         "instructor": "Jay",
         "department": "College of Business Administration",
@@ -31,7 +31,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "12207",
-        "time_str": "Thu 10:30-11:45",
+        "times_str": "Thu 10:30-11:45",
         "times": {
             "3": [
                 {
@@ -42,7 +42,7 @@
         }
     },
     {
-        "id": "cde1bc29-7e05-43fe-847e-9f10ceeeae22",
+        "id": "819c1039-f591-485f-9a82-decf55aad2a0",
         "code": "2150371603",
         "instructor": "김용덕",
         "department": "College of Business Administration",
@@ -52,7 +52,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31207",
-        "time_str": "Tue 10:30-11:45",
+        "times_str": "Tue 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -63,7 +63,7 @@
         }
     },
     {
-        "id": "70f4e92d-bedf-4c4e-86f5-416eaa2078fc",
+        "id": "92aa8550-07c9-4101-964b-10b59f0ef52f",
         "code": "2150338201",
         "instructor": "Jay",
         "department": "College of Business Administration",
@@ -73,7 +73,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "12207",
-        "time_str": "Thu 09:00-10:15",
+        "times_str": "Thu 09:00-10:15",
         "times": {
             "3": [
                 {
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "664c9998-b0b5-4532-9662-939aa0784334",
+        "id": "b3808986-856f-4242-8bec-a3a3e57a92ac",
         "code": "2150626401",
         "instructor": "Eric",
         "department": "College of Law",
@@ -94,7 +94,7 @@
         "year": "1",
         "credits": 3.0,
         "location": "11407",
-        "time_str": "Tue 10:30-11:45",
+        "times_str": "Tue 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -105,7 +105,7 @@
         }
     },
     {
-        "id": "32ebc98a-72aa-4265-a060-943affeccf14",
+        "id": "f3e99d9a-7c69-4e87-9d17-4ce6da52a2c9",
         "code": "2150626402",
         "instructor": "Eric",
         "department": "College of Law",
@@ -115,7 +115,7 @@
         "year": "1",
         "credits": 3.0,
         "location": "11407",
-        "time_str": "Tue 13:30-14:45",
+        "times_str": "Tue 13:30-14:45",
         "times": {
             "1": [
                 {
@@ -126,7 +126,7 @@
         }
     },
     {
-        "id": "d3914646-f3fb-40de-bb48-fb80fa1a39fe",
+        "id": "7188e320-1166-44d9-ad1b-232868f88375",
         "code": "5023312101",
         "instructor": "Christophe",
         "department": "College of Law",
@@ -136,7 +136,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "20304",
-        "time_str": "Thu 09:00-10:15",
+        "times_str": "Thu 09:00-10:15",
         "times": {
             "3": [
                 {
@@ -147,7 +147,7 @@
         }
     },
     {
-        "id": "fc954a2d-f354-4240-8981-47b50451a5e2",
+        "id": "0b148f3b-3d80-493e-ac55-737eb357cd58",
         "code": "5024478001",
         "instructor": "이상현",
         "department": "College of Law",
@@ -157,7 +157,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "11404",
-        "time_str": "Tue 13:30-14:45",
+        "times_str": "Tue 13:30-14:45",
         "times": {
             "1": [
                 {
@@ -168,7 +168,7 @@
         }
     },
     {
-        "id": "c9ae03f7-368e-4cad-a10e-cdecfa6003fb",
+        "id": "6cd16ea4-659c-453a-830b-66c445c2ea9c",
         "code": "5024477801",
         "instructor": "Eric",
         "department": "College of Law",
@@ -178,7 +178,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "11410",
-        "time_str": "Wed 13:30-14:45",
+        "times_str": "Wed 13:30-14:45",
         "times": {
             "2": [
                 {
@@ -189,7 +189,7 @@
         }
     },
     {
-        "id": "04609544-5755-4585-8754-a48d7fde5aeb",
+        "id": "6a871846-10bb-4df0-8664-41f422236b9f",
         "code": "2150645201",
         "instructor": "엄태진",
         "department": "College of Law",
@@ -199,7 +199,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "11404",
-        "time_str": "Thu 13:30-14:45",
+        "times_str": "Thu 13:30-14:45",
         "times": {
             "3": [
                 {
@@ -210,7 +210,7 @@
         }
     },
     {
-        "id": "f69df8b4-9e20-4685-afd5-8fe0ab2352c6",
+        "id": "490f253c-0e07-4fec-bf68-fb644fbcbcc1",
         "code": "2150552401",
         "instructor": "Eric",
         "department": "College of Law",
@@ -220,7 +220,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "20304",
-        "time_str": "Mon 13:30-14:45",
+        "times_str": "Mon 13:30-14:45",
         "times": {
             "0": [
                 {
@@ -231,7 +231,7 @@
         }
     },
     {
-        "id": "b15b283f-8be7-4281-a950-0cdeb5548699",
+        "id": "568a4a04-0657-4f6e-8ec0-c94a328418ce",
         "code": "2150554901",
         "instructor": "Christophe",
         "department": "College of Law",
@@ -241,7 +241,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "20304",
-        "time_str": "Thu 10:30-11:45",
+        "times_str": "Thu 10:30-11:45",
         "times": {
             "3": [
                 {
@@ -252,7 +252,7 @@
         }
     },
     {
-        "id": "637561d0-43ac-4cea-9aa9-a310fdf7d943",
+        "id": "ba24c724-a3f2-4547-9d2f-b6043e74eec0",
         "code": "2150048401",
         "instructor": "Christophe",
         "department": "College of Law",
@@ -262,7 +262,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "20304",
-        "time_str": "Thu 12:00-13:15",
+        "times_str": "Thu 12:00-13:15",
         "times": {
             "3": [
                 {
@@ -273,7 +273,7 @@
         }
     },
     {
-        "id": "1e5bb98a-c413-4a0b-8098-ae7619fa5b7e",
+        "id": "2cfe8c6d-7338-4804-87c5-293c358db408",
         "code": "5022192801",
         "instructor": "윤준성",
         "department": "College of Information Technology",
@@ -283,11 +283,11 @@
         "year": "4",
         "credits": 3.0,
         "location": null,
-        "time_str": "",
+        "times_str": "",
         "times": {}
     },
     {
-        "id": "c019a66b-2078-4c21-9603-023d1dbb1305",
+        "id": "414df742-ea73-4148-a1d7-ab2d81f104e1",
         "code": "2150353501",
         "instructor": "김인선",
         "department": "College of Economics & International Commerce",
@@ -297,7 +297,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31201",
-        "time_str": "Tue 10:30-11:45",
+        "times_str": "Tue 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -308,7 +308,7 @@
         }
     },
     {
-        "id": "1a156c95-bc21-4980-8746-c79382d496f7",
+        "id": "2a8083c4-1b9a-462b-89a9-7616fcd730a9",
         "code": "2150353502",
         "instructor": "김인선",
         "department": "College of Economics & International Commerce",
@@ -318,7 +318,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "20204",
-        "time_str": "Tue 13:30-14:45",
+        "times_str": "Tue 13:30-14:45",
         "times": {
             "1": [
                 {
@@ -329,7 +329,7 @@
         }
     },
     {
-        "id": "f693b074-a28a-4a20-a003-08db071b447a",
+        "id": "e28ac63c-f3de-4511-9ed5-bf0af55aa94d",
         "code": "2150405201",
         "instructor": "최혜린",
         "department": "College of Economics & International Commerce",
@@ -339,7 +339,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "31110",
-        "time_str": "Mon 10:30-11:45",
+        "times_str": "Mon 10:30-11:45",
         "times": {
             "0": [
                 {
@@ -350,7 +350,7 @@
         }
     },
     {
-        "id": "652c8491-f9cd-4a17-9a0d-d751faaf41c9",
+        "id": "a5c80b71-f46c-4e60-9de7-67cf7f7460df",
         "code": "2150569001",
         "instructor": "이병문",
         "department": "College of Economics & International Commerce",
@@ -360,7 +360,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31201",
-        "time_str": "Thu 10:30-11:45",
+        "times_str": "Thu 10:30-11:45",
         "times": {
             "3": [
                 {
@@ -371,7 +371,7 @@
         }
     },
     {
-        "id": "59440c9a-4df0-4be2-a124-d543642b1cb7",
+        "id": "82999d4d-4c02-4a8e-9846-6d8771b84b8b",
         "code": "2150405401",
         "instructor": "정지윤",
         "department": "College of Economics & International Commerce",
@@ -381,7 +381,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31317",
-        "time_str": "Tue Thu 09:00-10:15",
+        "times_str": "Tue Thu 09:00-10:15",
         "times": {
             "1": [
                 {
@@ -398,7 +398,7 @@
         }
     },
     {
-        "id": "ae6bf0ce-fdd8-4c7a-9cf0-9a37c1fd64db",
+        "id": "17d903b7-b2c9-4aa4-b339-a49a6c1b33bb",
         "code": "2150405402",
         "instructor": "정지윤",
         "department": "College of Economics & International Commerce",
@@ -408,7 +408,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31317",
-        "time_str": "Tue Thu 10:30-11:45",
+        "times_str": "Tue Thu 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -425,7 +425,7 @@
         }
     },
     {
-        "id": "b68da327-583a-468c-bbcd-832ee8e3b36f",
+        "id": "0ca0875b-a1e0-4e73-9a43-35977b0769f3",
         "code": "2150692702",
         "instructor": "박정준",
         "department": "College of Economics & International Commerce",
@@ -435,7 +435,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31211",
-        "time_str": "Mon 10:30-11:45 Mon 12:00-13:15",
+        "times_str": "Mon 10:30-11:45 Mon 12:00-13:15",
         "times": {
             "0": [
                 {
@@ -450,7 +450,7 @@
         }
     },
     {
-        "id": "70d0dba7-d261-4bff-ba1e-127f1b2598fe",
+        "id": "0e2ec651-3b73-49d2-a092-a19b812fe279",
         "code": "2150426801",
         "instructor": "Doris",
         "department": "College of Natural Sciences",
@@ -460,7 +460,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "12311",
-        "time_str": "Mon 10:30-11:45",
+        "times_str": "Mon 10:30-11:45",
         "times": {
             "0": [
                 {
@@ -471,7 +471,7 @@
         }
     },
     {
-        "id": "36d7de8b-ceb4-4577-b205-237898a4542b",
+        "id": "89283109-9b7e-4c22-8fb5-3053af5fc9c5",
         "code": "2150580401",
         "instructor": "Doris",
         "department": "College of Natural Sciences",
@@ -481,7 +481,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "12311",
-        "time_str": "Wed 09:00-10:15",
+        "times_str": "Wed 09:00-10:15",
         "times": {
             "2": [
                 {
@@ -492,7 +492,7 @@
         }
     },
     {
-        "id": "9762ab15-4cee-4094-86ef-3fae7eb20623",
+        "id": "709d355b-b7ec-4944-8ed3-792b0186df16",
         "code": "2150673801",
         "instructor": "정성희",
         "department": "Baird University College",
@@ -502,7 +502,7 @@
         "year": "ALL",
         "credits": 3.0,
         "location": null,
-        "time_str": "Mon 15:00-16:15 Fri 16:30-17:45",
+        "times_str": "Mon 15:00-16:15 Fri 16:30-17:45",
         "times": {
             "0": [
                 {
@@ -519,7 +519,7 @@
         }
     },
     {
-        "id": "798f3e4a-e0f2-4776-a1fc-6420ff9a26d6",
+        "id": "10652114-6f4c-4316-9f52-e2af6c1b05c4",
         "code": "2150673802",
         "instructor": "정성희",
         "department": "Baird University College",
@@ -529,7 +529,7 @@
         "year": "ALL",
         "credits": 3.0,
         "location": null,
-        "time_str": "Tue Fri 15:00-16:15",
+        "times_str": "Tue Fri 15:00-16:15",
         "times": {
             "1": [
                 {
@@ -546,7 +546,7 @@
         }
     },
     {
-        "id": "382b13fe-2801-4bf9-9987-5b655b0c0205",
+        "id": "4302dfc2-bf55-4d93-9a82-66d8426f660e",
         "code": "2150303733",
         "instructor": "성신형",
         "department": "Baird University College",
@@ -556,11 +556,11 @@
         "year": "ALL",
         "credits": 3.0,
         "location": null,
-        "time_str": "",
+        "times_str": "",
         "times": {}
     },
     {
-        "id": "36346b98-593b-47a8-a58f-920480f6b114",
+        "id": "03e9675b-a6c0-4dd0-bcc0-3602191e9eab",
         "code": "2150483601",
         "instructor": "조문수",
         "department": "College of Engineering",
@@ -570,7 +570,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "050116",
-        "time_str": "Mon 12:00-13:15",
+        "times_str": "Mon 12:00-13:15",
         "times": {
             "0": [
                 {
@@ -581,7 +581,7 @@
         }
     },
     {
-        "id": "31ee56bd-df6e-459f-9ec5-cbe8ab06b468",
+        "id": "bb334b7c-1983-4dba-ad36-b1f7b3e79cf3",
         "code": "2150483602",
         "instructor": "조문수",
         "department": "College of Engineering",
@@ -591,7 +591,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "050113",
-        "time_str": "Tue 12:00-13:15",
+        "times_str": "Tue 12:00-13:15",
         "times": {
             "1": [
                 {
@@ -602,7 +602,7 @@
         }
     },
     {
-        "id": "edc25595-3b5b-4730-9c79-0f7c46fdda52",
+        "id": "fc668a83-f08e-47b7-9a4d-6eb42ff4dbfe",
         "code": "2150053201",
         "instructor": "김수동",
         "department": "College of Information Technology",
@@ -612,7 +612,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "21304",
-        "time_str": "Tue 10:30-11:45",
+        "times_str": "Tue 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -623,7 +623,7 @@
         }
     },
     {
-        "id": "549a92d5-41a2-4240-84e4-71b34c7ec153",
+        "id": "20e737d1-6cf0-436b-8dd1-0ce5b895349d",
         "code": "2150151001",
         "instructor": "송윤정",
         "department": "College of Natural Sciences",
@@ -633,7 +633,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "31316",
-        "time_str": "Mon 12:00-13:15",
+        "times_str": "Mon 12:00-13:15",
         "times": {
             "0": [
                 {
@@ -644,7 +644,7 @@
         }
     },
     {
-        "id": "ed9b8ac5-53ee-448a-9416-8762149abb33",
+        "id": "4aa2237c-7740-4513-ac02-43c319b233b6",
         "code": "2150199401",
         "instructor": "송윤정",
         "department": "College of Natural Sciences",
@@ -654,7 +654,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31316",
-        "time_str": "Fri 12:00-13:15",
+        "times_str": "Fri 12:00-13:15",
         "times": {
             "4": [
                 {
@@ -665,7 +665,7 @@
         }
     },
     {
-        "id": "ab3a4bb3-97ef-4c4f-bb49-6a57716ddb31",
+        "id": "02e6a835-0e90-44a3-af24-04739c92736f",
         "code": "2150020601",
         "instructor": "송윤정",
         "department": "College of Natural Sciences",
@@ -675,7 +675,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "31316",
-        "time_str": "Wed 12:00-13:15",
+        "times_str": "Wed 12:00-13:15",
         "times": {
             "2": [
                 {
@@ -686,7 +686,7 @@
         }
     },
     {
-        "id": "7b57bebe-0573-4fe9-988b-e9bb101b2bb7",
+        "id": "0e6109fb-c9b2-48ad-8e36-e022d55c81a0",
         "code": "2150466401",
         "instructor": "박웅기",
         "department": "College of Social Sciences",
@@ -696,7 +696,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "12329/12526",
-        "time_str": "Tue 09:00-10:15 Tue 10:30-11:45",
+        "times_str": "Tue 09:00-10:15 Tue 10:30-11:45",
         "times": {
             "1": [
                 {
@@ -711,7 +711,7 @@
         }
     },
     {
-        "id": "184d76ba-5097-40b1-9cb7-aa2dd2c41b3a",
+        "id": "31dd9db2-5f15-49fa-be55-271480d14f99",
         "code": "2150545401",
         "instructor": "박웅기",
         "department": "College of Social Sciences",
@@ -721,7 +721,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "12329/12526",
-        "time_str": "Mon 09:00-10:15 Mon 10:30-11:45",
+        "times_str": "Mon 09:00-10:15 Mon 10:30-11:45",
         "times": {
             "0": [
                 {
@@ -736,7 +736,7 @@
         }
     },
     {
-        "id": "ee5d0071-6ba8-48cc-bac3-38d935b9e3ae",
+        "id": "6a2b5db6-31fa-4b74-ace2-e0e62962d0ee",
         "code": "2150466402",
         "instructor": "박웅기",
         "department": "College of Social Sciences",
@@ -746,7 +746,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "12329/12526",
-        "time_str": "Fri 13:30-14:45 Fri 15:00-16:15",
+        "times_str": "Fri 13:30-14:45 Fri 15:00-16:15",
         "times": {
             "4": [
                 {
@@ -761,7 +761,7 @@
         }
     },
     {
-        "id": "b5732f1f-5869-4283-a60a-72296b8c7cbc",
+        "id": "ed8b2604-cb2c-4c97-b45a-ce06c90503b5",
         "code": "2150619201",
         "instructor": "김진섭",
         "department": "College of Social Sciences",
@@ -771,11 +771,11 @@
         "year": "2",
         "credits": 3.0,
         "location": null,
-        "time_str": "",
+        "times_str": "",
         "times": {}
     },
     {
-        "id": "22d9ded4-e668-41fc-81c4-f77855ac567a",
+        "id": "ad049848-7cc0-4994-8045-564014878384",
         "code": "2150545402",
         "instructor": "박웅기",
         "department": "College of Social Sciences",
@@ -785,7 +785,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "12209/12526",
-        "time_str": "Thu 13:30-14:45 Thu 15:00-16:15",
+        "times_str": "Thu 13:30-14:45 Thu 15:00-16:15",
         "times": {
             "3": [
                 {
@@ -800,7 +800,7 @@
         }
     },
     {
-        "id": "9a7f3f19-3d81-48cb-9fcd-e3c159f13374",
+        "id": "395819d1-9565-4f27-960f-ea2ccf50df92",
         "code": "2150619401",
         "instructor": "김진섭",
         "department": "College of Social Sciences",
@@ -810,11 +810,11 @@
         "year": "3",
         "credits": 3.0,
         "location": null,
-        "time_str": "",
+        "times_str": "",
         "times": {}
     },
     {
-        "id": "878e56cb-b8c0-42f5-b74b-73221749af60",
+        "id": "8983e206-94dc-41e6-8acc-13d37060934d",
         "code": "2150619402",
         "instructor": "김진섭",
         "department": "College of Social Sciences",
@@ -824,11 +824,11 @@
         "year": "3",
         "credits": 3.0,
         "location": null,
-        "time_str": "",
+        "times_str": "",
         "times": {}
     },
     {
-        "id": "1aee8616-dee4-437d-8781-76ee26fee927",
+        "id": "4cfb34ab-cf37-4fea-ab7a-e894e294414b",
         "code": "2150569101",
         "instructor": "James",
         "department": "College of Humanities",
@@ -838,7 +838,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "07402",
-        "time_str": "Tue 13:30-14:45",
+        "times_str": "Tue 13:30-14:45",
         "times": {
             "1": [
                 {
@@ -849,7 +849,7 @@
         }
     },
     {
-        "id": "04920d80-a1e1-4a8a-9a7e-3b1a7c475e89",
+        "id": "e37911ce-ded2-4d2e-990a-b788ec1f6b2a",
         "code": "2150542703",
         "instructor": "Michelle",
         "department": "College of Humanities",
@@ -859,7 +859,7 @@
         "year": "3",
         "credits": 2.0,
         "location": "07403",
-        "time_str": "Thu 16:30-17:20 Thu 17:30-18:20",
+        "times_str": "Thu 16:30-17:20 Thu 17:30-18:20",
         "times": {
             "3": [
                 {
@@ -874,7 +874,7 @@
         }
     },
     {
-        "id": "fb357963-ec62-4f97-aa3a-98fce029c758",
+        "id": "fd1015ca-af51-415e-94e6-c37582066bc5",
         "code": "2150529302",
         "instructor": "James",
         "department": "College of Humanities",
@@ -884,7 +884,7 @@
         "year": "2",
         "credits": 2.0,
         "location": "07402",
-        "time_str": "Mon 13:30-14:20",
+        "times_str": "Mon 13:30-14:20",
         "times": {
             "0": [
                 {
@@ -895,7 +895,7 @@
         }
     },
     {
-        "id": "5721ddac-84f3-4e52-872a-54bfee3bfbad",
+        "id": "58d42c3b-8df8-4f09-8ea5-60ce3a17fd12",
         "code": "2150542701",
         "instructor": "Michelle",
         "department": "College of Humanities",
@@ -905,7 +905,7 @@
         "year": "3",
         "credits": 2.0,
         "location": "07403",
-        "time_str": "Thu 10:30-11:20 Thu 11:30-12:20",
+        "times_str": "Thu 10:30-11:20 Thu 11:30-12:20",
         "times": {
             "3": [
                 {
@@ -920,7 +920,7 @@
         }
     },
     {
-        "id": "8aedb698-6c3b-4717-ae4e-26f7eb7bbf41",
+        "id": "f67e0977-ead9-42f5-9339-2f43ef7c9ff3",
         "code": "2150529301",
         "instructor": "James",
         "department": "College of Humanities",
@@ -930,7 +930,7 @@
         "year": "2",
         "credits": 2.0,
         "location": "07402",
-        "time_str": "Mon 12:00-12:50",
+        "times_str": "Mon 12:00-12:50",
         "times": {
             "0": [
                 {
@@ -941,7 +941,7 @@
         }
     },
     {
-        "id": "d3bf53c4-6f24-405a-a887-ac56ae855d84",
+        "id": "70f9eb67-0b53-4eb3-b9d8-607302c450b1",
         "code": "2150529303",
         "instructor": "James",
         "department": "College of Humanities",
@@ -951,7 +951,7 @@
         "year": "2",
         "credits": 2.0,
         "location": "07402",
-        "time_str": "Tue 12:00-12:50",
+        "times_str": "Tue 12:00-12:50",
         "times": {
             "1": [
                 {
@@ -962,7 +962,7 @@
         }
     },
     {
-        "id": "a0c8b761-5d06-4f98-a5dd-158122d99f41",
+        "id": "8945aaf8-8430-4f59-a95a-8644435fe399",
         "code": "2150542702",
         "instructor": "Michelle",
         "department": "College of Humanities",
@@ -972,7 +972,7 @@
         "year": "3",
         "credits": 2.0,
         "location": "07403",
-        "time_str": "Thu 13:30-14:20 Thu 14:30-15:20",
+        "times_str": "Thu 13:30-14:20 Thu 14:30-15:20",
         "times": {
             "3": [
                 {
@@ -987,7 +987,7 @@
         }
     },
     {
-        "id": "08bf591a-ebb7-44a5-b3a6-8f315ea71f94",
+        "id": "d5afd27a-a05e-4b45-9167-f1fea6c94dc5",
         "code": "2150665601",
         "instructor": "Michelle",
         "department": "College of Humanities",
@@ -997,7 +997,7 @@
         "year": "ALL",
         "credits": 3.0,
         "location": "07403",
-        "time_str": "Tue 12:00-13:15 Fri 12:00-13:15",
+        "times_str": "Tue 12:00-13:15 Fri 12:00-13:15",
         "times": {
             "1": [
                 {
@@ -1014,7 +1014,7 @@
         }
     },
     {
-        "id": "eed2d8cd-0d51-4878-aace-d2e7010fac8c",
+        "id": "0b74c590-a471-4d42-ba70-24dcea5bf9a7",
         "code": "2150197003",
         "instructor": "Ashraf",
         "department": "College of Engineering",
@@ -1024,7 +1024,7 @@
         "year": "2",
         "credits": 3.0,
         "location": "03208",
-        "time_str": "Thu 15:00-16:15",
+        "times_str": "Thu 15:00-16:15",
         "times": {
             "3": [
                 {
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "id": "667ad981-9bbe-48a8-a7ed-f715199f8936",
+        "id": "a0daf3aa-b923-4099-918b-ae0b90ab6072",
         "code": "2150536802",
         "instructor": "유광복",
         "department": "College of Information Technology",
@@ -1045,7 +1045,7 @@
         "year": "1",
         "credits": 3.0,
         "location": "03111/05B109",
-        "time_str": "Mon 12:00-13:15 Thu 16:30-17:45",
+        "times_str": "Mon 12:00-13:15 Thu 16:30-17:45",
         "times": {
             "0": [
                 {
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "id": "43e01ec2-4e06-4e35-b2aa-ad205d1a8dc4",
+        "id": "423bf7c5-f618-46fb-8071-e306ee533983",
         "code": "2150536803",
         "instructor": "유광복",
         "department": "College of Information Technology",
@@ -1072,7 +1072,7 @@
         "year": "1",
         "credits": 3.0,
         "location": "03111/03314",
-        "time_str": "Mon 13:30-14:45 Thu 15:00-16:15",
+        "times_str": "Mon 13:30-14:45 Thu 15:00-16:15",
         "times": {
             "0": [
                 {
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "id": "2be23497-c36f-49d1-9d1c-bb6969edd14d",
+        "id": "93db1b05-0467-4d38-a520-f66b3a13d4c1",
         "code": "2150349401",
         "instructor": "박재영",
         "department": "College of Information Technology",
@@ -1099,7 +1099,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "050102",
-        "time_str": "Mon 13:30-14:45",
+        "times_str": "Mon 13:30-14:45",
         "times": {
             "0": [
                 {
@@ -1110,7 +1110,7 @@
         }
     },
     {
-        "id": "01d44b67-cda8-4e01-8e16-b1fd208ce7c7",
+        "id": "b9d3e975-d2ff-4208-8395-99a4812611ed",
         "code": "2150557601",
         "instructor": "유광복",
         "department": "College of Information Technology",
@@ -1120,7 +1120,7 @@
         "year": "4",
         "credits": 3.0,
         "location": "20405",
-        "time_str": "Wed 12:00-13:15",
+        "times_str": "Wed 12:00-13:15",
         "times": {
             "2": [
                 {
@@ -1131,7 +1131,7 @@
         }
     },
     {
-        "id": "2da4408d-f4bc-4da2-9f74-f5684cdfca0a",
+        "id": "50b8ca9e-6b71-4918-b5b1-7e0801a3259e",
         "code": "2150189701",
         "instructor": "유광복",
         "department": "College of Information Technology",
@@ -1141,7 +1141,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "20405",
-        "time_str": "Thu 12:00-13:15",
+        "times_str": "Thu 12:00-13:15",
         "times": {
             "3": [
                 {
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "id": "175b23c7-b819-474a-9b69-0526e3c57222",
+        "id": "94c94deb-cfd4-45c4-b9aa-9df484175054",
         "code": "2150025002",
         "instructor": "박재영",
         "department": "College of Information Technology",
@@ -1162,7 +1162,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "050102",
-        "time_str": "Mon 15:00-16:15",
+        "times_str": "Mon 15:00-16:15",
         "times": {
             "0": [
                 {
@@ -1173,7 +1173,7 @@
         }
     },
     {
-        "id": "0b13597c-1d75-4746-8a5d-0589ac20868f",
+        "id": "35459e2d-8d1b-493a-ab6a-ea861aece3d6",
         "code": "2150609101",
         "instructor": "최봉준",
         "department": "College of Information Technology",
@@ -1183,7 +1183,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "21201",
-        "time_str": "Wed 09:00-10:15 Wed 10:30-11:45",
+        "times_str": "Wed 09:00-10:15 Wed 10:30-11:45",
         "times": {
             "2": [
                 {
@@ -1198,7 +1198,7 @@
         }
     },
     {
-        "id": "c2fdfc71-b66d-42f1-b15a-e25d13a0fc8f",
+        "id": "ebb66304-0278-4a2b-999f-1aa6fdcd18ae",
         "code": "2150630801",
         "instructor": "최봉준",
         "department": "College of Information Technology",
@@ -1208,7 +1208,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "21201",
-        "time_str": "Mon 09:00-10:15 Mon 10:30-11:45",
+        "times_str": "Mon 09:00-10:15 Mon 10:30-11:45",
         "times": {
             "0": [
                 {
@@ -1223,7 +1223,7 @@
         }
     },
     {
-        "id": "db9bdca7-9b21-456f-8147-db9e580bdeb8",
+        "id": "59441f15-e148-49e4-9c32-a8ac4f5615ba",
         "code": "2150544901",
         "instructor": "최성우",
         "department": "College of Social Sciences",
@@ -1233,7 +1233,7 @@
         "year": "3",
         "credits": 3.0,
         "location": "12427",
-        "time_str": "Thu 12:00-13:15 Thu 13:30-14:45",
+        "times_str": "Thu 12:00-13:15 Thu 13:30-14:45",
         "times": {
             "3": [
                 {

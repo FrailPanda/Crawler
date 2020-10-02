@@ -70,13 +70,13 @@ def init():
         y, M, d, h, m, s = xlrd.xldate_as_tuple(row_value[12], wb_datemode)
         end_time = "{0}:{1}".format(h, m)
 
-        dic['time_str'] = temp_time_str + row_value[10] + ' ' + start_time + '~' + end_time
+        dic['times_str'] = temp_time_str + row_value[10] + ' ' + start_time + '~' + end_time
 
-        if "APPT" in dic['time_str'] or "HTBA" in dic['time_str'] :
-            dic['time_str'] = None
+        if "APPT" in dic['times_str'] or "HTBA" in dic['times_str'] :
+            dic['times_str'] = None
 
         # times
-        dic['times'] = custom_module_stony.times(dic['time_str'])
+        dic['times'] = custom_module_stony.times(dic['times_str'])
 
         # location
         dic['location'] = check_null_value(temp_location + row_value[13])

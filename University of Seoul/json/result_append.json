@@ -1,6 +1,6 @@
 ﻿[
     {
-        "id": "8f810a47-70d0-44da-b4cc-09e6d0cbe68c",
+        "id": "3fe3e08b-e44a-485b-baf9-caec8a977500",
         "code": "41644-01",
         "instructor": "마크 브로사",
         "department": "도시과학대학",
@@ -9,7 +9,7 @@
         "classification": "전공필수",
         "year": "3",
         "credits": 6.0,
-        "time_str": "Tue 06,07,08,09,10/건축설계실6, Fri 06,07,08,09,10/건축설계실6",
+        "times_str": "Tue 06,07,08,09,10/건축설계실6, Fri 06,07,08,09,10/건축설계실6",
         "times": {
             "1": [
                 {
@@ -27,7 +27,7 @@
         "location": "건축설계실6"
     },
     {
-        "id": "2d53f0c4-cea5-4cef-a5f6-c8fe2486ab3e",
+        "id": "d88dfb8c-13db-454e-9cc3-0dbf689659d4",
         "code": "41644-02",
         "instructor": "이호락",
         "department": "도시과학대학",
@@ -36,7 +36,7 @@
         "classification": "전공필수",
         "year": "3",
         "credits": 6.0,
-        "time_str": "Tue 06,07,08,09,10/건축설계실7, Fri 06,07,08,09,10/건축설계실7",
+        "times_str": "Tue 06,07,08,09,10/건축설계실7, Fri 06,07,08,09,10/건축설계실7",
         "times": {
             "1": [
                 {
@@ -54,7 +54,7 @@
         "location": "건축설계실7"
     },
     {
-        "id": "b6b77c70-1398-4989-b74f-6e0e185c3a59",
+        "id": "0b7c1faf-7fff-457e-8150-e489a2b2a235",
         "code": "41644-03",
         "instructor": "장수정",
         "department": "도시과학대학",
@@ -63,7 +63,7 @@
         "classification": "전공필수",
         "year": "3",
         "credits": 6.0,
-        "time_str": "Tue 06,07,08,09,10/건축설계실8, Fri 06,07,08,09,10/건축설계실8",
+        "times_str": "Tue 06,07,08,09,10/건축설계실8, Fri 06,07,08,09,10/건축설계실8",
         "times": {
             "1": [
                 {
@@ -81,7 +81,7 @@
         "location": "건축설계실8"
     },
     {
-        "id": "ea90e79c-34a8-4698-ac53-b92270056b9e",
+        "id": "c7be6db0-5134-40a6-b5f9-ad8f1368b1a1",
         "code": "41623-01",
         "instructor": "유혜란",
         "department": "도시과학대학",
@@ -90,7 +90,7 @@
         "classification": "전공필수",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/3-207/208",
+        "times_str": "Mon 02,03,04/3-207/208",
         "times": {
             "0": [
                 {
@@ -102,7 +102,7 @@
         "location": "3-207/208"
     },
     {
-        "id": "4cf73a54-353c-459f-b9c5-08ef3f2029b5",
+        "id": "877f6037-c2bf-4e53-8060-db0f2ac55725",
         "code": "41648-01",
         "instructor": "송인호",
         "department": "도시과학대학",
@@ -111,7 +111,7 @@
         "classification": "전공선택",
         "year": "5",
         "credits": 4.0,
-        "time_str": "Mon 06,07,08,09/건축설계실2, Thu 06,07,08,09/건축설계실2",
+        "times_str": "Mon 06,07,08,09/건축설계실2, Thu 06,07,08,09/건축설계실2",
         "times": {
             "0": [
                 {
@@ -129,7 +129,7 @@
         "location": "건축설계실2"
     },
     {
-        "id": "dd80bd4c-4cbe-4d4b-b6fb-d31264957f72",
+        "id": "9c350971-2a29-419d-8b41-139113b4a80f",
         "code": "41648-02",
         "instructor": "김성홍",
         "department": "도시과학대학",
@@ -138,7 +138,7 @@
         "classification": "전공선택",
         "year": "5",
         "credits": 4.0,
-        "time_str": "Mon 06,07,08,09/건축설계실3, Thu 06,07,08,09/건축설계실3",
+        "times_str": "Mon 06,07,08,09/건축설계실3, Thu 06,07,08,09/건축설계실3",
         "times": {
             "0": [
                 {
@@ -156,7 +156,7 @@
         "location": "건축설계실3"
     },
     {
-        "id": "dba88b01-e07e-448f-a89f-dbc55bc42b9f",
+        "id": "399d9e07-0fba-44a5-88e4-f8137250e41f",
         "code": "41648-03",
         "instructor": "김소라",
         "department": "도시과학대학",
@@ -165,7 +165,7 @@
         "classification": "전공선택",
         "year": "5",
         "credits": 4.0,
-        "time_str": "Mon 06,07,08,09/건축설계실4, Thu 06,07,08,09/건축설계실4",
+        "times_str": "Mon 06,07,08,09/건축설계실4, Thu 06,07,08,09/건축설계실4",
         "times": {
             "0": [
                 {
@@ -183,7 +183,7 @@
         "location": "건축설계실4"
     },
     {
-        "id": "dad8a167-c71c-4a64-b8c7-b0b7a994ecfd",
+        "id": "bc0c59a2-208f-4116-9f88-00ae59188c0c",
         "code": "27002-01",
         "instructor": "박종찬",
         "department": "경영대학",
@@ -192,7 +192,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/33-1209",
+        "times_str": "Mon 02,03,04/33-1209",
         "times": {
             "0": [
                 {
@@ -204,7 +204,7 @@
         "location": "33-1209"
     },
     {
-        "id": "3c475b56-51bc-472b-b8ae-7a42a83d7f03",
+        "id": "3ffd28e8-63c3-4b0d-a92a-fd9c34aaee4c",
         "code": "27002-02",
         "instructor": "김종겸",
         "department": "경영대학",
@@ -213,7 +213,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 02,03,04/33-B107",
+        "times_str": "Tue 02,03,04/33-B107",
         "times": {
             "1": [
                 {
@@ -225,7 +225,7 @@
         "location": "33-B107"
     },
     {
-        "id": "350ade31-6ab5-4f30-8d2f-5beceef92d19",
+        "id": "802e8416-9c17-4363-8d83-e8dd01c27769",
         "code": "27002-03",
         "instructor": "정주렴",
         "department": "경영대학",
@@ -234,7 +234,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 06,07,08/33-B111",
+        "times_str": "Mon 06,07,08/33-B111",
         "times": {
             "0": [
                 {
@@ -246,7 +246,7 @@
         "location": "33-B111"
     },
     {
-        "id": "9722e9c5-c1b5-49b8-9d51-f4c25e3d37e3",
+        "id": "5e2d3af9-edc3-40a4-ba8e-e33e020fc6df",
         "code": "27002-04",
         "instructor": "임석식",
         "department": "경영대학",
@@ -255,7 +255,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/33-B112",
+        "times_str": "Mon 02,03,04/33-B112",
         "times": {
             "0": [
                 {
@@ -267,7 +267,7 @@
         "location": "33-B112"
     },
     {
-        "id": "80ddc9e7-5ec3-471d-92bc-ee06e8143a83",
+        "id": "8043ed57-30f5-4cdb-87ec-7ac2214e2690",
         "code": "27002-05",
         "instructor": "이세중",
         "department": "경영대학",
@@ -276,7 +276,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 06,07,08/33-B107",
+        "times_str": "Thu 06,07,08/33-B107",
         "times": {
             "3": [
                 {
@@ -288,7 +288,7 @@
         "location": "33-B107"
     },
     {
-        "id": "3a504e11-1996-4c6d-80ff-f3ec7b3dc4b4",
+        "id": "e071e629-fd19-48c7-ac82-b29a181e1bed",
         "code": "27102-01",
         "instructor": "송지희",
         "department": "경영대학",
@@ -297,7 +297,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Tue 07,08,09/33-B106",
+        "times_str": "Tue 07,08,09/33-B106",
         "times": {
             "1": [
                 {
@@ -309,7 +309,7 @@
         "location": "33-B106"
     },
     {
-        "id": "dc873451-7cbd-4ce5-b099-9f7aaa287d38",
+        "id": "0a899968-4945-45ec-9d71-28b75a243043",
         "code": "27102-02",
         "instructor": "황인석",
         "department": "경영대학",
@@ -318,7 +318,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Thu 02,03,04/33-B202",
+        "times_str": "Thu 02,03,04/33-B202",
         "times": {
             "3": [
                 {
@@ -330,7 +330,7 @@
         "location": "33-B202"
     },
     {
-        "id": "a62048da-0510-41f6-a113-5d72f7a8df7d",
+        "id": "320b8594-7b4c-4cd5-8c3a-d664248fc8a9",
         "code": "27102-03",
         "instructor": "송지희",
         "department": "경영대학",
@@ -339,7 +339,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Sat 05,06,07/33-B202",
+        "times_str": "Sat 05,06,07/33-B202",
         "times": {
             "5": [
                 {
@@ -351,7 +351,7 @@
         "location": "33-B202"
     },
     {
-        "id": "0199e4bf-e883-4917-a42d-8d8f11a12140",
+        "id": "f44c2bad-2ef6-49d9-95b4-fb521a74812e",
         "code": "27301-01",
         "instructor": "박종원",
         "department": "경영대학",
@@ -360,7 +360,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 06,07,08/33-B202",
+        "times_str": "Tue 06,07,08/33-B202",
         "times": {
             "1": [
                 {
@@ -372,7 +372,7 @@
         "location": "33-B202"
     },
     {
-        "id": "30340dcd-0636-449d-b7cd-6fabdd09354d",
+        "id": "34454d0d-3083-4a76-b94a-8a8aa2530023",
         "code": "27301-02",
         "instructor": "박종원",
         "department": "경영대학",
@@ -381,7 +381,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 06,07,08/33-B202",
+        "times_str": "Thu 06,07,08/33-B202",
         "times": {
             "3": [
                 {
@@ -393,7 +393,7 @@
         "location": "33-B202"
     },
     {
-        "id": "b676b946-3f52-4c7b-b56c-c33c9d60d60e",
+        "id": "0662036f-6961-41eb-a2f2-b01c63c0811c",
         "code": "27301-03",
         "instructor": "정병욱",
         "department": "경영대학",
@@ -402,7 +402,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 07,08,09/33-B112",
+        "times_str": "Mon 07,08,09/33-B112",
         "times": {
             "0": [
                 {
@@ -414,7 +414,7 @@
         "location": "33-B112"
     },
     {
-        "id": "5d71a2e9-8998-4bd2-bc18-d41cece1c5a6",
+        "id": "a2a2ce0d-f277-48f3-8910-9227cefed002",
         "code": "27302-01",
         "instructor": "김정민",
         "department": "경영대학",
@@ -423,7 +423,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Thu 02,03,04/33-B110",
+        "times_str": "Thu 02,03,04/33-B110",
         "times": {
             "3": [
                 {
@@ -435,7 +435,7 @@
         "location": "33-B110"
     },
     {
-        "id": "cc686b15-76c8-4333-a9d0-001ff081d68c",
+        "id": "35483916-4a48-4f95-be28-3a59be1d0736",
         "code": "27302-02",
         "instructor": "김정민",
         "department": "경영대학",
@@ -444,7 +444,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Thu 06,07,08/33-406",
+        "times_str": "Thu 06,07,08/33-406",
         "times": {
             "3": [
                 {
@@ -456,7 +456,7 @@
         "location": "33-406"
     },
     {
-        "id": "4f26b86a-c99b-4bb4-9a82-13e7f9ee6474",
+        "id": "e152082b-6027-4741-958a-b5ed40db410f",
         "code": "27906-01",
         "instructor": "정창영",
         "department": "경영대학",
@@ -465,7 +465,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 02,03,04/33-B112",
+        "times_str": "Tue 02,03,04/33-B112",
         "times": {
             "1": [
                 {
@@ -477,7 +477,7 @@
         "location": "33-B112"
     },
     {
-        "id": "1403be08-13fb-44ea-b7a1-a5a1d05de690",
+        "id": "c6f0149e-9f94-4f1f-83d3-ec30b8fb3826",
         "code": "27906-02",
         "instructor": "정창영",
         "department": "경영대학",
@@ -486,7 +486,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 02,03,04/33-B112",
+        "times_str": "Thu 02,03,04/33-B112",
         "times": {
             "3": [
                 {
@@ -498,7 +498,7 @@
         "location": "33-B112"
     },
     {
-        "id": "9a2b412b-c355-45b8-ba50-4213c68044b1",
+        "id": "13f3aba3-e5aa-46fa-b854-3b0a0ff9752b",
         "code": "27906-03",
         "instructor": "표민찬",
         "department": "경영대학",
@@ -507,7 +507,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 06,07,08/33-B105",
+        "times_str": "Mon 06,07,08/33-B105",
         "times": {
             "0": [
                 {
@@ -519,7 +519,7 @@
         "location": "33-B105"
     },
     {
-        "id": "463ed9b3-cc88-467c-b9d8-cd3dfefbbc86",
+        "id": "e206151a-294c-443c-8d27-18f932acf03e",
         "code": "27906-04",
         "instructor": "김자영",
         "department": "경영대학",
@@ -528,7 +528,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 02,03,04/33-B106",
+        "times_str": "Tue 02,03,04/33-B106",
         "times": {
             "1": [
                 {
@@ -540,7 +540,7 @@
         "location": "33-B106"
     },
     {
-        "id": "069c6468-aac0-48f2-8958-2fdb0ae3c6e2",
+        "id": "6a306a19-ad89-4cd1-aa00-7d11d091fd5b",
         "code": "27907-01",
         "instructor": "정창영",
         "department": "경영대학",
@@ -549,7 +549,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Fri 02,03,04/33-B112",
+        "times_str": "Fri 02,03,04/33-B112",
         "times": {
             "4": [
                 {
@@ -561,7 +561,7 @@
         "location": "33-B112"
     },
     {
-        "id": "0805609c-56bb-4893-b2aa-d92bb25772bb",
+        "id": "ba59c36e-0c1e-4967-81d7-090f0ae6ff08",
         "code": "27407-01",
         "instructor": "류준열",
         "department": "경영대학",
@@ -570,7 +570,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/33-B202",
+        "times_str": "Mon 02,03,04/33-B202",
         "times": {
             "0": [
                 {
@@ -582,7 +582,7 @@
         "location": "33-B202"
     },
     {
-        "id": "a671d7ab-6499-4e86-85f6-88af5724b652",
+        "id": "084d4fef-ce85-43ca-83c3-7b1516a630b9",
         "code": "27407-02",
         "instructor": "류준열",
         "department": "경영대학",
@@ -591,7 +591,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 06,07,08/33-B202",
+        "times_str": "Mon 06,07,08/33-B202",
         "times": {
             "0": [
                 {
@@ -603,7 +603,7 @@
         "location": "33-B202"
     },
     {
-        "id": "7210a8dd-a450-49c7-a47c-6e647fd0accc",
+        "id": "7db40098-b929-46a1-a639-82afb5f07b39",
         "code": "27407-03",
         "instructor": "이춘우",
         "department": "경영대학",
@@ -612,7 +612,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 01,02,03/33-B203",
+        "times_str": "Tue 01,02,03/33-B203",
         "times": {
             "1": [
                 {
@@ -624,7 +624,7 @@
         "location": "33-B203"
     },
     {
-        "id": "67e054a8-74da-490c-ace4-83494352e80e",
+        "id": "d0364422-a9a3-4307-9a1d-911b9a25c2cb",
         "code": "27407-04",
         "instructor": "장재규",
         "department": "경영대학",
@@ -633,7 +633,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 06,07,08/33-B105",
+        "times_str": "Wed 06,07,08/33-B105",
         "times": {
             "2": [
                 {
@@ -645,7 +645,7 @@
         "location": "33-B105"
     },
     {
-        "id": "fddf7bdf-9373-428f-a147-3bc32e6c30bd",
+        "id": "f83482e9-1cb0-40b8-bcd7-d4f34db4160f",
         "code": "27105-01",
         "instructor": "",
         "department": "경영대학",
@@ -654,7 +654,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/33-B106",
+        "times_str": "Mon 02,03,04/33-B106",
         "times": {
             "0": [
                 {
@@ -666,7 +666,7 @@
         "location": "33-B106"
     },
     {
-        "id": "a50b74df-550f-4eb1-8f11-ce452d6c36f7",
+        "id": "4ddd0ce4-452e-48de-b427-1d5e603e10e7",
         "code": "27105-02",
         "instructor": "황인석",
         "department": "경영대학",
@@ -675,7 +675,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 02,03,04/33-B112",
+        "times_str": "Wed 02,03,04/33-B112",
         "times": {
             "2": [
                 {
@@ -687,7 +687,7 @@
         "location": "33-B112"
     },
     {
-        "id": "d5f3739f-6b41-4b7a-a33c-94b12882c5b1",
+        "id": "d4355a47-953a-4670-88b8-e48b8b985401",
         "code": "27105-03",
         "instructor": "홍중완",
         "department": "경영대학",
@@ -696,7 +696,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 01,02,03/33-B203",
+        "times_str": "Wed 01,02,03/33-B203",
         "times": {
             "2": [
                 {
@@ -708,7 +708,7 @@
         "location": "33-B203"
     },
     {
-        "id": "509714b7-fb0e-4a02-9058-ce3ecd3a7c7e",
+        "id": "f2c9b706-d624-4e1a-ba92-68daf40edc1b",
         "code": "27105-04",
         "instructor": "허다경",
         "department": "경영대학",
@@ -717,7 +717,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 02,03,04/33-B107",
+        "times_str": "Thu 02,03,04/33-B107",
         "times": {
             "3": [
                 {
@@ -729,7 +729,7 @@
         "location": "33-B107"
     },
     {
-        "id": "5de62142-d1cf-4cb4-90e8-6b9a22bf4260",
+        "id": "1bfaf746-7da7-4b99-8de0-137b5387f7ec",
         "code": "65048-01",
         "instructor": "강설금",
         "department": "인문대학",
@@ -738,7 +738,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/5-301-2",
+        "times_str": "Mon 02,03,04/5-301-2",
         "times": {
             "0": [
                 {
@@ -750,7 +750,7 @@
         "location": "5-301-2"
     },
     {
-        "id": "9992806c-534e-40b7-a47f-e29baab1c6cc",
+        "id": "b9e66f0f-8dfc-454d-91b1-2d2eff9a1ca0",
         "code": "65029-01",
         "instructor": "강설금",
         "department": "인문대학",
@@ -759,7 +759,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Mon 08,09/5-301-2, Wed 05/5-301-2",
+        "times_str": "Mon 08,09/5-301-2, Wed 05/5-301-2",
         "times": {
             "0": [
                 {
@@ -777,7 +777,7 @@
         "location": "5-301-2"
     },
     {
-        "id": "7814a75c-7be4-40c4-a42a-50b288449aa8",
+        "id": "e900d9f8-a067-4c8c-b4f5-0482d76401dd",
         "code": "65064-01",
         "instructor": "강설금",
         "department": "인문대학",
@@ -786,7 +786,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 02,03,04/5-301-2",
+        "times_str": "Thu 02,03,04/5-301-2",
         "times": {
             "3": [
                 {
@@ -798,7 +798,7 @@
         "location": "5-301-2"
     },
     {
-        "id": "46176dd4-3d49-4a0d-b7bb-f026af5185cf",
+        "id": "2fef4dcc-b4a8-437a-9ec4-02d5e3913aee",
         "code": "71002-01",
         "instructor": "김성환",
         "department": "공과대학",
@@ -807,7 +807,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 01,02/19-326/327, Fri 05,06/19-326/327",
+        "times_str": "Tue 01,02/19-326/327, Fri 05,06/19-326/327",
         "times": {
             "1": [
                 {
@@ -825,7 +825,7 @@
         "location": "19-326/327"
     },
     {
-        "id": "9f90772f-24f8-4cec-ad65-57b5aec6c05b",
+        "id": "20822bfd-b20e-46e2-b111-c59c2ef31fee",
         "code": "71002-02",
         "instructor": "김성환",
         "department": "공과대학",
@@ -834,7 +834,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 05,06/19-326/327, Fri 08,09/19-326/327",
+        "times_str": "Tue 05,06/19-326/327, Fri 08,09/19-326/327",
         "times": {
             "1": [
                 {
@@ -852,7 +852,7 @@
         "location": "19-326/327"
     },
     {
-        "id": "5ca0aa5f-0051-42cf-9b08-7a669644eab7",
+        "id": "99bddeaf-ccbb-4241-956c-6634f357fd3f",
         "code": "71002-03",
         "instructor": "김성환",
         "department": "공과대학",
@@ -861,7 +861,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 08,09/19-326/327, Fri 01,02/19-326/327",
+        "times_str": "Tue 08,09/19-326/327, Fri 01,02/19-326/327",
         "times": {
             "1": [
                 {
@@ -879,7 +879,7 @@
         "location": "19-326/327"
     },
     {
-        "id": "a7c31fce-f452-45c9-a320-49fffad4900c",
+        "id": "905c8010-108b-4034-b6e5-5fb6542d4465",
         "code": "28004-01",
         "instructor": "최경욱",
         "department": "정경대학",
@@ -888,7 +888,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 07,08,09/33-B104",
+        "times_str": "Tue 07,08,09/33-B104",
         "times": {
             "1": [
                 {
@@ -900,7 +900,7 @@
         "location": "33-B104"
     },
     {
-        "id": "acfa16a4-5732-4690-9297-e572c26a9705",
+        "id": "85bdd221-a1a8-4337-a35e-96e1a7ca04ce",
         "code": "28004-02",
         "instructor": "정용국",
         "department": "정경대학",
@@ -909,7 +909,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 01,02,03/33-B104",
+        "times_str": "Thu 01,02,03/33-B104",
         "times": {
             "3": [
                 {
@@ -921,7 +921,7 @@
         "location": "33-B104"
     },
     {
-        "id": "c859836a-892f-4ffe-a219-0f5233876dc5",
+        "id": "7fec2dc8-e793-49b1-806d-efa91c95354e",
         "code": "28133-01",
         "instructor": "김진용",
         "department": "정경대학",
@@ -930,7 +930,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/33-B104",
+        "times_str": "Mon 02,03,04/33-B104",
         "times": {
             "0": [
                 {
@@ -942,7 +942,7 @@
         "location": "33-B104"
     },
     {
-        "id": "87f4af6a-35a7-4020-99d4-7c37a90c10e5",
+        "id": "284246d2-0f64-4504-a22d-f7832b749161",
         "code": "28144-01",
         "instructor": "",
         "department": "정경대학",
@@ -951,7 +951,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Mon 03,04/33-B101, Wed 04/33-B101",
+        "times_str": "Mon 03,04/33-B101, Wed 04/33-B101",
         "times": {
             "0": [
                 {
@@ -969,7 +969,7 @@
         "location": "33-B101"
     },
     {
-        "id": "dd64b6ce-fb9c-44e8-9dab-51a887e67a49",
+        "id": "9a460259-ba91-42fe-8294-adc69af50826",
         "code": "40087-01",
         "instructor": "최병기",
         "department": "공과대학",
@@ -978,7 +978,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Thu 01,02,03/19-B114/115",
+        "times_str": "Thu 01,02,03/19-B114/115",
         "times": {
             "3": [
                 {
@@ -990,7 +990,7 @@
         "location": "19-B114/115"
     },
     {
-        "id": "26664f90-3885-4282-9512-ff5e3d87a707",
+        "id": "9caef756-fd2d-461a-b2b8-d444aef42fba",
         "code": "35092-01",
         "instructor": "김영길",
         "department": "공과대학",
@@ -999,7 +999,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Fri 07,08,09/19-B114/115",
+        "times_str": "Fri 07,08,09/19-B114/115",
         "times": {
             "4": [
                 {
@@ -1011,7 +1011,7 @@
         "location": "19-B114/115"
     },
     {
-        "id": "a0112e48-e8c5-4679-9fe8-c2f67c4428cb",
+        "id": "f17b84b4-30e0-4c39-924f-e52d3c069426",
         "code": "35092-02",
         "instructor": "장석진",
         "department": "공과대학",
@@ -1020,7 +1020,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Tue 07,08,09/19-227",
+        "times_str": "Tue 07,08,09/19-227",
         "times": {
             "1": [
                 {
@@ -1032,7 +1032,7 @@
         "location": "19-227"
     },
     {
-        "id": "bf38afe2-e996-46b2-9ab2-959a8eaa3c29",
+        "id": "47a9a83d-cacb-453d-ab17-07620fc171e8",
         "code": "40070-01",
         "instructor": "김용한",
         "department": "공과대학",
@@ -1041,7 +1041,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Tue 02,03/19-B114/115, Fri 05/19-B114/115",
+        "times_str": "Tue 02,03/19-B114/115, Fri 05/19-B114/115",
         "times": {
             "1": [
                 {
@@ -1059,7 +1059,7 @@
         "location": "19-B114/115"
     },
     {
-        "id": "933e53bc-a33b-4aa5-a8ec-17a7b0c70fdd",
+        "id": "b412121e-a8e9-4a77-95e4-779f3fd137a9",
         "code": "40070-02",
         "instructor": "장석진",
         "department": "공과대학",
@@ -1068,7 +1068,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Wed 07,08,09/19-227",
+        "times_str": "Wed 07,08,09/19-227",
         "times": {
             "2": [
                 {
@@ -1080,7 +1080,7 @@
         "location": "19-227"
     },
     {
-        "id": "bffe82b1-00c5-4753-b533-365b2632942c",
+        "id": "1c251dfe-b29f-4541-a6be-d607faef76e1",
         "code": "40070-03",
         "instructor": "김인철",
         "department": "공과대학",
@@ -1089,7 +1089,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Tue 05,06/19-227, Fri 05/19-227",
+        "times_str": "Tue 05,06/19-227, Fri 05/19-227",
         "times": {
             "1": [
                 {
@@ -1107,7 +1107,7 @@
         "location": "19-227"
     },
     {
-        "id": "eeb41bcb-d362-4874-a761-6af55e4b984d",
+        "id": "2a2515b2-917b-4647-893e-a8890d7ac7e5",
         "code": "40059-01",
         "instructor": "천창률",
         "department": "공과대학",
@@ -1116,7 +1116,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 07,08,09/19-B114/115",
+        "times_str": "Mon 07,08,09/19-B114/115",
         "times": {
             "0": [
                 {
@@ -1128,7 +1128,7 @@
         "location": "19-B114/115"
     },
     {
-        "id": "794ee499-ad9d-4f2a-93d6-4664e16e72b9",
+        "id": "df4b1183-70ed-4e70-a0da-bcb7ff6e626b",
         "code": "40059-02",
         "instructor": "김철한",
         "department": "공과대학",
@@ -1137,7 +1137,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 02,03,04/19-108/109",
+        "times_str": "Mon 02,03,04/19-108/109",
         "times": {
             "0": [
                 {
@@ -1149,7 +1149,7 @@
         "location": "19-108/109"
     },
     {
-        "id": "6be4dca6-230b-4337-887c-32e740eaaf4b",
+        "id": "7fbcd3a2-8094-40d5-8604-dc0fb1f5a045",
         "code": "30010-04",
         "instructor": "안도열",
         "department": "공과대학",
@@ -1158,7 +1158,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 07,08,09/19-B114/115",
+        "times_str": "Wed 07,08,09/19-B114/115",
         "times": {
             "2": [
                 {
@@ -1170,7 +1170,7 @@
         "location": "19-B114/115"
     },
     {
-        "id": "ca535a85-03f2-44bc-8f74-7030f3ba0111",
+        "id": "ac25c1a2-21e2-4e81-b75a-c82606f04a5d",
         "code": "30010-05",
         "instructor": "김현우",
         "department": "공과대학",
@@ -1179,7 +1179,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 01,02,03/19-B108",
+        "times_str": "Thu 01,02,03/19-B108",
         "times": {
             "3": [
                 {
@@ -1191,7 +1191,7 @@
         "location": "19-B108"
     },
     {
-        "id": "950d55c5-8fdb-43d1-b816-27dbc7b099a4",
+        "id": "021211cf-ca08-4731-a6f5-5410cf2bbe57",
         "code": "30010-08",
         "instructor": "김효",
         "department": "공과대학",
@@ -1200,7 +1200,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 05,06/11-501/502, Fri 03/11-501/502",
+        "times_str": "Thu 05,06/11-501/502, Fri 03/11-501/502",
         "times": {
             "3": [
                 {
@@ -1218,7 +1218,7 @@
         "location": "11-501/502"
     },
     {
-        "id": "d2c9c3ee-1001-4bb5-958c-e2449ada48e1",
+        "id": "ea50ab1e-2f3d-4624-bdf6-493f6b9e8fc9",
         "code": "30010-03",
         "instructor": "남궁정일",
         "department": "공과대학",
@@ -1227,7 +1227,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 01,02,03/14-414/415",
+        "times_str": "Wed 01,02,03/14-414/415",
         "times": {
             "2": [
                 {
@@ -1239,7 +1239,7 @@
         "location": "14-414/415"
     },
     {
-        "id": "1cc8ba17-7f22-4f5f-8862-a633de68d6be",
+        "id": "49ecdd02-401d-4dfe-85c0-20f0eb62f8a0",
         "code": "30010-09",
         "instructor": "남궁정일",
         "department": "공과대학",
@@ -1248,7 +1248,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 05,06,07/14-316/317",
+        "times_str": "Wed 05,06,07/14-316/317",
         "times": {
             "2": [
                 {
@@ -1260,7 +1260,7 @@
         "location": "14-316/317"
     },
     {
-        "id": "ba194f0c-53be-47a6-92c3-911091e8d2a4",
+        "id": "053a4501-100d-4bd0-a446-545f7a6eac48",
         "code": "30010-02",
         "instructor": "박지영",
         "department": "공과대학",
@@ -1269,7 +1269,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 02,03,04/37-나601",
+        "times_str": "Wed 02,03,04/37-나601",
         "times": {
             "2": [
                 {
@@ -1281,7 +1281,7 @@
         "location": "37-나601"
     },
     {
-        "id": "b5a30525-894c-4f76-b438-15a688a7eb18",
+        "id": "fa26f728-eac2-4907-b853-827c02bdab0b",
         "code": "30010-01",
         "instructor": "김대홍",
         "department": "공과대학",
@@ -1290,7 +1290,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 02,03,04/3-303/304",
+        "times_str": "Wed 02,03,04/3-303/304",
         "times": {
             "2": [
                 {
@@ -1302,7 +1302,7 @@
         "location": "3-303/304"
     },
     {
-        "id": "ba34f4c6-8209-4054-bde3-c4f226c8dcb3",
+        "id": "b29db851-0407-484e-80eb-7d289733b404",
         "code": "30010-06",
         "instructor": "윤미",
         "department": "도시과학대학",
@@ -1311,7 +1311,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Fri 01,02,03/4-411~412",
+        "times_str": "Fri 01,02,03/4-411~412",
         "times": {
             "4": [
                 {
@@ -1323,7 +1323,7 @@
         "location": "4-411~412"
     },
     {
-        "id": "e2d23079-967a-4fe0-82e8-b0b253605b47",
+        "id": "42530995-7257-4f16-aada-f80f2b4938cf",
         "code": "30010-07",
         "instructor": "윤미",
         "department": "도시과학대학",
@@ -1332,7 +1332,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Fri 04,05,06/4-411~412",
+        "times_str": "Fri 04,05,06/4-411~412",
         "times": {
             "4": [
                 {
@@ -1344,7 +1344,7 @@
         "location": "4-411~412"
     },
     {
-        "id": "fbd7567b-1433-460c-badf-6944bfa0414b",
+        "id": "76d77c3c-d3d0-43b6-a6cf-cb4b027aea00",
         "code": "30033-01",
         "instructor": "이용우",
         "department": "공과대학",
@@ -1353,7 +1353,7 @@
         "classification": "전공선택",
         "year": "4",
         "credits": 3.0,
-        "time_str": "Wed 05,06/19-104/105, Thu 04/19-104/105",
+        "times_str": "Wed 05,06/19-104/105, Thu 04/19-104/105",
         "times": {
             "2": [
                 {
@@ -1371,7 +1371,7 @@
         "location": "19-104/105"
     },
     {
-        "id": "cce632b7-7fec-4d97-891a-e9b99206efb2",
+        "id": "41c01c55-d3fa-4f37-87ee-768b8d7e3c87",
         "code": "30033-02",
         "instructor": "이용우",
         "department": "공과대학",
@@ -1380,7 +1380,7 @@
         "classification": "전공선택",
         "year": "4",
         "credits": 3.0,
-        "time_str": "Wed 08,09/19-104/105, Thu 06/19-104/105",
+        "times_str": "Wed 08,09/19-104/105, Thu 06/19-104/105",
         "times": {
             "2": [
                 {
@@ -1398,7 +1398,7 @@
         "location": "19-104/105"
     },
     {
-        "id": "49153e5c-fbc1-4ceb-b7e3-53161ccf3a48",
+        "id": "21393976-5941-4d03-b348-42a09b7e5f83",
         "code": "51068-01",
         "instructor": "강선미",
         "department": "인문대학",
@@ -1407,7 +1407,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Wed 06,07,08/5-310-2",
+        "times_str": "Wed 06,07,08/5-310-2",
         "times": {
             "2": [
                 {
@@ -1419,7 +1419,7 @@
         "location": "5-310-2"
     },
     {
-        "id": "9e23ecf4-1ac4-4d50-b1df-473b428b67bc",
+        "id": "f07f6832-1ab9-4137-9da9-b165a64cce22",
         "code": "51083-01",
         "instructor": "임자연",
         "department": "인문대학",
@@ -1428,7 +1428,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 02,03,04/5-309",
+        "times_str": "Tue 02,03,04/5-309",
         "times": {
             "1": [
                 {
@@ -1440,7 +1440,7 @@
         "location": "5-309"
     },
     {
-        "id": "f9d2e36e-c53d-4d5b-bf10-e04ab776fe52",
+        "id": "27afca18-c608-4968-a9ad-b87bae066347",
         "code": "51201-01",
         "instructor": "Aaron Jones",
         "department": "인문대학",
@@ -1449,7 +1449,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Thu 05,06,07/5-202",
+        "times_str": "Thu 05,06,07/5-202",
         "times": {
             "3": [
                 {
@@ -1461,7 +1461,7 @@
         "location": "5-202"
     },
     {
-        "id": "4465f947-4193-4253-9ba1-e11098cd76d4",
+        "id": "a2ef720f-8e9c-471e-ba69-ac39c57c2f82",
         "code": "51071-01",
         "instructor": "홍수민",
         "department": "인문대학",
@@ -1470,7 +1470,7 @@
         "classification": "전공선택",
         "year": "3/4",
         "credits": 3.0,
-        "time_str": "Thu 05,06/5-308, Fri 04/5-308",
+        "times_str": "Thu 05,06/5-308, Fri 04/5-308",
         "times": {
             "3": [
                 {
@@ -1488,7 +1488,7 @@
         "location": "5-308"
     },
     {
-        "id": "cc3a5d57-35da-4d41-b985-e92c46b2249f",
+        "id": "7b2339e4-fd73-4cf9-881e-567351617f88",
         "code": "85037-01",
         "instructor": "이강재",
         "department": "도시과학대학",
@@ -1497,7 +1497,7 @@
         "classification": "전공필수",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 02,03/15-501/502, Wed 02,03/15-607/608",
+        "times_str": "Mon 02,03/15-501/502, Wed 02,03/15-607/608",
         "times": {
             "0": [
                 {
@@ -1515,7 +1515,7 @@
         "location": "15-501/502, 15-607/608"
     },
     {
-        "id": "c29fc939-087c-45b7-a03b-7422cb143224",
+        "id": "015b70d8-c508-4d14-930e-8432d6a6777e",
         "code": "85872-01",
         "instructor": "권재현",
         "department": "도시과학대학",
@@ -1524,7 +1524,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Mon 05,06/15-605/606, Tue 02,03/15-605/606",
+        "times_str": "Mon 05,06/15-605/606, Tue 02,03/15-605/606",
         "times": {
             "0": [
                 {
@@ -1542,7 +1542,7 @@
         "location": "15-605/606"
     },
     {
-        "id": "6342de11-3e37-4548-bb72-d1a590a514a2",
+        "id": "afea2696-8893-4d87-9b0c-bc81039bba9e",
         "code": "90001-01",
         "instructor": "강병헌",
         "department": "국제교육원(학사)",
@@ -1551,7 +1551,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Wed 04,05,06/1-208",
+        "times_str": "Wed 04,05,06/1-208",
         "times": {
             "2": [
                 {
@@ -1563,7 +1563,7 @@
         "location": "1-208"
     },
     {
-        "id": "50feca25-7253-4bd8-a7fb-249e5d214a59",
+        "id": "5de5cc9f-a6d0-4094-80f0-5b9e72044c07",
         "code": "90002-01",
         "instructor": "강병헌",
         "department": "국제교육원(학사)",
@@ -1572,7 +1572,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Fri 07,08,09/1-208",
+        "times_str": "Fri 07,08,09/1-208",
         "times": {
             "4": [
                 {
@@ -1584,7 +1584,7 @@
         "location": "1-208"
     },
     {
-        "id": "8d0e6ec3-526d-4890-825e-fd45e95ae3be",
+        "id": "2487a8d6-5bb2-4f4e-97b4-9c11c30e20ce",
         "code": "90003-01",
         "instructor": "강병헌",
         "department": "국제교육원(학사)",
@@ -1593,7 +1593,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 04,05,06/1-208",
+        "times_str": "Thu 04,05,06/1-208",
         "times": {
             "3": [
                 {
@@ -1605,7 +1605,7 @@
         "location": "1-208"
     },
     {
-        "id": "5adc9136-1060-4197-b8e8-5af19389b45e",
+        "id": "6d44c59d-40bd-496e-8a47-fc8894f92e10",
         "code": "90004-01",
         "instructor": "이병하",
         "department": "국제교육원(학사)",
@@ -1614,7 +1614,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 07,08,09/1-208",
+        "times_str": "Mon 07,08,09/1-208",
         "times": {
             "0": [
                 {
@@ -1626,7 +1626,7 @@
         "location": "1-208"
     },
     {
-        "id": "73ffe624-ca98-4f3d-9347-6645d3ff5073",
+        "id": "3e5978a9-52f8-4c8c-90ce-2b0d4478d4c7",
         "code": "90006-01",
         "instructor": "장원호",
         "department": "국제교육원(학사)",
@@ -1635,7 +1635,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 07,08,09/1-208",
+        "times_str": "Thu 07,08,09/1-208",
         "times": {
             "3": [
                 {
@@ -1647,7 +1647,7 @@
         "location": "1-208"
     },
     {
-        "id": "c822b4d1-200b-4512-bdff-6d1bdbee69c1",
+        "id": "73834b01-83d4-46c0-a40b-b61667fd88f4",
         "code": "90007-01",
         "instructor": "이주헌",
         "department": "국제교육원(학사)",
@@ -1656,7 +1656,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 07,08,09/1-208",
+        "times_str": "Tue 07,08,09/1-208",
         "times": {
             "1": [
                 {
@@ -1668,7 +1668,7 @@
         "location": "1-208"
     },
     {
-        "id": "f86e16fc-b87c-4b7d-8173-b50364f14783",
+        "id": "b8ae1824-fa84-4bc6-adb7-8f0bb941d623",
         "code": "90009-01",
         "instructor": "강병헌",
         "department": "국제교육원(학사)",
@@ -1677,7 +1677,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 04,05,06/1-208",
+        "times_str": "Tue 04,05,06/1-208",
         "times": {
             "1": [
                 {
@@ -1689,7 +1689,7 @@
         "location": "1-208"
     },
     {
-        "id": "a7bca5c1-70e5-4d15-9573-124a3ce85888",
+        "id": "a145bd39-ffd8-446c-aef4-35d9ec0d82dd",
         "code": "90010-01",
         "instructor": "강병헌",
         "department": "국제교육원(학사)",
@@ -1698,7 +1698,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 04,05,06/1-208",
+        "times_str": "Mon 04,05,06/1-208",
         "times": {
             "0": [
                 {
@@ -1710,7 +1710,7 @@
         "location": "1-208"
     },
     {
-        "id": "615a8795-7aa1-4a25-880e-66165dc86cb2",
+        "id": "6b5ebfd7-7422-45a0-b990-99908b1e5a8d",
         "code": "90203-01",
         "instructor": "박준",
         "department": "국제교육원(학사)",
@@ -1719,7 +1719,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 01,02,03/1-208",
+        "times_str": "Thu 01,02,03/1-208",
         "times": {
             "3": [
                 {
@@ -1731,7 +1731,7 @@
         "location": "1-208"
     },
     {
-        "id": "3e3a2bee-1125-44c5-ab0d-42684ab9525a",
+        "id": "2b3c4086-dd27-4e7f-9299-a57efad34015",
         "code": "90205-01",
         "instructor": "황지환",
         "department": "국제교육원(학사)",
@@ -1740,7 +1740,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Wed 07,08,09/1-208",
+        "times_str": "Wed 07,08,09/1-208",
         "times": {
             "2": [
                 {
@@ -1752,7 +1752,7 @@
         "location": "1-208"
     },
     {
-        "id": "cc6a959d-d47d-481b-8a60-ce3a1a43c9a7",
+        "id": "1933715d-54bb-486f-bc34-1ea51773745b",
         "code": "90206-01",
         "instructor": "김융기",
         "department": "국제교육원(학사)",
@@ -1761,7 +1761,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 07,08,09/1-210",
+        "times_str": "Thu 07,08,09/1-210",
         "times": {
             "3": [
                 {
@@ -1773,7 +1773,7 @@
         "location": "1-210"
     },
     {
-        "id": "8887b99f-291a-4636-9b08-6c58f2dab661",
+        "id": "e019f81b-5ee2-4f30-9e7a-8ac0878f16f8",
         "code": "90207-01",
         "instructor": "김융기",
         "department": "국제교육원(학사)",
@@ -1782,7 +1782,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Fri 01,02,03/1-210",
+        "times_str": "Fri 01,02,03/1-210",
         "times": {
             "4": [
                 {
@@ -1794,7 +1794,7 @@
         "location": "1-210"
     },
     {
-        "id": "4f8926f5-cf83-4ef2-a3ee-8edc5c6e8dab",
+        "id": "0eb69a4b-09d2-4a82-854a-2890af349585",
         "code": "90210-01",
         "instructor": "이주경",
         "department": "국제교육원(학사)",
@@ -1803,7 +1803,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Tue 06,07,08/1-306",
+        "times_str": "Tue 06,07,08/1-306",
         "times": {
             "1": [
                 {
@@ -1815,7 +1815,7 @@
         "location": "1-306"
     },
     {
-        "id": "e1640cb0-0eec-4f37-ae5f-aecaae3e97b2",
+        "id": "1ef7ac97-4593-41f6-ade4-e2ec39d092e1",
         "code": "90211-01",
         "instructor": "박정원",
         "department": "국제교육원(학사)",
@@ -1824,7 +1824,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Fri 01,02,03/1-208",
+        "times_str": "Fri 01,02,03/1-208",
         "times": {
             "4": [
                 {
@@ -1836,7 +1836,7 @@
         "location": "1-208"
     },
     {
-        "id": "30c550a4-6e76-4b64-867e-f62d576d6668",
+        "id": "28f2e37a-5785-4140-94c7-e174b1e5caac",
         "code": "90214-01",
         "instructor": "진주연",
         "department": "국제교육원(학사)",
@@ -1845,7 +1845,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Thu 04,05,06/1-210",
+        "times_str": "Thu 04,05,06/1-210",
         "times": {
             "3": [
                 {
@@ -1857,7 +1857,7 @@
         "location": "1-210"
     },
     {
-        "id": "30a43247-db09-41e8-8c12-cf2b2a88b31b",
+        "id": "232b7922-4b8a-4719-8abb-371b51ca68ae",
         "code": "90217-01",
         "instructor": "김융기",
         "department": "국제교육원(학사)",
@@ -1866,7 +1866,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Wed 07,08,09/1-210",
+        "times_str": "Wed 07,08,09/1-210",
         "times": {
             "2": [
                 {
@@ -1878,7 +1878,7 @@
         "location": "1-210"
     },
     {
-        "id": "8a2f90a8-4e22-4e33-822a-8c1ca9d62188",
+        "id": "87463102-ea5d-4cb5-9aec-610ff655e672",
         "code": "53404-01",
         "instructor": "배우성",
         "department": "인문대학",
@@ -1887,7 +1887,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 06,07,08/5-430",
+        "times_str": "Mon 06,07,08/5-430",
         "times": {
             "0": [
                 {
@@ -1899,7 +1899,7 @@
         "location": "5-430"
     },
     {
-        "id": "6d734d26-a6c4-4b0d-9602-4f5b74e099da",
+        "id": "b01506be-e9e0-451c-a515-d706b251f04b",
         "code": "39103-01",
         "instructor": "홍완식",
         "department": "공과대학",
@@ -1908,7 +1908,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 09/4-230, Thu 05,06/4-230",
+        "times_str": "Mon 09/4-230, Thu 05,06/4-230",
         "times": {
             "0": [
                 {
@@ -1926,7 +1926,7 @@
         "location": "4-230"
     },
     {
-        "id": "80323ec8-24e3-4908-bc89-bfe71cedbd8f",
+        "id": "3df47ebe-93d1-4d5b-9e08-9b403de7f322",
         "code": "39103-02",
         "instructor": "홍완식",
         "department": "공과대학",
@@ -1935,7 +1935,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Mon 07/4-230, Thu 08,09/4-230",
+        "times_str": "Mon 07/4-230, Thu 08,09/4-230",
         "times": {
             "0": [
                 {
@@ -1953,7 +1953,7 @@
         "location": "4-230"
     },
     {
-        "id": "e8da47d5-5baf-4082-b05b-a58e3cc35f6c",
+        "id": "1815b245-ff68-4938-afe6-19a786900261",
         "code": "39067-01",
         "instructor": "정재필",
         "department": "공과대학",
@@ -1962,7 +1962,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Mon 03,06/14-613, Wed 05/14-613",
+        "times_str": "Mon 03,06/14-613, Wed 05/14-613",
         "times": {
             "0": [
                 {
@@ -1980,7 +1980,7 @@
         "location": "14-613"
     },
     {
-        "id": "0da00315-a013-412a-aa16-4a8074af957c",
+        "id": "9a21a7b2-6f7f-4279-aeee-133ed5bf25d6",
         "code": "39053-01",
         "instructor": "정재필",
         "department": "공과대학",
@@ -1989,7 +1989,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Mon 07,08/14-613, Wed 09/14-613",
+        "times_str": "Mon 07,08/14-613, Wed 09/14-613",
         "times": {
             "0": [
                 {
@@ -2007,7 +2007,7 @@
         "location": "14-613"
     },
     {
-        "id": "41954b2f-980c-4126-806f-f2cbd172c631",
+        "id": "6c5fed7d-835c-4c52-9ea1-d107a9903b6e",
         "code": "39044-01",
         "instructor": "홍완식",
         "department": "공과대학",
@@ -2016,7 +2016,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 04/37-나602, Fri 06,07/37-나602",
+        "times_str": "Tue 04/37-나602, Fri 06,07/37-나602",
         "times": {
             "1": [
                 {
@@ -2034,7 +2034,7 @@
         "location": "37-나602"
     },
     {
-        "id": "5fbfe3b4-d0c6-48d9-94cc-acd9c1d3690d",
+        "id": "340c4abf-bdb4-4270-829d-d18ee8600c48",
         "code": "38007-01",
         "instructor": "권원태",
         "department": "공과대학",
@@ -2043,7 +2043,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 08,09/14-316/317, Wed 08,09/14-414/415",
+        "times_str": "Tue 08,09/14-316/317, Wed 08,09/14-414/415",
         "times": {
             "1": [
                 {
@@ -2061,7 +2061,7 @@
         "location": "14-414/415, 14-316/317"
     },
     {
-        "id": "1cf7db3b-c271-45bf-a6e0-042de105b81f",
+        "id": "14d2bc79-c319-4c37-9662-86f78e2f3346",
         "code": "45040-01",
         "instructor": "정재일",
         "department": "자연과학대학",
@@ -2070,7 +2070,7 @@
         "classification": "전공선택",
         "year": "1",
         "credits": 3.0,
-        "time_str": "Mon 08,09/14-110/111, Tue 08,09/14-110/111",
+        "times_str": "Mon 08,09/14-110/111, Tue 08,09/14-110/111",
         "times": {
             "0": [
                 {
@@ -2088,7 +2088,7 @@
         "location": "14-110/111"
     },
     {
-        "id": "59300f5f-ac98-44f7-aae7-12710093651f",
+        "id": "3f6d137e-217e-4884-adf6-870c0b27ddbe",
         "code": "45117-01",
         "instructor": "이상훈",
         "department": "자연과학대학",
@@ -2097,7 +2097,7 @@
         "classification": "전공선택",
         "year": "3",
         "credits": 3.0,
-        "time_str": "Tue 04,05/14-110/111, Thu 04,05/14-110/111",
+        "times_str": "Tue 04,05/14-110/111, Thu 04,05/14-110/111",
         "times": {
             "1": [
                 {
@@ -2115,7 +2115,7 @@
         "location": "14-110/111"
     },
     {
-        "id": "cb5aca79-2e22-44b7-98d9-b363502f8eff",
+        "id": "d75e3c86-dd68-4147-8164-4a5c0ce0986d",
         "code": "63011-01",
         "instructor": "진주연",
         "department": "예술체육대학",
@@ -2124,7 +2124,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 03,04,05/20-205/206",
+        "times_str": "Tue 03,04,05/20-205/206",
         "times": {
             "1": [
                 {
@@ -2136,7 +2136,7 @@
         "location": "20-205/206"
     },
     {
-        "id": "fdaa9a15-0231-4d18-8bf1-1a60f83c7c86",
+        "id": "fc06e42a-2e80-4f9e-bab9-d012cde8532e",
         "code": "11008-01",
         "instructor": "",
         "department": "도시과학대학",
@@ -2145,7 +2145,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Thu 06,07,08/3-305/306",
+        "times_str": "Thu 06,07,08/3-305/306",
         "times": {
             "3": [
                 {
@@ -2157,7 +2157,7 @@
         "location": "3-305/306"
     },
     {
-        "id": "fabdb4d6-41f0-464b-8e87-4a94db4d1dec",
+        "id": "2e0874be-3fff-4458-91d5-d1fc25f86ef2",
         "code": "11013-01",
         "instructor": "제이슨 코박스",
         "department": "도시과학대학",
@@ -2166,7 +2166,7 @@
         "classification": "전공선택",
         "year": "2",
         "credits": 3.0,
-        "time_str": "Tue 06,07,08/3-305/306",
+        "times_str": "Tue 06,07,08/3-305/306",
         "times": {
             "1": [
                 {
@@ -2178,7 +2178,7 @@
         "location": "3-305/306"
     },
     {
-        "id": "9f658967-536e-4c46-adfa-62b5a73288eb",
+        "id": "516e78aa-8e5a-464c-ba37-2f3db73bfc5a",
         "code": "41875-01",
         "instructor": "김정빈",
         "department": "도시과학대학",
@@ -2187,7 +2187,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 4.0,
-        "time_str": "Wed 02,03,04,05,06,07/6-106/107",
+        "times_str": "Wed 02,03,04,05,06,07/6-106/107",
         "times": {
             "2": [
                 {
@@ -2199,7 +2199,7 @@
         "location": "6-106/107"
     },
     {
-        "id": "5d23770d-c4c9-47f4-8538-b93b86de059d",
+        "id": "19dd96e4-3c8b-4a5f-a7f0-80ea60904d55",
         "code": "41875-02",
         "instructor": "한은지",
         "department": "도시과학대학",
@@ -2208,7 +2208,7 @@
         "classification": "전공필수",
         "year": "1",
         "credits": 4.0,
-        "time_str": "Wed 02,03,04,05,06,07/6-105",
+        "times_str": "Wed 02,03,04,05,06,07/6-105",
         "times": {
             "2": [
                 {

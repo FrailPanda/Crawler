@@ -47,8 +47,8 @@ def init():
         # credits
         dic['credits'] = float(row_value[11])
 
-        # time_str
-        dic['time_str'] = custom_module.translate(check_null_value(row_value[18]))
+        # times_str
+        dic['times_str'] = custom_module.translate(check_null_value(row_value[18]))
 
         # times
         dic['times'] = custom_module.time_dict(check_null_value(row_value[18]))
